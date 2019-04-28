@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node14">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="-20"/>
+      <min pan="-173" fov="35" tilt="-90"/>
+      <max pan="144.9" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Балкон" target="117.5/-3.5/65" pan="125.958" skinid="" url="{node3}" id="Point01" tilt="-10.424"/>
+      <hotspot title="В коридор" target="129/-5.5/65" pan="-151.077" skinid="" url="{node9}" id="Point02" tilt="-7.93216"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/2х-спальный_sphere_out_o_0.jpg" prev5url="images/2х-спальный_sphere_out_o_preview_5.jpg" prev4url="images/2х-спальный_sphere_out_o_preview_4.jpg" prev3url="images/2х-спальный_sphere_out_o_preview_3.jpg" prev2url="images/2х-спальный_sphere_out_o_preview_2.jpg" prev1url="images/2х-спальный_sphere_out_o_preview_1.jpg" prev0url="images/2х-спальный_sphere_out_o_preview_0.jpg" tile5url="images/2х-спальный_sphere_out_o_5.jpg" tilesize="1500" tile4url="images/2х-спальный_sphere_out_o_4.jpg" tile3url="images/2х-спальный_sphere_out_o_3.jpg" tilescale="1.006666666666667" tile2url="images/2х-спальный_sphere_out_o_2.jpg" tile1url="images/2х-спальный_sphere_out_o_1.jpg"/>
+    <altinput tile0url="images/2х-спальный_sphere_out_o_800_0.jpg" screensize="1000" tile5url="images/2х-спальный_sphere_out_o_800_5.jpg" tilesize="800" tile4url="images/2х-спальный_sphere_out_o_800_4.jpg" tile3url="images/2х-спальный_sphere_out_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/2х-спальный_sphere_out_o_800_2.jpg" tile1url="images/2х-спальный_sphere_out_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В коридор" target="129/-12.5/65" pan="-7.98667" skinid="" url="{node9}" id="Point01" tilt="-11.1022"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/12-ти местный да 6к L16_sphere_o_0.jpg" prev5url="images/12-ти местный да 6к L16_sphere_o_preview_5.jpg" prev4url="images/12-ти местный да 6к L16_sphere_o_preview_4.jpg" prev3url="images/12-ти местный да 6к L16_sphere_o_preview_3.jpg" prev2url="images/12-ти местный да 6к L16_sphere_o_preview_2.jpg" prev1url="images/12-ти местный да 6к L16_sphere_o_preview_1.jpg" prev0url="images/12-ти местный да 6к L16_sphere_o_preview_0.jpg" tile5url="images/12-ти местный да 6к L16_sphere_o_5.jpg" tilesize="1500" tile4url="images/12-ти местный да 6к L16_sphere_o_4.jpg" tile3url="images/12-ти местный да 6к L16_sphere_o_3.jpg" tilescale="1.006666666666667" tile2url="images/12-ти местный да 6к L16_sphere_o_2.jpg" tile1url="images/12-ти местный да 6к L16_sphere_o_1.jpg"/>
+    <altinput tile0url="images/12-ти местный да 6к L16_sphere_o_800_0.jpg" screensize="1000" tile5url="images/12-ти местный да 6к L16_sphere_o_800_5.jpg" tilesize="800" tile4url="images/12-ти местный да 6к L16_sphere_o_800_4.jpg" tile3url="images/12-ти местный да 6к L16_sphere_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/12-ти местный да 6к L16_sphere_o_800_2.jpg" tile1url="images/12-ти местный да 6к L16_sphere_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Двуспальный номер" target="0/-20.5/65" pan="-90.9786" skinid="" url="{node1}" id="Point01" tilt="-7.72832"/>
+      <hotspot title="Во двор" target="0/0/65" pan="122.716" skinid="" url="{node6}" id="Point02" tilt="-20.7165"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Балкон 6k ps_o_0.jpg" prev5url="images/Балкон 6k ps_o_preview_5.jpg" prev4url="images/Балкон 6k ps_o_preview_4.jpg" prev3url="images/Балкон 6k ps_o_preview_3.jpg" prev2url="images/Балкон 6k ps_o_preview_2.jpg" prev1url="images/Балкон 6k ps_o_preview_1.jpg" prev0url="images/Балкон 6k ps_o_preview_0.jpg" tile5url="images/Балкон 6k ps_o_5.jpg" tilesize="1500" tile4url="images/Балкон 6k ps_o_4.jpg" tile3url="images/Балкон 6k ps_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Балкон 6k ps_o_2.jpg" tile1url="images/Балкон 6k ps_o_1.jpg"/>
+    <altinput tile0url="images/Балкон 6k ps_o_800_0.jpg" screensize="1000" tile5url="images/Балкон 6k ps_o_800_5.jpg" tilesize="800" tile4url="images/Балкон 6k ps_o_800_4.jpg" tile3url="images/Балкон 6k ps_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Балкон 6k ps_o_800_2.jpg" tile1url="images/Балкон 6k ps_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В холл" target="90.5/-15.5/65" pan="155.742" skinid="" url="{node14}" id="Point01" tilt="-9.91634"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Белый номер все хорошо hdr 10к_o_0.jpg" prev5url="images/Белый номер все хорошо hdr 10к_o_preview_5.jpg" prev4url="images/Белый номер все хорошо hdr 10к_o_preview_4.jpg" prev3url="images/Белый номер все хорошо hdr 10к_o_preview_3.jpg" prev2url="images/Белый номер все хорошо hdr 10к_o_preview_2.jpg" prev1url="images/Белый номер все хорошо hdr 10к_o_preview_1.jpg" prev0url="images/Белый номер все хорошо hdr 10к_o_preview_0.jpg" tile5url="images/Белый номер все хорошо hdr 10к_o_5.jpg" tilesize="1500" tile4url="images/Белый номер все хорошо hdr 10к_o_4.jpg" tile3url="images/Белый номер все хорошо hdr 10к_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Белый номер все хорошо hdr 10к_o_2.jpg" tile1url="images/Белый номер все хорошо hdr 10к_o_1.jpg"/>
+    <altinput tile0url="images/Белый номер все хорошо hdr 10к_o_800_0.jpg" screensize="1000" tile5url="images/Белый номер все хорошо hdr 10к_o_800_5.jpg" tilesize="800" tile4url="images/Белый номер все хорошо hdr 10к_o_800_4.jpg" tile3url="images/Белый номер все хорошо hdr 10к_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Белый номер все хорошо hdr 10к_o_800_2.jpg" tile1url="images/Белый номер все хорошо hdr 10к_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Выйти" target="269/-17/65" pan="61.775" skinid="" url="{node14}" id="Point01" tilt="-16.802"/>
+      <hotspot title="Сауна" target="332.5/-16/65" pan="127.439" skinid="" url="{node13}" id="Point02" tilt="-19.1677"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ванная 6k ps_o_0.jpg" prev5url="images/Ванная 6k ps_o_preview_5.jpg" prev4url="images/Ванная 6k ps_o_preview_4.jpg" prev3url="images/Ванная 6k ps_o_preview_3.jpg" prev2url="images/Ванная 6k ps_o_preview_2.jpg" prev1url="images/Ванная 6k ps_o_preview_1.jpg" prev0url="images/Ванная 6k ps_o_preview_0.jpg" tile5url="images/Ванная 6k ps_o_5.jpg" tilesize="1500" tile4url="images/Ванная 6k ps_o_4.jpg" tile3url="images/Ванная 6k ps_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Ванная 6k ps_o_2.jpg" tile1url="images/Ванная 6k ps_o_1.jpg"/>
+    <altinput tile0url="images/Ванная 6k ps_o_800_0.jpg" screensize="1000" tile5url="images/Ванная 6k ps_o_800_5.jpg" tilesize="800" tile4url="images/Ванная 6k ps_o_800_4.jpg" tile3url="images/Ванная 6k ps_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Ванная 6k ps_o_800_2.jpg" tile1url="images/Ванная 6k ps_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зайти в Хостел" target="90.5/-4/65" pan="-174.599" skinid="" url="{node15}" id="Point01" tilt="-8.70933"/>
+      <hotspot title="На балкон" target="116/-3/65" pan="-147.701" skinid="" url="{node3}" id="Point02" tilt="37.5936"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Двор (2) ps_sphere gimp_o_0.jpg" prev5url="images/Двор (2) ps_sphere gimp_o_preview_5.jpg" prev4url="images/Двор (2) ps_sphere gimp_o_preview_4.jpg" prev3url="images/Двор (2) ps_sphere gimp_o_preview_3.jpg" prev2url="images/Двор (2) ps_sphere gimp_o_preview_2.jpg" prev1url="images/Двор (2) ps_sphere gimp_o_preview_1.jpg" prev0url="images/Двор (2) ps_sphere gimp_o_preview_0.jpg" tile5url="images/Двор (2) ps_sphere gimp_o_5.jpg" tilesize="1500" tile4url="images/Двор (2) ps_sphere gimp_o_4.jpg" tile3url="images/Двор (2) ps_sphere gimp_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Двор (2) ps_sphere gimp_o_2.jpg" tile1url="images/Двор (2) ps_sphere gimp_o_1.jpg"/>
+    <altinput tile0url="images/Двор (2) ps_sphere gimp_o_800_0.jpg" screensize="1000" tile5url="images/Двор (2) ps_sphere gimp_o_800_5.jpg" tilesize="800" tile4url="images/Двор (2) ps_sphere gimp_o_800_4.jpg" tile3url="images/Двор (2) ps_sphere gimp_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Двор (2) ps_sphere gimp_o_800_2.jpg" tile1url="images/Двор (2) ps_sphere gimp_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Кухня" target="177.5/-13.5/65" pan="66.7966" skinid="" url="{node10}" id="Point01" tilt="-12.9555"/>
+      <hotspot title="Холл" target="266/-11/65" pan="170.594" skinid="" url="{node14}" id="Point02" tilt="-12.4334"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Зал 6k L16 ps_o_0.jpg" prev5url="images/Зал 6k L16 ps_o_preview_5.jpg" prev4url="images/Зал 6k L16 ps_o_preview_4.jpg" prev3url="images/Зал 6k L16 ps_o_preview_3.jpg" prev2url="images/Зал 6k L16 ps_o_preview_2.jpg" prev1url="images/Зал 6k L16 ps_o_preview_1.jpg" prev0url="images/Зал 6k L16 ps_o_preview_0.jpg" tile5url="images/Зал 6k L16 ps_o_5.jpg" tilesize="1500" tile4url="images/Зал 6k L16 ps_o_4.jpg" tile3url="images/Зал 6k L16 ps_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Зал 6k L16 ps_o_2.jpg" tile1url="images/Зал 6k L16 ps_o_1.jpg"/>
+    <altinput tile0url="images/Зал 6k L16 ps_o_800_0.jpg" screensize="1000" tile5url="images/Зал 6k L16 ps_o_800_5.jpg" tilesize="800" tile4url="images/Зал 6k L16 ps_o_800_4.jpg" tile3url="images/Зал 6k L16 ps_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Зал 6k L16 ps_o_800_2.jpg" tile1url="images/Зал 6k L16 ps_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Холл" target="96/-10.5/65" pan="114.941" skinid="" url="{node14}" id="Point01" tilt="-9.44646"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Коралловый номер 2 6k L16 slow ps_o_0.jpg" prev5url="images/Коралловый номер 2 6k L16 slow ps_o_preview_5.jpg" prev4url="images/Коралловый номер 2 6k L16 slow ps_o_preview_4.jpg" prev3url="images/Коралловый номер 2 6k L16 slow ps_o_preview_3.jpg" prev2url="images/Коралловый номер 2 6k L16 slow ps_o_preview_2.jpg" prev1url="images/Коралловый номер 2 6k L16 slow ps_o_preview_1.jpg" prev0url="images/Коралловый номер 2 6k L16 slow ps_o_preview_0.jpg" tile5url="images/Коралловый номер 2 6k L16 slow ps_o_5.jpg" tilesize="1500" tile4url="images/Коралловый номер 2 6k L16 slow ps_o_4.jpg" tile3url="images/Коралловый номер 2 6k L16 slow ps_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Коралловый номер 2 6k L16 slow ps_o_2.jpg" tile1url="images/Коралловый номер 2 6k L16 slow ps_o_1.jpg"/>
+    <altinput tile0url="images/Коралловый номер 2 6k L16 slow ps_o_800_0.jpg" screensize="1000" tile5url="images/Коралловый номер 2 6k L16 slow ps_o_800_5.jpg" tilesize="800" tile4url="images/Коралловый номер 2 6k L16 slow ps_o_800_4.jpg" tile3url="images/Коралловый номер 2 6k L16 slow ps_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Коралловый номер 2 6k L16 slow ps_o_800_2.jpg" tile1url="images/Коралловый номер 2 6k L16 slow ps_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="12-местный номер" target="203/-8/65" pan="50.052" skinid="" url="{node2}" id="Point02" tilt="-14.6621"/>
+      <hotspot title="На 1-й этаж" target="85/-4/65" pan="9.523" skinid="" url="{node15}" id="Point03" tilt="-11.8376"/>
+      <hotspot title="Лифт" target="120.5/-2/65" pan="130.355" skinid="" url="{node14}" id="Point04" tilt="-5.83615"/>
+      <hotspot title="Двуспальный номер" target="0/-22/65" pan="-12.9567" skinid="" url="{node1}" id="Point01" tilt="-9.5746"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Коридор template_o_0.jpg" prev5url="images/Коридор template_o_preview_5.jpg" prev4url="images/Коридор template_o_preview_4.jpg" prev3url="images/Коридор template_o_preview_3.jpg" prev2url="images/Коридор template_o_preview_2.jpg" prev1url="images/Коридор template_o_preview_1.jpg" prev0url="images/Коридор template_o_preview_0.jpg" tile5url="images/Коридор template_o_5.jpg" tilesize="1500" tile4url="images/Коридор template_o_4.jpg" tile3url="images/Коридор template_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Коридор template_o_2.jpg" tile1url="images/Коридор template_o_1.jpg"/>
+    <altinput tile0url="images/Коридор template_o_800_0.jpg" screensize="1000" tile5url="images/Коридор template_o_800_5.jpg" tilesize="800" tile4url="images/Коридор template_o_800_4.jpg" tile3url="images/Коридор template_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Коридор template_o_800_2.jpg" tile1url="images/Коридор template_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал" target="88/-19/65" pan="-41.0401" skinid="" url="{node7}" id="Point01" tilt="-12.8984"/>
+      <hotspot title="Холл" target="270.5/-11/65" pan="-137.921" skinid="" url="{node14}" id="Point02" tilt="-10.368"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Кухня 6k_sphere_o_0.jpg" prev5url="images/Кухня 6k_sphere_o_preview_5.jpg" prev4url="images/Кухня 6k_sphere_o_preview_4.jpg" prev3url="images/Кухня 6k_sphere_o_preview_3.jpg" prev2url="images/Кухня 6k_sphere_o_preview_2.jpg" prev1url="images/Кухня 6k_sphere_o_preview_1.jpg" prev0url="images/Кухня 6k_sphere_o_preview_0.jpg" tile5url="images/Кухня 6k_sphere_o_5.jpg" tilesize="1500" tile4url="images/Кухня 6k_sphere_o_4.jpg" tile3url="images/Кухня 6k_sphere_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Кухня 6k_sphere_o_2.jpg" tile1url="images/Кухня 6k_sphere_o_1.jpg"/>
+    <altinput tile0url="images/Кухня 6k_sphere_o_800_0.jpg" screensize="1000" tile5url="images/Кухня 6k_sphere_o_800_5.jpg" tilesize="800" tile4url="images/Кухня 6k_sphere_o_800_4.jpg" tile3url="images/Кухня 6k_sphere_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Кухня 6k_sphere_o_800_2.jpg" tile1url="images/Кухня 6k_sphere_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Холл" target="348/-6/65" pan="163.745" skinid="" url="{node14}" id="Point01" tilt="-7.27506"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Рубиновый номер 10к hdr_sphere_o_0.jpg" prev5url="images/Рубиновый номер 10к hdr_sphere_o_preview_5.jpg" prev4url="images/Рубиновый номер 10к hdr_sphere_o_preview_4.jpg" prev3url="images/Рубиновый номер 10к hdr_sphere_o_preview_3.jpg" prev2url="images/Рубиновый номер 10к hdr_sphere_o_preview_2.jpg" prev1url="images/Рубиновый номер 10к hdr_sphere_o_preview_1.jpg" prev0url="images/Рубиновый номер 10к hdr_sphere_o_preview_0.jpg" tile5url="images/Рубиновый номер 10к hdr_sphere_o_5.jpg" tilesize="1500" tile4url="images/Рубиновый номер 10к hdr_sphere_o_4.jpg" tile3url="images/Рубиновый номер 10к hdr_sphere_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Рубиновый номер 10к hdr_sphere_o_2.jpg" tile1url="images/Рубиновый номер 10к hdr_sphere_o_1.jpg"/>
+    <altinput tile0url="images/Рубиновый номер 10к hdr_sphere_o_800_0.jpg" screensize="1000" tile5url="images/Рубиновый номер 10к hdr_sphere_o_800_5.jpg" tilesize="800" tile4url="images/Рубиновый номер 10к hdr_sphere_o_800_4.jpg" tile3url="images/Рубиновый номер 10к hdr_sphere_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Рубиновый номер 10к hdr_sphere_o_800_2.jpg" tile1url="images/Рубиновый номер 10к hdr_sphere_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Ванная" target="176/-15.5/65" pan="40.9883" skinid="" url="{node5}" id="Point01" tilt="-16.0654"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Сауна 6к_o_0.jpg" prev5url="images/Сауна 6к_o_preview_5.jpg" prev4url="images/Сауна 6к_o_preview_4.jpg" prev3url="images/Сауна 6к_o_preview_3.jpg" prev2url="images/Сауна 6к_o_preview_2.jpg" prev1url="images/Сауна 6к_o_preview_1.jpg" prev0url="images/Сауна 6к_o_preview_0.jpg" tile5url="images/Сауна 6к_o_5.jpg" tilesize="1500" tile4url="images/Сауна 6к_o_4.jpg" tile3url="images/Сауна 6к_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Сауна 6к_o_2.jpg" tile1url="images/Сауна 6к_o_1.jpg"/>
+    <altinput tile0url="images/Сауна 6к_o_800_0.jpg" screensize="1000" tile5url="images/Сауна 6к_o_800_5.jpg" tilesize="800" tile4url="images/Сауна 6к_o_800_4.jpg" tile3url="images/Сауна 6к_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Сауна 6к_o_800_2.jpg" tile1url="images/Сауна 6к_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <view fovmode="0" pannorth="0">
+      <start pan="89" fov="70" tilt="-12.5"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Рубиновый номер" target="141/-12.5/65" pan="3.25489" skinid="" url="{node12}" id="Point01" tilt="-12.8158"/>
+      <hotspot title="Прихожая" target="86.5/-5.5/65" pan="-30.3094" skinid="" url="{node15}" id="Point02" tilt="-6.49523"/>
+      <hotspot title="Ванная" target="7.5/-12/65" pan="-65.2687" skinid="" url="{node5}" id="Point03" tilt="-4.31097"/>
+      <hotspot title="Зал" target="84.5/-17/65" pan="-80.1253" skinid="" url="{node7}" id="Point04" tilt="-6.81061"/>
+      <hotspot title="Белый номер" target="190.5/-4/65" pan="144.548" skinid="" url="{node4}" id="Point05" tilt="-7.2311"/>
+      <hotspot title="Коралловый номер" target="83/-14.5/65" pan="93.42829999999999" skinid="" url="{node8}" id="Point06" tilt="-8.04923"/>
+      <hotspot title="Лифт" target="126.5/-11.5/65" pan="119.31" skinid="" url="{node9}" id="Point07" tilt="-5.95589"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Холл 10k hdr_sphere_o_0.jpg" prev5url="images/Холл 10k hdr_sphere_o_preview_5.jpg" prev4url="images/Холл 10k hdr_sphere_o_preview_4.jpg" prev3url="images/Холл 10k hdr_sphere_o_preview_3.jpg" prev2url="images/Холл 10k hdr_sphere_o_preview_2.jpg" prev1url="images/Холл 10k hdr_sphere_o_preview_1.jpg" prev0url="images/Холл 10k hdr_sphere_o_preview_0.jpg" tile5url="images/Холл 10k hdr_sphere_o_5.jpg" tilesize="1500" tile4url="images/Холл 10k hdr_sphere_o_4.jpg" tile3url="images/Холл 10k hdr_sphere_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Холл 10k hdr_sphere_o_2.jpg" tile1url="images/Холл 10k hdr_sphere_o_1.jpg"/>
+    <altinput tile0url="images/Холл 10k hdr_sphere_o_800_0.jpg" screensize="1000" tile5url="images/Холл 10k hdr_sphere_o_800_5.jpg" tilesize="800" tile4url="images/Холл 10k hdr_sphere_o_800_4.jpg" tile3url="images/Холл 10k hdr_sphere_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Холл 10k hdr_sphere_o_800_2.jpg" tile1url="images/Холл 10k hdr_sphere_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Холл" target="89/-10.5/65" pan="82.9089" skinid="" url="{node14}" id="Point01" tilt="-7.49937"/>
+      <hotspot title="Второй этаж" target="125.5/-12.5/65" pan="43.8475" skinid="" url="{node9}" id="Point02" tilt="-2.15435"/>
+      <hotspot title="Во двор" target="359/-2.5/65" pan="-103.811" skinid="" url="{node6}" id="Point03" tilt="-2.57881"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Прихожая 10к hdr готово_o_0.jpg" prev5url="images/Прихожая 10к hdr готово_o_preview_5.jpg" prev4url="images/Прихожая 10к hdr готово_o_preview_4.jpg" prev3url="images/Прихожая 10к hdr готово_o_preview_3.jpg" prev2url="images/Прихожая 10к hdr готово_o_preview_2.jpg" prev1url="images/Прихожая 10к hdr готово_o_preview_1.jpg" prev0url="images/Прихожая 10к hdr готово_o_preview_0.jpg" tile5url="images/Прихожая 10к hdr готово_o_5.jpg" tilesize="1500" tile4url="images/Прихожая 10к hdr готово_o_4.jpg" tile3url="images/Прихожая 10к hdr готово_o_3.jpg" tilescale="1.006666666666667" tile2url="images/Прихожая 10к hdr готово_o_2.jpg" tile1url="images/Прихожая 10к hdr готово_o_1.jpg"/>
+    <altinput tile0url="images/Прихожая 10к hdr готово_o_800_0.jpg" screensize="1000" tile5url="images/Прихожая 10к hdr готово_o_800_5.jpg" tilesize="800" tile4url="images/Прихожая 10к hdr готово_o_800_4.jpg" tile3url="images/Прихожая 10к hdr готово_o_800_3.jpg" tilescale="1.006666666666667" tile2url="images/Прихожая 10к hdr готово_o_800_2.jpg" tile1url="images/Прихожая 10к hdr готово_o_800_1.jpg"/>
+    <autorotate speed="0.200" nodedelay="0.00" startloaded="0" returntohorizon="1.000" delay="8.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="0" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
