@@ -6,11 +6,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-		
+
 		<script type="text/javascript">
 			// hide URL field on the iPhone/iPod touch
 			function hideUrlBar() {
-				
+
 				document.getElementsByTagName("body")[0].style.marginTop="1px";
 				window.scrollTo(0, 1);
 			}
@@ -21,17 +21,17 @@
 		<style type="text/css" title="Default">
 			body, div, h1, h2, h3, span, p {
 				font-family: Verdana,Arial,Helvetica,sans-serif;
-				color: #000000; 
+				color: #000000;
 			}
 			body {
 			  font-size: 10pt;
-			  background : #ffffff; 
+			  background : #ffffff;
 			}
 			table,tr,td {
 				font-size: 10pt;
 				border-color : #777777;
-				background : #dddddd; 
-				color: #000000; 
+				background : #dddddd;
+				color: #000000;
 				border-style : solid;
 				border-width : 2px;
 				padding: 5px;
@@ -43,10 +43,10 @@
 			h2 {
 				font-size: 14pt;
 			}
-			.warning { 
+			.warning {
 				font-weight: bold;
-			} 
-			/* fix for scroll bars on webkit & Mac OS X Lion */ 
+			}
+			/* fix for scroll bars on webkit & Mac OS X Lion */
 			::-webkit-scrollbar {
 				background-color: rgba(0,0,0,0.5);
 				width: 0.75em;
@@ -54,21 +54,28 @@
 			::-webkit-scrollbar-thumb {
     			background-color:  rgba(255,255,255,0.5);
 			}
-		</style>	
+
+			* {
+				padding: 0;
+				margin: 0;
+			}
+			.container {
+				width: 100vw;
+				height: 100vh;
+			}
+		</style>
 	</head>
 	<body>
-		<h1>&#1050;&#1072;&#1084;&#1077;&#1085;&#1100; &#1052;&#1086;&#1078;&#1078;&#1077;&#1074;&#1077;&#1083;&#1100;&#1085;&#1080;&#1082;</h1>
-		<br>
 		<script type="text/javascript" src="pano2vr_player.js">
 		</script>
 		<script type="text/javascript" src="skin.js">
 		</script>
-		<div id="container" style="width:640px;height:480px;">
+		<div id="container" class="container">
 		This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
 		</div>
 		<script type="text/javascript">
-	
-	
+
+
 			// create the panorama player with the container
 			pano=new pano2vrPlayer("container");
 			// add the skin object
