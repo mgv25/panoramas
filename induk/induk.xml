@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node7">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="2">
+      <start pan="7.5" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Арка" datetime="2013.07.23" description="Каменная арка под вершиной Индюка" copyright="Волков М.Г." tags="Индюк" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.27505552768707" latitude="44.24203241607255"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Индюк" target="" pan="-59.829" skinid="" url="{node12}" id="Point01" tilt="41.8281"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="51.1177" skinid="" url="{node5}" id="Point02" tilt="-22.5989"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-40.4115" skinid="" url="{node19}" id="Point03" tilt="3.02751"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="35.1379" skinid="" url="{node20}" id="Point04" tilt="-18.4066"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/arka_o_0.jpg" prev5url="images/arka_o_preview_5.jpg" prev4url="images/arka_o_preview_4.jpg" prev3url="images/arka_o_preview_3.jpg" prev2url="images/arka_o_preview_2.jpg" prev1url="images/arka_o_preview_1.jpg" prev0url="images/arka_o_preview_0.jpg" tile5url="images/arka_o_5.jpg" tilesize="2500" tile4url="images/arka_o_4.jpg" tile3url="images/arka_o_3.jpg" tilescale="1.004" tile2url="images/arka_o_2.jpg" tile1url="images/arka_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="252">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Стоянка у Индюшонка" datetime="23.07.2013" description="Стоянка под Индюшонком, или Пионерская поляна у непересыхающего родника" copyright="Волков М.Г." tags="Индюшка" author="Волков М.Г." source="" comment="" info="" longitude="39.282517433166504" latitude="44.24832701740928"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Индюшонок" target="" pan="-96.432" skinid="" url="{node3}" id="Point01" tilt="19.8045"/>
+      <hotspot title="Вершина Индюшки" target="" pan="21.087" skinid="" url="{node19}" id="Point02" tilt="16.6023"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/lager_o_0.jpg" prev5url="images/lager_o_preview_5.jpg" prev4url="images/lager_o_preview_4.jpg" prev3url="images/lager_o_preview_3.jpg" prev2url="images/lager_o_preview_2.jpg" prev1url="images/lager_o_preview_1.jpg" prev0url="images/lager_o_preview_0.jpg" tile5url="images/lager_o_5.jpg" tilesize="2500" tile4url="images/lager_o_4.jpg" tile3url="images/lager_o_3.jpg" tilescale="1.004" tile2url="images/lager_o_2.jpg" tile1url="images/lager_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="355">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Индюшонок" datetime="23.07.2013" description="Скала Индюшонок возле Индюшки" copyright="Волков М.Г." tags="Индюшка" author="Волков М.Г." source="" comment="" info="" longitude="39.282380640506744" latitude="44.24861713694679"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Станция 1744 км" target="" pan="84.8711" skinid="" url="{node14}" id="Point01" tilt="-12.3995"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="98.7713" skinid="" url="{node5}" id="Point02" tilt="-16.3306"/>
+      <hotspot title="Каменное море" target="" pan="95.4684" skinid="" url="{node6}" id="Point03" tilt="-25.4928"/>
+      <hotspot title="Стоянка у Индюшонка" target="" pan="-126.538" skinid="" url="{node2}" id="Point04" tilt="-14.3738"/>
+      <hotspot title="Вершина Индюшки" target="" pan="133.752" skinid="" url="{node19}" id="Point05" tilt="5.97788"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="82.0338" skinid="" url="{node20}" id="Point06" tilt="-17.9657"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/indushonok_o_0.jpg" prev5url="images/indushonok_o_preview_5.jpg" prev4url="images/indushonok_o_preview_4.jpg" prev3url="images/indushonok_o_preview_3.jpg" prev2url="images/indushonok_o_preview_2.jpg" prev1url="images/indushonok_o_preview_1.jpg" prev0url="images/indushonok_o_preview_0.jpg" tile5url="images/indushonok_o_5.jpg" tilesize="2500" tile4url="images/indushonok_o_4.jpg" tile3url="images/indushonok_o_3.jpg" tilescale="1.004" tile2url="images/indushonok_o_2.jpg" tile1url="images/indushonok_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="228.5">
+      <start pan="340.5" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Камень Кулак" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.28117632865906" latitude="44.24363110879164"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Панорамный Камень" target="" pan="178.422" skinid="" url="{node8}" id="Point01" tilt="17.1323"/>
+      <hotspot title="Станция 1744 км" target="" pan="-53.3883" skinid="" url="{node14}" id="Point02" tilt="-14.0958"/>
+      <hotspot title="г. Индюк" target="" pan="-20.9411" skinid="" url="{node12}" id="Point03" tilt="0.193198"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-17.4584" skinid="" url="{node7}" id="Point04" tilt="-13.0809"/>
+      <hotspot title="Камень Павлик" target="" pan="-12.4446" skinid="" url="{node9}" id="Point05" tilt="-10.0821"/>
+      <hotspot title="Гора Семашхо" target="0/0/65" pan="78.8913" skinid="" url="{node17}" id="Point06" tilt="5.29707"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-123.143" skinid="" url="{node19}" id="Point07" tilt="2.57934"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-95.5269" skinid="" url="{node21}" id="Point08" tilt="-16.0954"/>
+      <hotspot title="Скала Сыр" target="306.5/41/65" pan="-23.373" skinid="" url="{node18}" id="Point09" tilt="-9.98406"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/kulak_o_0.jpg" prev5url="images/kulak_o_preview_5.jpg" prev4url="images/kulak_o_preview_4.jpg" prev3url="images/kulak_o_preview_3.jpg" prev2url="images/kulak_o_preview_2.jpg" prev1url="images/kulak_o_preview_1.jpg" prev0url="images/kulak_o_preview_0.jpg" tile5url="images/kulak_o_5.jpg" tilesize="2500" tile4url="images/kulak_o_4.jpg" tile3url="images/kulak_o_3.jpg" tilescale="1.004" tile2url="images/kulak_o_2.jpg" tile1url="images/kulak_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="102">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="ЛЭП, тропа на Локомотивы" datetime="23.07.2013" description="Просека ЛЭП на тропе к Локомотивским стоянкам" copyright="Волков М.Г." tags="Низ" author="Волков М.Г." source="" comment="" info="" longitude="39.264713861732616" latitude="44.24595386966212"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Станция 1744 км" target="" pan="89.6116" skinid="" url="{node14}" id="Point01" tilt="-0.805534"/>
+      <hotspot title="Индюшонок" target="" pan="21.0126" skinid="" url="{node3}" id="Point02" tilt="12.9873"/>
+      <hotspot title="г. Индюк" target="" pan="-14.9013" skinid="" url="{node12}" id="Point03" tilt="18.8202"/>
+      <hotspot title="Вершина Индюшки" target="" pan="15.2108" skinid="" url="{node19}" id="Point04" tilt="14.9065"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="75.0403" skinid="" url="{node20}" id="Point05" tilt="5.52797"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/lep2_o_0.jpg" prev5url="images/lep2_o_preview_5.jpg" prev4url="images/lep2_o_preview_4.jpg" prev3url="images/lep2_o_preview_3.jpg" prev2url="images/lep2_o_preview_2.jpg" prev1url="images/lep2_o_preview_1.jpg" prev0url="images/lep2_o_preview_0.jpg" tile5url="images/lep2_o_5.jpg" tilesize="2500" tile4url="images/lep2_o_4.jpg" tile3url="images/lep2_o_3.jpg" tilescale="1.004" tile2url="images/lep2_o_2.jpg" tile1url="images/lep2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="172">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Каменное море" datetime="23.07.2013" description="Большая осыпь под Индюшкой" copyright="Волков М.Г." tags="Индюшка" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.276525378227234" latitude="44.24759690893009"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Индюшонок" target="" pan="95.5776" skinid="" url="{node3}" id="Point01" tilt="22.6633"/>
+      <hotspot title="г. Индюк" target="" pan="-17.8125" skinid="" url="{node12}" id="Point02" tilt="22.3697"/>
+      <hotspot title="Вершина Индюшки" target="" pan="52.3429" skinid="" url="{node19}" id="Point03" tilt="41.2368"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-54.752" skinid="" url="{node20}" id="Point04" tilt="-1.74563"/>
+      <hotspot title="Гребень Индюшки" target="" pan="42.1756" skinid="" url="{node21}" id="Point05" tilt="37.1625"/>
+      <hotspot title="Скала Сыр" target="308/39.5/65" pan="-10.3171" skinid="" url="{node18}" id="Point06" tilt="19.8783"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Каменное море_out_out_o_0.jpg" prev5url="images/Каменное море_out_out_o_preview_5.jpg" prev4url="images/Каменное море_out_out_o_preview_4.jpg" prev3url="images/Каменное море_out_out_o_preview_3.jpg" prev2url="images/Каменное море_out_out_o_preview_2.jpg" prev1url="images/Каменное море_out_out_o_preview_1.jpg" prev0url="images/Каменное море_out_out_o_preview_0.jpg" tile5url="images/Каменное море_out_out_o_5.jpg" tilesize="2500" tile4url="images/Каменное море_out_out_o_4.jpg" tile3url="images/Каменное море_out_out_o_3.jpg" tilescale="1.004" tile2url="images/Каменное море_out_out_o_2.jpg" tile1url="images/Каменное море_out_out_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="252">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Камень Можжевельник" datetime="23.07.2013" description="Скала на гребне Индюка, поросшая можжевельником" copyright="Волков М.Г." tags="Гребень" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.279996156692505" latitude="44.24309309205358"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Камень Павлик" target="" pan="10.6063" skinid="" url="{node9}" id="Point01" tilt="-7.31361"/>
+      <hotspot title="Камень Подкова" target="" pan="5.03262" skinid="" url="{node10}" id="Point02" tilt="0.750991"/>
+      <hotspot title="г. Индюк" target="" pan="-1.20536" skinid="" url="{node12}" id="Point03" tilt="7.76896"/>
+      <hotspot title="Каменное море" target="" pan="-86.0124" skinid="" url="{node6}" id="Point04" tilt="-18.3912"/>
+      <hotspot title="Камень Кулак" target="" pan="-168.819" skinid="" url="{node4}" id="Point05" tilt="8.26606"/>
+      <hotspot title="Панорамный Камень" target="" pan="-164.859" skinid="" url="{node8}" id="Point06" tilt="11.9373"/>
+      <hotspot title="Станция 1744 км" target="" pan="-30.6722" skinid="" url="{node14}" id="Point07" tilt="-10.7486"/>
+      <hotspot title="Гора Семашхо" target="" pan="105.119" skinid="" url="{node17}" id="Point08" tilt="3.74547"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-119.729" skinid="" url="{node19}" id="Point09" tilt="5.43909"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-94.6262" skinid="" url="{node21}" id="Point10" tilt="-11.9824"/>
+      <hotspot title="Скала Сыр" target="309/42/65" pan="-8.392530000000001" skinid="" url="{node18}" id="Point11" tilt="-6.39393"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/mozhzhevelnik_o_0.jpg" prev5url="images/mozhzhevelnik_o_preview_5.jpg" prev4url="images/mozhzhevelnik_o_preview_4.jpg" prev3url="images/mozhzhevelnik_o_preview_3.jpg" prev2url="images/mozhzhevelnik_o_preview_2.jpg" prev1url="images/mozhzhevelnik_o_preview_1.jpg" prev0url="images/mozhzhevelnik_o_preview_0.jpg" tile5url="images/mozhzhevelnik_o_5.jpg" tilesize="2500" tile4url="images/mozhzhevelnik_o_4.jpg" tile3url="images/mozhzhevelnik_o_3.jpg" tilescale="1.004" tile2url="images/mozhzhevelnik_o_2.jpg" tile1url="images/mozhzhevelnik_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="231.5">
+      <start pan="347" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Панорамный Камень" datetime="23.07.2013" description="Скала с панорамным видом на окрестности, самая высокая скальная точка массива" copyright="Волков М.Г." tags="Гребень" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.28213119506836" latitude="44.244222921520475"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Камень Кулак" target="" pan="3.45772" skinid="" url="{node4}" id="Point01" tilt="-19.6992"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-4.62077" skinid="" url="{node7}" id="Point02" tilt="-15.9977"/>
+      <hotspot title="Камень Павлик" target="" pan="-9.2791" skinid="" url="{node9}" id="Point03" tilt="-10.3182"/>
+      <hotspot title="г. Индюк" target="" pan="-14.7807" skinid="" url="{node12}" id="Point04" tilt="-0.547868"/>
+      <hotspot title="Гора Семашхо" target="" pan="81.0466" skinid="" url="{node17}" id="Point05" tilt="3.94935"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-104.803" skinid="" url="{node19}" id="Point06" tilt="-1.31071"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/panoramnyi_o_0.jpg" prev5url="images/panoramnyi_o_preview_5.jpg" prev4url="images/panoramnyi_o_preview_4.jpg" prev3url="images/panoramnyi_o_preview_3.jpg" prev2url="images/panoramnyi_o_preview_2.jpg" prev1url="images/panoramnyi_o_preview_1.jpg" prev0url="images/panoramnyi_o_preview_0.jpg" tile5url="images/panoramnyi_o_5.jpg" tilesize="2500" tile4url="images/panoramnyi_o_4.jpg" tile3url="images/panoramnyi_o_3.jpg" tilescale="1.004" tile2url="images/panoramnyi_o_2.jpg" tile1url="images/panoramnyi_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="254.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Камень Павлик" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень" author="Волков М.Г., Ромов П.А., г. Краснодар" source="" comment="" info="" longitude="39.279255867004395" latitude="44.24281639581518"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Панорамный Камень" target="" pan="-162.076" skinid="" url="{node8}" id="Point01" tilt="10.5213"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-167.866" skinid="" url="{node7}" id="Point02" tilt="5.07831"/>
+      <hotspot title="Камень Кулак" target="" pan="-164.983" skinid="" url="{node4}" id="Point03" tilt="7.78778"/>
+      <hotspot title="Арка" target="" pan="-0.198798" skinid="" url="{node1}" id="Point04" tilt="10.6892"/>
+      <hotspot title="Камень Подкова" target="" pan="7.07317" skinid="" url="{node10}" id="Point05" tilt="2.05892"/>
+      <hotspot title="Гора Семашхо" target="" pan="108.787" skinid="" url="{node17}" id="Point06" tilt="3.54183"/>
+      <hotspot title="Скала Сыр" target="308.5/38.5/65" pan="-11.0556" skinid="" url="{node18}" id="Point07" tilt="-3.44072"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-121.14" skinid="" url="{node19}" id="Point08" tilt="5.20513"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-100.614" skinid="" url="{node21}" id="Point09" tilt="-6.74712"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/pavlik_o_0.jpg" prev5url="images/pavlik_o_preview_5.jpg" prev4url="images/pavlik_o_preview_4.jpg" prev3url="images/pavlik_o_preview_3.jpg" prev2url="images/pavlik_o_preview_2.jpg" prev1url="images/pavlik_o_preview_1.jpg" prev0url="images/pavlik_o_preview_0.jpg" tile5url="images/pavlik_o_5.jpg" tilesize="2500" tile4url="images/pavlik_o_4.jpg" tile3url="images/pavlik_o_3.jpg" tilescale="1.004" tile2url="images/pavlik_o_2.jpg" tile1url="images/pavlik_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="48.5">
+      <start pan="33" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Камень Подкова" datetime="23.07.2013" description="Скала сектора Перья" copyright="Волков М.Г." tags="Индюк|скалы" author="Волков М.Г., Ромов П.А., г. Краснодар" source="" comment="" info="" longitude="39.27581995725632" latitude="44.241724970184436"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Индюк" target="" pan="110.434" skinid="" url="{node12}" id="Point01" tilt="35.3767"/>
+      <hotspot title="Панорамный Камень" target="" pan="-21.0402" skinid="" url="{node8}" id="Point02" tilt="7.06706"/>
+      <hotspot title="Камень Кулак" target="" pan="-23.7459" skinid="" url="{node4}" id="Point03" tilt="4.56538"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-26.4642" skinid="" url="{node7}" id="Point04" tilt="1.61241"/>
+      <hotspot title="Камень Павлик" target="" pan="-29.1822" skinid="" url="{node9}" id="Point05" tilt="-1.92842"/>
+      <hotspot title="Гора Семашхо" target="" pan="-102.904" skinid="" url="{node17}" id="Point06" tilt="6.11802"/>
+      <hotspot title="Скала Сыр" target="304.5/38.5/65" pan="23.5449" skinid="" url="{node18}" id="Point07" tilt="-14.5077"/>
+      <hotspot title="Вершина Индюшки" target="" pan="8.23119" skinid="" url="{node19}" id="Point08" tilt="2.92287"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/podkova_o_0.jpg" prev5url="images/podkova_o_preview_5.jpg" prev4url="images/podkova_o_preview_4.jpg" prev3url="images/podkova_o_preview_3.jpg" prev2url="images/podkova_o_preview_2.jpg" prev1url="images/podkova_o_preview_1.jpg" prev0url="images/podkova_o_preview_0.jpg" tile5url="images/podkova_o_5.jpg" tilesize="2500" tile4url="images/podkova_o_4.jpg" tile3url="images/podkova_o_3.jpg" tilescale="1.004" tile2url="images/podkova_o_2.jpg" tile1url="images/podkova_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="11.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Электричка" datetime="23.07.2013" description="Электричка Горячий Ключ - Туапсе" copyright="Волков М.Г." tags="Низ|Железка" author="Волков М.Г., Ромов П.А., г. Краснодар" source="" comment="" info="" longitude="39.24011707305908" latitude="44.24701281562171"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На станцию" target="" pan="-103.902" skinid="" url="{node14}" id="Point01" tilt="-14.7646"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/tambur_o_0.jpg" prev5url="images/tambur_o_preview_5.jpg" prev4url="images/tambur_o_preview_4.jpg" prev3url="images/tambur_o_preview_3.jpg" prev2url="images/tambur_o_preview_2.jpg" prev1url="images/tambur_o_preview_1.jpg" prev0url="images/tambur_o_preview_0.jpg" tile5url="images/tambur_o_5.jpg" tilesize="2500" tile4url="images/tambur_o_4.jpg" tile3url="images/tambur_o_3.jpg" tilescale="1.004" tile2url="images/tambur_o_2.jpg" tile1url="images/tambur_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="228.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Индюк" datetime="23.07.2013" description="Вершина Индюка" copyright="Волков М.Г." tags="Индюк" author="Волков М.Г., Ромов П.А., г. Краснодар" source="" comment="" info="" longitude="39.27527278661728" latitude="44.242059317511334"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Утес Витя" target="" pan="-4.63458" skinid="" url="{node13}" id="Point01" tilt="-13.0675"/>
+      <hotspot title="Арка" target="" pan="-54.967" skinid="" url="{node1}" id="Point02" tilt="-33.0703"/>
+      <hotspot title="Станция 1744 км" target="" pan="-57.465" skinid="" url="{node14}" id="Point03" tilt="-11.1668"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-69.25149999999999" skinid="" url="{node5}" id="Point04" tilt="-24.1974"/>
+      <hotspot title="Каменное море" target="" pan="-144.22" skinid="" url="{node6}" id="Point05" tilt="-18.1187"/>
+      <hotspot title="Панорамный Камень" target="" pan="163.757" skinid="" url="{node8}" id="Point06" tilt="3.43383"/>
+      <hotspot title="Камень Павлик" target="" pan="153.758" skinid="" url="{node9}" id="Point07" tilt="-8.93928"/>
+      <hotspot title="Камень Можжевельник" target="" pan="158.52" skinid="" url="{node7}" id="Point08" tilt="-4.93647"/>
+      <hotspot title="Камень Кулак" target="" pan="160.62" skinid="" url="{node4}" id="Point09" tilt="-0.286338"/>
+      <hotspot title="Камень Подкова" target="" pan="119.648" skinid="" url="{node10}" id="Point10" tilt="-37.423"/>
+      <hotspot title="Гора Семашхо" target="" pan="85.8099" skinid="" url="{node17}" id="Point11" tilt="5.55117"/>
+      <hotspot title="Скала Сыр" target="307.5/37/65" pan="167.989" skinid="" url="{node18}" id="Point12" tilt="-31.8287"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-167.305" skinid="" url="{node19}" id="Point13" tilt="2.11523"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-88.2908" skinid="" url="{node20}" id="Point14" tilt="-21.6368"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-156.411" skinid="" url="{node21}" id="Point15" tilt="-9.0083"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/induk_o_0.jpg" prev5url="images/induk_o_preview_5.jpg" prev4url="images/induk_o_preview_4.jpg" prev3url="images/induk_o_preview_3.jpg" prev2url="images/induk_o_preview_2.jpg" prev1url="images/induk_o_preview_1.jpg" prev0url="images/induk_o_preview_0.jpg" tile5url="images/induk_o_5.jpg" tilesize="2500" tile4url="images/induk_o_4.jpg" tile3url="images/induk_o_3.jpg" tilescale="1.004" tile2url="images/induk_o_2.jpg" tile1url="images/induk_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <view fovmode="0" pannorth="159">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Утес Витя" datetime="23.07.2013" description="Утес у вершины Индюка" copyright="Волков М.Г." tags="Индюк" author="Волков М.Г., г. Краснодар" source="" comment="" info="" longitude="39.274964332580566" latitude="44.241895987158"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Арка" target="" pan="149.84" skinid="" url="{node1}" id="Point01" tilt="-0.0264747"/>
+      <hotspot title="г. Индюк" target="" pan="107.501" skinid="" url="{node12}" id="Point02" tilt="18.995"/>
+      <hotspot title="Панорамный Камень" target="" pan="79.59139999999999" skinid="" url="{node8}" id="Point03" tilt="1.94415"/>
+      <hotspot title="Камень Можжевельник" target="" pan="76.544" skinid="" url="{node7}" id="Point04" tilt="-2.79255"/>
+      <hotspot title="Камень Павлик" target="" pan="74.3595" skinid="" url="{node9}" id="Point05" tilt="-5.55732"/>
+      <hotspot title="Камень Кулак" target="" pan="77.9187" skinid="" url="{node4}" id="Point06" tilt="-0.336188"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-157.754" skinid="" url="{node5}" id="Point07" tilt="-24.639"/>
+      <hotspot title="Станция 1744 км" target="" pan="-143.514" skinid="" url="{node14}" id="Point08" tilt="-12.8348"/>
+      <hotspot title="Гора Семашхо" target="" pan="0.413013" skinid="" url="{node17}" id="Point09" tilt="1.65359"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-176.465" skinid="" url="{node20}" id="Point10" tilt="-21.4818"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/vitya_o_0.jpg" prev5url="images/vitya_o_preview_5.jpg" prev4url="images/vitya_o_preview_4.jpg" prev3url="images/vitya_o_preview_3.jpg" prev2url="images/vitya_o_preview_2.jpg" prev1url="images/vitya_o_preview_1.jpg" prev0url="images/vitya_o_preview_0.jpg" tile5url="images/vitya_o_5.jpg" tilesize="2500" tile4url="images/vitya_o_4.jpg" tile3url="images/vitya_o_3.jpg" tilescale="1.004" tile2url="images/vitya_o_2.jpg" tile1url="images/vitya_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <view fovmode="0" pannorth="218">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Станция 1744 км" datetime="2013:07:23" description="Железная дорога Горячий Ключ - Туапсе, Краснодарский край" copyright="Волков М.Г." tags="Железка|Низ" author="Волков М.Г." source="" comment="" info="" longitude="39.24117386341095" latitude="44.249097464161025"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="34.8718" skinid="" url="{node5}" id="Point01" tilt="8.06007"/>
+      <hotspot title="В поезд" target="" pan="12.1859" skinid="" url="{node11}" id="Point02" tilt="3.30672"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="43.6352" skinid="" url="{node20}" id="Point03" tilt="8.793340000000001"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/1744_o_0.jpg" prev5url="images/1744_o_preview_5.jpg" prev4url="images/1744_o_preview_4.jpg" prev3url="images/1744_o_preview_3.jpg" prev2url="images/1744_o_preview_2.jpg" prev1url="images/1744_o_preview_1.jpg" prev0url="images/1744_o_preview_0.jpg" tile5url="images/1744_o_5.jpg" tilesize="2500" tile4url="images/1744_o_4.jpg" tile3url="images/1744_o_3.jpg" tilescale="1.004" tile2url="images/1744_o_2.jpg" tile1url="images/1744_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="90.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Двубратский водопад" datetime="2.11.2013" description="Водопад в каньоне Двубратского ручья. В скале есть ванна, в которой можно купаться." copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.31258000000000" latitude="44.18866000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На отрог Семашхо" target="30.5/-22/65" pan="-9.50267" skinid="" url="{node16}" id="Point01" tilt="46.494"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/dvubrat_vodopad_o_0.jpg" prev5url="images/dvubrat_vodopad_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_o_4.jpg" tile3url="images/dvubrat_vodopad_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_o_2.jpg" tile1url="images/dvubrat_vodopad_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <view fovmode="0" pannorth="244.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Отрог Семашхо" datetime="3.11.2013" description="Главный Кавказский хребет недалеко от Семашхо" copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.32561000000000" latitude="44.19792000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Двубратский водопад" target="0/0/65" pan="1.40917" skinid="" url="{node15}" id="Point01" tilt="-15.999"/>
+      <hotspot title="Гора Семашхо" target="" pan="-107.503" skinid="" url="{node17}" id="Point02" tilt="17.2702"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/khrebet_o_0.jpg" prev5url="images/khrebet_o_preview_5.jpg" prev4url="images/khrebet_o_preview_4.jpg" prev3url="images/khrebet_o_preview_3.jpg" prev2url="images/khrebet_o_preview_2.jpg" prev1url="images/khrebet_o_preview_1.jpg" prev0url="images/khrebet_o_preview_0.jpg" tile5url="images/khrebet_o_5.jpg" tilesize="2500" tile4url="images/khrebet_o_4.jpg" tile3url="images/khrebet_o_3.jpg" tilescale="1.004" tile2url="images/khrebet_o_2.jpg" tile1url="images/khrebet_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <view fovmode="0" pannorth="125">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Гора Семашхо" datetime="3.11.2013" description="Вершина горы Семашхо 1035 м." copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.31308000000000" latitude="44.20547000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Индюк" target="0/0/65" pan="162.67" skinid="" url="{node12}" id="Point01" tilt="-1.85314"/>
+      <hotspot title="Отрог Семашхо" target="30.5/-23.5/65" pan="-3.73509" skinid="" url="{node16}" id="Point02" tilt="-4.01576"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/semashho_o_0.jpg" prev5url="images/semashho_o_preview_5.jpg" prev4url="images/semashho_o_preview_4.jpg" prev3url="images/semashho_o_preview_3.jpg" prev2url="images/semashho_o_preview_2.jpg" prev1url="images/semashho_o_preview_1.jpg" prev0url="images/semashho_o_preview_0.jpg" tile5url="images/semashho_o_5.jpg" tilesize="2500" tile4url="images/semashho_o_4.jpg" tile3url="images/semashho_o_3.jpg" tilescale="1.004" tile2url="images/semashho_o_2.jpg" tile1url="images/semashho_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18">
+    <view fovmode="0" pannorth="318">
+      <start pan="309.5" fov="70" tilt="37.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Скала Сыр" datetime="4.11.2013" description="Простейшая скала для лазания, очень популярное место у скалолазов." copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.27713000000000" latitude="44.24231000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Камень Подкова" target="" pan="116.735" skinid="" url="{node10}" id="Point02" tilt="15.0779"/>
+      <hotspot title="Камень Павлик" target="0/0/65" pan="-114.271" skinid="" url="{node9}" id="Point03" tilt="19.9045"/>
+      <hotspot title="Гора Семашхо" target="" pan="151.547" skinid="" url="{node17}" id="Point04" tilt="2.4589"/>
+      <hotspot title="г. Индюк" target="" pan="56.3816" skinid="" url="{node12}" id="Point05" tilt="33.3271"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/podsyrom_o_0.jpg" prev5url="images/podsyrom_o_preview_5.jpg" prev4url="images/podsyrom_o_preview_4.jpg" prev3url="images/podsyrom_o_preview_3.jpg" prev2url="images/podsyrom_o_preview_2.jpg" prev1url="images/podsyrom_o_preview_1.jpg" prev0url="images/podsyrom_o_preview_0.jpg" tile5url="images/podsyrom_o_5.jpg" tilesize="2500" tile4url="images/podsyrom_o_4.jpg" tile3url="images/podsyrom_o_3.jpg" tilescale="1.004" tile2url="images/podsyrom_o_2.jpg" tile1url="images/podsyrom_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19">
+    <view fovmode="0" pannorth="236">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Вершина Индюшки" datetime="4.11.2013" description="Вторая главная вершина Массива Индюка. По гребню проходит альпинистский маршрут 3А к.с." copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.28051000000000" latitude="44.24689000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Индюк" target="" pan="18.3111" skinid="" url="{node12}" id="Point01" tilt="0.387577"/>
+      <hotspot title="Индюшонок" target="" pan="-166.412" skinid="" url="{node3}" id="Point02" tilt="-5.51681"/>
+      <hotspot title="Стоянка у Индюшонка" target="" pan="-179.968" skinid="" url="{node2}" id="Point03" tilt="-7.23119"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-29.0849" skinid="" url="{node5}" id="Point04" tilt="-19.4597"/>
+      <hotspot title="Панорамный Камень" target="" pan="79.5684" skinid="" url="{node8}" id="Point05" tilt="2.78943"/>
+      <hotspot title="Камень Кулак" target="" pan="64.5078" skinid="" url="{node4}" id="Point06" tilt="-1.98783"/>
+      <hotspot title="Камень Павлик" target="" pan="39.0156" skinid="" url="{node9}" id="Point07" tilt="-5.40036"/>
+      <hotspot title="Камень Можжевельник" target="" pan="43.5709" skinid="" url="{node7}" id="Point08" tilt="-5.02139"/>
+      <hotspot title="Каменное море" target="" pan="-49.2229" skinid="" url="{node6}" id="Point09" tilt="-31.7839"/>
+      <hotspot title="Станция 1744 км" target="" pan="-40.5919" skinid="" url="{node14}" id="Point10" tilt="-12.2663"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-44.6553" skinid="" url="{node20}" id="Point11" tilt="-21.0701"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-39.015" skinid="" url="{node21}" id="Point12" tilt="-27.8436"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/indushka_o_0.jpg" prev5url="images/indushka_o_preview_5.jpg" prev4url="images/indushka_o_preview_4.jpg" prev3url="images/indushka_o_preview_3.jpg" prev2url="images/indushka_o_preview_2.jpg" prev1url="images/indushka_o_preview_1.jpg" prev0url="images/indushka_o_preview_0.jpg" tile5url="images/indushka_o_5.jpg" tilesize="2500" tile4url="images/indushka_o_4.jpg" tile3url="images/indushka_o_3.jpg" tilescale="1.004" tile2url="images/indushka_o_2.jpg" tile1url="images/indushka_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node20">
+    <view fovmode="0" pannorth="16">
+      <start pan="258.5" fov="70" tilt="10"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="ЛЭП, тропа к Каменному морю" datetime="4.11.2013" description="Самая популярная тропа на Индюк. Выходит мимо Каменного моря на поляну Сковорода (Родниковая)." copyright="" tags="" author="Волков М.Г." source="" comment="" info="" longitude="39.26678000000000" latitude="44.24846000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Индюшонок" target="" pan="-73.0637" skinid="" url="{node3}" id="Point01" tilt="17.34"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-81.7186" skinid="" url="{node19}" id="Point02" tilt="20.7408"/>
+      <hotspot title="г. Индюк" target="" pan="-118.228" skinid="" url="{node12}" id="Point03" tilt="24.3825"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="172.646" skinid="" url="{node5}" id="Point04" tilt="-1.12153"/>
+      <hotspot title="Станция 1744 км" target="" pan="92.87439999999999" skinid="" url="{node14}" id="Point05" tilt="-1.17729"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-86.83199999999999" skinid="" url="{node21}" id="Point06" tilt="17.6213"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/lep1_o_0.jpg" prev5url="images/lep1_o_preview_5.jpg" prev4url="images/lep1_o_preview_4.jpg" prev3url="images/lep1_o_preview_3.jpg" prev2url="images/lep1_o_preview_2.jpg" prev1url="images/lep1_o_preview_1.jpg" prev0url="images/lep1_o_preview_0.jpg" tile5url="images/lep1_o_5.jpg" tilesize="2500" tile4url="images/lep1_o_4.jpg" tile3url="images/lep1_o_3.jpg" tilescale="1.004" tile2url="images/lep1_o_2.jpg" tile1url="images/lep1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node21">
+    <view fovmode="0" pannorth="232">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Гребень Индюшки" datetime="1.01.2014" description="Здесь проходит альпинистский маршрут от Каменного моря на вершину Индюшки." copyright="" tags="" author="Волков М.Г., Ромов А.П., Бирючева Е." source="" comment="" info="" longitude="39.27906000000000" latitude="44.24678000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Индюк" target="" pan="23.2103" skinid="" url="{node12}" id="Point01" tilt="15.6943"/>
+      <hotspot title="Вершина Индюшки" target="" pan="163.038" skinid="" url="{node19}" id="Point02" tilt="63.0282"/>
+      <hotspot title="Каменное море" target="" pan="-81.75920000000001" skinid="" url="{node6}" id="Point03" tilt="-33.0009"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-87.1768" skinid="" url="{node20}" id="Point04" tilt="-15.2525"/>
+      <hotspot title="Станция 1744 км" target="" pan="-47.0566" skinid="" url="{node14}" id="Point05" tilt="-9.01957"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-65.377" skinid="" url="{node5}" id="Point06" tilt="-14.0843"/>
+      <hotspot title="Камень Павлик" target="" pan="56.0853" skinid="" url="{node9}" id="Point07" tilt="12.4622"/>
+      <hotspot title="Камень Можжевельник" target="" pan="62.3871" skinid="" url="{node7}" id="Point08" tilt="13.6799"/>
+      <hotspot title="Камень Кулак" target="" pan="72.6726" skinid="" url="{node4}" id="Point09" tilt="14.3403"/>
+      <hotspot title="Скала Сыр" target="304/39/65" pan="30.8094" skinid="" url="{node18}" id="Point10" tilt="12.2867"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/greben1_o_0.jpg" prev5url="images/greben1_o_preview_5.jpg" prev4url="images/greben1_o_preview_4.jpg" prev3url="images/greben1_o_preview_3.jpg" prev2url="images/greben1_o_preview_2.jpg" prev1url="images/greben1_o_preview_1.jpg" prev0url="images/greben1_o_preview_0.jpg" tile5url="images/greben1_o_5.jpg" tilesize="2500" tile4url="images/greben1_o_4.jpg" tile3url="images/greben1_o_3.jpg" tilescale="1.004" tile2url="images/greben1_o_2.jpg" tile1url="images/greben1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="35.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
