@@ -1060,7 +1060,7 @@ function pano2vrSkin(player,base) {
 			hs+='cursor: pointer;';
 			this.__36.setAttribute('style',hs);
 			this.__36__img=document.createElement('img');
-			this.__36__img.setAttribute('src',basePath + 'images/_36.png');
+			this.__36__img.setAttribute('src',basePath + 'images/logo_36.png');
 			this.__36__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__36__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__36__img);
@@ -1081,7 +1081,7 @@ function pano2vrSkin(player,base) {
 			hs+='cursor: pointer;';
 			this.__35.setAttribute('style',hs);
 			this.__35__img=document.createElement('img');
-			this.__35__img.setAttribute('src',basePath + 'images/_35.png');
+			this.__35__img.setAttribute('src',basePath + 'images/logo_35.png');
 			this.__35__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__35__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__35__img);
@@ -1102,7 +1102,7 @@ function pano2vrSkin(player,base) {
 			hs+='cursor: pointer;';
 			this.__45.setAttribute('style',hs);
 			this.__45__img=document.createElement('img');
-			this.__45__img.setAttribute('src',basePath + 'images/_45.png');
+			this.__45__img.setAttribute('src',basePath + 'images/arrow_45.png');
 			this.__45__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__45__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__45__img);
