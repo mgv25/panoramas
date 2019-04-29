@@ -53,17 +53,23 @@
 			}
 			::-webkit-scrollbar-thumb {
     			background-color:  rgba(255,255,255,0.5);
+			* {
+				padding: 0;
+				margin: 0;
 			}
+			.container {
+				width: 100vw;
+				height: 100vh;
+			}
+
 		</style>	
 	</head>
 	<body>
-		<h1></h1>
-		<br>
 		<script type="text/javascript" src="pano2vr_player.js">
 		</script>
 		<script type="text/javascript" src="skin.js">
 		</script>
-		<div id="container" style="width:640px;height:480px;">
+		<div id="container" class="container">
 		This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
 		</div>
 		<script type="text/javascript">
