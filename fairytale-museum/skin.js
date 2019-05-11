@@ -1060,7 +1060,7 @@ function pano2vrSkin(player,base) {
 			hs+='cursor: pointer;';
 			this.__45.setAttribute('style',hs);
 			this.__45__img=document.createElement('img');
-			this.__45__img.setAttribute('src',basePath + 'images/_45.png');
+			this.__45__img.setAttribute('src',basePath + 'images/45.png');
 			this.__45__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__45__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__45__img);
