@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node8">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Выйти" target="336/-2/65" pan="70.9042" skinid="" url="{node8}" id="Point01" tilt="-11.6802"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Большая игровая комната 10к 2 L16 slow gimp_o_0.jpg" prev5url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_5.jpg" prev4url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_4.jpg" prev3url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_3.jpg" prev2url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_2.jpg" prev1url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_1.jpg" prev0url="images/Большая игровая комната 10к 2 L16 slow gimp_o_preview_0.jpg" tile5url="images/Большая игровая комната 10к 2 L16 slow gimp_o_5.jpg" tilesize="2500" tile4url="images/Большая игровая комната 10к 2 L16 slow gimp_o_4.jpg" tile3url="images/Большая игровая комната 10к 2 L16 slow gimp_o_3.jpg" tilescale="1.004" tile2url="images/Большая игровая комната 10к 2 L16 slow gimp_o_2.jpg" tile1url="images/Большая игровая комната 10к 2 L16 slow gimp_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К Хозяйке Медной горы" target="0/0/65" pan="-12.3552" skinid="" url="{node9}" id="Point01" tilt="-19.8955"/>
+      <hotspot title="К Бабе Яге" target="158/-23.5/65" pan="175.393" skinid="" url="{node4}" id="Point02" tilt="0.344329"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Замок Кощея 10к 4 slow default_sphere_o_0.jpg" prev5url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_5.jpg" prev4url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_4.jpg" prev3url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_3.jpg" prev2url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_2.jpg" prev1url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_1.jpg" prev0url="images/Замок Кощея 10к 4 slow default_sphere_o_preview_0.jpg" tile5url="images/Замок Кощея 10к 4 slow default_sphere_o_5.jpg" tilesize="2500" tile4url="images/Замок Кощея 10к 4 slow default_sphere_o_4.jpg" tile3url="images/Замок Кощея 10к 4 slow default_sphere_o_3.jpg" tilescale="1.004" tile2url="images/Замок Кощея 10к 4 slow default_sphere_o_2.jpg" tile1url="images/Замок Кощея 10к 4 slow default_sphere_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2014:02:11 18:35:06" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На лесную полянку" target="274.5/-1/65" pan="33.1125" skinid="" url="{node6}" id="Point01" tilt="-14.9115"/>
+      <hotspot title="Назад в первую комнату" target="205.5/-3/65" pan="-148.337" skinid="" url="{node5}" id="Point02" tilt="-5.91254"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Зима 10k э_o_0.jpg" prev5url="images/Зима 10k э_o_preview_5.jpg" prev4url="images/Зима 10k э_o_preview_4.jpg" prev3url="images/Зима 10k э_o_preview_3.jpg" prev2url="images/Зима 10k э_o_preview_2.jpg" prev1url="images/Зима 10k э_o_preview_1.jpg" prev0url="images/Зима 10k э_o_preview_0.jpg" tile5url="images/Зима 10k э_o_5.jpg" tilesize="2500" tile4url="images/Зима 10k э_o_4.jpg" tile3url="images/Зима 10k э_o_3.jpg" tilescale="1.004" tile2url="images/Зима 10k э_o_2.jpg" tile1url="images/Зима 10k э_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На лесную поляну" target="" pan="-146.267" skinid="" url="{node6}" id="Point01" tilt="-8.20787"/>
+      <hotspot title="К замку Кощея" target="75.5/16.5/65" pan="-15.0853" skinid="" url="{node2}" id="Point02" tilt="0.988737"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Изба Бабы Яги 2 10k_o_0.jpg" prev5url="images/Изба Бабы Яги 2 10k_o_preview_5.jpg" prev4url="images/Изба Бабы Яги 2 10k_o_preview_4.jpg" prev3url="images/Изба Бабы Яги 2 10k_o_preview_3.jpg" prev2url="images/Изба Бабы Яги 2 10k_o_preview_2.jpg" prev1url="images/Изба Бабы Яги 2 10k_o_preview_1.jpg" prev0url="images/Изба Бабы Яги 2 10k_o_preview_0.jpg" tile5url="images/Изба Бабы Яги 2 10k_o_5.jpg" tilesize="2500" tile4url="images/Изба Бабы Яги 2 10k_o_4.jpg" tile3url="images/Изба Бабы Яги 2 10k_o_3.jpg" tilescale="1.004" tile2url="images/Изба Бабы Яги 2 10k_o_2.jpg" tile1url="images/Изба Бабы Яги 2 10k_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Музей &quot;В гостях у сказки&quot;" datetime="" description="Начало сказочного путешествия" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В прихожую" target="335/-5/65" pan="69.10290000000001" skinid="" url="{node8}" id="Point01" tilt="-10.9612"/>
+      <hotspot title="Зайти в волшебный шкаф" target="301.5/-4/65" pan="-154.18" skinid="" url="{node3}" id="Point02" tilt="-7.3742"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Комната 10к_out э_o_0.jpg" prev5url="images/Комната 10к_out э_o_preview_5.jpg" prev4url="images/Комната 10к_out э_o_preview_4.jpg" prev3url="images/Комната 10к_out э_o_preview_3.jpg" prev2url="images/Комната 10к_out э_o_preview_2.jpg" prev1url="images/Комната 10к_out э_o_preview_1.jpg" prev0url="images/Комната 10к_out э_o_preview_0.jpg" tile5url="images/Комната 10к_out э_o_5.jpg" tilesize="2500" tile4url="images/Комната 10к_out э_o_4.jpg" tile3url="images/Комната 10к_out э_o_3.jpg" tilescale="1.004" tile2url="images/Комната 10к_out э_o_2.jpg" tile1url="images/Комната 10к_out э_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="50" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В гости к Зиме" target="31.5/-16/65" pan="15.5498" skinid="" url="{node3}" id="Point01" tilt="-15.9826"/>
+      <hotspot title="В избушку Бабы Яги" target="165/-18.5/65" pan="-171.815" skinid="" url="{node4}" id="Point02" tilt="-10.7064"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Комната с мостиком 10к L16 slow gimp_o_0.jpg" prev5url="images/Комната с мостиком 10к L16 slow gimp_o_preview_5.jpg" prev4url="images/Комната с мостиком 10к L16 slow gimp_o_preview_4.jpg" prev3url="images/Комната с мостиком 10к L16 slow gimp_o_preview_3.jpg" prev2url="images/Комната с мостиком 10к L16 slow gimp_o_preview_2.jpg" prev1url="images/Комната с мостиком 10к L16 slow gimp_o_preview_1.jpg" prev0url="images/Комната с мостиком 10к L16 slow gimp_o_preview_0.jpg" tile5url="images/Комната с мостиком 10к L16 slow gimp_o_5.jpg" tilesize="2500" tile4url="images/Комната с мостиком 10к L16 slow gimp_o_4.jpg" tile3url="images/Комната с мостиком 10к L16 slow gimp_o_3.jpg" tilescale="1.004" tile2url="images/Комната с мостиком 10к L16 slow gimp_o_2.jpg" tile1url="images/Комната с мостиком 10к L16 slow gimp_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В прихожую" target="328.5/-2/65" pan="-70.27070000000001" skinid="" url="{node8}" id="Point01" tilt="-15.3389"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_0.jpg" prev5url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_5.jpg" prev4url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_4.jpg" prev3url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_3.jpg" prev2url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_2.jpg" prev1url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_1.jpg" prev0url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_preview_0.jpg" tile5url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_5.jpg" tilesize="2500" tile4url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_4.jpg" tile3url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_3.jpg" tilescale="1.004" tile2url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_2.jpg" tile1url="images/Малая игровая комната 10к 2 L16 slow_sphere_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В Царские палаты" target="269/-7/65" pan="-14.4538" skinid="" url="{node10}" id="Point01" tilt="-13.9381"/>
+      <hotspot title="Начать путешествие по сказкам" target="7/-0.5/65" pan="-32.7974" skinid="" url="{node5}" id="Point02" tilt="-7.91964"/>
+      <hotspot title="Малая игровая комната" target="234/-33/65" pan="150.114" skinid="" url="{node7}" id="Point03" tilt="-14.5451"/>
+      <hotspot title="Большая игровая комната" target="12.5/-1/65" pan="130.439" skinid="" url="{node1}" id="Point04" tilt="-11.0961"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Прихожая 10к L16 slow_sphere_o_0.jpg" prev5url="images/Прихожая 10к L16 slow_sphere_o_preview_5.jpg" prev4url="images/Прихожая 10к L16 slow_sphere_o_preview_4.jpg" prev3url="images/Прихожая 10к L16 slow_sphere_o_preview_3.jpg" prev2url="images/Прихожая 10к L16 slow_sphere_o_preview_2.jpg" prev1url="images/Прихожая 10к L16 slow_sphere_o_preview_1.jpg" prev0url="images/Прихожая 10к L16 slow_sphere_o_preview_0.jpg" tile5url="images/Прихожая 10к L16 slow_sphere_o_5.jpg" tilesize="2500" tile4url="images/Прихожая 10к L16 slow_sphere_o_4.jpg" tile3url="images/Прихожая 10к L16 slow_sphere_o_3.jpg" tilescale="1.004" tile2url="images/Прихожая 10к L16 slow_sphere_o_2.jpg" tile1url="images/Прихожая 10к L16 slow_sphere_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К замку Кощея" target="73/14.5/65" pan="-155.33" skinid="" url="{node2}" id="Point01" tilt="-20.5663"/>
+      <hotspot title="Выйти" target="329/-3.5/65" pan="16.5419" skinid="" url="{node8}" id="Point02" tilt="-4.28717"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_0.jpg" prev5url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_5.jpg" prev4url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_4.jpg" prev3url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_3.jpg" prev2url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_2.jpg" prev1url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_1.jpg" prev0url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_preview_0.jpg" tile5url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_5.jpg" tilesize="2500" tile4url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_4.jpg" tile3url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_3.jpg" tilescale="1.004" tile2url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_2.jpg" tile1url="images/Хозяйка Медной горы 10k 2 L16 slow_sphere_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В прихожую" target="329/-5/65" pan="131.978" skinid="" url="{node8}" id="Point01" tilt="-22.5685"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Царские палаты 16 10k L16 slow_out_out_o_0.jpg" prev5url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_5.jpg" prev4url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_4.jpg" prev3url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_3.jpg" prev2url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_2.jpg" prev1url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_1.jpg" prev0url="images/Царские палаты 16 10k L16 slow_out_out_o_preview_0.jpg" tile5url="images/Царские палаты 16 10k L16 slow_out_out_o_5.jpg" tilesize="2500" tile4url="images/Царские палаты 16 10k L16 slow_out_out_o_4.jpg" tile3url="images/Царские палаты 16 10k L16 slow_out_out_o_3.jpg" tilescale="1.004" tile2url="images/Царские палаты 16 10k L16 slow_out_out_o_2.jpg" tile1url="images/Царские палаты 16 10k L16 slow_out_out_o_1.jpg"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
