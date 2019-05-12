@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="196/4/65" pan="-6.79072" skinid="hs_no_title" url="{node2}" id="Point01" tilt="-2.82057"/>
+      <hotspot title="Поляна Таулу" target="0/0/65" pan="158.118" skinid="hotspot" url="{node18}" id="Point02" tilt="-14.653"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ночевка в долине Дукки 1_o_0.jpg" prev5url="images/Ночевка в долине Дукки 1_o_preview_5.jpg" prev4url="images/Ночевка в долине Дукки 1_o_preview_4.jpg" prev3url="images/Ночевка в долине Дукки 1_o_preview_3.jpg" prev2url="images/Ночевка в долине Дукки 1_o_preview_2.jpg" prev1url="images/Ночевка в долине Дукки 1_o_preview_1.jpg" prev0url="images/Ночевка в долине Дукки 1_o_preview_0.jpg" tile5url="images/Ночевка в долине Дукки 1_o_5.jpg" tilesize="2250" tile4url="images/Ночевка в долине Дукки 1_o_4.jpg" tile3url="images/Ночевка в долине Дукки 1_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Ночевка в долине Дукки 1_o_2.jpg" tile1url="images/Ночевка в долине Дукки 1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="203/9.5/65" pan="-169.417" skinid="hs_no_title" url="{node3}" id="Point01" tilt="-3.64287"/>
+      <hotspot title="" target="152.5/-5/65" pan="0.471737" skinid="hs_no_title" url="{node1}" id="Point02" tilt="-15.3648"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка - снежный мост 2_o_0.jpg" prev5url="images/Дукка - снежный мост 2_o_preview_5.jpg" prev4url="images/Дукка - снежный мост 2_o_preview_4.jpg" prev3url="images/Дукка - снежный мост 2_o_preview_3.jpg" prev2url="images/Дукка - снежный мост 2_o_preview_2.jpg" prev1url="images/Дукка - снежный мост 2_o_preview_1.jpg" prev0url="images/Дукка - снежный мост 2_o_preview_0.jpg" tile5url="images/Дукка - снежный мост 2_o_5.jpg" tilesize="2250" tile4url="images/Дукка - снежный мост 2_o_4.jpg" tile3url="images/Дукка - снежный мост 2_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка - снежный мост 2_o_2.jpg" tile1url="images/Дукка - снежный мост 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:08 19:58:55" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="129/5/65" pan="-151.851" skinid="hs_no_title" url="{node4}" id="Point01" tilt="0.964758"/>
+      <hotspot title="" target="348/-1.5/65" pan="-1.65066" skinid="hs_no_title" url="{node2}" id="Point02" tilt="-10.548"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка 3_o_0.jpg" prev5url="images/Дукка 3_o_preview_5.jpg" prev4url="images/Дукка 3_o_preview_4.jpg" prev3url="images/Дукка 3_o_preview_3.jpg" prev2url="images/Дукка 3_o_preview_2.jpg" prev1url="images/Дукка 3_o_preview_1.jpg" prev0url="images/Дукка 3_o_preview_0.jpg" tile5url="images/Дукка 3_o_5.jpg" tilesize="2250" tile4url="images/Дукка 3_o_4.jpg" tile3url="images/Дукка 3_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка 3_o_2.jpg" tile1url="images/Дукка 3_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:08 20:11:27" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="141/8.5/65" pan="131.199" skinid="hs_no_title" url="{node5}" id="Point01" tilt="-1.31758"/>
+      <hotspot title="" target="354.5/-1/65" pan="-63.0432" skinid="hs_no_title" url="{node3}" id="Point02" tilt="-8.46903"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка 4 2_o_0.jpg" prev5url="images/Дукка 4 2_o_preview_5.jpg" prev4url="images/Дукка 4 2_o_preview_4.jpg" prev3url="images/Дукка 4 2_o_preview_3.jpg" prev2url="images/Дукка 4 2_o_preview_2.jpg" prev1url="images/Дукка 4 2_o_preview_1.jpg" prev0url="images/Дукка 4 2_o_preview_0.jpg" tile5url="images/Дукка 4 2_o_5.jpg" tilesize="2250" tile4url="images/Дукка 4 2_o_4.jpg" tile3url="images/Дукка 4 2_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка 4 2_o_2.jpg" tile1url="images/Дукка 4 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Озеро Семицветное" target="326/6.5/65" pan="147.72" skinid="hotspot" url="{node6}" id="Point01" tilt="6.55583"/>
+      <hotspot title="" target="300/-4/65" pan="-51.2594" skinid="hs_no_title" url="{node4}" id="Point02" tilt="-13.6784"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка 5_o_0.jpg" prev5url="images/Дукка 5_o_preview_5.jpg" prev4url="images/Дукка 5_o_preview_4.jpg" prev3url="images/Дукка 5_o_preview_3.jpg" prev2url="images/Дукка 5_o_preview_2.jpg" prev1url="images/Дукка 5_o_preview_1.jpg" prev0url="images/Дукка 5_o_preview_0.jpg" tile5url="images/Дукка 5_o_5.jpg" tilesize="2250" tile4url="images/Дукка 5_o_4.jpg" tile3url="images/Дукка 5_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка 5_o_2.jpg" tile1url="images/Дукка 5_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="122/6/65" pan="-28.4109" skinid="hs_no_title" url="{node7}" id="Point01" tilt="2.44215"/>
+      <hotspot title="" target="305.5/-3.5/65" pan="135.922" skinid="hs_no_title" url="{node5}" id="Point02" tilt="-9.445639999999999"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка 6_o_0.jpg" prev5url="images/Дукка 6_o_preview_5.jpg" prev4url="images/Дукка 6_o_preview_4.jpg" prev3url="images/Дукка 6_o_preview_3.jpg" prev2url="images/Дукка 6_o_preview_2.jpg" prev1url="images/Дукка 6_o_preview_1.jpg" prev0url="images/Дукка 6_o_preview_0.jpg" tile5url="images/Дукка 6_o_5.jpg" tilesize="2250" tile4url="images/Дукка 6_o_4.jpg" tile3url="images/Дукка 6_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка 6_o_2.jpg" tile1url="images/Дукка 6_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="176/2.5/65" pan="118.715" skinid="hs_no_title" url="{node8}" id="Point01" tilt="-1.2087"/>
+      <hotspot title="Озеро Семицветное" target="136.5/-3.5/65" pan="-68.87600000000001" skinid="hotspot" url="{node6}" id="Point02" tilt="-12.8831"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Дукка 7 2_o_0.jpg" prev5url="images/Дукка 7 2_o_preview_5.jpg" prev4url="images/Дукка 7 2_o_preview_4.jpg" prev3url="images/Дукка 7 2_o_preview_3.jpg" prev2url="images/Дукка 7 2_o_preview_2.jpg" prev1url="images/Дукка 7 2_o_preview_1.jpg" prev0url="images/Дукка 7 2_o_preview_0.jpg" tile5url="images/Дукка 7 2_o_5.jpg" tilesize="2250" tile4url="images/Дукка 7 2_o_4.jpg" tile3url="images/Дукка 7 2_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Дукка 7 2_o_2.jpg" tile1url="images/Дукка 7 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Перевал Айюлю" target="78/3/65" pan="-167.335" skinid="hotspot" url="{node9}" id="Point01" tilt="13.4946"/>
+      <hotspot title="" target="292.5/-2.5/65" pan="33.0455" skinid="hs_no_title" url="{node7}" id="Point02" tilt="-16.0906"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Цирк 8_o_0.jpg" prev5url="images/Цирк 8_o_preview_5.jpg" prev4url="images/Цирк 8_o_preview_4.jpg" prev3url="images/Цирк 8_o_preview_3.jpg" prev2url="images/Цирк 8_o_preview_2.jpg" prev1url="images/Цирк 8_o_preview_1.jpg" prev0url="images/Цирк 8_o_preview_0.jpg" tile5url="images/Цирк 8_o_5.jpg" tilesize="2250" tile4url="images/Цирк 8_o_4.jpg" tile3url="images/Цирк 8_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Цирк 8_o_2.jpg" tile1url="images/Цирк 8_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:08 21:28:40" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="188/-11.5/65" pan="82.4051" skinid="hs_no_title" url="{node10}" id="Point01" tilt="-9.668850000000001"/>
+      <hotspot title="" target="36.5/-12/65" pan="-29.7003" skinid="hs_no_title" url="{node8}" id="Point02" tilt="-14.071"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Айюлю 9_o_0.jpg" prev5url="images/Айюлю 9_o_preview_5.jpg" prev4url="images/Айюлю 9_o_preview_4.jpg" prev3url="images/Айюлю 9_o_preview_3.jpg" prev2url="images/Айюлю 9_o_preview_2.jpg" prev1url="images/Айюлю 9_o_preview_1.jpg" prev0url="images/Айюлю 9_o_preview_0.jpg" tile5url="images/Айюлю 9_o_5.jpg" tilesize="2250" tile4url="images/Айюлю 9_o_4.jpg" tile3url="images/Айюлю 9_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Айюлю 9_o_2.jpg" tile1url="images/Айюлю 9_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="276.5/-3.5/65" pan="-143.322" skinid="hs_no_title" url="{node12}" id="Point01" tilt="-12.5123"/>
+      <hotspot title="Перевал Айюлю" target="331.5/-7/65" pan="8.966889999999999" skinid="hotspot" url="{node9}" id="Point02" tilt="0.614271"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Спуск с Айюлю 10_o_0.jpg" prev5url="images/Спуск с Айюлю 10_o_preview_5.jpg" prev4url="images/Спуск с Айюлю 10_o_preview_4.jpg" prev3url="images/Спуск с Айюлю 10_o_preview_3.jpg" prev2url="images/Спуск с Айюлю 10_o_preview_2.jpg" prev1url="images/Спуск с Айюлю 10_o_preview_1.jpg" prev0url="images/Спуск с Айюлю 10_o_preview_0.jpg" tile5url="images/Спуск с Айюлю 10_o_5.jpg" tilesize="2250" tile4url="images/Спуск с Айюлю 10_o_4.jpg" tile3url="images/Спуск с Айюлю 10_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Спуск с Айюлю 10_o_2.jpg" tile1url="images/Спуск с Айюлю 10_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="104/-1/65" pan="-93.02760000000001" skinid="hs_no_title" url="{node13}" id="Point01" tilt="-16.7205"/>
+      <hotspot title="" target="8.5/8.5/65" pan="79.60160000000001" skinid="hs_no_title" url="{node10}" id="Point02" tilt="8.09765"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ночевка на спуске с Айюлю 11_o_0.jpg" prev5url="images/Ночевка на спуске с Айюлю 11_o_preview_5.jpg" prev4url="images/Ночевка на спуске с Айюлю 11_o_preview_4.jpg" prev3url="images/Ночевка на спуске с Айюлю 11_o_preview_3.jpg" prev2url="images/Ночевка на спуске с Айюлю 11_o_preview_2.jpg" prev1url="images/Ночевка на спуске с Айюлю 11_o_preview_1.jpg" prev0url="images/Ночевка на спуске с Айюлю 11_o_preview_0.jpg" tile5url="images/Ночевка на спуске с Айюлю 11_o_5.jpg" tilesize="2250" tile4url="images/Ночевка на спуске с Айюлю 11_o_4.jpg" tile3url="images/Ночевка на спуске с Айюлю 11_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Ночевка на спуске с Айюлю 11_o_2.jpg" tile1url="images/Ночевка на спуске с Айюлю 11_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:08 21:36:03" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="0/0/65" pan="110.458" skinid="hs_no_title" url="{node14}" id="Point01" tilt="-14.2262"/>
+      <hotspot title="" target="85.5/2/65" pan="-83.4982" skinid="hs_no_title" url="{node12}" id="Point02" tilt="-1.1195"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Спуск с Айюлю 12_o_0.jpg" prev5url="images/Спуск с Айюлю 12_o_preview_5.jpg" prev4url="images/Спуск с Айюлю 12_o_preview_4.jpg" prev3url="images/Спуск с Айюлю 12_o_preview_3.jpg" prev2url="images/Спуск с Айюлю 12_o_preview_2.jpg" prev1url="images/Спуск с Айюлю 12_o_preview_1.jpg" prev0url="images/Спуск с Айюлю 12_o_preview_0.jpg" tile5url="images/Спуск с Айюлю 12_o_5.jpg" tilesize="2250" tile4url="images/Спуск с Айюлю 12_o_4.jpg" tile3url="images/Спуск с Айюлю 12_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Спуск с Айюлю 12_o_2.jpg" tile1url="images/Спуск с Айюлю 12_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:01 19:46:52" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="31.5/-2.5/65" pan="29.7705" skinid="hs_no_title" url="{node15}" id="Point01" tilt="-8.029730000000001"/>
+      <hotspot title="" target="305/-1/65" pan="178.589" skinid="hs_no_title" url="{node13}" id="Point02" tilt="4.14806"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Спуск с Айюлю 13_o_0.jpg" prev5url="images/Спуск с Айюлю 13_o_preview_5.jpg" prev4url="images/Спуск с Айюлю 13_o_preview_4.jpg" prev3url="images/Спуск с Айюлю 13_o_preview_3.jpg" prev2url="images/Спуск с Айюлю 13_o_preview_2.jpg" prev1url="images/Спуск с Айюлю 13_o_preview_1.jpg" prev0url="images/Спуск с Айюлю 13_o_preview_0.jpg" tile5url="images/Спуск с Айюлю 13_o_5.jpg" tilesize="2250" tile4url="images/Спуск с Айюлю 13_o_4.jpg" tile3url="images/Спуск с Айюлю 13_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Спуск с Айюлю 13_o_2.jpg" tile1url="images/Спуск с Айюлю 13_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:03 19:57:26" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Долина Псыша" target="31.5/-1.5/65" pan="39.0168" skinid="hotspot" url="{node16}" id="Point01" tilt="-3.35544"/>
+      <hotspot title="" target="203/11.5/65" pan="-141.636" skinid="hs_no_title" url="{node14}" id="Point02" tilt="-6.07823"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Спуск с Айюлю 14_o_0.jpg" prev5url="images/Спуск с Айюлю 14_o_preview_5.jpg" prev4url="images/Спуск с Айюлю 14_o_preview_4.jpg" prev3url="images/Спуск с Айюлю 14_o_preview_3.jpg" prev2url="images/Спуск с Айюлю 14_o_preview_2.jpg" prev1url="images/Спуск с Айюлю 14_o_preview_1.jpg" prev0url="images/Спуск с Айюлю 14_o_preview_0.jpg" tile5url="images/Спуск с Айюлю 14_o_5.jpg" tilesize="2250" tile4url="images/Спуск с Айюлю 14_o_4.jpg" tile3url="images/Спуск с Айюлю 14_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Спуск с Айюлю 14_o_2.jpg" tile1url="images/Спуск с Айюлю 14_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:02 06:23:28" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="170/1/65" pan="53.2443" skinid="hs_no_title" url="{node17}" id="Point01" tilt="-6.64328"/>
+      <hotspot title="" target="212/5/65" pan="-140.02" skinid="hs_no_title" url="{node15}" id="Point02" tilt="-0.297281"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Долина Псыша 15_o_0.jpg" prev5url="images/Долина Псыша 15_o_preview_5.jpg" prev4url="images/Долина Псыша 15_o_preview_4.jpg" prev3url="images/Долина Псыша 15_o_preview_3.jpg" prev2url="images/Долина Псыша 15_o_preview_2.jpg" prev1url="images/Долина Псыша 15_o_preview_1.jpg" prev0url="images/Долина Псыша 15_o_preview_0.jpg" tile5url="images/Долина Псыша 15_o_5.jpg" tilesize="2250" tile4url="images/Долина Псыша 15_o_4.jpg" tile3url="images/Долина Псыша 15_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Долина Псыша 15_o_2.jpg" tile1url="images/Долина Псыша 15_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:03 20:42:49" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Поляна Таулу" target="" pan="153.23" skinid="hotspot" url="{node18}" id="Point01" tilt="-3.27394"/>
+      <hotspot title="" target="242.5/3/65" pan="-8.62269" skinid="hs_no_title" url="{node16}" id="Point02" tilt="-1.57329"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Долина Псыша 16_o_0.jpg" prev5url="images/Долина Псыша 16_o_preview_5.jpg" prev4url="images/Долина Псыша 16_o_preview_4.jpg" prev3url="images/Долина Псыша 16_o_preview_3.jpg" prev2url="images/Долина Псыша 16_o_preview_2.jpg" prev1url="images/Долина Псыша 16_o_preview_1.jpg" prev0url="images/Долина Псыша 16_o_preview_0.jpg" tile5url="images/Долина Псыша 16_o_5.jpg" tilesize="2250" tile4url="images/Долина Псыша 16_o_4.jpg" tile3url="images/Долина Псыша 16_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Долина Псыша 16_o_2.jpg" tile1url="images/Долина Псыша 16_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18">
+    <view fovmode="0" pannorth="0">
+      <start pan="195" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Долина Дукки" target="0/0/65" pan="-174.305" skinid="hotspot" url="{node1}" id="Point01" tilt="-0.6442790000000001"/>
+      <hotspot title="Долина Псыша" target="340/3/65" pan="-144.616" skinid="hotspot" url="{node17}" id="Point02" tilt="-0.413756"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Поляна Таулу 17_o_0.jpg" prev5url="images/Поляна Таулу 17_o_preview_5.jpg" prev4url="images/Поляна Таулу 17_o_preview_4.jpg" prev3url="images/Поляна Таулу 17_o_preview_3.jpg" prev2url="images/Поляна Таулу 17_o_preview_2.jpg" prev1url="images/Поляна Таулу 17_o_preview_1.jpg" prev0url="images/Поляна Таулу 17_o_preview_0.jpg" tile5url="images/Поляна Таулу 17_o_5.jpg" tilesize="2250" tile4url="images/Поляна Таулу 17_o_4.jpg" tile3url="images/Поляна Таулу 17_o_3.jpg" tilescale="1.004444444444445" tile2url="images/Поляна Таулу 17_o_2.jpg" tile1url="images/Поляна Таулу 17_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="10.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
