@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
-// Filename: simplex krpano strelka.ggsk
-// Generated Вс 12. май 10:36:44 2019
+// Filename: simplex krpano strelka no info 2019.ggsk
+// Generated Вс 12. май 10:54:07 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -498,93 +498,13 @@ function pano2vrSkin(player,base) {
 		this._tt_autorotate.appendChild(this._tt_autorotate_white);
 		this._autorotate.appendChild(this._tt_autorotate);
 		this._controller.appendChild(this._autorotate);
-		this._info=document.createElement('div');
-		this._info.ggId='info';
-		this._info.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._info.ggVisible=true;
-		this._info.className='ggskin ggskin_svg';
-		hs ='position:absolute;';
-		hs+='left: 190px;';
-		hs+='top:  10px;';
-		hs+='width: 32px;';
-		hs+='height: 32px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='cursor: pointer;';
-		this._info.setAttribute('style',hs);
-		this._info__img=document.createElement('img');
-		this._info__img.setAttribute('src',basePath + 'images/info.svg');
-		this._info__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 32px;height: 32px;-webkit-user-drag:none;');
-		this._info__img['ondragstart']=function() { return false; };
-		this._info.appendChild(this._info__img);
-		this._info.onclick=function () {
-			flag=(me._userdata.style.visibility=='hidden');
-			me._userdata.style[domTransition]='none';
-			me._userdata.style.visibility=flag?'inherit':'hidden';
-			me._userdata.ggVisible=flag;
-		}
-		this._info.onmouseover=function () {
-			me._tt_info.style[domTransition]='none';
-			me._tt_info.style.visibility='inherit';
-			me._tt_info.ggVisible=true;
-			me._info__img.src=basePath + 'images/info__o.svg';
-		}
-		this._info.onmouseout=function () {
-			me._tt_info.style[domTransition]='none';
-			me._tt_info.style.visibility='hidden';
-			me._tt_info.ggVisible=false;
-			me._info__img.src=basePath + 'images/info.svg';
-		}
-		this._tt_info=document.createElement('div');
-		this._tt_info.ggId='tt_info';
-		this._tt_info.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._tt_info.ggVisible=false;
-		this._tt_info.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: -55px;';
-		hs+='top:  36px;';
-		hs+='width: 150px;';
-		hs+='height: 18px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: hidden;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #000000;';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._tt_info.setAttribute('style',hs);
-		this._tt_info.innerHTML="Show Information";
-		this._tt_info_white=document.createElement('div');
-		this._tt_info_white.ggId='tt_info_white';
-		this._tt_info_white.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._tt_info_white.ggVisible=true;
-		this._tt_info_white.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: -1px;';
-		hs+='top:  -1px;';
-		hs+='width: 150px;';
-		hs+='height: 18px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._tt_info_white.setAttribute('style',hs);
-		this._tt_info_white.innerHTML="Show Information";
-		this._tt_info.appendChild(this._tt_info_white);
-		this._info.appendChild(this._tt_info);
-		this._controller.appendChild(this._info);
 		this._movemode=document.createElement('div');
 		this._movemode.ggId='movemode';
 		this._movemode.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._movemode.ggVisible=true;
 		this._movemode.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 220px;';
+		hs+='left: 190px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -661,7 +581,7 @@ function pano2vrSkin(player,base) {
 		this._fullscreen.ggVisible=true;
 		this._fullscreen.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 250px;';
+		hs+='left: 221px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -844,211 +764,6 @@ function pano2vrSkin(player,base) {
 		this._loadingbar.setAttribute('style',hs);
 		this._loading.appendChild(this._loadingbar);
 		this.divSkin.appendChild(this._loading);
-		this._userdata=document.createElement('div');
-		this._userdata.ggId='userdata';
-		this._userdata.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._userdata.ggVisible=false;
-		this._userdata.className='ggskin ggskin_container';
-		this._userdata.ggUpdatePosition=function() {
-			this.style[domTransition]='none';
-			if (this.parentNode) {
-				w=this.parentNode.offsetWidth;
-				this.style.left=(-120 + w/2) + 'px';
-				h=this.parentNode.offsetHeight;
-				this.style.top=(-80 + h/2) + 'px';
-			}
-		}
-		hs ='position:absolute;';
-		hs+='left: -120px;';
-		hs+='top:  -80px;';
-		hs+='width: 240px;';
-		hs+='height: 140px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: hidden;';
-		this._userdata.setAttribute('style',hs);
-		this._userdata.onclick=function () {
-			me._userdata.style[domTransition]='none';
-			me._userdata.style.visibility='hidden';
-			me._userdata.ggVisible=false;
-		}
-		this._userdatabg=document.createElement('div');
-		this._userdatabg.ggId='userdatabg';
-		this._userdatabg.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._userdatabg.ggVisible=true;
-		this._userdatabg.className='ggskin ggskin_rectangle';
-		hs ='position:absolute;';
-		hs+='left: 0px;';
-		hs+='top:  0px;';
-		hs+='width: 240px;';
-		hs+='height: 140px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='opacity: 0.5;';
-		hs+='visibility: inherit;';
-		hs+='background: #000000;';
-		hs+='border: 0px solid #000000;';
-		hs+='border-radius: 10px;';
-		hs+=cssPrefix + 'border-radius: 10px;';
-		this._userdatabg.setAttribute('style',hs);
-		this._userdata.appendChild(this._userdatabg);
-		this._userdatabrd=document.createElement('div');
-		this._userdatabrd.ggId='userdatabrd';
-		this._userdatabrd.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._userdatabrd.ggVisible=true;
-		this._userdatabrd.className='ggskin ggskin_rectangle';
-		hs ='position:absolute;';
-		hs+='left: -1px;';
-		hs+='top:  -1px;';
-		hs+='width: 238px;';
-		hs+='height: 138px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='opacity: 0.5;';
-		hs+='visibility: inherit;';
-		hs+='border: 2px solid #ffffff;';
-		hs+='border-radius: 10px;';
-		hs+=cssPrefix + 'border-radius: 10px;';
-		this._userdatabrd.setAttribute('style',hs);
-		this._userdata.appendChild(this._userdatabrd);
-		this._title=document.createElement('div');
-		this._title.ggId='title';
-		this._title.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._title.ggVisible=true;
-		this._title.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  10px;';
-		hs+='width: 220px;';
-		hs+='height: 20px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._title.setAttribute('style',hs);
-		this._title.ggUpdateText=function() {
-			var hs="<b>"+me.player.userdata.title+"<\/b>";
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.innerHTML=hs;
-			}
-		}
-		this._title.ggUpdateText();
-		this._userdata.appendChild(this._title);
-		this._description=document.createElement('div');
-		this._description.ggId='description';
-		this._description.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._description.ggVisible=true;
-		this._description.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  30px;';
-		hs+='width: 220px;';
-		hs+='height: 20px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._description.setAttribute('style',hs);
-		this._description.ggUpdateText=function() {
-			var hs=me.player.userdata.description;
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.innerHTML=hs;
-			}
-		}
-		this._description.ggUpdateText();
-		this._userdata.appendChild(this._description);
-		this._author=document.createElement('div');
-		this._author.ggId='author';
-		this._author.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._author.ggVisible=true;
-		this._author.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  50px;';
-		hs+='width: 220px;';
-		hs+='height: 20px;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._author.setAttribute('style',hs);
-		this._author.ggUpdateText=function() {
-			var hs=me.player.userdata.author;
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.innerHTML=hs;
-			}
-		}
-		this._author.ggUpdateText();
-		this._userdata.appendChild(this._author);
-		this._datetime=document.createElement('div');
-		this._datetime.ggId='datetime';
-		this._datetime.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._datetime.ggVisible=true;
-		this._datetime.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  70px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._datetime.setAttribute('style',hs);
-		this._datetime.ggUpdateText=function() {
-			var hs=me.player.userdata.datetime;
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.innerHTML=hs;
-			}
-		}
-		this._datetime.ggUpdateText();
-		this._userdata.appendChild(this._datetime);
-		this._copyright=document.createElement('div');
-		this._copyright.ggId='copyright';
-		this._copyright.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._copyright.ggVisible=true;
-		this._copyright.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  110px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._copyright.setAttribute('style',hs);
-		this._copyright.ggUpdateText=function() {
-			var hs="&#169; "+me.player.userdata.copyright;
-			if (hs!=this.ggText) {
-				this.ggText=hs;
-				this.innerHTML=hs;
-			}
-		}
-		this._copyright.ggUpdateText();
-		this._userdata.appendChild(this._copyright);
-		this.divSkin.appendChild(this._userdata);
 		this.divSkin.ggUpdateSize=function(w,h) {
 			me.updateSize(me.divSkin);
 		}
@@ -1145,11 +860,6 @@ function pano2vrSkin(player,base) {
 		}
 		hs+='scale(' + (1 * me.player.getPercentLoaded() + 0) + ',1.0) ';
 		me._loadingbar.style[domTransform]=hs;
-		this._title.ggUpdateText();
-		this._description.ggUpdateText();
-		this._author.ggUpdateText();
-		this._datetime.ggUpdateText();
-		this._copyright.ggUpdateText();
 	};
 	function SkinHotspotClass(skinObj,hotspot) {
 		var me=this;
