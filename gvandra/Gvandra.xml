@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="162.5" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:25 11:22:55" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="176.5/11/65" pan="149.64" skinid="hs_no_title" url="{node2}" id="Point01" tilt="-1.59221"/>
+      <hotspot title="Валун-мост в теснине Кубани" target="20/-37.5/65" pan="-45.2946" skinid="hotspot" url="{node13}" id="Point02" tilt="-1.67214"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Учкулан-2_o_0.jpg" prev5url="images/Учкулан-2_o_preview_5.jpg" prev4url="images/Учкулан-2_o_preview_4.jpg" prev3url="images/Учкулан-2_o_preview_3.jpg" prev2url="images/Учкулан-2_o_preview_2.jpg" prev1url="images/Учкулан-2_o_preview_1.jpg" prev0url="images/Учкулан-2_o_preview_0.jpg" tile5url="images/Учкулан-2_o_5.jpg" tilesize="2200" tile4url="images/Учкулан-2_o_4.jpg" tile3url="images/Учкулан-2_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Учкулан-2_o_2.jpg" tile1url="images/Учкулан-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Учкулан" target="" pan="2.52066" skinid="hotspot" url="{node1}" id="Point01" tilt="-11.265"/>
+      <hotspot title="" target="219.5/6/65" pan="164.656" skinid="hs_no_title" url="{node4}" id="Point02" tilt="7.49103"/>
+      <polyhotspot title="г. Гвандра" target="" url="" id="Poly01">
+        <vertex pan="169.422" tilt="19.0648"/>
+        <vertex pan="167.83" tilt="20.9777"/>
+        <vertex pan="165.67" tilt="21.667"/>
+        <vertex pan="162.546" tilt="25.2699"/>
+        <vertex pan="156.238" tilt="26.4729"/>
+        <vertex pan="152.208" tilt="25.1857"/>
+        <vertex pan="147.288" tilt="26.9036"/>
+        <vertex pan="145.438" tilt="26.871"/>
+        <vertex pan="141.378" tilt="27.9533"/>
+        <vertex pan="136.78" tilt="26.8249"/>
+        <vertex pan="132.272" tilt="27.5947"/>
+        <vertex pan="131.136" tilt="26.0711"/>
+        <vertex pan="137.867" tilt="22.8499"/>
+        <vertex pan="143.076" tilt="20.8633"/>
+        <vertex pan="148.487" tilt="20.543"/>
+        <vertex pan="151.32" tilt="19.7437"/>
+        <vertex pan="152.94" tilt="18.2879"/>
+        <vertex pan="155.517" tilt="19.1354"/>
+        <vertex pan="158.481" tilt="18.9042"/>
+        <vertex pan="160.075" tilt="18.0743"/>
+        <vertex pan="162.76" tilt="17.6659"/>
+        <vertex pan="166.017" tilt="17.3138"/>
+        <vertex pan="167.959" tilt="18.1326"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ночевка на склонах Гвандры_o_0.jpg" prev5url="images/Ночевка на склонах Гвандры_o_preview_5.jpg" prev4url="images/Ночевка на склонах Гвандры_o_preview_4.jpg" prev3url="images/Ночевка на склонах Гвандры_o_preview_3.jpg" prev2url="images/Ночевка на склонах Гвандры_o_preview_2.jpg" prev1url="images/Ночевка на склонах Гвандры_o_preview_1.jpg" prev0url="images/Ночевка на склонах Гвандры_o_preview_0.jpg" tile5url="images/Ночевка на склонах Гвандры_o_5.jpg" tilesize="2200" tile4url="images/Ночевка на склонах Гвандры_o_4.jpg" tile3url="images/Ночевка на склонах Гвандры_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Ночевка на склонах Гвандры_o_2.jpg" tile1url="images/Ночевка на склонах Гвандры_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Малая Гвандра" target="104.5/-10/65" pan="-113.444" skinid="hotspot" url="{node5}" id="Point02" tilt="10.1771"/>
+      <hotspot title="" target="0/0/65" pan="76.9973" skinid="hs_no_title" url="{node2}" id="Point" tilt="-9.19116"/>
+      <polyhotspot title="г. Гвандра" target="" url="" id="Poly01">
+        <vertex pan="-115.472" tilt="14.6647"/>
+        <vertex pan="-117.583" tilt="17.947"/>
+        <vertex pan="-122.806" tilt="23.0284"/>
+        <vertex pan="-124.366" tilt="24.4395"/>
+        <vertex pan="-127.592" tilt="23.8141"/>
+        <vertex pan="-130.764" tilt="24.5718"/>
+        <vertex pan="-134.422" tilt="25.1319"/>
+        <vertex pan="-137.824" tilt="24.9568"/>
+        <vertex pan="-140.928" tilt="24.0067"/>
+        <vertex pan="-143.294" tilt="23.3721"/>
+        <vertex pan="-149.318" tilt="24.7111"/>
+        <vertex pan="-154.077" tilt="25.48"/>
+        <vertex pan="-157.493" tilt="25.3545"/>
+        <vertex pan="-160.157" tilt="26.5172"/>
+        <vertex pan="-165.208" tilt="24.4134"/>
+        <vertex pan="-169.464" tilt="24.7676"/>
+        <vertex pan="178.537" tilt="20.6464"/>
+        <vertex pan="176.26" tilt="19.7433"/>
+        <vertex pan="166.483" tilt="20.2015"/>
+        <vertex pan="161.179" tilt="20.855"/>
+        <vertex pan="155.6" tilt="20.7642"/>
+        <vertex pan="148.967" tilt="21.5819"/>
+        <vertex pan="143.071" tilt="19.8482"/>
+        <vertex pan="138.498" tilt="20.5892"/>
+        <vertex pan="136.853" tilt="20.2165"/>
+        <vertex pan="132.464" tilt="17.1048"/>
+        <vertex pan="131.34" tilt="16.2801"/>
+        <vertex pan="130.823" tilt="14.2916"/>
+        <vertex pan="131.087" tilt="12.7618"/>
+        <vertex pan="131.746" tilt="10.8906"/>
+        <vertex pan="134.203" tilt="9.8569"/>
+        <vertex pan="135.784" tilt="10.299"/>
+        <vertex pan="137.905" tilt="10.2597"/>
+        <vertex pan="141.973" tilt="9.619669999999999"/>
+        <vertex pan="146.739" tilt="9.377750000000001"/>
+        <vertex pan="151.216" tilt="9.637980000000001"/>
+        <vertex pan="155.025" tilt="9.59474"/>
+        <vertex pan="160.357" tilt="7.54096"/>
+        <vertex pan="166.902" tilt="7.72512"/>
+        <vertex pan="175.177" tilt="8.015090000000001"/>
+        <vertex pan="-174.854" tilt="9.01651"/>
+        <vertex pan="-166.428" tilt="6.85368"/>
+        <vertex pan="-162.841" tilt="5.74998"/>
+        <vertex pan="-157.377" tilt="5.94721"/>
+        <vertex pan="-149.814" tilt="6.77258"/>
+        <vertex pan="-144.966" tilt="9.381169999999999"/>
+        <vertex pan="-141.952" tilt="9.682"/>
+        <vertex pan="-138.623" tilt="10.7256"/>
+        <vertex pan="-135.514" tilt="12.3228"/>
+        <vertex pan="-132.077" tilt="12.9983"/>
+        <vertex pan="-127.817" tilt="14.007"/>
+        <vertex pan="-124.495" tilt="13.1545"/>
+        <vertex pan="-121.227" tilt="12.7896"/>
+        <vertex pan="-119.327" tilt="12.232"/>
+        <vertex pan="-117.541" tilt="13.6981"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Морена Гвандры 2_o_0.jpg" prev5url="images/Морена Гвандры 2_o_preview_5.jpg" prev4url="images/Морена Гвандры 2_o_preview_4.jpg" prev3url="images/Морена Гвандры 2_o_preview_3.jpg" prev2url="images/Морена Гвандры 2_o_preview_2.jpg" prev1url="images/Морена Гвандры 2_o_preview_1.jpg" prev0url="images/Морена Гвандры 2_o_preview_0.jpg" tile5url="images/Морена Гвандры 2_o_5.jpg" tilesize="2200" tile4url="images/Морена Гвандры 2_o_4.jpg" tile3url="images/Морена Гвандры 2_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Морена Гвандры 2_o_2.jpg" tile1url="images/Морена Гвандры 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:23 20:03:56" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="75.5/-9/65" pan="-149.875" skinid="hs_no_title" url="{node4}" id="Point01" tilt="-10.9902"/>
+      <hotspot title="" target="1.5/-4/65" pan="102.217" skinid="hs_no_title" url="{node6}" id="Point02" tilt="-22.2901"/>
+      <polyhotspot title="г. Далар" target="" url="" id="Poly02">
+        <vertex pan="67.0217" tilt="2.9833"/>
+        <vertex pan="64.8258" tilt="4.01012"/>
+        <vertex pan="61.0813" tilt="6.12305"/>
+        <vertex pan="58.1995" tilt="6.83161"/>
+        <vertex pan="55.9339" tilt="7.96246"/>
+        <vertex pan="54.3269" tilt="6.69537"/>
+        <vertex pan="52.3269" tilt="4.7719"/>
+        <vertex pan="51.6845" tilt="2.57651"/>
+        <vertex pan="51.8655" tilt="0.717612"/>
+        <vertex pan="53.9217" tilt="-1.16573"/>
+        <vertex pan="55.5014" tilt="-2.6387"/>
+        <vertex pan="57.4566" tilt="-2.43826"/>
+        <vertex pan="59.6732" tilt="-2.11834"/>
+        <vertex pan="63.0688" tilt="-2.14432"/>
+        <vertex pan="64.79389999999999" tilt="-2.3881"/>
+        <vertex pan="66.65519999999999" tilt="-1.57751"/>
+        <vertex pan="67.0136" tilt="0.765161"/>
+      </polyhotspot>
+      <polyhotspot title="г. Пирамида" target="" url="" id="Poly03">
+        <vertex pan="112.868" tilt="-9.63734"/>
+        <vertex pan="115.162" tilt="-6.02003"/>
+        <vertex pan="125.214" tilt="5.31338"/>
+        <vertex pan="134.525" tilt="11.9219"/>
+        <vertex pan="144.068" tilt="27.2341"/>
+        <vertex pan="160.733" tilt="29.9057"/>
+        <vertex pan="172.574" tilt="22.7723"/>
+        <vertex pan="175.881" tilt="17.3167"/>
+        <vertex pan="-179.153" tilt="12.3299"/>
+        <vertex pan="-166.808" tilt="5.21925"/>
+        <vertex pan="-160.209" tilt="-1.53739"/>
+        <vertex pan="-160.073" tilt="-5.16536"/>
+        <vertex pan="-171.45" tilt="-4.90108"/>
+        <vertex pan="-177.116" tilt="-4.88804"/>
+        <vertex pan="127.907" tilt="-14.017"/>
+        <vertex pan="115.77" tilt="-14.7667"/>
+      </polyhotspot>
+      <polyhotspot title="г. Трапеция" target="" url="" id="Poly04">
+        <vertex pan="98.3344" tilt="-7.64878"/>
+        <vertex pan="92.74169999999999" tilt="-1.99291"/>
+        <vertex pan="87.7533" tilt="1.15988"/>
+        <vertex pan="83.96429999999999" tilt="2.98848"/>
+        <vertex pan="81.1776" tilt="5.91813"/>
+        <vertex pan="77.2701" tilt="6.48436"/>
+        <vertex pan="72.384" tilt="0.715511"/>
+        <vertex pan="66.01690000000001" tilt="-6.74331"/>
+        <vertex pan="67.24800000000001" tilt="-7.93195"/>
+        <vertex pan="71.7916" tilt="-8.723739999999999"/>
+      </polyhotspot>
+      <polyhotspot title="г. Гвандра" target="" url="" id="Poly01">
+        <vertex pan="-58.9013" tilt="17.876"/>
+        <vertex pan="-69.1267" tilt="22.1267"/>
+        <vertex pan="-80.85890000000001" tilt="24.3867"/>
+        <vertex pan="-87.3629" tilt="21.8234"/>
+        <vertex pan="-92.52840000000001" tilt="16.6289"/>
+        <vertex pan="-95.9936" tilt="13.8207"/>
+        <vertex pan="-99.9566" tilt="12.5778"/>
+        <vertex pan="-103.026" tilt="11.9311"/>
+        <vertex pan="-107.496" tilt="9.300179999999999"/>
+        <vertex pan="-109.396" tilt="7.87733"/>
+        <vertex pan="-112.32" tilt="6.11568"/>
+        <vertex pan="-114.877" tilt="5.25566"/>
+        <vertex pan="-119.487" tilt="-0.880473"/>
+        <vertex pan="-118.586" tilt="-2.00965"/>
+        <vertex pan="-115.166" tilt="-0.924383"/>
+        <vertex pan="-111.449" tilt="-1.96293"/>
+        <vertex pan="-105.976" tilt="-0.894667"/>
+        <vertex pan="-103.82" tilt="-4.59252"/>
+        <vertex pan="-96.22490000000001" tilt="-4.22587"/>
+        <vertex pan="-89.20990000000001" tilt="-2.1944"/>
+        <vertex pan="-79.6116" tilt="1.88999"/>
+        <vertex pan="-74.79340000000001" tilt="1.86975"/>
+        <vertex pan="-68.88800000000001" tilt="4.51019"/>
+        <vertex pan="-67.4725" tilt="4.58951"/>
+        <vertex pan="-64.9791" tilt="7.06902"/>
+        <vertex pan="-62.4192" tilt="7.93564"/>
+        <vertex pan="-61.652" tilt="8.6554"/>
+        <vertex pan="-60.3183" tilt="12.899"/>
+        <vertex pan="-58.8323" tilt="16.2742"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Mal Gvandra_o_0.jpg" prev5url="images/Mal Gvandra_o_preview_5.jpg" prev4url="images/Mal Gvandra_o_preview_4.jpg" prev3url="images/Mal Gvandra_o_preview_3.jpg" prev2url="images/Mal Gvandra_o_preview_2.jpg" prev1url="images/Mal Gvandra_o_preview_1.jpg" prev0url="images/Mal Gvandra_o_preview_0.jpg" tile5url="images/Mal Gvandra_o_5.jpg" tilesize="2200" tile4url="images/Mal Gvandra_o_4.jpg" tile3url="images/Mal Gvandra_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Mal Gvandra_o_2.jpg" tile1url="images/Mal Gvandra_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Малая Гвандра" target="225.5/-12/65" pan="-132.005" skinid="hotspot" url="{node5}" id="Point02" tilt="24.3946"/>
+      <hotspot title="Долина Мырды" target="176/5.5/65" pan="80.02240000000001" skinid="hotspot" url="{node8}" id="Point01" tilt="-23.5935"/>
+      <polyhotspot title="г. Кирпич" target="" url="" id="Poly01">
+        <vertex pan="7.08908" tilt="8.43327"/>
+        <vertex pan="4.06265" tilt="12.0765"/>
+        <vertex pan="2.13548" tilt="12.5888"/>
+        <vertex pan="0.984132" tilt="14.692"/>
+        <vertex pan="-1.32027" tilt="15.1962"/>
+        <vertex pan="-3.76202" tilt="16.5358"/>
+        <vertex pan="-4.46612" tilt="19.5786"/>
+        <vertex pan="-6.33325" tilt="21.3241"/>
+        <vertex pan="-9.482749999999999" tilt="21.5165"/>
+        <vertex pan="-12.2692" tilt="22.8409"/>
+        <vertex pan="-14.4566" tilt="23.9173"/>
+        <vertex pan="-17.0726" tilt="25.2785"/>
+        <vertex pan="-19.6584" tilt="24.5319"/>
+        <vertex pan="-25.9716" tilt="20.1285"/>
+        <vertex pan="-29.097" tilt="16.4602"/>
+        <vertex pan="-32.0093" tilt="12.5573"/>
+        <vertex pan="-34.0126" tilt="12.3559"/>
+        <vertex pan="-37.4079" tilt="9.74075"/>
+        <vertex pan="-38.8171" tilt="8.24024"/>
+        <vertex pan="-36.7582" tilt="5.19257"/>
+        <vertex pan="-32.4935" tilt="3.91478"/>
+        <vertex pan="-25.9209" tilt="1.76224"/>
+        <vertex pan="-19.4639" tilt="0.435539"/>
+        <vertex pan="-12.9072" tilt="-0.0259993"/>
+        <vertex pan="-7.26412" tilt="-0.851368"/>
+        <vertex pan="-1.85195" tilt="-2.84218"/>
+        <vertex pan="0.941229" tilt="-3.64101"/>
+        <vertex pan="4.48018" tilt="-2.56326"/>
+        <vertex pan="6.9119" tilt="1.91277"/>
+        <vertex pan="8.424189999999999" tilt="5.16145"/>
+        <vertex pan="8.532880000000001" tilt="5.15866"/>
+      </polyhotspot>
+      <polyhotspot title="г. Далар" target="" url="" id="Poly02">
+        <vertex pan="30.9212" tilt="10.9436"/>
+        <vertex pan="27.8791" tilt="11.5682"/>
+        <vertex pan="24.5586" tilt="13.6282"/>
+        <vertex pan="20.8469" tilt="14.7124"/>
+        <vertex pan="20.0184" tilt="16.2287"/>
+        <vertex pan="17.9091" tilt="17.1443"/>
+        <vertex pan="15.9667" tilt="16.2725"/>
+        <vertex pan="15.3105" tilt="15.1628"/>
+        <vertex pan="11.8573" tilt="13.7532"/>
+        <vertex pan="9.465809999999999" tilt="12.7559"/>
+        <vertex pan="7.50474" tilt="11.2534"/>
+        <vertex pan="6.6918" tilt="9.914730000000001"/>
+        <vertex pan="7.85223" tilt="7.60741"/>
+        <vertex pan="8.545450000000001" tilt="6.09979"/>
+        <vertex pan="9.006220000000001" tilt="4.82261"/>
+        <vertex pan="8.775980000000001" tilt="3.43428"/>
+        <vertex pan="11.8573" tilt="2.59518"/>
+        <vertex pan="16.1844" tilt="3.45034"/>
+        <vertex pan="21.2578" tilt="3.34851"/>
+        <vertex pan="23.0782" tilt="3.30553"/>
+        <vertex pan="25.814" tilt="3.97492"/>
+        <vertex pan="27.5092" tilt="5.26753"/>
+        <vertex pan="29.4229" tilt="7.20391"/>
+        <vertex pan="31.0945" tilt="8.37266"/>
+        <vertex pan="31.5249" tilt="9.61008"/>
+        <vertex pan="31.6105" tilt="9.69904"/>
+      </polyhotspot>
+      <polyhotspot title="г. Пирамида" target="" url="" id="Poly03">
+        <vertex pan="-130.131" tilt="36.2291"/>
+        <vertex pan="-131.486" tilt="39.5483"/>
+        <vertex pan="-134.081" tilt="44.5252"/>
+        <vertex pan="-137.774" tilt="46.1894"/>
+        <vertex pan="-139.986" tilt="49.8504"/>
+        <vertex pan="-143.505" tilt="51.1336"/>
+        <vertex pan="-146.743" tilt="54.7592"/>
+        <vertex pan="-152.772" tilt="56.4386"/>
+        <vertex pan="-161.271" tilt="57.2358"/>
+        <vertex pan="173.726" tilt="51.0309"/>
+        <vertex pan="168.749" tilt="49.2378"/>
+        <vertex pan="161.766" tilt="48.3372"/>
+        <vertex pan="154.464" tilt="47.4432"/>
+        <vertex pan="143.392" tilt="40.6061"/>
+        <vertex pan="136.608" tilt="38.9753"/>
+        <vertex pan="139.981" tilt="30.619"/>
+        <vertex pan="147.094" tilt="18.2944"/>
+        <vertex pan="155.029" tilt="18.7491"/>
+        <vertex pan="175.739" tilt="31.1649"/>
+        <vertex pan="-167.826" tilt="32.3197"/>
+        <vertex pan="-159.765" tilt="30.3545"/>
+        <vertex pan="-148.328" tilt="35.6084"/>
+        <vertex pan="-137.546" tilt="31.4871"/>
+        <vertex pan="-129.833" tilt="31.0673"/>
+      </polyhotspot>
+      <polyhotspot title="ледник Мырды" target="" url="" id="Poly04">
+        <vertex pan="-6.92124" tilt="-16.4524"/>
+        <vertex pan="-8.69848" tilt="-11.5494"/>
+        <vertex pan="-9.76357" tilt="-8.098560000000001"/>
+        <vertex pan="-14.5952" tilt="-4.46054"/>
+        <vertex pan="-19.6964" tilt="-0.92759"/>
+        <vertex pan="-20.7212" tilt="0.118158"/>
+        <vertex pan="-26.6083" tilt="1.58281"/>
+        <vertex pan="-36.8143" tilt="4.82297"/>
+        <vertex pan="-38.4597" tilt="6.79494"/>
+        <vertex pan="-45.3825" tilt="7.06036"/>
+        <vertex pan="-44.1332" tilt="5.05405"/>
+        <vertex pan="-40.7943" tilt="4.04062"/>
+        <vertex pan="-39.962" tilt="-1.01965"/>
+        <vertex pan="-36.4033" tilt="-2.84956"/>
+        <vertex pan="-34.3792" tilt="-2.683"/>
+        <vertex pan="-33.5046" tilt="-4.53616"/>
+        <vertex pan="-32.104" tilt="-5.23554"/>
+        <vertex pan="-31.3008" tilt="-7.22633"/>
+        <vertex pan="-30.271" tilt="-7.8214"/>
+        <vertex pan="-30.3864" tilt="-9.6614"/>
+        <vertex pan="-28.6146" tilt="-12.3667"/>
+        <vertex pan="-21.9096" tilt="-14.7318"/>
+        <vertex pan="-17.4259" tilt="-16.5614"/>
+        <vertex pan="-11.8957" tilt="-16.3568"/>
+      </polyhotspot>
+      <polyhotspot title="г. Трапеция" target="" url="" id="Poly05">
+        <vertex pan="55.5837" tilt="8.685969999999999"/>
+        <vertex pan="52.9848" tilt="11.2976"/>
+        <vertex pan="49.6781" tilt="12.5975"/>
+        <vertex pan="45.1642" tilt="16.7406"/>
+        <vertex pan="39.8333" tilt="15.7958"/>
+        <vertex pan="39.1355" tilt="14.7245"/>
+        <vertex pan="34.7636" tilt="14.4078"/>
+        <vertex pan="31.4541" tilt="11.3858"/>
+        <vertex pan="32.1149" tilt="9.987069999999999"/>
+        <vertex pan="31.4207" tilt="8.194620000000001"/>
+        <vertex pan="29.8158" tilt="4.90372"/>
+        <vertex pan="29.4383" tilt="1.26308"/>
+        <vertex pan="33.6124" tilt="-1.04213"/>
+        <vertex pan="41.2012" tilt="-2.94028"/>
+        <vertex pan="53.6864" tilt="-2.30675"/>
+        <vertex pan="60.8282" tilt="-1.00129"/>
+        <vertex pan="66.31999999999999" tilt="1.0789"/>
+        <vertex pan="61.9753" tilt="5.71917"/>
+        <vertex pan="59.4019" tilt="8.20941"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Спуск с Малой Гвандры_out_o_0.jpg" prev5url="images/Спуск с Малой Гвандры_out_o_preview_5.jpg" prev4url="images/Спуск с Малой Гвандры_out_o_preview_4.jpg" prev3url="images/Спуск с Малой Гвандры_out_o_preview_3.jpg" prev2url="images/Спуск с Малой Гвандры_out_o_preview_2.jpg" prev1url="images/Спуск с Малой Гвандры_out_o_preview_1.jpg" prev0url="images/Спуск с Малой Гвандры_out_o_preview_0.jpg" tile5url="images/Спуск с Малой Гвандры_out_o_5.jpg" tilesize="2200" tile4url="images/Спуск с Малой Гвандры_out_o_4.jpg" tile3url="images/Спуск с Малой Гвандры_out_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Спуск с Малой Гвандры_out_o_2.jpg" tile1url="images/Спуск с Малой Гвандры_out_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Альплагерь Узункол" target="0/0/65" pan="156.719" skinid="hotspot" url="{node9}" id="Point02" tilt="-11.229"/>
+      <polyhotspot title="г. Пирамида" target="" url="" id="Poly01">
+        <vertex pan="13.9858" tilt="13.6408"/>
+        <vertex pan="8.775980000000001" tilt="17.2354"/>
+        <vertex pan="1.76849" tilt="13.1439"/>
+        <vertex pan="4.23798" tilt="9.03936"/>
+        <vertex pan="9.121230000000001" tilt="5.85998"/>
+        <vertex pan="14.5397" tilt="4.72688"/>
+        <vertex pan="19.6008" tilt="9.521739999999999"/>
+        <vertex pan="15.5297" tilt="14.0837"/>
+      </polyhotspot>
+      <polyhotspot title="г. Узункол" target="" url="" id="Poly02">
+        <vertex pan="130.397" tilt="25.2803"/>
+        <vertex pan="128.451" tilt="26.5649"/>
+        <vertex pan="122.536" tilt="28.6511"/>
+        <vertex pan="118.923" tilt="28.7465"/>
+        <vertex pan="112.682" tilt="30.6393"/>
+        <vertex pan="108.239" tilt="31.2545"/>
+        <vertex pan="98.8151" tilt="32.6347"/>
+        <vertex pan="94.6844" tilt="32.8634"/>
+        <vertex pan="91.1989" tilt="34.3544"/>
+        <vertex pan="83.604" tilt="33.0516"/>
+        <vertex pan="78.70999999999999" tilt="30.0178"/>
+        <vertex pan="82.5926" tilt="27.7419"/>
+        <vertex pan="88.28140000000001" tilt="26.234"/>
+        <vertex pan="94.7508" tilt="25.3063"/>
+        <vertex pan="101.848" tilt="25.0805"/>
+        <vertex pan="108.953" tilt="25.2374"/>
+        <vertex pan="113.314" tilt="23.1019"/>
+        <vertex pan="115.334" tilt="21.8274"/>
+        <vertex pan="119.503" tilt="18.9681"/>
+        <vertex pan="121.079" tilt="22.1572"/>
+        <vertex pan="125.439" tilt="24.6513"/>
+        <vertex pan="128.584" tilt="22.1117"/>
+        <vertex pan="130.296" tilt="23.0532"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Мост через Мырды_o_0.jpg" prev5url="images/Мост через Мырды_o_preview_5.jpg" prev4url="images/Мост через Мырды_o_preview_4.jpg" prev3url="images/Мост через Мырды_o_preview_3.jpg" prev2url="images/Мост через Мырды_o_preview_2.jpg" prev1url="images/Мост через Мырды_o_preview_1.jpg" prev0url="images/Мост через Мырды_o_preview_0.jpg" tile5url="images/Мост через Мырды_o_5.jpg" tilesize="2200" tile4url="images/Мост через Мырды_o_4.jpg" tile3url="images/Мост через Мырды_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Мост через Мырды_o_2.jpg" tile1url="images/Мост через Мырды_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:23 06:44:29" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В кафе" target="226.5/-11/65" pan="156.905" skinid="hotspot" url="{node10}" id="Point01" tilt="-5.82516"/>
+      <hotspot title="Долина Мырды" target="0/0/65" pan="-8.12598" skinid="hotspot" url="{node8}" id="Point02" tilt="-4.44844"/>
+      <hotspot title="Талычат" target="62/0/65" pan="9.7708" skinid="hotspot" url="{node14}" id="Point03" tilt="-4.43677"/>
+      <polyhotspot title="г. Узункол" target="" url="" id="Poly01">
+        <vertex pan="22.5772" tilt="15.2559"/>
+        <vertex pan="12.8701" tilt="20.0122"/>
+        <vertex pan="7.62063" tilt="21.7451"/>
+        <vertex pan="4.94106" tilt="21.7455"/>
+        <vertex pan="-1.53281" tilt="20.4788"/>
+        <vertex pan="-7.96794" tilt="18.2226"/>
+        <vertex pan="-14.2077" tilt="13.736"/>
+        <vertex pan="-10.4953" tilt="11.4975"/>
+        <vertex pan="-7.38878" tilt="11.0311"/>
+        <vertex pan="-7.15669" tilt="8.88008"/>
+        <vertex pan="-2.23966" tilt="8.826919999999999"/>
+        <vertex pan="1.53281" tilt="8.60008"/>
+        <vertex pan="4.94106" tilt="11.9833"/>
+        <vertex pan="8.08357" tilt="9.31659"/>
+        <vertex pan="14.2077" tilt="10.4578"/>
+        <vertex pan="16.1844" tilt="11.0185"/>
+        <vertex pan="20.4338" tilt="13.9207"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Узункол_o_0.jpg" prev5url="images/Узункол_o_preview_5.jpg" prev4url="images/Узункол_o_preview_4.jpg" prev3url="images/Узункол_o_preview_3.jpg" prev2url="images/Узункол_o_preview_2.jpg" prev1url="images/Узункол_o_preview_1.jpg" prev0url="images/Узункол_o_preview_0.jpg" tile5url="images/Узункол_o_5.jpg" tilesize="2200" tile4url="images/Узункол_o_4.jpg" tile3url="images/Узункол_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Узункол_o_2.jpg" tile1url="images/Узункол_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="" pan="-60.2206" skinid="hs_no_title" url="{node9}" id="Point01" tilt="-18.9708"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/IMG_5738+ Panorama JPEG 2_out 2_o_0.jpg" prev5url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_5.jpg" prev4url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_4.jpg" prev3url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_3.jpg" prev2url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_2.jpg" prev1url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_1.jpg" prev0url="images/IMG_5738+ Panorama JPEG 2_out 2_o_preview_0.jpg" tile5url="images/IMG_5738+ Panorama JPEG 2_out 2_o_5.jpg" tilesize="2200" tile4url="images/IMG_5738+ Panorama JPEG 2_out 2_o_4.jpg" tile3url="images/IMG_5738+ Panorama JPEG 2_out 2_o_3.jpg" tilescale="1.004545454545455" tile2url="images/IMG_5738+ Panorama JPEG 2_out 2_o_2.jpg" tile1url="images/IMG_5738+ Panorama JPEG 2_out 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:23 20:51:11" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Малый Кичкинекол" target="271.5/0/65" pan="170.053" skinid="hotspot" url="{node11}" id="Point01" tilt="-6.29815"/>
+      <hotspot title="Альплагерь Узункол" target="0/0/65" pan="-61.6401" skinid="hotspot" url="{node9}" id="Point02" tilt="-13.2781"/>
+      <polyhotspot title="г. Узункол" target="" url="" id="Poly01">
+        <vertex pan="9.200010000000001" tilt="14.2542"/>
+        <vertex pan="-1.54907" tilt="16.7634"/>
+        <vertex pan="-4.59518" tilt="15.1965"/>
+        <vertex pan="-6.27224" tilt="15.7091"/>
+        <vertex pan="-10.9379" tilt="12.3351"/>
+        <vertex pan="-12.2305" tilt="13.1974"/>
+        <vertex pan="-15.7131" tilt="11.2504"/>
+        <vertex pan="-21.338" tilt="7.7417"/>
+        <vertex pan="-21.985" tilt="5.97367"/>
+        <vertex pan="-21.8538" tilt="3.89298"/>
+        <vertex pan="-18.0294" tilt="5.86543"/>
+        <vertex pan="-13.5829" tilt="6.95181"/>
+        <vertex pan="-11.766" tilt="3.92614"/>
+        <vertex pan="-8.19525" tilt="5.89113"/>
+        <vertex pan="-5.92325" tilt="7.30439"/>
+        <vertex pan="-3.15967" tilt="5.49455"/>
+        <vertex pan="-0.454867" tilt="5.76111"/>
+        <vertex pan="3.42951" tilt="6.39974"/>
+        <vertex pan="6.98693" tilt="7.88084"/>
+      </polyhotspot>
+      <polyhotspot title="г. Далар" target="" url="" id="Poly02">
+        <vertex pan="57.9952" tilt="13.4361"/>
+        <vertex pan="55.7752" tilt="16.241"/>
+        <vertex pan="50.1078" tilt="17.6269"/>
+        <vertex pan="45.2079" tilt="17.6566"/>
+        <vertex pan="43.2176" tilt="20.5582"/>
+        <vertex pan="40.804" tilt="20.7276"/>
+        <vertex pan="39.2657" tilt="18.2499"/>
+        <vertex pan="36.5615" tilt="18.253"/>
+        <vertex pan="35.7199" tilt="16.0737"/>
+        <vertex pan="34.4199" tilt="17.2148"/>
+        <vertex pan="31.9119" tilt="15.9177"/>
+        <vertex pan="30.595" tilt="11.2563"/>
+        <vertex pan="35.8018" tilt="9.46937"/>
+        <vertex pan="41.6084" tilt="10.0101"/>
+        <vertex pan="43.8499" tilt="8.338229999999999"/>
+        <vertex pan="44.2699" tilt="6.27671"/>
+        <vertex pan="46.5934" tilt="6.99583"/>
+        <vertex pan="49.602" tilt="7.43096"/>
+        <vertex pan="51.7071" tilt="8.74484"/>
+        <vertex pan="52.9695" tilt="10.7053"/>
+        <vertex pan="55.1671" tilt="11.1573"/>
+      </polyhotspot>
+      <polyhotspot title="г. Фильтр" target="" url="" id="Poly03">
+        <vertex pan="103.801" tilt="14.091"/>
+        <vertex pan="98.114" tilt="17.7029"/>
+        <vertex pan="88.5912" tilt="20.3412"/>
+        <vertex pan="82.8139" tilt="21.4468"/>
+        <vertex pan="76.8832" tilt="20.61"/>
+        <vertex pan="70.6283" tilt="19.4408"/>
+        <vertex pan="66.4742" tilt="17.3661"/>
+        <vertex pan="62.9307" tilt="14.2432"/>
+        <vertex pan="59.4683" tilt="11.1955"/>
+        <vertex pan="55.7346" tilt="8.04602"/>
+        <vertex pan="57.6638" tilt="6.56403"/>
+        <vertex pan="61.4948" tilt="5.30506"/>
+        <vertex pan="66.9391" tilt="5.03298"/>
+        <vertex pan="71.2885" tilt="5.30285"/>
+        <vertex pan="74.56270000000001" tilt="6.42103"/>
+        <vertex pan="79.6613" tilt="7.72129"/>
+        <vertex pan="82.4205" tilt="7.78941"/>
+        <vertex pan="88.04640000000001" tilt="9.63109"/>
+        <vertex pan="91.1422" tilt="9.88233"/>
+        <vertex pan="95.6704" tilt="10.3237"/>
+        <vertex pan="98.1544" tilt="10.2823"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Талычат_o_0.jpg" prev5url="images/Талычат_o_preview_5.jpg" prev4url="images/Талычат_o_preview_4.jpg" prev3url="images/Талычат_o_preview_3.jpg" prev2url="images/Талычат_o_preview_2.jpg" prev1url="images/Талычат_o_preview_1.jpg" prev0url="images/Талычат_o_preview_0.jpg" tile5url="images/Талычат_o_5.jpg" tilesize="2200" tile4url="images/Талычат_o_4.jpg" tile3url="images/Талычат_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Талычат_o_2.jpg" tile1url="images/Талычат_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="2019:05:23 18:45:58" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Талычат" target="342.5/0/65" pan="30.6254" skinid="hotspot" url="{node14}" id="Point01" tilt="-16.5847"/>
+      <hotspot title="Долина Чунгур-Джара" target="118.5/-8/65" pan="-99.858" skinid="hotspot" url="{node12}" id="Point02" tilt="-18.9775"/>
+      <hotspot title="Каменные ворота" target="" pan="165.813" skinid="hs_photo_4" url="" id="Point03" tilt="8.297140000000001"/>
+      <polyhotspot title="Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-85.5382" tilt="-0.821174"/>
+        <vertex pan="-87.0766" tilt="-1.59066"/>
+        <vertex pan="-89.2828" tilt="-0.821726"/>
+        <vertex pan="-90.154" tilt="-1.38492"/>
+        <vertex pan="-91.43429999999999" tilt="-0.71806"/>
+        <vertex pan="-92.91419999999999" tilt="-1.02328"/>
+        <vertex pan="-94.741" tilt="-1.68163"/>
+        <vertex pan="-95.9534" tilt="-1.16951"/>
+        <vertex pan="-97.20569999999999" tilt="-1.82322"/>
+        <vertex pan="-98.9958" tilt="-1.76283"/>
+        <vertex pan="-100.375" tilt="-1.40377"/>
+        <vertex pan="-101.883" tilt="-1.34543"/>
+        <vertex pan="-102.558" tilt="-1.34142"/>
+        <vertex pan="-103.42" tilt="-1.33603"/>
+        <vertex pan="-103.948" tilt="-0.346373"/>
+        <vertex pan="-103.808" tilt="0.147178"/>
+        <vertex pan="-99.8956" tilt="1.75717"/>
+        <vertex pan="-94.80240000000001" tilt="3.56566"/>
+        <vertex pan="-92.97369999999999" tilt="4.59732"/>
+        <vertex pan="-91.4408" tilt="5.42226"/>
+        <vertex pan="-90.6716" tilt="5.27316"/>
+        <vertex pan="-89.95310000000001" tilt="5.53085"/>
+        <vertex pan="-88.30840000000001" tilt="4.35881"/>
+        <vertex pan="-85.27889999999999" tilt="3.07487"/>
+        <vertex pan="-82.8261" tilt="2.19732"/>
+        <vertex pan="-83.9513" tilt="0.254983"/>
+        <vertex pan="-84.5652" tilt="-0.257149"/>
+      </polyhotspot>
+      <polyhotspot title="г. Чунгурбаши" target="" url="" id="Poly02">
+        <vertex pan="-144.714" tilt="1.86953"/>
+        <vertex pan="-149.86" tilt="6.17302"/>
+        <vertex pan="-156.784" tilt="5.99422"/>
+        <vertex pan="-163.047" tilt="8.340540000000001"/>
+        <vertex pan="-167.139" tilt="5.94627"/>
+        <vertex pan="-170.641" tilt="5.69552"/>
+        <vertex pan="-176.31" tilt="1.27362"/>
+        <vertex pan="-173.819" tilt="-2.0933"/>
+        <vertex pan="-169.161" tilt="-4.46479"/>
+        <vertex pan="-163.842" tilt="-6.35471"/>
+        <vertex pan="-159.01" tilt="-6.66721"/>
+        <vertex pan="-154.611" tilt="-6.70545"/>
+        <vertex pan="-153.953" tilt="-4.26818"/>
+        <vertex pan="-149.708" tilt="-4.53256"/>
+        <vertex pan="-146.372" tilt="-4.45063"/>
+        <vertex pan="-144.235" tilt="-1.75185"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Малый Кичкинекол_o_0.jpg" prev5url="images/Малый Кичкинекол_o_preview_5.jpg" prev4url="images/Малый Кичкинекол_o_preview_4.jpg" prev3url="images/Малый Кичкинекол_o_preview_3.jpg" prev2url="images/Малый Кичкинекол_o_preview_2.jpg" prev1url="images/Малый Кичкинекол_o_preview_1.jpg" prev0url="images/Малый Кичкинекол_o_preview_0.jpg" tile5url="images/Малый Кичкинекол_o_5.jpg" tilesize="2200" tile4url="images/Малый Кичкинекол_o_4.jpg" tile3url="images/Малый Кичкинекол_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Малый Кичкинекол_o_2.jpg" tile1url="images/Малый Кичкинекол_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Малый Кичкинекол" target="50/-3/65" pan="-84.1281" skinid="hotspot" url="{node11}" id="Point01" tilt="12.922"/>
+      <hotspot title="Валун-мост в теснине Кубани" target="21.5/-38.5/65" pan="162.326" skinid="hotspot" url="{node13}" id="Point02" tilt="-2.3795"/>
+      <polyhotspot title="ледник Чунгурджар" target="" url="" id="Poly01">
+        <vertex pan="20.6901" tilt="7.01451"/>
+        <vertex pan="9.518560000000001" tilt="6.52813"/>
+        <vertex pan="-0.243904" tilt="6.69595"/>
+        <vertex pan="-9.76764" tilt="7.01862"/>
+        <vertex pan="-12.4648" tilt="8.631970000000001"/>
+        <vertex pan="-10.0066" tilt="10.4103"/>
+        <vertex pan="-4.12906" tilt="10.9201"/>
+        <vertex pan="4.1289" tilt="11.2025"/>
+        <vertex pan="12.8731" tilt="11.3504"/>
+        <vertex pan="17.6856" tilt="10.2502"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ночевка под Малым Кичкинеколом_o_0.jpg" prev5url="images/Ночевка под Малым Кичкинеколом_o_preview_5.jpg" prev4url="images/Ночевка под Малым Кичкинеколом_o_preview_4.jpg" prev3url="images/Ночевка под Малым Кичкинеколом_o_preview_3.jpg" prev2url="images/Ночевка под Малым Кичкинеколом_o_preview_2.jpg" prev1url="images/Ночевка под Малым Кичкинеколом_o_preview_1.jpg" prev0url="images/Ночевка под Малым Кичкинеколом_o_preview_0.jpg" tile5url="images/Ночевка под Малым Кичкинеколом_o_5.jpg" tilesize="2200" tile4url="images/Ночевка под Малым Кичкинеколом_o_4.jpg" tile3url="images/Ночевка под Малым Кичкинеколом_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Ночевка под Малым Кичкинеколом_o_2.jpg" tile1url="images/Ночевка под Малым Кичкинеколом_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="" target="18/-5.5/65" pan="-134.157" skinid="hs_no_title" url="{node12}" id="Point01" tilt="1.31196"/>
+      <hotspot title="" target="" pan="-47.3074" skinid="hs_no_title" url="{node1}" id="Point02" tilt="7.29404"/>
+      <hotspot title="Как это выглядит отсюда" target="" pan="-144.719" skinid="hs_photo_3" url="" id="Point03" tilt="-1.20145"/>
+      <hotspot title="Как это выглядит отсюда" target="" pan="-60.8523" skinid="hs_photo_2" url="" id="Point04" tilt="14.4831"/>
+      <hotspot title="Как это выглядит отсюда" target="" pan="-8.464370000000001" skinid="hs_photo_1" url="" id="Point05" tilt="9.50296"/>
+      <polyhotspot title="р. Кубань" target="" url="" id="Poly01">
+        <vertex pan="26.0024" tilt="-65.1918"/>
+        <vertex pan="23.2181" tilt="-62.4604"/>
+        <vertex pan="16.5452" tilt="-56.0762"/>
+        <vertex pan="13.9788" tilt="-49.6927"/>
+        <vertex pan="13.081" tilt="-44.3397"/>
+        <vertex pan="10.2555" tilt="-39.4228"/>
+        <vertex pan="10.4711" tilt="-33.9807"/>
+        <vertex pan="11.5662" tilt="-30.4513"/>
+        <vertex pan="11.5195" tilt="-28.2588"/>
+        <vertex pan="11.4094" tilt="-26.8622"/>
+        <vertex pan="10.1374" tilt="-26.5844"/>
+        <vertex pan="9.04886" tilt="-27.4699"/>
+        <vertex pan="8.723330000000001" tilt="-28.8882"/>
+        <vertex pan="5.47674" tilt="-29.4632"/>
+        <vertex pan="4.53553" tilt="-30.6727"/>
+        <vertex pan="4.36247" tilt="-32.35"/>
+        <vertex pan="6.13811" tilt="-33.1518"/>
+        <vertex pan="6.42658" tilt="-35.0908"/>
+        <vertex pan="6.86976" tilt="-36.3555"/>
+        <vertex pan="7.62304" tilt="-37.5064"/>
+        <vertex pan="6.61591" tilt="-40.2017"/>
+        <vertex pan="5.20775" tilt="-41.9633"/>
+        <vertex pan="4.36185" tilt="-43.9576"/>
+        <vertex pan="3.92209" tilt="-47.1329"/>
+        <vertex pan="3.3471" tilt="-48.2967"/>
+        <vertex pan="3.35807" tilt="-51.6851"/>
+        <vertex pan="4.41263" tilt="-54.1274"/>
+        <vertex pan="7.06185" tilt="-57.1973"/>
+        <vertex pan="9.099489999999999" tilt="-58.9474"/>
+        <vertex pan="13.8054" tilt="-60.4015"/>
+        <vertex pan="16.5756" tilt="-61.3007"/>
+        <vertex pan="21.9318" tilt="-63.3691"/>
+        <vertex pan="22.6105" tilt="-64.24930000000001"/>
+      </polyhotspot>
+      <polyhotspot title="р. Кубань" target="" url="" id="Poly02">
+        <vertex pan="-154.584" tilt="-7.15439"/>
+        <vertex pan="-157.223" tilt="-6.98273"/>
+        <vertex pan="-156.858" tilt="-6.41663"/>
+        <vertex pan="-157.914" tilt="-4.56907"/>
+        <vertex pan="-156.476" tilt="-2.43559"/>
+        <vertex pan="-154.65" tilt="-1.99567"/>
+        <vertex pan="-153.704" tilt="-0.758426"/>
+        <vertex pan="-152.765" tilt="0.362136"/>
+        <vertex pan="-151.966" tilt="0.474573"/>
+        <vertex pan="-152.332" tilt="-0.535306"/>
+        <vertex pan="-154.082" tilt="-1.99859"/>
+        <vertex pan="-154.801" tilt="-3.12923"/>
+        <vertex pan="-154.875" tilt="-5.41752"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Камень-мост+0lights ++_o_0.jpg" prev5url="images/Камень-мост+0lights ++_o_preview_5.jpg" prev4url="images/Камень-мост+0lights ++_o_preview_4.jpg" prev3url="images/Камень-мост+0lights ++_o_preview_3.jpg" prev2url="images/Камень-мост+0lights ++_o_preview_2.jpg" prev1url="images/Камень-мост+0lights ++_o_preview_1.jpg" prev0url="images/Камень-мост+0lights ++_o_preview_0.jpg" tile5url="images/Камень-мост+0lights ++_o_5.jpg" tilesize="2200" tile4url="images/Камень-мост+0lights ++_o_4.jpg" tile3url="images/Камень-мост+0lights ++_o_3.jpg" tilescale="1.004545454545455" tile2url="images/Камень-мост+0lights ++_o_2.jpg" tile1url="images/Камень-мост+0lights ++_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="0" returntohorizon="0.100" delay="12.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
