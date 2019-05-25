@@ -685,7 +685,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="" target="18/-5.5/65" pan="-134.157" skinid="hs_no_title" url="{node12}" id="Point01" tilt="1.31196"/>
-      <hotspot title="" target="" pan="-47.3074" skinid="hs_no_title" url="{node1}" id="Point02" tilt="7.29404"/>
+      <hotspot title="" target="" pan="-45.3937" skinid="hs_no_title" url="{node1}" id="Point02" tilt="9.84867"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-144.719" skinid="hs_photo_3" url="" id="Point03" tilt="-1.20145"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-60.8523" skinid="hs_photo_2" url="" id="Point04" tilt="14.4831"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-8.464370000000001" skinid="hs_photo_1" url="" id="Point05" tilt="9.50296"/>
