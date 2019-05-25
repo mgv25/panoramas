@@ -550,27 +550,52 @@
         <vertex pan="55.1671" tilt="11.1573"/>
       </polyhotspot>
       <polyhotspot title="г. Фильтр" target="" url="" id="Poly03">
-        <vertex pan="103.801" tilt="14.091"/>
-        <vertex pan="98.114" tilt="17.7029"/>
-        <vertex pan="88.5912" tilt="20.3412"/>
-        <vertex pan="82.8139" tilt="21.4468"/>
-        <vertex pan="76.8832" tilt="20.61"/>
-        <vertex pan="70.6283" tilt="19.4408"/>
-        <vertex pan="66.4742" tilt="17.3661"/>
-        <vertex pan="62.9307" tilt="14.2432"/>
-        <vertex pan="59.4683" tilt="11.1955"/>
-        <vertex pan="55.7346" tilt="8.04602"/>
-        <vertex pan="57.6638" tilt="6.56403"/>
-        <vertex pan="61.4948" tilt="5.30506"/>
-        <vertex pan="66.9391" tilt="5.03298"/>
-        <vertex pan="71.2885" tilt="5.30285"/>
-        <vertex pan="74.56270000000001" tilt="6.42103"/>
-        <vertex pan="79.6613" tilt="7.72129"/>
-        <vertex pan="82.4205" tilt="7.78941"/>
-        <vertex pan="88.04640000000001" tilt="9.63109"/>
-        <vertex pan="91.1422" tilt="9.88233"/>
-        <vertex pan="95.6704" tilt="10.3237"/>
-        <vertex pan="98.1544" tilt="10.2823"/>
+        <vertex pan="103.234" tilt="13.5499"/>
+        <vertex pan="101" tilt="15.1034"/>
+        <vertex pan="98.0754" tilt="16.7113"/>
+        <vertex pan="94.7132" tilt="18.5956"/>
+        <vertex pan="90.30159999999999" tilt="19.4994"/>
+        <vertex pan="87.2483" tilt="20.2509"/>
+        <vertex pan="82.1266" tilt="20.3952"/>
+        <vertex pan="79.8818" tilt="20.1002"/>
+        <vertex pan="77.554" tilt="20.1298"/>
+        <vertex pan="73.8318" tilt="19.2541"/>
+        <vertex pan="71.8691" tilt="19.5024"/>
+        <vertex pan="69.1275" tilt="18.2797"/>
+        <vertex pan="68.03570000000001" tilt="15.9502"/>
+        <vertex pan="66.4983" tilt="14.3176"/>
+        <vertex pan="64.4757" tilt="11.908"/>
+        <vertex pan="61.4686" tilt="10.5724"/>
+        <vertex pan="57.2964" tilt="7.45757"/>
+        <vertex pan="57.5054" tilt="6.16905"/>
+        <vertex pan="61.4371" tilt="4.82167"/>
+        <vertex pan="65.9576" tilt="3.48297"/>
+        <vertex pan="70.21290000000001" tilt="3.56435"/>
+        <vertex pan="74.17440000000001" tilt="4.96457"/>
+        <vertex pan="77.37300000000001" tilt="6.65958"/>
+        <vertex pan="82.5432" tilt="7.45334"/>
+        <vertex pan="87.58969999999999" tilt="9.447380000000001"/>
+        <vertex pan="90.5907" tilt="9.238910000000001"/>
+        <vertex pan="94.96550000000001" tilt="10.0902"/>
+        <vertex pan="98.3064" tilt="10.6821"/>
+        <vertex pan="101.366" tilt="12.1018"/>
+      </polyhotspot>
+      <polyhotspot title="г. Замок" target="" url="" id="Poly04">
+        <vertex pan="68.0632" tilt="16.325"/>
+        <vertex pan="67.9478" tilt="16.0423"/>
+        <vertex pan="64.5889" tilt="12.2047"/>
+        <vertex pan="61.2563" tilt="10.6103"/>
+        <vertex pan="57.2196" tilt="7.51528"/>
+        <vertex pan="51.8091" tilt="8.76868"/>
+        <vertex pan="52.9666" tilt="10.5716"/>
+        <vertex pan="55.1929" tilt="11.0692"/>
+        <vertex pan="58.0337" tilt="13.3574"/>
+        <vertex pan="58.7751" tilt="14.9105"/>
+        <vertex pan="60.3896" tilt="15.7986"/>
+        <vertex pan="61.3734" tilt="17.9468"/>
+        <vertex pan="63.5491" tilt="18.1411"/>
+        <vertex pan="65.2723" tilt="17.0369"/>
+        <vertex pan="66.6191" tilt="17.1308"/>
       </polyhotspot>
     </hotspots>
     <media/>
@@ -685,7 +710,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="" target="18/-5.5/65" pan="-134.157" skinid="hs_no_title" url="{node12}" id="Point01" tilt="1.31196"/>
-      <hotspot title="" target="" pan="-45.3937" skinid="hs_no_title" url="{node1}" id="Point02" tilt="9.84867"/>
+      <hotspot title="" target="" pan="-47.3074" skinid="hs_no_title" url="{node1}" id="Point02" tilt="7.29404"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-144.719" skinid="hs_photo_3" url="" id="Point03" tilt="-1.20145"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-60.8523" skinid="hs_photo_2" url="" id="Point04" tilt="14.4831"/>
       <hotspot title="Как это выглядит отсюда" target="" pan="-8.464370000000001" skinid="hs_photo_1" url="" id="Point05" tilt="9.50296"/>
