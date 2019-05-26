@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex krpano strelka no info 2019 experiment.ggsk
-// Generated Вс 26. май 10:37:18 2019
+// Generated Вс 26. май 11:01:18 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -1049,10 +1049,10 @@ function pano2vrSkin(player,base) {
 		hs+='visibility: inherit;';
 		hs+='cursor: pointer;';
 		this._uchkulanmarker8.setAttribute('style',hs);
-		this._uchkulanmarker8.ggMarkerNodeId='{node4}';
+		this._uchkulanmarker8.ggMarkerNodeId='{node5}';
 		nodeMarker.push(this._uchkulanmarker8);
 		this._uchkulanmarker8.onclick=function () {
-			me.player.openNext('{node4}');
+			me.player.openNext('{node5}');
 		}
 		this.__618=document.createElement('div');
 		this.__618.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 61';
@@ -1697,10 +1697,10 @@ function pano2vrSkin(player,base) {
 		hs+='visibility: inherit;';
 		hs+='cursor: pointer;';
 		this._uchkulanmarker.setAttribute('style',hs);
-		this._uchkulanmarker.ggMarkerNodeId='{node14}';
+		this._uchkulanmarker.ggMarkerNodeId='{node13}';
 		nodeMarker.push(this._uchkulanmarker);
 		this._uchkulanmarker.onclick=function () {
-			me.player.openNext('{node14}');
+			me.player.openNext('{node13}');
 		}
 		this.__61=document.createElement('div');
 		this.__61.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 61';
