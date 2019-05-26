@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex krpano strelka no info 2019 experiment.ggsk
-// Generated Вс 26. май 11:01:18 2019
+// Generated Вс 26. май 11:26:18 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -901,6 +901,11 @@ function pano2vrSkin(player,base) {
 		this.__6110__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__6110__img);
 		this.__6110.appendChild(this.__6110__img);
+		this.__6110.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__6110.onmouseover=function () {
 			me._markertext10.style[domTransition]='none';
 			me._markertext10.style.visibility='inherit';
@@ -1001,6 +1006,11 @@ function pano2vrSkin(player,base) {
 		this.__619__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__619__img);
 		this.__619.appendChild(this.__619__img);
+		this.__619.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__619.onmouseover=function () {
 			me._markertext9.style[domTransition]='none';
 			me._markertext9.style.visibility='inherit';
@@ -1073,6 +1083,11 @@ function pano2vrSkin(player,base) {
 		this.__618__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__618__img);
 		this.__618.appendChild(this.__618__img);
+		this.__618.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__618.onmouseover=function () {
 			me._markertext8.style[domTransition]='none';
 			me._markertext8.style.visibility='inherit';
@@ -1145,6 +1160,11 @@ function pano2vrSkin(player,base) {
 		this.__617__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__617__img);
 		this.__617.appendChild(this.__617__img);
+		this.__617.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__617.onmouseover=function () {
 			me._markertext7.style[domTransition]='none';
 			me._markertext7.style.visibility='inherit';
@@ -1217,6 +1237,11 @@ function pano2vrSkin(player,base) {
 		this.__616__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__616__img);
 		this.__616.appendChild(this.__616__img);
+		this.__616.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__616.onmouseover=function () {
 			me._markertext6.style[domTransition]='none';
 			me._markertext6.style.visibility='inherit';
@@ -1289,6 +1314,11 @@ function pano2vrSkin(player,base) {
 		this.__615__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__615__img);
 		this.__615.appendChild(this.__615__img);
+		this.__615.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__615.onmouseover=function () {
 			me._markertext5.style[domTransition]='none';
 			me._markertext5.style.visibility='inherit';
@@ -1361,6 +1391,11 @@ function pano2vrSkin(player,base) {
 		this.__614__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__614__img);
 		this.__614.appendChild(this.__614__img);
+		this.__614.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__614.onmouseover=function () {
 			me._markertext4.style[domTransition]='none';
 			me._markertext4.style.visibility='inherit';
@@ -1433,6 +1468,11 @@ function pano2vrSkin(player,base) {
 		this.__613__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__613__img);
 		this.__613.appendChild(this.__613__img);
+		this.__613.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__613.onmouseover=function () {
 			me._markertext3.style[domTransition]='none';
 			me._markertext3.style.visibility='inherit';
@@ -1505,6 +1545,11 @@ function pano2vrSkin(player,base) {
 		this.__612__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__612__img);
 		this.__612.appendChild(this.__612__img);
+		this.__612.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__612.onmouseover=function () {
 			me._markertext2.style[domTransition]='none';
 			me._markertext2.style.visibility='inherit';
@@ -1577,6 +1622,11 @@ function pano2vrSkin(player,base) {
 		this.__611__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__611__img);
 		this.__611.appendChild(this.__611__img);
+		this.__611.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__611.onmouseover=function () {
 			me._markertext1.style[domTransition]='none';
 			me._markertext1.style.visibility='inherit';
@@ -1649,6 +1699,11 @@ function pano2vrSkin(player,base) {
 		this.__610__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__610__img);
 		this.__610.appendChild(this.__610__img);
+		this.__610.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__610.onmouseover=function () {
 			me._markertext0.style[domTransition]='none';
 			me._markertext0.style.visibility='inherit';
@@ -1721,6 +1776,11 @@ function pano2vrSkin(player,base) {
 		this.__61__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this.__61__img);
 		this.__61.appendChild(this.__61__img);
+		this.__61.onclick=function () {
+			me._map.style[domTransition]='none';
+			me._map.style.visibility='hidden';
+			me._map.ggVisible=false;
+		}
 		this.__61.onmouseover=function () {
 			me._markertext.style[domTransition]='none';
 			me._markertext.style.visibility='inherit';
