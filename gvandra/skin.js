@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex krpano strelka no info 2019 experiment.ggsk
-// Generated Вс 26. май 10:06:21 2019
+// Generated Вс 26. май 10:37:18 2019
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -858,7 +858,7 @@ function pano2vrSkin(player,base) {
 		hs+='visibility: hidden;';
 		this._map.setAttribute('style',hs);
 		this._map__img=document.createElement('img');
-		this._map__img.setAttribute('src',basePath + 'images/map.png');
+		this._map__img.setAttribute('src',basePath + 'images/map.jpg');
 		this._map__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 		this._map__img['ondragstart']=function() { return false; };
 		me.player.checkLoaded.push(this._map__img);
