@@ -465,7 +465,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Гора Семашхо" target="" pan="-102.609" skinid="hs_go" url="{node17}" id="Point02" tilt="-5.67185"/>
+      <hotspot title="Гора Семашхо" target="" pan="-101.903" skinid="hs_go" url="{node17}" id="Point02" tilt="-2.71272"/>
       <hotspot title="Два Брата" target="249/-2/65" pan="61.7577" skinid="hotspot" url="{node22}" id="Point03" tilt="2.14739"/>
       <hotspot title="Двубратский водопад" target="0/0/65" pan="14.3313" skinid="hotspot" url="{node24}" id="Point04" tilt="-20.5011"/>
       <hotspot title="Отрог Семашхо 2" target="" pan="-173.437" skinid="hs_go" url="{node25}" id="Point01" tilt="-7.64902"/>
@@ -740,7 +740,7 @@
   </panorama>
   <panorama id="node25" hideabout="1">
     <view fovmode="0" pannorth="6.5">
-      <start pan="0" fov="70" tilt="0"/>
+      <start pan="231" fov="70" tilt="-2"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
@@ -748,8 +748,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="172.228" skinid="hotspot" url="{node22}" id="Point01" tilt="5.55741"/>
-      <hotspot title="Гора Семашхо" target="349.5/-2/65" pan="92.7479" skinid="hs_go" url="{node17}" id="Point02" tilt="-2.29445"/>
+      <hotspot title="Два Брата" target="" pan="172.385" skinid="hotspot" url="{node22}" id="Point01" tilt="7.09371"/>
       <hotspot title="Отрог Семашхо" target="" pan="114.28" skinid="hs_go" url="{node16}" id="Point03" tilt="-9.30153"/>
     </hotspots>
     <media/>
@@ -788,7 +787,7 @@
       <hotspot title="Два Брата" target="" pan="-14.8927" skinid="hotspot" url="{node22}" id="Point01" tilt="15.9488"/>
       <hotspot title="Дольмены у Анастасиевки" target="" pan="147.86" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.33417"/>
       <hotspot title="Двубратский водопад" target="" pan="-0.156146" skinid="hotspot" url="{node24}" id="Point03" tilt="11.313"/>
-      <hotspot title="Скала Киселёва" target="" pan="88.1354" skinid="hs_go" url="{node29}" id="Point04" tilt="-3.47501"/>
+      <hotspot title="Скала Киселёва" target="" pan="81.84820000000001" skinid="hs_go" url="{node29}" id="Point04" tilt="-4.00505"/>
     </hotspots>
     <media/>
     <input tile0url="images/most_o_0.jpg" prev5url="images/most_o_preview_5.jpg" prev4url="images/most_o_preview_4.jpg" prev3url="images/most_o_preview_3.jpg" prev2url="images/most_o_preview_2.jpg" prev1url="images/most_o_preview_1.jpg" prev0url="images/most_o_preview_0.jpg" tile5url="images/most_o_5.jpg" tilesize="2500" tile4url="images/most_o_4.jpg" tile3url="images/most_o_3.jpg" tilescale="1.004" tile2url="images/most_o_2.jpg" tile1url="images/most_o_1.jpg"/>
