@@ -174,7 +174,7 @@
       <hotspot title="Гора Семашхо" target="" pan="81.0466" skinid="hotspot" url="{node17}" id="Point05" tilt="3.94935"/>
       <hotspot title="Вершина Индюшки" target="" pan="-104.803" skinid="hotspot" url="{node19}" id="Point06" tilt="-1.31071"/>
       <hotspot title="Гора Круглая" target="" pan="114.013" skinid="hotspot" url="{node26}" id="Point07" tilt="5.50608"/>
-      <hotspot title="г. Семиглавая" target="0/0/65" pan="94.871" skinid="hotspot" url="{node31}" id="Point08" tilt="4.29012"/>
+      <hotspot title="г. Семиглавая" target="0/0/65" pan="94.8132" skinid="hotspot" url="{node31}" id="Point08" tilt="3.34218"/>
     </hotspots>
     <media/>
     <input tile0url="images/panoramnyi_o_0.jpg" prev5url="images/panoramnyi_o_preview_5.jpg" prev4url="images/panoramnyi_o_preview_4.jpg" prev3url="images/panoramnyi_o_preview_3.jpg" prev2url="images/panoramnyi_o_preview_2.jpg" prev1url="images/panoramnyi_o_preview_1.jpg" prev0url="images/panoramnyi_o_preview_0.jpg" tile5url="images/panoramnyi_o_5.jpg" tilesize="2500" tile4url="images/panoramnyi_o_4.jpg" tile3url="images/panoramnyi_o_3.jpg" tilescale="1.004" tile2url="images/panoramnyi_o_2.jpg" tile1url="images/panoramnyi_o_1.jpg"/>
@@ -436,7 +436,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Семашхо" datetime="8.05.2021" description="Вершина горы Семашхо, 1035 м. Это самая высокая гора окрестностей, входит в Главный Кавказский хребет. Во время ВОВ здесь были ожесточенные бои, на хребте установлено множество памятников." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
+    <userdata title="г. Семашхо" datetime="8.05.2021" description="Вершина горы Семашхо, 1035 м. Это самая высокая гора окрестностей, входит в Главный Кавказский хребет. Во время ВОВ здесь были ожесточенные бои, на хребте установлено множество памятников." copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -448,7 +448,7 @@
       <hotspot title="г. Индюк" target="" pan="168.975" skinid="hotspot" url="{node12}" id="Point06" tilt="-0.97238"/>
       <hotspot title="г.Семашхо, 2013" target="254/-2/65" pan="-87.5038" skinid="hs_2013_faded" url="{node28}" id="Point07" tilt="-18.6849"/>
       <hotspot title="г.Семашхо, 2021" target="265.5/-5/65" pan="-106.037" skinid="hs_2021_active" url="{node17}" id="Point08" tilt="-18.3088"/>
-      <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-1.10619" skinid="hotspot" url="{node31}" id="Point09" tilt="2.05038"/>
+      <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-0.404606" skinid="hotspot" url="{node31}" id="Point09" tilt="2.05104"/>
       <hotspot title="Туапсе" target="88/-0.5/65" pan="-106.509" skinid="hotspot" url="{node39}" id="Point10" tilt="-1.46876"/>
     </hotspots>
     <media/>
@@ -596,7 +596,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Дольмены Анастасиевки" datetime="7.05.2021" description="Древние сооружения возрастом 3-5 тыс. лет, находятся недалеко от Анастасиевки. Вся долина реки изобилует дольменами и другими памятниками древности." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.29269900000000" latitude="44.17781000000000"/>
+    <userdata title="Дольмены Анастасиевки" datetime="7.05.2021" description="Древние сооружения возрастом 3-5 тыс. лет, находятся недалеко от Анастасиевки. Вся долина реки изобилует дольменами и другими памятниками древности. Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.29269900000000" latitude="44.17781000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -665,8 +665,8 @@
       <hotspot title="Два Брата" target="" pan="-52.6854" skinid="hs_go" url="{node22}" id="Point01" tilt="51.6478"/>
       <hotspot title="Отрог Семашхо" target="17.5/-17/65" pan="12.8338" skinid="hotspot" url="{node16}" id="Point02" tilt="51.7377"/>
       <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-174.903" skinid="hs_go" url="{node27}" id="Point03" tilt="-18.9629"/>
-      <hotspot title="Двубратский водопад, 2013" target="265.5/-10.5/65" pan="-82.2535" skinid="hs_2013_faded" url="{node15}" id="Point04" tilt="14.2738"/>
-      <hotspot title="Двубратский водопад, 2021" target="266.5/4/65" pan="-101.459" skinid="hs_2021_active" url="{node24}" id="Point05" tilt="12.9687"/>
+      <hotspot title="Двубратский водопад, 2013" target="265.5/-10.5/65" pan="-80.31870000000001" skinid="hs_2013_faded" url="{node15}" id="Point04" tilt="10.5777"/>
+      <hotspot title="Двубратский водопад, 2021" target="266.5/4/65" pan="-101.367" skinid="hs_2021_active" url="{node24}" id="Point05" tilt="10.5705"/>
     </hotspots>
     <media/>
     <input tile0url="images/dvubrat_vodopad_2021_o_0.jpg" prev5url="images/dvubrat_vodopad_2021_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_2021_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_2021_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_2021_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_2021_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_2021_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_2021_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_2021_o_4.jpg" tile3url="images/dvubrat_vodopad_2021_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_2021_o_2.jpg" tile1url="images/dvubrat_vodopad_2021_o_1.jpg"/>
@@ -711,7 +711,7 @@
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node27" hideabout="1">
-    <view fovmode="0" pannorth="45">
+    <view fovmode="0" pannorth="58">
       <start pan="0" fov="70" tilt="0"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
@@ -720,57 +720,62 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="-14.8927" skinid="hotspot" url="{node22}" id="Point01" tilt="15.9488"/>
-      <hotspot title="Дольмены у Анастасиевки" target="" pan="147.86" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.33417"/>
-      <hotspot title="Двубратский водопад" target="" pan="-1.4254" skinid="hotspot" url="{node24}" id="Point03" tilt="11.0987"/>
-      <hotspot title="В Туапсе" target="86/-0.5/65" pan="81.84820000000001" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.00505"/>
-      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-66.6103" skinid="hotspot" url="{node31}" id="Point05" tilt="5.75879"/>
-      <hotspot title="Исток р. Пшенахо" target="" pan="-79.209" skinid="hs_go" url="{node34}" id="Point06" tilt="-7.15368"/>
-      <hotspot title="Отрог Семашхо" target="" pan="2.57554" skinid="hotspot" url="{node16}" id="Point08" tilt="13.5653"/>
-      <hotspot title="г. Семашхо" target="" pan="25.1642" skinid="hotspot" url="{node17}" id="Point07" tilt="15.109"/>
+      <hotspot title="Дольмены у Анастасиевки" target="" pan="157.594" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.325"/>
+      <hotspot title="В Туапсе" target="86/-0.5/65" pan="94.5307" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.5202"/>
+      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-55.5704" skinid="hotspot" url="{node31}" id="Point05" tilt="7.05624"/>
+      <hotspot title="Исток р. Пшенахо" target="" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
+      <hotspot title="г. Два Брата" target="" pan="-3.90978" skinid="hotspot" url="{node22}" id="Point01" tilt="16.8025"/>
+      <hotspot title="Отрог Семашхо" target="" pan="13.8489" skinid="hotspot" url="{node16}" id="Point07" tilt="14.6113"/>
+      <hotspot title="Двубратский водопад" target="" pan="9.831860000000001" skinid="hotspot" url="{node24}" id="Point03" tilt="11.818"/>
+      <hotspot title="г. Семашхо" target="" pan="36.469" skinid="hotspot" url="{node17}" id="Point08" tilt="16.3425"/>
       <polyhotspot title="река Пшенахо" target="" url="" id="Poly01">
-        <vertex pan="88.77240000000001" tilt="-13.4487"/>
-        <vertex pan="79.28310000000001" tilt="-15.6596"/>
-        <vertex pan="74.9833" tilt="-11.1533"/>
-        <vertex pan="78.12000000000001" tilt="-4.8316"/>
-        <vertex pan="78.0656" tilt="-1.97773"/>
-        <vertex pan="69.3021" tilt="-1.72118"/>
-        <vertex pan="58.7469" tilt="-2.93787"/>
-        <vertex pan="43.6687" tilt="-6.01949"/>
-        <vertex pan="30.5882" tilt="-7.74273"/>
-        <vertex pan="22.542" tilt="-7.80025"/>
-        <vertex pan="5.11552" tilt="-8.972989999999999"/>
-        <vertex pan="-4.84006" tilt="-8.980969999999999"/>
-        <vertex pan="-17.2034" tilt="-9.00104"/>
-        <vertex pan="-36.8675" tilt="-8.15373"/>
-        <vertex pan="-49.4035" tilt="-6.92347"/>
-        <vertex pan="-63.4886" tilt="-5.0894"/>
-        <vertex pan="-73.44029999999999" tilt="-4.45782"/>
-        <vertex pan="-74.08280000000001" tilt="-20.1298"/>
-        <vertex pan="-75.17829999999999" tilt="-24.3893"/>
-        <vertex pan="-77.0552" tilt="-28.5313"/>
-        <vertex pan="-78.9601" tilt="-34.6703"/>
-        <vertex pan="-77.869" tilt="-37.1494"/>
-        <vertex pan="-71.7019" tilt="-35.6024"/>
-        <vertex pan="-68.2473" tilt="-38.6843"/>
-        <vertex pan="-70.0021" tilt="-43.428"/>
-        <vertex pan="-68.47499999999999" tilt="-46.1372"/>
-        <vertex pan="-66.6227" tilt="-53.5118"/>
-        <vertex pan="-55.1549" tilt="-55.5834"/>
-        <vertex pan="-43.9949" tilt="-38.4123"/>
-        <vertex pan="-39.8354" tilt="-40.858"/>
-        <vertex pan="-29.3781" tilt="-69.8539"/>
-        <vertex pan="11.5015" tilt="-74.88760000000001"/>
-        <vertex pan="57.7139" tilt="-62.2616"/>
-        <vertex pan="76.76220000000001" tilt="-57.7402"/>
-        <vertex pan="79.6694" tilt="-47.4328"/>
-        <vertex pan="83.75360000000001" tilt="-38.8852"/>
-        <vertex pan="89.8446" tilt="-38.9309"/>
-        <vertex pan="92.6036" tilt="-33.1397"/>
-        <vertex pan="92.1178" tilt="-26.2134"/>
-        <vertex pan="90.4863" tilt="-21.647"/>
-        <vertex pan="91.9346" tilt="-18.9427"/>
-        <vertex pan="91.9346" tilt="-18.9427"/>
+        <vertex pan="104.556" tilt="-17.3948"/>
+        <vertex pan="97.1108" tilt="-13.967"/>
+        <vertex pan="90.4418" tilt="-14.9475"/>
+        <vertex pan="86.1874" tilt="-13.4769"/>
+        <vertex pan="88.2676" tilt="-4.35422"/>
+        <vertex pan="81.04519999999999" tilt="0.00432351"/>
+        <vertex pan="62.9885" tilt="-3.71127"/>
+        <vertex pan="41.9264" tilt="-6.8016"/>
+        <vertex pan="31.9974" tilt="-7.25298"/>
+        <vertex pan="16.8197" tilt="-8.107950000000001"/>
+        <vertex pan="8.341810000000001" tilt="-7.80601"/>
+        <vertex pan="-9.30058" tilt="-8.001670000000001"/>
+        <vertex pan="-31.6113" tilt="-6.49782"/>
+        <vertex pan="-46.8785" tilt="-5.20569"/>
+        <vertex pan="-51.3809" tilt="-3.6975"/>
+        <vertex pan="-59.33" tilt="-3.30915"/>
+        <vertex pan="-61.9814" tilt="-11.2307"/>
+        <vertex pan="-65.3496" tilt="-16.7906"/>
+        <vertex pan="-64.1298" tilt="-20.3303"/>
+        <vertex pan="-65.5544" tilt="-23.5744"/>
+        <vertex pan="-65.36490000000001" tilt="-26.4973"/>
+        <vertex pan="-68.74379999999999" tilt="-35.9127"/>
+        <vertex pan="-61.748" tilt="-34.1092"/>
+        <vertex pan="-56.3297" tilt="-37.1613"/>
+        <vertex pan="-61.4926" tilt="-42.2409"/>
+        <vertex pan="-63.3018" tilt="-45.7457"/>
+        <vertex pan="-57.7926" tilt="-46.4047"/>
+        <vertex pan="-55.6164" tilt="-50.1876"/>
+        <vertex pan="-50.8087" tilt="-52.5414"/>
+        <vertex pan="-43.6247" tilt="-53.9895"/>
+        <vertex pan="-32.7155" tilt="-37.4513"/>
+        <vertex pan="-27.9788" tilt="-38.9151"/>
+        <vertex pan="-29.5904" tilt="-53.0327"/>
+        <vertex pan="-29.0328" tilt="-57.9472"/>
+        <vertex pan="-22.3021" tilt="-60.6529"/>
+        <vertex pan="-26.7689" tilt="-72.47709999999999"/>
+        <vertex pan="-3.34232" tilt="-74.318"/>
+        <vertex pan="12.9578" tilt="-79.9717"/>
+        <vertex pan="71.1849" tilt="-63.8499"/>
+        <vertex pan="76.05329999999999" tilt="-61.5596"/>
+        <vertex pan="96.2788" tilt="-59.3308"/>
+        <vertex pan="103.638" tilt="-54.5758"/>
+        <vertex pan="91.7217" tilt="-46.8924"/>
+        <vertex pan="95.58969999999999" tilt="-37.8682"/>
+        <vertex pan="103.119" tilt="-38.722"/>
+        <vertex pan="105.582" tilt="-29.8833"/>
+        <vertex pan="106.109" tilt="-25.0718"/>
       </polyhotspot>
     </hotspots>
     <media/>
@@ -784,7 +789,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Семашхо, 2013" datetime="3.11.2013" description="Вершина горы Семашхо 1035 м." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
+    <userdata title="г. Семашхо, 2013" datetime="3.11.2013" description="Вершина горы Семашхо 1035 м." copyright="" tags="осень_2013|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -851,9 +856,9 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Семашхо" target="261.5/-5/65" pan="-159.51" skinid="hotspot" url="{node17}" id="Point01" tilt="-1.64035"/>
       <hotspot title="г. Два Брата" target="" pan="-156.672" skinid="hotspot" url="{node22}" id="Point02" tilt="-1.91931"/>
-      <hotspot title="Перевал" target="244/-5.5/65" pan="9.20416" skinid="hotspot" url="{node32}" id="Point03" tilt="-2.09551"/>
+      <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hotspot" url="{node32}" id="Point03" tilt="-5.70736"/>
       <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.717" skinid="hotspot" url="{node35}" id="Point04" tilt="2.03709"/>
-      <hotspot title="Дольмен в ур. Кубыши" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
       <hotspot title="г. Оштен" target="2/-10.5/65" pan="35.6615" skinid="hotspot" url="{node40}" id="Point06" tilt="2.49697"/>
     </hotspots>
     <media/>
@@ -867,12 +872,12 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Перевал" datetime="3.05.2014" description="Перевал Семашхо II через хребет г. Семиглавой" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.45572400000000" latitude="44.10601600000000"/>
+    <userdata title="Перевал" datetime="3.05.2014" description="Перевал Семашхо II через хребет г. Семиглавой" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.45572400000000" latitude="44.10601600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Семиглавая" target="192.5/-4.5/65" pan="39.782" skinid="hotspot" url="{node31}" id="Point01" tilt="8.56743"/>
-      <hotspot title="Дольмен в ур. Кубыши" target="" pan="143.674" skinid="hs_go" url="{node33}" id="Point02" tilt="-17.7578"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="143.674" skinid="hs_go" url="{node33}" id="Point02" tilt="-17.7578"/>
       <hotspot title="У высоты 1627" target="83.5/-2/65" pan="-119.604" skinid="hotspot" url="{node35}" id="Point03" tilt="4.57738"/>
     </hotspots>
     <media/>
@@ -886,11 +891,11 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Дольмен в ур. Кубыши" datetime="4.05.2014" description="" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.39898900000000" latitude="44.08991700000000"/>
+    <userdata title="Дольмен в ур. Кубыши" datetime="4.05.2014" description="Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="семиглавая|2014|3д-модели" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.39898900000000" latitude="44.08991700000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Перевал через Семиглавую" target="" pan="-112.503" skinid="hs_go" url="{node32}" id="Point01" tilt="-0.448783"/>
+      <hotspot title="Перевал через Семиглавую" target="" pan="-113.509" skinid="hs_go" url="{node32}" id="Point01" tilt="-14.9508"/>
       <hotspot title="Вниз, к истоку р. Пшенахо" target="" pan="96.8633" skinid="hs_go" url="{node34}" id="Point02" tilt="-9.114940000000001"/>
       <polyhotspot title="Дольмен (см 3D модель)" target="" url="https://skfb.ly/POGT" id="Poly01">
         <vertex pan="49.7061" tilt="-2.28634"/>
@@ -919,7 +924,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Верховья р. Пшенахо" datetime="4.05.2014" description="" copyright="" tags="" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <userdata title="Верховья р. Пшенахо" datetime="4.05.2014" description="" copyright="" tags="2014|семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -937,7 +942,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Привал на высоте 1600" datetime="3.05.2016" description="" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.48788600000000" latitude="44.08764400000000"/>
+    <userdata title="Привал на высоте 1600" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.48788600000000" latitude="44.08764400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -956,7 +961,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Высота 1494, хребет Семиглавой" datetime="3.05.2014" description="" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.51721800000000" latitude="44.07064400000000"/>
+    <userdata title="Высота 1494, хребет Семиглавой" datetime="3.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.51721800000000" latitude="44.07064400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -974,7 +979,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Высота 1612" datetime="3.05.2016" description="" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.54568900000000" latitude="44.06136600000000"/>
+    <userdata title="Высота 1612" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.54568900000000" latitude="44.06136600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -992,7 +997,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="У Грачёва перевала" datetime="1.05.2014" description="" copyright="" tags="семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.65101600000000" latitude="44.00867000000000"/>
+    <userdata title="У Грачёва перевала" datetime="1.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.65101600000000" latitude="44.00867000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1028,7 +1033,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Оштен" datetime="11.08.2018" description="Одна из трёх гланых вершин Лагонакского нагорья. Высота 2804 м. Вместе с Фиштом (2868) и Пшеха-Су (2743) образуют единый массив, возвышающийся примерно на 1 км над окрестными горами." copyright="" tags="2018|лаго-наки" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
+    <userdata title="г. Оштен" datetime="11.08.2018" description="Одна из трёх гланых вершин Лагонакского нагорья. Высота 2804 м. Вместе с Фиштом (2868) и Пшеха-Су (2743) образуют единый массив, возвышающийся примерно на 1 км над окрестными горами." copyright="" tags="2018|лаго-наки|3д-модели" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
