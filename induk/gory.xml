@@ -273,7 +273,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="На ст. 1744 км" target="" pan="-103.508" skinid="hs_go" url="{node14}" id="Point01" tilt="-24.03"/>
-      <hotspot title="В Туапсе" target="" pan="-1.91589" skinid="hs_go" url="{node39}" id="Point02" tilt="-15.8213"/>
+      <hotspot title="В Туапсе" target="95.5/2/65" pan="-1.91589" skinid="hs_go" url="{node39}" id="Point02" tilt="-15.8213"/>
     </hotspots>
     <media/>
     <input tile0url="images/tambur_o_0.jpg" prev5url="images/tambur_o_preview_5.jpg" prev4url="images/tambur_o_preview_4.jpg" prev3url="images/tambur_o_preview_3.jpg" prev2url="images/tambur_o_preview_2.jpg" prev1url="images/tambur_o_preview_1.jpg" prev0url="images/tambur_o_preview_0.jpg" tile5url="images/tambur_o_5.jpg" tilesize="2500" tile4url="images/tambur_o_4.jpg" tile3url="images/tambur_o_3.jpg" tilescale="1.004" tile2url="images/tambur_o_2.jpg" tile1url="images/tambur_o_1.jpg"/>
@@ -359,8 +359,8 @@
       <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-157.754" skinid="hotspot" url="{node5}" id="Point07" tilt="-24.639"/>
       <hotspot title="Станция 1744 км" target="" pan="-143.514" skinid="hotspot" url="{node14}" id="Point08" tilt="-12.8348"/>
       <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-176.465" skinid="hotspot" url="{node20}" id="Point10" tilt="-21.4818"/>
-      <hotspot title="г. Семашхо" target="" pan="0.358426" skinid="" url="{node17}" id="Point09" tilt="1.70201"/>
-      <hotspot title="Гора Круглая" target="" pan="38.5" skinid="" url="{node26}" id="Point11" tilt="2.92297"/>
+      <hotspot title="г. Семашхо" target="" pan="0.358426" skinid="hotspot" url="{node17}" id="Point09" tilt="1.70201"/>
+      <hotspot title="Гора Круглая" target="" pan="38.5" skinid="hotspot" url="{node26}" id="Point11" tilt="2.92297"/>
     </hotspots>
     <media/>
     <input tile0url="images/vitya_o_0.jpg" prev5url="images/vitya_o_preview_5.jpg" prev4url="images/vitya_o_preview_4.jpg" prev3url="images/vitya_o_preview_3.jpg" prev2url="images/vitya_o_preview_2.jpg" prev1url="images/vitya_o_preview_1.jpg" prev0url="images/vitya_o_preview_0.jpg" tile5url="images/vitya_o_5.jpg" tilesize="2500" tile4url="images/vitya_o_4.jpg" tile3url="images/vitya_o_3.jpg" tilescale="1.004" tile2url="images/vitya_o_2.jpg" tile1url="images/vitya_o_1.jpg"/>
@@ -583,7 +583,7 @@
       <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-65.0211" skinid="hotspot" url="{node27}" id="Point05" tilt="-12.2941"/>
       <hotspot title="Скала Киселёва" target="" pan="-72.4359" skinid="hotspot" url="{node29}" id="Point06" tilt="-0.362383"/>
       <hotspot title="г. Семиглавая" target="28.5/-1.5/65" pan="51.0673" skinid="hotspot" url="{node31}" id="Point07" tilt="3.98049"/>
-      <hotspot title="Туапсе" target="" pan="297.987" skinid="" url="{node39}" id="Point08" tilt="0"/>
+      <hotspot title="Туапсе" target="" pan="297.987" skinid="hotspot" url="{node39}" id="Point08" tilt="0"/>
     </hotspots>
     <media/>
     <input tile0url="images/dva_brata_o_0.jpg" prev5url="images/dva_brata_o_preview_5.jpg" prev4url="images/dva_brata_o_preview_4.jpg" prev3url="images/dva_brata_o_preview_3.jpg" prev2url="images/dva_brata_o_preview_2.jpg" prev1url="images/dva_brata_o_preview_1.jpg" prev0url="images/dva_brata_o_preview_0.jpg" tile5url="images/dva_brata_o_5.jpg" tilesize="2500" tile4url="images/dva_brata_o_4.jpg" tile3url="images/dva_brata_o_3.jpg" tilescale="1.004" tile2url="images/dva_brata_o_2.jpg" tile1url="images/dva_brata_o_1.jpg"/>
@@ -724,10 +724,10 @@
       <hotspot title="Дольмены у Анастасиевки" target="" pan="147.86" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.33417"/>
       <hotspot title="Двубратский водопад" target="" pan="-1.4254" skinid="hotspot" url="{node24}" id="Point03" tilt="11.0987"/>
       <hotspot title="В Туапсе" target="86/-0.5/65" pan="81.84820000000001" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.00505"/>
-      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-69.41719999999999" skinid="hotspot" url="{node31}" id="Point05" tilt="8.31499"/>
+      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-66.6103" skinid="hotspot" url="{node31}" id="Point05" tilt="5.75879"/>
       <hotspot title="Исток р. Пшенахо" target="" pan="-79.209" skinid="hs_go" url="{node34}" id="Point06" tilt="-7.15368"/>
-      <hotspot title="Отрог Семашхо" target="" pan="2.57554" skinid="" url="{node16}" id="Point08" tilt="13.5653"/>
-      <hotspot title="г. Семашхо" target="" pan="25.1642" skinid="" url="{node17}" id="Point07" tilt="15.109"/>
+      <hotspot title="Отрог Семашхо" target="" pan="2.57554" skinid="hotspot" url="{node16}" id="Point08" tilt="13.5653"/>
+      <hotspot title="г. Семашхо" target="" pan="25.1642" skinid="hotspot" url="{node17}" id="Point07" tilt="15.109"/>
       <polyhotspot title="река Пшенахо" target="" url="" id="Poly01">
         <vertex pan="88.77240000000001" tilt="-13.4487"/>
         <vertex pan="79.28310000000001" tilt="-15.6596"/>
@@ -923,7 +923,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Дольмен под Семиглавой" target="" pan="118.938" skinid="hs_go" url="{node33}" id="Point01" tilt="4.64929"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="121.227" skinid="hs_go" url="{node33}" id="Point01" tilt="5.0573"/>
       <hotspot title="В низовья р. Пшенахо" target="" pan="-13.0823" skinid="hs_go" url="{node27}" id="Point02" tilt="-10.9798"/>
     </hotspots>
     <media/>
