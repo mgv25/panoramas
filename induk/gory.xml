@@ -400,7 +400,7 @@
       <hotspot title="Два Брата" target="249.5/-1/65" pan="-54.6438" skinid="hs_go" url="{node22}" id="Point02" tilt="42.4813"/>
       <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-125.831" skinid="hs_go" url="{node27}" id="Point03" tilt="-8.20246"/>
       <hotspot title="Двубратский водопад, 2013" target="267/-10.5/65" pan="-76.9803" skinid="hs_2013_active" url="{node15}" id="Point04" tilt="10.2141"/>
-      <hotspot title="Двубратский водопад, 2021" target="253.5/-6/65" pan="-96.7599" skinid="hs_2021_faded" url="{node24}" id="Point05" tilt="9.889810000000001"/>
+      <hotspot title="Двубратский водопад, 2021" target="259.5/-13/65" pan="-96.7599" skinid="hs_2021_faded" url="{node24}" id="Point05" tilt="9.889810000000001"/>
     </hotspots>
     <media/>
     <input tile0url="images/dvubrat_vodopad_o_0.jpg" prev5url="images/dvubrat_vodopad_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_o_4.jpg" tile3url="images/dvubrat_vodopad_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_o_2.jpg" tile1url="images/dvubrat_vodopad_o_1.jpg"/>
@@ -580,10 +580,11 @@
       <hotspot title="г. Семашхо" target="153/-11.5/65" pan="-148.656" skinid="hotspot" url="{node17}" id="Point02" tilt="3.80359"/>
       <hotspot title="Двубратский водопад" target="" pan="-101.292" skinid="hotspot" url="{node24}" id="Point04" tilt="-17.5317"/>
       <hotspot title="Отрог Семашхо 2" target="231/-1.5/65" pan="173.837" skinid="hotspot" url="{node25}" id="Point03" tilt="-1.65254"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-65.0211" skinid="hotspot" url="{node27}" id="Point05" tilt="-12.2941"/>
       <hotspot title="Скала Киселёва" target="" pan="-72.4359" skinid="hotspot" url="{node29}" id="Point06" tilt="-0.362383"/>
       <hotspot title="г. Семиглавая" target="28.5/-1.5/65" pan="51.0673" skinid="hotspot" url="{node31}" id="Point07" tilt="3.98049"/>
       <hotspot title="Туапсе" target="" pan="297.987" skinid="hotspot" url="{node39}" id="Point08" tilt="0"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-39.5524" skinid="hotspot" url="{node27}" id="Point05" tilt="-15.1295"/>
+      <hotspot title="Дольмены Анастасиевки" target="" pan="-66.32859999999999" skinid="hotspot" url="{node23}" id="Point09" tilt="-11.7931"/>
     </hotspots>
     <media/>
     <input tile0url="images/dva_brata_o_0.jpg" prev5url="images/dva_brata_o_preview_5.jpg" prev4url="images/dva_brata_o_preview_4.jpg" prev3url="images/dva_brata_o_preview_3.jpg" prev2url="images/dva_brata_o_preview_2.jpg" prev1url="images/dva_brata_o_preview_1.jpg" prev0url="images/dva_brata_o_preview_0.jpg" tile5url="images/dva_brata_o_5.jpg" tilesize="2500" tile4url="images/dva_brata_o_4.jpg" tile3url="images/dva_brata_o_3.jpg" tilescale="1.004" tile2url="images/dva_brata_o_2.jpg" tile1url="images/dva_brata_o_1.jpg"/>
