@@ -949,7 +949,7 @@
       <hotspot title="г. Семиглавая" target="188.5/-4.5/65" pan="-74.6883" skinid="hotspot" url="{node31}" id="Point01" tilt="0.133899"/>
       <hotspot title="Перевал" target="49/-0.5/65" pan="-71.3642" skinid="hotspot" url="{node32}" id="Point02" tilt="-3.05377"/>
       <hotspot title="Высота 1494, хребет Семиглавой" target="150/-6.5/65" pan="87.02070000000001" skinid="hs_go" url="{node36}" id="Point03" tilt="-4.58776"/>
-      <hotspot title="г. Оштен" target="" pan="132.363" skinid="" url="{node40}" id="Point04" tilt="4.58197"/>
+      <hotspot title="г. Оштен" target="" pan="132.363" skinid="hotspot" url="{node40}" id="Point04" tilt="4.58197"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_1600_3d3_o_0.jpg" prev5url="images/semiglav_1600_3d3_o_preview_5.jpg" prev4url="images/semiglav_1600_3d3_o_preview_4.jpg" prev3url="images/semiglav_1600_3d3_o_preview_3.jpg" prev2url="images/semiglav_1600_3d3_o_preview_2.jpg" prev1url="images/semiglav_1600_3d3_o_preview_1.jpg" prev0url="images/semiglav_1600_3d3_o_preview_0.jpg" tile5url="images/semiglav_1600_3d3_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1600_3d3_o_4.jpg" tile3url="images/semiglav_1600_3d3_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1600_3d3_o_2.jpg" tile1url="images/semiglav_1600_3d3_o_1.jpg"/>
