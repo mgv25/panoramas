@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-		<title>&#1075;. &#1048;&#1085;&#1076;&#1102;&#1082;</title>
+		<title>Цветущие каштаны в Краснодаре</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
@@ -26,6 +26,7 @@
 			body {
 			  font-size: 10pt;
 			  background : #ffffff; 
+			  overflow: hidden;
 			}
 			table,tr,td {
 				font-size: 10pt;
@@ -54,16 +55,21 @@
 			::-webkit-scrollbar-thumb {
     			background-color:  rgba(255,255,255,0.5);
 			}
+
+			* {
+				padding: 0;
+				margin: 0;
+			}
+			.container {
+				width: 100vw;
+				height: 100vh;
+			}
 		</style>	
 	</head>
 	<body>
-		<h1>&#1075;. &#1048;&#1085;&#1076;&#1102;&#1082;</h1>
-		<br>
 		<script type="text/javascript" src="pano2vr_player.js">
 		</script>
-		<script type="text/javascript" src="skin.js">
-		</script>
-		<div id="container" style="width:1280px;height:800px;">
+		<div id="container" class="container">
 		This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
 		</div>
 		<script type="text/javascript">
@@ -71,9 +77,9 @@
 	
 			// create the panorama player with the container
 			pano=new pano2vrPlayer("container");
-			// add the skin object
-			skin=new pano2vrSkin(pano);
-			// load the configuration
+
+
+
 			pano.readConfigUrl("kashtany.xml");
 			// hide the URL bar on the iPhone
 			hideUrlBar();
