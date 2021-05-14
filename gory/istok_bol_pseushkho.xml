@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node34">  <panorama id="node1" hideabout="1">
+<tour start="node34">
+  <panorama id="node1" hideabout="1">
     <view fovmode="0" pannorth="2">
       <start pan="7.5" fov="70" tilt="0"/>
       <min pan="0" fov="30" tilt="-90"/>
@@ -17,7 +18,7 @@
     <media/>
     <input tile0url="images/arka_o_0.jpg" prev5url="images/arka_o_preview_5.jpg" prev4url="images/arka_o_preview_4.jpg" prev3url="images/arka_o_preview_3.jpg" prev2url="images/arka_o_preview_2.jpg" prev1url="images/arka_o_preview_1.jpg" prev0url="images/arka_o_preview_0.jpg" tile5url="images/arka_o_5.jpg" tilesize="2500" tile4url="images/arka_o_4.jpg" tile3url="images/arka_o_3.jpg" tilescale="1.004" tile2url="images/arka_o_2.jpg" tile1url="images/arka_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node2" hideabout="1">
     <view fovmode="0" pannorth="252">
@@ -35,7 +36,7 @@
     <media/>
     <input tile0url="images/lager_o_0.jpg" prev5url="images/lager_o_preview_5.jpg" prev4url="images/lager_o_preview_4.jpg" prev3url="images/lager_o_preview_3.jpg" prev2url="images/lager_o_preview_2.jpg" prev1url="images/lager_o_preview_1.jpg" prev0url="images/lager_o_preview_0.jpg" tile5url="images/lager_o_5.jpg" tilesize="2500" tile4url="images/lager_o_4.jpg" tile3url="images/lager_o_3.jpg" tilescale="1.004" tile2url="images/lager_o_2.jpg" tile1url="images/lager_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node3" hideabout="1">
     <view fovmode="0" pannorth="355">
@@ -57,7 +58,7 @@
     <media/>
     <input tile0url="images/indushonok_o_0.jpg" prev5url="images/indushonok_o_preview_5.jpg" prev4url="images/indushonok_o_preview_4.jpg" prev3url="images/indushonok_o_preview_3.jpg" prev2url="images/indushonok_o_preview_2.jpg" prev1url="images/indushonok_o_preview_1.jpg" prev0url="images/indushonok_o_preview_0.jpg" tile5url="images/indushonok_o_5.jpg" tilesize="2500" tile4url="images/indushonok_o_4.jpg" tile3url="images/indushonok_o_3.jpg" tilescale="1.004" tile2url="images/indushonok_o_2.jpg" tile1url="images/indushonok_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node4" hideabout="1">
     <view fovmode="0" pannorth="228.5">
@@ -83,7 +84,7 @@
     <media/>
     <input tile0url="images/kulak_o_0.jpg" prev5url="images/kulak_o_preview_5.jpg" prev4url="images/kulak_o_preview_4.jpg" prev3url="images/kulak_o_preview_3.jpg" prev2url="images/kulak_o_preview_2.jpg" prev1url="images/kulak_o_preview_1.jpg" prev0url="images/kulak_o_preview_0.jpg" tile5url="images/kulak_o_5.jpg" tilesize="2500" tile4url="images/kulak_o_4.jpg" tile3url="images/kulak_o_3.jpg" tilescale="1.004" tile2url="images/kulak_o_2.jpg" tile1url="images/kulak_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node5" hideabout="1">
     <view fovmode="0" pannorth="102">
@@ -104,7 +105,7 @@
     <media/>
     <input tile0url="images/lep2_o_0.jpg" prev5url="images/lep2_o_preview_5.jpg" prev4url="images/lep2_o_preview_4.jpg" prev3url="images/lep2_o_preview_3.jpg" prev2url="images/lep2_o_preview_2.jpg" prev1url="images/lep2_o_preview_1.jpg" prev0url="images/lep2_o_preview_0.jpg" tile5url="images/lep2_o_5.jpg" tilesize="2500" tile4url="images/lep2_o_4.jpg" tile3url="images/lep2_o_3.jpg" tilescale="1.004" tile2url="images/lep2_o_2.jpg" tile1url="images/lep2_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node6" hideabout="1">
     <view fovmode="0" pannorth="172">
@@ -126,7 +127,7 @@
     <media/>
     <input tile0url="images/stone_sea_o_0.jpg" prev5url="images/stone_sea_o_preview_5.jpg" prev4url="images/stone_sea_o_preview_4.jpg" prev3url="images/stone_sea_o_preview_3.jpg" prev2url="images/stone_sea_o_preview_2.jpg" prev1url="images/stone_sea_o_preview_1.jpg" prev0url="images/stone_sea_o_preview_0.jpg" tile5url="images/stone_sea_o_5.jpg" tilesize="2500" tile4url="images/stone_sea_o_4.jpg" tile3url="images/stone_sea_o_3.jpg" tilescale="1.004" tile2url="images/stone_sea_o_2.jpg" tile1url="images/stone_sea_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node7" hideabout="1">
     <view fovmode="0" pannorth="252">
@@ -154,7 +155,7 @@
     <media/>
     <input tile0url="images/mozhzhevelnik_o_0.jpg" prev5url="images/mozhzhevelnik_o_preview_5.jpg" prev4url="images/mozhzhevelnik_o_preview_4.jpg" prev3url="images/mozhzhevelnik_o_preview_3.jpg" prev2url="images/mozhzhevelnik_o_preview_2.jpg" prev1url="images/mozhzhevelnik_o_preview_1.jpg" prev0url="images/mozhzhevelnik_o_preview_0.jpg" tile5url="images/mozhzhevelnik_o_5.jpg" tilesize="2500" tile4url="images/mozhzhevelnik_o_4.jpg" tile3url="images/mozhzhevelnik_o_3.jpg" tilescale="1.004" tile2url="images/mozhzhevelnik_o_2.jpg" tile1url="images/mozhzhevelnik_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node8" hideabout="1">
     <view fovmode="0" pannorth="231.5">
@@ -178,7 +179,7 @@
     <media/>
     <input tile0url="images/panoramnyi_o_0.jpg" prev5url="images/panoramnyi_o_preview_5.jpg" prev4url="images/panoramnyi_o_preview_4.jpg" prev3url="images/panoramnyi_o_preview_3.jpg" prev2url="images/panoramnyi_o_preview_2.jpg" prev1url="images/panoramnyi_o_preview_1.jpg" prev0url="images/panoramnyi_o_preview_0.jpg" tile5url="images/panoramnyi_o_5.jpg" tilesize="2500" tile4url="images/panoramnyi_o_4.jpg" tile3url="images/panoramnyi_o_3.jpg" tilescale="1.004" tile2url="images/panoramnyi_o_2.jpg" tile1url="images/panoramnyi_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node9" hideabout="1">
     <view fovmode="0" pannorth="254.5">
@@ -215,7 +216,7 @@
     <media/>
     <input tile0url="images/pavlik_o_0.jpg" prev5url="images/pavlik_o_preview_5.jpg" prev4url="images/pavlik_o_preview_4.jpg" prev3url="images/pavlik_o_preview_3.jpg" prev2url="images/pavlik_o_preview_2.jpg" prev1url="images/pavlik_o_preview_1.jpg" prev0url="images/pavlik_o_preview_0.jpg" tile5url="images/pavlik_o_5.jpg" tilesize="2500" tile4url="images/pavlik_o_4.jpg" tile3url="images/pavlik_o_3.jpg" tilescale="1.004" tile2url="images/pavlik_o_2.jpg" tile1url="images/pavlik_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node10" hideabout="1">
     <view fovmode="0" pannorth="48.5">
@@ -259,7 +260,7 @@
     <media/>
     <input tile0url="images/podkova_o_0.jpg" prev5url="images/podkova_o_preview_5.jpg" prev4url="images/podkova_o_preview_4.jpg" prev3url="images/podkova_o_preview_3.jpg" prev2url="images/podkova_o_preview_2.jpg" prev1url="images/podkova_o_preview_1.jpg" prev0url="images/podkova_o_preview_0.jpg" tile5url="images/podkova_o_5.jpg" tilesize="2500" tile4url="images/podkova_o_4.jpg" tile3url="images/podkova_o_3.jpg" tilescale="1.004" tile2url="images/podkova_o_2.jpg" tile1url="images/podkova_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node11" hideabout="1">
     <view fovmode="0" pannorth="11.5">
@@ -277,7 +278,7 @@
     <media/>
     <input tile0url="images/tambur_o_0.jpg" prev5url="images/tambur_o_preview_5.jpg" prev4url="images/tambur_o_preview_4.jpg" prev3url="images/tambur_o_preview_3.jpg" prev2url="images/tambur_o_preview_2.jpg" prev1url="images/tambur_o_preview_1.jpg" prev0url="images/tambur_o_preview_0.jpg" tile5url="images/tambur_o_5.jpg" tilesize="2500" tile4url="images/tambur_o_4.jpg" tile3url="images/tambur_o_3.jpg" tilescale="1.004" tile2url="images/tambur_o_2.jpg" tile1url="images/tambur_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node12" hideabout="1">
     <view fovmode="0" pannorth="229">
@@ -337,7 +338,7 @@
     <media/>
     <input tile0url="images/induk_o_0.jpg" prev5url="images/induk_o_preview_5.jpg" prev4url="images/induk_o_preview_4.jpg" prev3url="images/induk_o_preview_3.jpg" prev2url="images/induk_o_preview_2.jpg" prev1url="images/induk_o_preview_1.jpg" prev0url="images/induk_o_preview_0.jpg" tile5url="images/induk_o_5.jpg" tilesize="2500" tile4url="images/induk_o_4.jpg" tile3url="images/induk_o_3.jpg" tilescale="1.004" tile2url="images/induk_o_2.jpg" tile1url="images/induk_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node13" hideabout="1">
     <view fovmode="0" pannorth="143.5">
@@ -364,7 +365,7 @@
     <media/>
     <input tile0url="images/vitya_o_0.jpg" prev5url="images/vitya_o_preview_5.jpg" prev4url="images/vitya_o_preview_4.jpg" prev3url="images/vitya_o_preview_3.jpg" prev2url="images/vitya_o_preview_2.jpg" prev1url="images/vitya_o_preview_1.jpg" prev0url="images/vitya_o_preview_0.jpg" tile5url="images/vitya_o_5.jpg" tilesize="2500" tile4url="images/vitya_o_4.jpg" tile3url="images/vitya_o_3.jpg" tilescale="1.004" tile2url="images/vitya_o_2.jpg" tile1url="images/vitya_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node14" hideabout="1">
     <view fovmode="0" pannorth="218">
@@ -383,7 +384,7 @@
     <media/>
     <input tile0url="images/1744_o_0.jpg" prev5url="images/1744_o_preview_5.jpg" prev4url="images/1744_o_preview_4.jpg" prev3url="images/1744_o_preview_3.jpg" prev2url="images/1744_o_preview_2.jpg" prev1url="images/1744_o_preview_1.jpg" prev0url="images/1744_o_preview_0.jpg" tile5url="images/1744_o_5.jpg" tilesize="2500" tile4url="images/1744_o_4.jpg" tile3url="images/1744_o_3.jpg" tilescale="1.004" tile2url="images/1744_o_2.jpg" tile1url="images/1744_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node15" hideabout="1">
     <view fovmode="0" pannorth="90.5">
@@ -404,7 +405,7 @@
     <media/>
     <input tile0url="images/dvubrat_vodopad_o_0.jpg" prev5url="images/dvubrat_vodopad_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_o_4.jpg" tile3url="images/dvubrat_vodopad_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_o_2.jpg" tile1url="images/dvubrat_vodopad_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node16" hideabout="1">
     <view fovmode="0" pannorth="244.5">
@@ -427,7 +428,7 @@
     <media/>
     <input tile0url="images/khrebet_o_0.jpg" prev5url="images/khrebet_o_preview_5.jpg" prev4url="images/khrebet_o_preview_4.jpg" prev3url="images/khrebet_o_preview_3.jpg" prev2url="images/khrebet_o_preview_2.jpg" prev1url="images/khrebet_o_preview_1.jpg" prev0url="images/khrebet_o_preview_0.jpg" tile5url="images/khrebet_o_5.jpg" tilesize="2500" tile4url="images/khrebet_o_4.jpg" tile3url="images/khrebet_o_3.jpg" tilescale="1.004" tile2url="images/khrebet_o_2.jpg" tile1url="images/khrebet_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node17" hideabout="1">
     <view fovmode="0" pannorth="131.5">
@@ -449,11 +450,25 @@
       <hotspot title="г.Семашхо, 2021" target="265.5/-5/65" pan="-106.037" skinid="hs_2021_active" url="{node17}" id="Point08" tilt="-18.3088"/>
       <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-0.404606" skinid="hotspot" url="{node31}" id="Point09" tilt="2.05104"/>
       <hotspot title="Туапсе" target="88/-0.5/65" pan="-106.509" skinid="hotspot" url="{node39}" id="Point10" tilt="-1.46876"/>
+      <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
+        <vertex pan="-84.87179999999999" tilt="-6.36655"/>
+        <vertex pan="-83.2406" tilt="-2.39503"/>
+        <vertex pan="-83.7359" tilt="1.78993"/>
+        <vertex pan="-85.7903" tilt="4.23892"/>
+        <vertex pan="-94.7572" tilt="4.80315"/>
+        <vertex pan="-103.952" tilt="4.00615"/>
+        <vertex pan="-103.783" tilt="-2.28669"/>
+        <vertex pan="-103.525" tilt="-7.5128"/>
+        <vertex pan="-99.721" tilt="-8.776020000000001"/>
+        <vertex pan="-92.384" tilt="-8.94355"/>
+        <vertex pan="-88.6906" tilt="-8.30284"/>
+        <vertex pan="-87.33110000000001" tilt="-7.97531"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/semashho_2021_o_0.jpg" prev5url="images/semashho_2021_o_preview_5.jpg" prev4url="images/semashho_2021_o_preview_4.jpg" prev3url="images/semashho_2021_o_preview_3.jpg" prev2url="images/semashho_2021_o_preview_2.jpg" prev1url="images/semashho_2021_o_preview_1.jpg" prev0url="images/semashho_2021_o_preview_0.jpg" tile5url="images/semashho_2021_o_5.jpg" tilesize="2500" tile4url="images/semashho_2021_o_4.jpg" tile3url="images/semashho_2021_o_3.jpg" tilescale="1.004" tile2url="images/semashho_2021_o_2.jpg" tile1url="images/semashho_2021_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node18" hideabout="1">
     <view fovmode="0" pannorth="318">
@@ -487,7 +502,7 @@
     <media/>
     <input tile0url="images/podsyrom_o_0.jpg" prev5url="images/podsyrom_o_preview_5.jpg" prev4url="images/podsyrom_o_preview_4.jpg" prev3url="images/podsyrom_o_preview_3.jpg" prev2url="images/podsyrom_o_preview_2.jpg" prev1url="images/podsyrom_o_preview_1.jpg" prev0url="images/podsyrom_o_preview_0.jpg" tile5url="images/podsyrom_o_5.jpg" tilesize="2500" tile4url="images/podsyrom_o_4.jpg" tile3url="images/podsyrom_o_3.jpg" tilescale="1.004" tile2url="images/podsyrom_o_2.jpg" tile1url="images/podsyrom_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node19" hideabout="1">
     <view fovmode="0" pannorth="236">
@@ -515,7 +530,7 @@
     <media/>
     <input tile0url="images/indushka_o_0.jpg" prev5url="images/indushka_o_preview_5.jpg" prev4url="images/indushka_o_preview_4.jpg" prev3url="images/indushka_o_preview_3.jpg" prev2url="images/indushka_o_preview_2.jpg" prev1url="images/indushka_o_preview_1.jpg" prev0url="images/indushka_o_preview_0.jpg" tile5url="images/indushka_o_5.jpg" tilesize="2500" tile4url="images/indushka_o_4.jpg" tile3url="images/indushka_o_3.jpg" tilescale="1.004" tile2url="images/indushka_o_2.jpg" tile1url="images/indushka_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node20" hideabout="1">
     <view fovmode="0" pannorth="16">
@@ -537,7 +552,7 @@
     <media/>
     <input tile0url="images/lep1_o_0.jpg" prev5url="images/lep1_o_preview_5.jpg" prev4url="images/lep1_o_preview_4.jpg" prev3url="images/lep1_o_preview_3.jpg" prev2url="images/lep1_o_preview_2.jpg" prev1url="images/lep1_o_preview_1.jpg" prev0url="images/lep1_o_preview_0.jpg" tile5url="images/lep1_o_5.jpg" tilesize="2500" tile4url="images/lep1_o_4.jpg" tile3url="images/lep1_o_3.jpg" tilescale="1.004" tile2url="images/lep1_o_2.jpg" tile1url="images/lep1_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node21" hideabout="1">
     <view fovmode="0" pannorth="232">
@@ -563,7 +578,7 @@
     <media/>
     <input tile0url="images/greben1_o_0.jpg" prev5url="images/greben1_o_preview_5.jpg" prev4url="images/greben1_o_preview_4.jpg" prev3url="images/greben1_o_preview_3.jpg" prev2url="images/greben1_o_preview_2.jpg" prev1url="images/greben1_o_preview_1.jpg" prev0url="images/greben1_o_preview_0.jpg" tile5url="images/greben1_o_5.jpg" tilesize="2500" tile4url="images/greben1_o_4.jpg" tile3url="images/greben1_o_3.jpg" tilescale="1.004" tile2url="images/greben1_o_2.jpg" tile1url="images/greben1_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node22" hideabout="1">
     <view fovmode="0" pannorth="181">
@@ -588,7 +603,7 @@
     <media/>
     <input tile0url="images/dva_brata_o_0.jpg" prev5url="images/dva_brata_o_preview_5.jpg" prev4url="images/dva_brata_o_preview_4.jpg" prev3url="images/dva_brata_o_preview_3.jpg" prev2url="images/dva_brata_o_preview_2.jpg" prev1url="images/dva_brata_o_preview_1.jpg" prev0url="images/dva_brata_o_preview_0.jpg" tile5url="images/dva_brata_o_5.jpg" tilesize="2500" tile4url="images/dva_brata_o_4.jpg" tile3url="images/dva_brata_o_3.jpg" tilescale="1.004" tile2url="images/dva_brata_o_2.jpg" tile1url="images/dva_brata_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node23" hideabout="1">
     <view fovmode="0" pannorth="0">
@@ -650,7 +665,7 @@
     <media/>
     <input tile0url="images/dolmeny_o_0.jpg" prev5url="images/dolmeny_o_preview_5.jpg" prev4url="images/dolmeny_o_preview_4.jpg" prev3url="images/dolmeny_o_preview_3.jpg" prev2url="images/dolmeny_o_preview_2.jpg" prev1url="images/dolmeny_o_preview_1.jpg" prev0url="images/dolmeny_o_preview_0.jpg" tile5url="images/dolmeny_o_5.jpg" tilesize="2500" tile4url="images/dolmeny_o_4.jpg" tile3url="images/dolmeny_o_3.jpg" tilescale="1.004" tile2url="images/dolmeny_o_2.jpg" tile1url="images/dolmeny_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node24" hideabout="1">
     <view fovmode="0" pannorth="56">
@@ -671,7 +686,7 @@
     <media/>
     <input tile0url="images/dvubrat_vodopad_2021_o_0.jpg" prev5url="images/dvubrat_vodopad_2021_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_2021_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_2021_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_2021_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_2021_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_2021_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_2021_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_2021_o_4.jpg" tile3url="images/dvubrat_vodopad_2021_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_2021_o_2.jpg" tile1url="images/dvubrat_vodopad_2021_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node25" hideabout="1">
     <view fovmode="0" pannorth="6.5">
@@ -689,7 +704,7 @@
     <media/>
     <input tile0url="images/khrebet_2_o_0.jpg" prev5url="images/khrebet_2_o_preview_5.jpg" prev4url="images/khrebet_2_o_preview_4.jpg" prev3url="images/khrebet_2_o_preview_3.jpg" prev2url="images/khrebet_2_o_preview_2.jpg" prev1url="images/khrebet_2_o_preview_1.jpg" prev0url="images/khrebet_2_o_preview_0.jpg" tile5url="images/khrebet_2_o_5.jpg" tilesize="2500" tile4url="images/khrebet_2_o_4.jpg" tile3url="images/khrebet_2_o_3.jpg" tilescale="1.004" tile2url="images/khrebet_2_o_2.jpg" tile1url="images/khrebet_2_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node26" hideabout="1">
     <view fovmode="0" pannorth="162.5">
@@ -708,7 +723,7 @@
     <media/>
     <input tile0url="images/kruglaya_o_0.jpg" prev5url="images/kruglaya_o_preview_5.jpg" prev4url="images/kruglaya_o_preview_4.jpg" prev3url="images/kruglaya_o_preview_3.jpg" prev2url="images/kruglaya_o_preview_2.jpg" prev1url="images/kruglaya_o_preview_1.jpg" prev0url="images/kruglaya_o_preview_0.jpg" tile5url="images/kruglaya_o_5.jpg" tilesize="2500" tile4url="images/kruglaya_o_4.jpg" tile3url="images/kruglaya_o_3.jpg" tilescale="1.004" tile2url="images/kruglaya_o_2.jpg" tile1url="images/kruglaya_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node27" hideabout="1">
     <view fovmode="0" pannorth="58">
@@ -781,7 +796,7 @@
     <media/>
     <input tile0url="images/most_o_0.jpg" prev5url="images/most_o_preview_5.jpg" prev4url="images/most_o_preview_4.jpg" prev3url="images/most_o_preview_3.jpg" prev2url="images/most_o_preview_2.jpg" prev1url="images/most_o_preview_1.jpg" prev0url="images/most_o_preview_0.jpg" tile5url="images/most_o_5.jpg" tilesize="2500" tile4url="images/most_o_4.jpg" tile3url="images/most_o_3.jpg" tilescale="1.004" tile2url="images/most_o_2.jpg" tile1url="images/most_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node28" hideabout="1">
     <view fovmode="0" pannorth="126">
@@ -803,11 +818,28 @@
       <hotspot title="г. Семашхо, 2021" target="267.5/-4/65" pan="-114.254" skinid="hs_2021_faded" url="{node17}" id="Point08" tilt="-26.415"/>
       <hotspot title="г. Семиглавая" target="359.5/-7/65" pan="-6.6649" skinid="hotspot" url="{node31}" id="Point09" tilt="0.187153"/>
       <hotspot title="Туапсе" target="89/0/65" pan="-114.922" skinid="hotspot" url="{node39}" id="Point10" tilt="0.0401419"/>
+      <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
+        <vertex pan="-93.4793" tilt="-6.26038"/>
+        <vertex pan="-91.58450000000001" tilt="-1.11317"/>
+        <vertex pan="-92.87090000000001" tilt="5.74944"/>
+        <vertex pan="-99.7765" tilt="8.88979"/>
+        <vertex pan="-109.754" tilt="9.14368"/>
+        <vertex pan="-113.343" tilt="7.59393"/>
+        <vertex pan="-113.126" tilt="4.56336"/>
+        <vertex pan="-113.442" tilt="0.937746"/>
+        <vertex pan="-113.621" tilt="-2.30944"/>
+        <vertex pan="-115.979" tilt="-3.08829"/>
+        <vertex pan="-115.526" tilt="-6.85684"/>
+        <vertex pan="-111.306" tilt="-8.480029999999999"/>
+        <vertex pan="-105.54" tilt="-9.16464"/>
+        <vertex pan="-99.2182" tilt="-8.79912"/>
+        <vertex pan="-95.9837" tilt="-8.2288"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/semashho_o_0.jpg" prev5url="images/semashho_o_preview_5.jpg" prev4url="images/semashho_o_preview_4.jpg" prev3url="images/semashho_o_preview_3.jpg" prev2url="images/semashho_o_preview_2.jpg" prev1url="images/semashho_o_preview_1.jpg" prev0url="images/semashho_o_preview_0.jpg" tile5url="images/semashho_o_5.jpg" tilesize="2500" tile4url="images/semashho_o_4.jpg" tile3url="images/semashho_o_3.jpg" tilescale="1.004" tile2url="images/semashho_o_2.jpg" tile1url="images/semashho_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node29" hideabout="1">
     <view fovmode="0" pannorth="0">
@@ -825,7 +857,7 @@
     <media/>
     <input tile0url="images/kiseleva_o_0.jpg" prev5url="images/kiseleva_o_preview_5.jpg" prev4url="images/kiseleva_o_preview_4.jpg" prev3url="images/kiseleva_o_preview_3.jpg" prev2url="images/kiseleva_o_preview_2.jpg" prev1url="images/kiseleva_o_preview_1.jpg" prev0url="images/kiseleva_o_preview_0.jpg" tile5url="images/kiseleva_o_5.jpg" tilesize="2500" tile4url="images/kiseleva_o_4.jpg" tile3url="images/kiseleva_o_3.jpg" tilescale="1.004" tile2url="images/kiseleva_o_2.jpg" tile1url="images/kiseleva_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node30" hideabout="1">
     <view fovmode="0" pannorth="183.5">
@@ -842,7 +874,7 @@
     <media/>
     <input tile0url="images/mys_mysh_norki_o_0.jpg" prev5url="images/mys_mysh_norki_o_preview_5.jpg" prev4url="images/mys_mysh_norki_o_preview_4.jpg" prev3url="images/mys_mysh_norki_o_preview_3.jpg" prev2url="images/mys_mysh_norki_o_preview_2.jpg" prev1url="images/mys_mysh_norki_o_preview_1.jpg" prev0url="images/mys_mysh_norki_o_preview_0.jpg" tile5url="images/mys_mysh_norki_o_5.jpg" tilesize="2500" tile4url="images/mys_mysh_norki_o_4.jpg" tile3url="images/mys_mysh_norki_o_3.jpg" tilescale="1.004" tile2url="images/mys_mysh_norki_o_2.jpg" tile1url="images/mys_mysh_norki_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node31" hideabout="1">
     <view fovmode="0" pannorth="154">
@@ -864,7 +896,7 @@
     <media/>
     <input tile0url="images/semiglavaya_o_0.jpg" prev5url="images/semiglavaya_o_preview_5.jpg" prev4url="images/semiglavaya_o_preview_4.jpg" prev3url="images/semiglavaya_o_preview_3.jpg" prev2url="images/semiglavaya_o_preview_2.jpg" prev1url="images/semiglavaya_o_preview_1.jpg" prev0url="images/semiglavaya_o_preview_0.jpg" tile5url="images/semiglavaya_o_5.jpg" tilesize="2500" tile4url="images/semiglavaya_o_4.jpg" tile3url="images/semiglavaya_o_3.jpg" tilescale="1.004" tile2url="images/semiglavaya_o_2.jpg" tile1url="images/semiglavaya_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node32" hideabout="1">
     <view fovmode="0" pannorth="7">
@@ -883,7 +915,7 @@
     <media/>
     <input tile0url="images/semiglav_pamyatnik_3d4_o_0.jpg" prev5url="images/semiglav_pamyatnik_3d4_o_preview_5.jpg" prev4url="images/semiglav_pamyatnik_3d4_o_preview_4.jpg" prev3url="images/semiglav_pamyatnik_3d4_o_preview_3.jpg" prev2url="images/semiglav_pamyatnik_3d4_o_preview_2.jpg" prev1url="images/semiglav_pamyatnik_3d4_o_preview_1.jpg" prev0url="images/semiglav_pamyatnik_3d4_o_preview_0.jpg" tile5url="images/semiglav_pamyatnik_3d4_o_5.jpg" tilesize="2500" tile4url="images/semiglav_pamyatnik_3d4_o_4.jpg" tile3url="images/semiglav_pamyatnik_3d4_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_pamyatnik_3d4_o_2.jpg" tile1url="images/semiglav_pamyatnik_3d4_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node33" hideabout="1">
     <view fovmode="0" pannorth="55.5">
@@ -916,7 +948,7 @@
     <media/>
     <input tile0url="images/semiglav_dolmen_4d1_o_0.jpg" prev5url="images/semiglav_dolmen_4d1_o_preview_5.jpg" prev4url="images/semiglav_dolmen_4d1_o_preview_4.jpg" prev3url="images/semiglav_dolmen_4d1_o_preview_3.jpg" prev2url="images/semiglav_dolmen_4d1_o_preview_2.jpg" prev1url="images/semiglav_dolmen_4d1_o_preview_1.jpg" prev0url="images/semiglav_dolmen_4d1_o_preview_0.jpg" tile5url="images/semiglav_dolmen_4d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_dolmen_4d1_o_4.jpg" tile3url="images/semiglav_dolmen_4d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_dolmen_4d1_o_2.jpg" tile1url="images/semiglav_dolmen_4d1_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node34" hideabout="1">
     <view fovmode="0" pannorth="0">
@@ -934,7 +966,7 @@
     <media/>
     <input tile0url="images/semiglav_rechka_4d2_o_0.jpg" prev5url="images/semiglav_rechka_4d2_o_preview_5.jpg" prev4url="images/semiglav_rechka_4d2_o_preview_4.jpg" prev3url="images/semiglav_rechka_4d2_o_preview_3.jpg" prev2url="images/semiglav_rechka_4d2_o_preview_2.jpg" prev1url="images/semiglav_rechka_4d2_o_preview_1.jpg" prev0url="images/semiglav_rechka_4d2_o_preview_0.jpg" tile5url="images/semiglav_rechka_4d2_o_5.jpg" tilesize="2500" tile4url="images/semiglav_rechka_4d2_o_4.jpg" tile3url="images/semiglav_rechka_4d2_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_rechka_4d2_o_2.jpg" tile1url="images/semiglav_rechka_4d2_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node35" hideabout="1">
     <view fovmode="0" pannorth="238">
@@ -954,7 +986,7 @@
     <media/>
     <input tile0url="images/semiglav_1600_3d3_o_0.jpg" prev5url="images/semiglav_1600_3d3_o_preview_5.jpg" prev4url="images/semiglav_1600_3d3_o_preview_4.jpg" prev3url="images/semiglav_1600_3d3_o_preview_3.jpg" prev2url="images/semiglav_1600_3d3_o_preview_2.jpg" prev1url="images/semiglav_1600_3d3_o_preview_1.jpg" prev0url="images/semiglav_1600_3d3_o_preview_0.jpg" tile5url="images/semiglav_1600_3d3_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1600_3d3_o_4.jpg" tile3url="images/semiglav_1600_3d3_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1600_3d3_o_2.jpg" tile1url="images/semiglav_1600_3d3_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node36" hideabout="1">
     <view fovmode="0" pannorth="251.5">
@@ -972,7 +1004,7 @@
     <media/>
     <input tile0url="images/semiglav_1494_3d2_o_0.jpg" prev5url="images/semiglav_1494_3d2_o_preview_5.jpg" prev4url="images/semiglav_1494_3d2_o_preview_4.jpg" prev3url="images/semiglav_1494_3d2_o_preview_3.jpg" prev2url="images/semiglav_1494_3d2_o_preview_2.jpg" prev1url="images/semiglav_1494_3d2_o_preview_1.jpg" prev0url="images/semiglav_1494_3d2_o_preview_0.jpg" tile5url="images/semiglav_1494_3d2_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1494_3d2_o_4.jpg" tile3url="images/semiglav_1494_3d2_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1494_3d2_o_2.jpg" tile1url="images/semiglav_1494_3d2_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node37" hideabout="1">
     <view fovmode="0" pannorth="281">
@@ -990,7 +1022,7 @@
     <media/>
     <input tile0url="images/semiglav_1612_3d1_o_0.jpg" prev5url="images/semiglav_1612_3d1_o_preview_5.jpg" prev4url="images/semiglav_1612_3d1_o_preview_4.jpg" prev3url="images/semiglav_1612_3d1_o_preview_3.jpg" prev2url="images/semiglav_1612_3d1_o_preview_2.jpg" prev1url="images/semiglav_1612_3d1_o_preview_1.jpg" prev0url="images/semiglav_1612_3d1_o_preview_0.jpg" tile5url="images/semiglav_1612_3d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1612_3d1_o_4.jpg" tile3url="images/semiglav_1612_3d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1612_3d1_o_2.jpg" tile1url="images/semiglav_1612_3d1_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node38" hideabout="1">
     <view fovmode="0" pannorth="0">
@@ -1007,7 +1039,7 @@
     <media/>
     <input tile0url="images/semiglav_grachev_per_1d1_o_0.jpg" prev5url="images/semiglav_grachev_per_1d1_o_preview_5.jpg" prev4url="images/semiglav_grachev_per_1d1_o_preview_4.jpg" prev3url="images/semiglav_grachev_per_1d1_o_preview_3.jpg" prev2url="images/semiglav_grachev_per_1d1_o_preview_2.jpg" prev1url="images/semiglav_grachev_per_1d1_o_preview_1.jpg" prev0url="images/semiglav_grachev_per_1d1_o_preview_0.jpg" tile5url="images/semiglav_grachev_per_1d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_grachev_per_1d1_o_4.jpg" tile3url="images/semiglav_grachev_per_1d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_grachev_per_1d1_o_2.jpg" tile1url="images/semiglav_grachev_per_1d1_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node39" hideabout="1">
     <view fovmode="0" pannorth="0">
@@ -1026,7 +1058,7 @@
     <media/>
     <input tile0url="images/tuapse_o_0.jpg" prev5url="images/tuapse_o_preview_5.jpg" prev4url="images/tuapse_o_preview_4.jpg" prev3url="images/tuapse_o_preview_3.jpg" prev2url="images/tuapse_o_preview_2.jpg" prev1url="images/tuapse_o_preview_1.jpg" prev0url="images/tuapse_o_preview_0.jpg" tile5url="images/tuapse_o_5.jpg" tilesize="2500" tile4url="images/tuapse_o_4.jpg" tile3url="images/tuapse_o_3.jpg" tilescale="1.004" tile2url="images/tuapse_o_2.jpg" tile1url="images/tuapse_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node40" hideabout="1">
     <view fovmode="0" pannorth="354.5">
@@ -1105,6 +1137,6 @@
     <media/>
     <input tile0url="images/oshten_o_0.jpg" prev5url="images/oshten_o_preview_5.jpg" prev4url="images/oshten_o_preview_4.jpg" prev3url="images/oshten_o_preview_3.jpg" prev2url="images/oshten_o_preview_2.jpg" prev1url="images/oshten_o_preview_1.jpg" prev0url="images/oshten_o_preview_0.jpg" tile5url="images/oshten_o_5.jpg" tilesize="2500" tile4url="images/oshten_o_4.jpg" tile3url="images/oshten_o_3.jpg" tilescale="1.004" tile2url="images/oshten_o_2.jpg" tile1url="images/oshten_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
 </tour>
