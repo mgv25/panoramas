@@ -22,7 +22,7 @@ for key in table:
     file = open(path + key + ".xml", "w", encoding='utf-8')
     for line in mainlines:
         if "tour start" in line:
-            line = "<tour start=\"%s\">" % table[key]
+            line = "<tour start=\"%s\">\n" % table[key]
         file.write(line)
     file.close()
 
