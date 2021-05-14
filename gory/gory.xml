@@ -450,6 +450,20 @@
       <hotspot title="г.Семашхо, 2021" target="265.5/-5/65" pan="-106.037" skinid="hs_2021_active" url="{node17}" id="Point08" tilt="-18.3088"/>
       <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-0.404606" skinid="hotspot" url="{node31}" id="Point09" tilt="2.05104"/>
       <hotspot title="Туапсе" target="88/-0.5/65" pan="-106.509" skinid="hotspot" url="{node39}" id="Point10" tilt="-1.46876"/>
+      <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
+        <vertex pan="-84.87179999999999" tilt="-6.36655"/>
+        <vertex pan="-83.2406" tilt="-2.39503"/>
+        <vertex pan="-83.7359" tilt="1.78993"/>
+        <vertex pan="-85.7903" tilt="4.23892"/>
+        <vertex pan="-94.7572" tilt="4.80315"/>
+        <vertex pan="-103.952" tilt="4.00615"/>
+        <vertex pan="-103.783" tilt="-2.28669"/>
+        <vertex pan="-103.525" tilt="-7.5128"/>
+        <vertex pan="-99.721" tilt="-8.776020000000001"/>
+        <vertex pan="-92.384" tilt="-8.94355"/>
+        <vertex pan="-88.6906" tilt="-8.30284"/>
+        <vertex pan="-87.33110000000001" tilt="-7.97531"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/semashho_2021_o_0.jpg" prev5url="images/semashho_2021_o_preview_5.jpg" prev4url="images/semashho_2021_o_preview_4.jpg" prev3url="images/semashho_2021_o_preview_3.jpg" prev2url="images/semashho_2021_o_preview_2.jpg" prev1url="images/semashho_2021_o_preview_1.jpg" prev0url="images/semashho_2021_o_preview_0.jpg" tile5url="images/semashho_2021_o_5.jpg" tilesize="2500" tile4url="images/semashho_2021_o_4.jpg" tile3url="images/semashho_2021_o_3.jpg" tilescale="1.004" tile2url="images/semashho_2021_o_2.jpg" tile1url="images/semashho_2021_o_1.jpg"/>
@@ -804,6 +818,23 @@
       <hotspot title="г. Семашхо, 2021" target="267.5/-4/65" pan="-114.254" skinid="hs_2021_faded" url="{node17}" id="Point08" tilt="-26.415"/>
       <hotspot title="г. Семиглавая" target="359.5/-7/65" pan="-6.6649" skinid="hotspot" url="{node31}" id="Point09" tilt="0.187153"/>
       <hotspot title="Туапсе" target="89/0/65" pan="-114.922" skinid="hotspot" url="{node39}" id="Point10" tilt="0.0401419"/>
+      <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
+        <vertex pan="-93.4793" tilt="-6.26038"/>
+        <vertex pan="-91.58450000000001" tilt="-1.11317"/>
+        <vertex pan="-92.87090000000001" tilt="5.74944"/>
+        <vertex pan="-99.7765" tilt="8.88979"/>
+        <vertex pan="-109.754" tilt="9.14368"/>
+        <vertex pan="-113.343" tilt="7.59393"/>
+        <vertex pan="-113.126" tilt="4.56336"/>
+        <vertex pan="-113.442" tilt="0.937746"/>
+        <vertex pan="-113.621" tilt="-2.30944"/>
+        <vertex pan="-115.979" tilt="-3.08829"/>
+        <vertex pan="-115.526" tilt="-6.85684"/>
+        <vertex pan="-111.306" tilt="-8.480029999999999"/>
+        <vertex pan="-105.54" tilt="-9.16464"/>
+        <vertex pan="-99.2182" tilt="-8.79912"/>
+        <vertex pan="-95.9837" tilt="-8.2288"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/semashho_o_0.jpg" prev5url="images/semashho_o_preview_5.jpg" prev4url="images/semashho_o_preview_4.jpg" prev3url="images/semashho_o_preview_3.jpg" prev2url="images/semashho_o_preview_2.jpg" prev1url="images/semashho_o_preview_1.jpg" prev0url="images/semashho_o_preview_0.jpg" tile5url="images/semashho_o_5.jpg" tilesize="2500" tile4url="images/semashho_o_4.jpg" tile3url="images/semashho_o_3.jpg" tilescale="1.004" tile2url="images/semashho_o_2.jpg" tile1url="images/semashho_o_1.jpg"/>
