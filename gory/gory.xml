@@ -724,7 +724,7 @@
       <hotspot title="Дольмены у Анастасиевки" target="" pan="157.594" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.325"/>
       <hotspot title="В Туапсе" target="86/-0.5/65" pan="94.5307" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.5202"/>
       <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-55.5704" skinid="hotspot" url="{node31}" id="Point05" tilt="7.05624"/>
-      <hotspot title="Исток р. Пшенахо" target="" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
+      <hotspot title="Исток р. Пшенахо" target="129.5/-3.5/65" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
       <hotspot title="г. Два Брата" target="" pan="-3.90978" skinid="hotspot" url="{node22}" id="Point01" tilt="16.8025"/>
       <hotspot title="Отрог Семашхо" target="" pan="13.8489" skinid="hotspot" url="{node16}" id="Point07" tilt="14.6113"/>
       <hotspot title="Двубратский водопад" target="" pan="9.831860000000001" skinid="hotspot" url="{node24}" id="Point03" tilt="11.818"/>
