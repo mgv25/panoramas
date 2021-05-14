@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node24">
-  <panorama id="node1" hideabout="1">
+<tour start="node24">  <panorama id="node1" hideabout="1">
     <view fovmode="0" pannorth="2">
       <start pan="7.5" fov="70" tilt="0"/>
       <min pan="0" fov="30" tilt="-90"/>
@@ -724,7 +723,7 @@
       <hotspot title="Дольмены у Анастасиевки" target="" pan="157.594" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.325"/>
       <hotspot title="В Туапсе" target="86/-0.5/65" pan="94.5307" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.5202"/>
       <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-55.5704" skinid="hotspot" url="{node31}" id="Point05" tilt="7.05624"/>
-      <hotspot title="Исток р. Пшенахо" target="" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
+      <hotspot title="Исток р. Большое Псеушхо" target="129.5/-3.5/65" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
       <hotspot title="г. Два Брата" target="" pan="-3.90978" skinid="hotspot" url="{node22}" id="Point01" tilt="16.8025"/>
       <hotspot title="Отрог Семашхо" target="" pan="13.8489" skinid="hotspot" url="{node16}" id="Point07" tilt="14.6113"/>
       <hotspot title="Двубратский водопад" target="" pan="9.831860000000001" skinid="hotspot" url="{node24}" id="Point03" tilt="11.818"/>
@@ -897,7 +896,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Перевал через Семиглавую" target="" pan="-113.509" skinid="hs_go" url="{node32}" id="Point01" tilt="-14.9508"/>
-      <hotspot title="Вниз, к истоку р. Пшенахо" target="" pan="96.8633" skinid="hs_go" url="{node34}" id="Point02" tilt="-9.114940000000001"/>
+      <hotspot title="Вниз, к истоку р. Большое Псеушхо" target="" pan="96.8633" skinid="hs_go" url="{node34}" id="Point02" tilt="-9.114940000000001"/>
       <polyhotspot title="Дольмен (см 3D модель)" target="" url="https://skfb.ly/POGT" id="Poly01">
         <vertex pan="49.7061" tilt="-2.28634"/>
         <vertex pan="37.1942" tilt="3.81286"/>
@@ -925,7 +924,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Верховья р. Пшенахо" datetime="4.05.2014" description="" copyright="" tags="2014|семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <userdata title="Верховья р. Большое Псеушхо" datetime="4.05.2014" description="" copyright="" tags="2014|семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -943,7 +942,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Привал на высоте 1600" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.48788600000000" latitude="44.08764400000000"/>
+    <userdata title="Привал у высоты 1627" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.48788600000000" latitude="44.08764400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
