@@ -1,7 +1,7 @@
 import os
 
-path = "C:\\Users\\Michael\\Documents\\GitHub\\panoramas\\gory\\"
-mainfilename = "gory.xml"
+path = "C:\\Users\\Michael\\Documents\\GitHub\\panoramas\\paralympics\\"
+mainfilename = "hockey.xml"
 
 l = []
 
@@ -28,7 +28,7 @@ for key in table:
 
 
 # generate html files:
-mainfilename = "gory.html"
+mainfilename = "hockey.html"
 mainfile = open(path + mainfilename, "r", encoding='utf-8')
 mainlines = mainfile.readlines()
 mainfile.close()
