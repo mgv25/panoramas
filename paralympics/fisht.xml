@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node7">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="41" fov="70" tilt="-6.5"/>
+      <min pan="0" fov="35" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Паралимпийский хоккей, матч Швеция - Корея" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На улицу" target="261.5/2.5/65" pan="-80.6317" skinid="hs_go" url="{node7}" id="Point01" tilt="-13.6197"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/hockey_o_0.jpg" prev5url="images/hockey_o_preview_5.jpg" prev4url="images/hockey_o_preview_4.jpg" prev3url="images/hockey_o_preview_3.jpg" prev2url="images/hockey_o_preview_2.jpg" prev1url="images/hockey_o_preview_1.jpg" prev0url="images/hockey_o_preview_0.jpg" tile5url="images/hockey_o_5.jpg" tilesize="2880" tile4url="images/hockey_o_4.jpg" tile3url="images/hockey_o_3.jpg" tilescale="1.003472222222222" tile2url="images/hockey_o_2.jpg" tile1url="images/hockey_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Адлер-арена" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В центр площади" target="7/9.5/65" pan="-163.89" skinid="hs_go" url="{node9}" id="Point01" tilt="-3.90289"/>
+      <hotspot title="К флагам" target="94.5/20/65" pan="-101.653" skinid="hs_go" url="{node8}" id="Point02" tilt="-4.31898"/>
+      <hotspot title="Большой ледовый дворец и Шайба" target="5.5/4.5/65" pan="141.436" skinid="hs_go" url="{node10}" id="Point03" tilt="-3.75845"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/adler-arena_o_0.jpg" prev5url="images/adler-arena_o_preview_5.jpg" prev4url="images/adler-arena_o_preview_4.jpg" prev3url="images/adler-arena_o_preview_3.jpg" prev2url="images/adler-arena_o_preview_2.jpg" prev1url="images/adler-arena_o_preview_1.jpg" prev0url="images/adler-arena_o_preview_0.jpg" tile5url="images/adler-arena_o_5.jpg" tilesize="2880" tile4url="images/adler-arena_o_4.jpg" tile3url="images/adler-arena_o_3.jpg" tilescale="1.003472222222222" tile2url="images/adler-arena_o_2.jpg" tile1url="images/adler-arena_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Ледовый дворец Айсберг" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К факелу" target="55/7.5/65" pan="177.443" skinid="hs_go" url="{node11}" id="Point01" tilt="-5.66417"/>
+      <hotspot title="К паралимпийскому магазину" target="359/-0.5/65" pan="-36.9724" skinid="hs_go" url="{node6}" id="Point02" tilt="-5.18617"/>
+      <hotspot title="К флагам" target="233/23/65" pan="114.47" skinid="hs_go" url="{node8}" id="Point03" tilt="-3.90081"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/iceberg_o_0.jpg" prev5url="images/iceberg_o_preview_5.jpg" prev4url="images/iceberg_o_preview_4.jpg" prev3url="images/iceberg_o_preview_3.jpg" prev2url="images/iceberg_o_preview_2.jpg" prev1url="images/iceberg_o_preview_1.jpg" prev0url="images/iceberg_o_preview_0.jpg" tile5url="images/iceberg_o_5.jpg" tilesize="2880" tile4url="images/iceberg_o_4.jpg" tile3url="images/iceberg_o_3.jpg" tilescale="1.003472222222222" tile2url="images/iceberg_o_2.jpg" tile1url="images/iceberg_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Формула-1, вход в парк" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В парк" target="156.5/0/65" pan="-4.40007" skinid="hs_go" url="{node6}" id="Point01" tilt="-5.19812"/>
+      <hotspot title="Сразу на хоккей" target="" pan="7.20461" skinid="hs_go" url="{node1}" id="Point02" tilt="-5.2275"/>
+      <hotspot title="Уехать на электричке" target="" pan="-160.83" skinid="hs_go" url="https://mgv25.github.io/panoramas/gory/elektrichka.html" id="Point03" tilt="-3.91633"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/formula_coca-cola_o_0.jpg" prev5url="images/formula_coca-cola_o_preview_5.jpg" prev4url="images/formula_coca-cola_o_preview_4.jpg" prev3url="images/formula_coca-cola_o_preview_3.jpg" prev2url="images/formula_coca-cola_o_preview_2.jpg" prev1url="images/formula_coca-cola_o_preview_1.jpg" prev0url="images/formula_coca-cola_o_preview_0.jpg" tile5url="images/formula_coca-cola_o_5.jpg" tilesize="2880" tile4url="images/formula_coca-cola_o_4.jpg" tile3url="images/formula_coca-cola_o_3.jpg" tilescale="1.003472222222222" tile2url="images/formula_coca-cola_o_2.jpg" tile1url="images/formula_coca-cola_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Паралимпийский магазин" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К площади" target="163.5/-0.5/65" pan="157.67" skinid="hs_go" url="{node3}" id="Point01" tilt="-5.66346"/>
+      <hotspot title="К выходу" target="191/-3.5/65" pan="7.95705" skinid="hs_go" url="{node4}" id="Point02" tilt="-6.50135"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/shop_o_0.jpg" prev5url="images/shop_o_preview_5.jpg" prev4url="images/shop_o_preview_4.jpg" prev3url="images/shop_o_preview_3.jpg" prev2url="images/shop_o_preview_2.jpg" prev1url="images/shop_o_preview_1.jpg" prev0url="images/shop_o_preview_0.jpg" tile5url="images/shop_o_5.jpg" tilesize="2880" tile4url="images/shop_o_4.jpg" tile3url="images/shop_o_3.jpg" tilescale="1.003472222222222" tile2url="images/shop_o_2.jpg" tile1url="images/shop_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Стадион Фишт и ледовый стадион Шайба" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="На площадь" target="58/9.5/65" pan="-103.571" skinid="hs_go" url="{node11}" id="Point01" tilt="-4.98809"/>
+      <hotspot title="Большой ледовый дворец и Шайба" target="1.5/0/65" pan="-74.48390000000001" skinid="hs_go" url="{node10}" id="Point02" tilt="-4.49943"/>
+      <hotspot title="На хоккей" target="42.5/-10.5/65" pan="-37.377" skinid="hs_go" url="{node1}" id="Point03" tilt="-3.15467"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/fisht-shayba_o_0.jpg" prev5url="images/fisht-shayba_o_preview_5.jpg" prev4url="images/fisht-shayba_o_preview_4.jpg" prev3url="images/fisht-shayba_o_preview_3.jpg" prev2url="images/fisht-shayba_o_preview_2.jpg" prev1url="images/fisht-shayba_o_preview_1.jpg" prev0url="images/fisht-shayba_o_preview_0.jpg" tile5url="images/fisht-shayba_o_5.jpg" tilesize="2880" tile4url="images/fisht-shayba_o_4.jpg" tile3url="images/fisht-shayba_o_3.jpg" tilescale="1.003472222222222" tile2url="images/fisht-shayba_o_2.jpg" tile1url="images/fisht-shayba_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Флаги" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В центр площади" target="" pan="-16.0049" skinid="hs_go" url="{node9}" id="Point01" tilt="-5.5988"/>
+      <hotspot title="К факелу" target="55.5/8/65" pan="7.12302" skinid="hs_go" url="{node11}" id="Point02" tilt="-4.11229"/>
+      <hotspot title="Адлер-Арена" target="0/0/65" pan="-89.82850000000001" skinid="hs_go" url="{node2}" id="Point03" tilt="-4.90311"/>
+      <hotspot title="Айсберг" target="33/8/65" pan="64.3502" skinid="hs_go" url="{node3}" id="Point04" tilt="-3.86884"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/flags_iceberg_o_0.jpg" prev5url="images/flags_iceberg_o_preview_5.jpg" prev4url="images/flags_iceberg_o_preview_4.jpg" prev3url="images/flags_iceberg_o_preview_3.jpg" prev2url="images/flags_iceberg_o_preview_2.jpg" prev1url="images/flags_iceberg_o_preview_1.jpg" prev0url="images/flags_iceberg_o_preview_0.jpg" tile5url="images/flags_iceberg_o_5.jpg" tilesize="2880" tile4url="images/flags_iceberg_o_4.jpg" tile3url="images/flags_iceberg_o_3.jpg" tilescale="1.003472222222222" tile2url="images/flags_iceberg_o_2.jpg" tile1url="images/flags_iceberg_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Центр Олимпийского парка" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К паралимпийским кольцам и факелу" target="52.5/7.5/65" pan="27.1758" skinid="hs_go" url="{node11}" id="Point01" tilt="-3.76613"/>
+      <hotspot title="Айсберг" target="34/6/65" pan="61.1522" skinid="hs_go" url="{node3}" id="Point02" tilt="-2.86817"/>
+      <hotspot title="К флагам" target="233/21/65" pan="132.855" skinid="hs_go" url="{node8}" id="Point03" tilt="-4.31454"/>
+      <hotspot title="Адлер-Арена" target="0/0/65" pan="-159.881" skinid="hs_go" url="{node2}" id="Point04" tilt="-4.60993"/>
+      <hotspot title="Большой ледовый дворец и Шайба" target="0/0/65" pan="-63.5713" skinid="hs_go" url="{node10}" id="Point05" tilt="-3.78808"/>
+      <hotspot title="Стадион Фишт и Шайба" target="357/4.5/65" pan="-30.8837" skinid="hs_go" url="{node7}" id="Point06" tilt="-3.43793"/>
+      <hotspot title="В Шайбу на хоккей" target="40.5/-8/65" pan="-47.6642" skinid="hs_go" url="{node1}" id="Point07" tilt="-2.42616"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/center_o_0.jpg" prev5url="images/center_o_preview_5.jpg" prev4url="images/center_o_preview_4.jpg" prev3url="images/center_o_preview_3.jpg" prev2url="images/center_o_preview_2.jpg" prev1url="images/center_o_preview_1.jpg" prev0url="images/center_o_preview_0.jpg" tile5url="images/center_o_5.jpg" tilesize="2880" tile4url="images/center_o_4.jpg" tile3url="images/center_o_3.jpg" tilescale="1.003472222222222" tile2url="images/center_o_2.jpg" tile1url="images/center_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой ледовый дворец" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Адлер-Арена" target="357.5/8/65" pan="-67.4322" skinid="hs_go" url="{node2}" id="Point01" tilt="-4.74569"/>
+      <hotspot title="На площадь" target="358.5/7.5/65" pan="-88.018" skinid="hs_go" url="{node9}" id="Point02" tilt="-4.10049"/>
+      <hotspot title="Айсберг" target="33.5/9/65" pan="-120.659" skinid="hs_go" url="{node3}" id="Point03" tilt="-4.07336"/>
+      <hotspot title="Стадион Фишт и Шайба" target="359/3.5/65" pan="146.85" skinid="hs_go" url="{node7}" id="Point04" tilt="-7.51533"/>
+      <hotspot title="На хоккей" target="39/-7/65" pan="104.027" skinid="hs_go" url="{node1}" id="Point05" tilt="-4.08268"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/shayba-kaplya_o_0.jpg" prev5url="images/shayba-kaplya_o_preview_5.jpg" prev4url="images/shayba-kaplya_o_preview_4.jpg" prev3url="images/shayba-kaplya_o_preview_3.jpg" prev2url="images/shayba-kaplya_o_preview_2.jpg" prev1url="images/shayba-kaplya_o_preview_1.jpg" prev0url="images/shayba-kaplya_o_preview_0.jpg" tile5url="images/shayba-kaplya_o_5.jpg" tilesize="2880" tile4url="images/shayba-kaplya_o_4.jpg" tile3url="images/shayba-kaplya_o_3.jpg" tilescale="1.003472222222222" tile2url="images/shayba-kaplya_o_2.jpg" tile1url="images/shayba-kaplya_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="0">
+      <start pan="46" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Паралимпийские кольца" datetime="14.03.2014" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Айсберг" target="35/2.5/65" pan="-150.283" skinid="hs_go" url="{node3}" id="Point01" tilt="-5.15952"/>
+      <hotspot title="В центр площади" target="" pan="-1.79378" skinid="hs_go" url="{node9}" id="Point02" tilt="-5.68313"/>
+      <hotspot title="К флагам" target="234.5/21.5/65" pan="-68.9579" skinid="hs_go" url="{node8}" id="Point03" tilt="-3.04978"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/rings_o_0.jpg" prev5url="images/rings_o_preview_5.jpg" prev4url="images/rings_o_preview_4.jpg" prev3url="images/rings_o_preview_3.jpg" prev2url="images/rings_o_preview_2.jpg" prev1url="images/rings_o_preview_1.jpg" prev0url="images/rings_o_preview_0.jpg" tile5url="images/rings_o_5.jpg" tilesize="2880" tile4url="images/rings_o_4.jpg" tile3url="images/rings_o_3.jpg" tilescale="1.003472222222222" tile2url="images/rings_o_2.jpg" tile1url="images/rings_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
