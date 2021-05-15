@@ -47,7 +47,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="К факелу" target="55/7.5/65" pan="177.443" skinid="hs_go" url="{node11}" id="Point01" tilt="-5.66417"/>
-      <hotspot title="К паралимпийскому магазину" target="359/-0.5/65" pan="-36.9724" skinid="hs_go" url="{node6}" id="Point02" tilt="-5.18617"/>
+      <hotspot title="К выходу" target="359/-0.5/65" pan="-36.9724" skinid="hs_go" url="{node6}" id="Point02" tilt="-5.18617"/>
       <hotspot title="К флагам" target="233/23/65" pan="114.47" skinid="hs_go" url="{node8}" id="Point03" tilt="-3.90081"/>
     </hotspots>
     <media/>
@@ -84,8 +84,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="К площади" target="163.5/-0.5/65" pan="157.67" skinid="hs_go" url="{node3}" id="Point01" tilt="-5.66346"/>
-      <hotspot title="К выходу" target="191/-3.5/65" pan="7.95705" skinid="hs_go" url="{node4}" id="Point02" tilt="-6.50135"/>
+      <hotspot title="В парк" target="163.5/-0.5/65" pan="150.362" skinid="hs_go" url="{node3}" id="Point01" tilt="-4.22799"/>
+      <hotspot title="Уехать на электричке" target="191/-3.5/65" pan="7.95705" skinid="hs_go" url="https://mgv25.github.io/panoramas/gory/elektrichka.html" id="Point02" tilt="-6.50135"/>
+      <hotspot title="Сразу на хоккей" target="0/0/65" pan="164.559" skinid="hs_go" url="{node1}" id="Point03" tilt="-4.26948"/>
     </hotspots>
     <media/>
     <input tile0url="images/shop_o_0.jpg" prev5url="images/shop_o_preview_5.jpg" prev4url="images/shop_o_preview_4.jpg" prev3url="images/shop_o_preview_3.jpg" prev2url="images/shop_o_preview_2.jpg" prev1url="images/shop_o_preview_1.jpg" prev0url="images/shop_o_preview_0.jpg" tile5url="images/shop_o_5.jpg" tilesize="2880" tile4url="images/shop_o_4.jpg" tile3url="images/shop_o_3.jpg" tilescale="1.003472222222222" tile2url="images/shop_o_2.jpg" tile1url="images/shop_o_1.jpg"/>
