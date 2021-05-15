@@ -1,0 +1,10 @@
+hockey	node1
+adler_arena	node2
+iceberg	node3
+entrance	node4
+shop	node6
+fisht	node7
+flags	node8
+center	node9
+big_ice_palace	node10
+rings	node11
