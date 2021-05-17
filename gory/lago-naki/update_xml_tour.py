@@ -40,3 +40,19 @@ for key in table:
             line = "\t\t\tpano.readConfigUrl(\"%s.xml\");\n" % key
         file.write(line)
     file.close()
+
+
+
+# #generate redirect pages
+# mainfilename = "oshten.html"
+# mainfile = open(path + mainfilename, "r", encoding='utf-8')
+# mainlines = mainfile.readlines()
+# mainfile.close()
+
+# for key in table:
+#     file = open(path + key + ".html", "w", encoding='utf-8')
+#     for line in mainlines:
+#         if "<meta http-equiv=" in line:
+#             line = "\t\t\t<meta http-equiv=\"refresh\" content=\"0; URL='./lago-naki/\"%s.html'\" />\n" % key
+#         file.write(line)
+#     file.close()
