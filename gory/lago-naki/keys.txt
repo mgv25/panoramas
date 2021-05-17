@@ -1,6 +1,5 @@
 pod_per_guzeripl	node1
-sklon_guzeripl	node2
-indushonok	node3
+sklon_guzeripl	node3
 per_guzeripl	node4
 per_armyanskiy	node5
 priyut_fisht	node7
