@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node22">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="208">
+      <start pan="339" fov="77.5" tilt="10"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="110" tilt="90"/>
+    </view>
+    <userdata title="Под перевалом Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.96344100000000" latitude="43.99290500000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Гузерипль" target="49/-7/65" pan="2.79483" skinid="hs_go" url="{node4}" id="Point02" tilt="-4.87719"/>
+      <hotspot title="Инструкторская щель" target="" pan="177.5" skinid="hotspot" url="{node22}" id="Point03" tilt="-3.2203"/>
+      <hotspot title="Яворовая поляна" target="77/4/65" pan="168.433" skinid="hs_go" url="{node23}" id="Point04" tilt="-14.1253"/>
+      <hotspot title="Парковка" target="" pan="162.583" skinid="hotspot" url="{node24}" id="Point05" tilt="-4.90698"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/01_pod_guzeriplem_o_0.jpg" prev5url="images-lago-naki/01_pod_guzeriplem_o_preview_5.jpg" prev4url="images-lago-naki/01_pod_guzeriplem_o_preview_4.jpg" prev3url="images-lago-naki/01_pod_guzeriplem_o_preview_3.jpg" prev2url="images-lago-naki/01_pod_guzeriplem_o_preview_2.jpg" prev1url="images-lago-naki/01_pod_guzeriplem_o_preview_1.jpg" prev0url="images-lago-naki/01_pod_guzeriplem_o_preview_0.jpg" tile5url="images-lago-naki/01_pod_guzeriplem_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/01_pod_guzeriplem_o_4.jpg" tile3url="images-lago-naki/01_pod_guzeriplem_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/01_pod_guzeriplem_o_2.jpg" tile1url="images-lago-naki/01_pod_guzeriplem_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="48.5">
+      <start pan="155" fov="70" tilt="-1.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="пер. Фишт-Оштеновский" datetime="2015:11:13 16:53:22" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.91400200000000" latitude="43.99054100000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Приют Фишт" target="205.5/12/65" pan="-111.723" skinid="hotspot" url="{node7}" id="Point01" tilt="-8.703049999999999"/>
+      <hotspot title="оз. Псенодах" target="10/-12/65" pan="98.7992" skinid="hs_go" url="{node16}" id="Point02" tilt="-8.411479999999999"/>
+      <hotspot title="подъём на Оштен" target="" pan="-15.0074" skinid="hotspot" url="{node14}" id="Point03" tilt="24.1913"/>
+      <hotspot title="г. Оштен" target="" pan="-1.5616" skinid="hotspot" url="{node11}" id="Point04" tilt="24.4517"/>
+      <hotspot title="гребень Оштена" target="283/-6/65" pan="-9.65926" skinid="hotspot" url="{node13}" id="Point05" tilt="24.8928"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/08_per_fisht_oshten_o_0.jpg" prev5url="images-lago-naki/08_per_fisht_oshten_o_preview_5.jpg" prev4url="images-lago-naki/08_per_fisht_oshten_o_preview_4.jpg" prev3url="images-lago-naki/08_per_fisht_oshten_o_preview_3.jpg" prev2url="images-lago-naki/08_per_fisht_oshten_o_preview_2.jpg" prev1url="images-lago-naki/08_per_fisht_oshten_o_preview_1.jpg" prev0url="images-lago-naki/08_per_fisht_oshten_o_preview_0.jpg" tile5url="images-lago-naki/08_per_fisht_oshten_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/08_per_fisht_oshten_o_4.jpg" tile3url="images-lago-naki/08_per_fisht_oshten_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/08_per_fisht_oshten_o_2.jpg" tile1url="images-lago-naki/08_per_fisht_oshten_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="204">
+      <start pan="32" fov="70" tilt="-11"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="110" tilt="90"/>
+    </view>
+    <userdata title="пер. Гузерипль в тени" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.95913800000000" latitude="43.98257800000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="склон г. Гузерипль" target="" pan="120.398" skinid="hotspot" url="{node3}" id="Point01" tilt="9.963509999999999"/>
+      <hotspot title="Под перевалом Гузерипль" target="188.5/-9/65" pan="-161.427" skinid="hs_go" url="{node1}" id="Point02" tilt="-10.2289"/>
+      <hotspot title="пер. Армянский" target="159.5/-5/65" pan="37.2298" skinid="hs_go" url="{node5}" id="Point03" tilt="-18.7282"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/04_per_guzeripl_o_0.jpg" prev5url="images-lago-naki/04_per_guzeripl_o_preview_5.jpg" prev4url="images-lago-naki/04_per_guzeripl_o_preview_4.jpg" prev3url="images-lago-naki/04_per_guzeripl_o_preview_3.jpg" prev2url="images-lago-naki/04_per_guzeripl_o_preview_2.jpg" prev1url="images-lago-naki/04_per_guzeripl_o_preview_1.jpg" prev0url="images-lago-naki/04_per_guzeripl_o_preview_0.jpg" tile5url="images-lago-naki/04_per_guzeripl_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/04_per_guzeripl_o_4.jpg" tile3url="images-lago-naki/04_per_guzeripl_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/04_per_guzeripl_o_2.jpg" tile1url="images-lago-naki/04_per_guzeripl_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="282">
+      <start pan="76" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="110" tilt="90"/>
+    </view>
+    <userdata title="склон г. Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.96464600000000" latitude="43.98291800000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Гузерипль" target="" pan="9.151619999999999" skinid="hotspot" url="{node4}" id="Point02" tilt="-7.00654"/>
+      <hotspot title="Под перевалом Гузерипль" target="" pan="-62.8021" skinid="hs_go" url="{node1}" id="Point03" tilt="-8.29482"/>
+      <hotspot title="пер. Армянский" target="" pan="67.612" skinid="hs_go" url="{node5}" id="Point01" tilt="-19.7375"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/03_sklon_guzeripl_o_0.jpg" prev5url="images-lago-naki/03_sklon_guzeripl_o_preview_5.jpg" prev4url="images-lago-naki/03_sklon_guzeripl_o_preview_4.jpg" prev3url="images-lago-naki/03_sklon_guzeripl_o_preview_3.jpg" prev2url="images-lago-naki/03_sklon_guzeripl_o_preview_2.jpg" prev1url="images-lago-naki/03_sklon_guzeripl_o_preview_1.jpg" prev0url="images-lago-naki/03_sklon_guzeripl_o_preview_0.jpg" tile5url="images-lago-naki/03_sklon_guzeripl_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/03_sklon_guzeripl_o_4.jpg" tile3url="images-lago-naki/03_sklon_guzeripl_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/03_sklon_guzeripl_o_2.jpg" tile1url="images-lago-naki/03_sklon_guzeripl_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="14">
+      <start pan="151" fov="70" tilt="-2.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="110" tilt="90"/>
+    </view>
+    <userdata title="пер. Армянский" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.94154700000000" latitude="43.97133200000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Гузерипль" target="206/-2/65" pan="-36.7564" skinid="hotspot" url="{node4}" id="Point05" tilt="5.02919"/>
+      <hotspot title="Приют Фишт" target="208.5/10.5/65" pan="164.515" skinid="hotspot" url="{node7}" id="Point03" tilt="-9.065200000000001"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/05_armyanskiy_o_0.jpg" prev5url="images-lago-naki/05_armyanskiy_o_preview_5.jpg" prev4url="images-lago-naki/05_armyanskiy_o_preview_4.jpg" prev3url="images-lago-naki/05_armyanskiy_o_preview_3.jpg" prev2url="images-lago-naki/05_armyanskiy_o_preview_2.jpg" prev1url="images-lago-naki/05_armyanskiy_o_preview_1.jpg" prev0url="images-lago-naki/05_armyanskiy_o_preview_0.jpg" tile5url="images-lago-naki/05_armyanskiy_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/05_armyanskiy_o_4.jpg" tile3url="images-lago-naki/05_armyanskiy_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/05_armyanskiy_o_2.jpg" tile1url="images-lago-naki/05_armyanskiy_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="89.5">
+      <start pan="223.5" fov="70" tilt="4.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="110" tilt="90"/>
+    </view>
+    <userdata title="Приют Фишт" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.93017600000000" latitude="43.95940000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="137.5/-4.5/65" pan="108.938" skinid="hotspot" url="{node8}" id="Point01" tilt="10.3742"/>
+      <hotspot title="пер. Армянский" target="329.5/-4.5/65" pan="54.5553" skinid="hotspot" url="{node5}" id="Point02" tilt="10.6052"/>
+      <hotspot title="подъём на Оштен" target="" pan="95.0731" skinid="hotspot" url="{node14}" id="Point03" tilt="16.5252"/>
+      <hotspot title="г. Оштен" target="" pan="88.48869999999999" skinid="hotspot" url="{node11}" id="Point04" tilt="18.7524"/>
+      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly01">
+        <vertex pan="-112.728" tilt="12.4475"/>
+        <vertex pan="-114.498" tilt="17.7571"/>
+        <vertex pan="-118.263" tilt="20.7859"/>
+        <vertex pan="-122.225" tilt="22.1682"/>
+        <vertex pan="-125.738" tilt="22.5591"/>
+        <vertex pan="-129.067" tilt="21.7177"/>
+        <vertex pan="-130.804" tilt="22.1492"/>
+        <vertex pan="-133.879" tilt="25.1941"/>
+        <vertex pan="-141.221" tilt="24.6306"/>
+        <vertex pan="-143.278" tilt="23.5345"/>
+        <vertex pan="-145.18" tilt="23.6911"/>
+        <vertex pan="-147.676" tilt="24.4629"/>
+        <vertex pan="-151.063" tilt="25.7928"/>
+        <vertex pan="-153.869" tilt="27.4146"/>
+        <vertex pan="-157.257" tilt="29.3609"/>
+        <vertex pan="-159.605" tilt="30.8991"/>
+        <vertex pan="-168.447" tilt="30.2265"/>
+        <vertex pan="-168.375" tilt="28.637"/>
+        <vertex pan="-167.971" tilt="12.846"/>
+        <vertex pan="-155.079" tilt="14.6194"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly02">
+        <vertex pan="-168.697" tilt="30.0158"/>
+        <vertex pan="178.181" tilt="31.7543"/>
+        <vertex pan="171.143" tilt="29.7348"/>
+        <vertex pan="164.599" tilt="26.7615"/>
+        <vertex pan="158.041" tilt="23.5132"/>
+        <vertex pan="152.61" tilt="22.0969"/>
+        <vertex pan="151.288" tilt="21.8986"/>
+        <vertex pan="143.327" tilt="20.2591"/>
+        <vertex pan="136.012" tilt="20.7175"/>
+        <vertex pan="129.63" tilt="14.8025"/>
+        <vertex pan="122.151" tilt="7.8061"/>
+        <vertex pan="127.633" tilt="7.27978"/>
+        <vertex pan="152.434" tilt="9.560750000000001"/>
+        <vertex pan="170.055" tilt="11.9534"/>
+        <vertex pan="-168.569" tilt="12.5585"/>
+      </polyhotspot>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly03">
+        <vertex pan="103.992" tilt="11.6079"/>
+        <vertex pan="96.8552" tilt="16.8767"/>
+        <vertex pan="89.18810000000001" tilt="19.6898"/>
+        <vertex pan="80.95099999999999" tilt="22.4854"/>
+        <vertex pan="69.0615" tilt="21.2864"/>
+        <vertex pan="58.4175" tilt="16.6494"/>
+        <vertex pan="58.0829" tilt="15.4512"/>
+        <vertex pan="58.0829" tilt="14.0519"/>
+        <vertex pan="57.9718" tilt="12.9786"/>
+        <vertex pan="59.3192" tilt="10.1031"/>
+        <vertex pan="67.0146" tilt="10.6501"/>
+        <vertex pan="80.6728" tilt="9.66891"/>
+        <vertex pan="96.31829999999999" tilt="10.7071"/>
+        <vertex pan="101.068" tilt="11.0165"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/07_priyut_fisht_o_0.jpg" prev5url="images-lago-naki/07_priyut_fisht_o_preview_5.jpg" prev4url="images-lago-naki/07_priyut_fisht_o_preview_4.jpg" prev3url="images-lago-naki/07_priyut_fisht_o_preview_3.jpg" prev2url="images-lago-naki/07_priyut_fisht_o_preview_2.jpg" prev1url="images-lago-naki/07_priyut_fisht_o_preview_1.jpg" prev0url="images-lago-naki/07_priyut_fisht_o_preview_0.jpg" tile5url="images-lago-naki/07_priyut_fisht_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/07_priyut_fisht_o_4.jpg" tile3url="images-lago-naki/07_priyut_fisht_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/07_priyut_fisht_o_2.jpg" tile1url="images-lago-naki/07_priyut_fisht_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <view fovmode="0" pannorth="89.5">
+      <start pan="243.5" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Оштен" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="гребень Оштена" target="" pan="-109.92" skinid="hotspot" url="{node13}" id="Point01" tilt="-3.41946"/>
+      <hotspot title="под вершиной Оштена" target="" pan="154.907" skinid="hs_go" url="{node12}" id="Point02" tilt="-10.7897"/>
+      <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hotspot" url="{node20}" id="Point03" tilt="-14.3631"/>
+      <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node21}" id="Point04" tilt="-9.32976"/>
+      <hotspot title="г. Семиглавая" target="" pan="160.769" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.798385"/>
+      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-64.07850000000001" skinid="hs_clouds" url="{node27}" id="Point06" tilt="40.6744"/>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
+        <vertex pan="74.12179999999999" tilt="-26.7079"/>
+        <vertex pan="67.0707" tilt="-31.2942"/>
+        <vertex pan="56.2912" tilt="-27.9212"/>
+        <vertex pan="45.4796" tilt="-23.3167"/>
+        <vertex pan="38.3176" tilt="-21.6853"/>
+        <vertex pan="23.5367" tilt="-17.29"/>
+        <vertex pan="14.9866" tilt="-15.2598"/>
+        <vertex pan="6.1991" tilt="-13.2469"/>
+        <vertex pan="2.01251" tilt="-13.4536"/>
+        <vertex pan="-1.6224" tilt="-11.5398"/>
+        <vertex pan="-1.6224" tilt="-11.5398"/>
+        <vertex pan="-6.52226" tilt="-12.0074"/>
+        <vertex pan="-9.684010000000001" tilt="-10.4916"/>
+        <vertex pan="-12.8197" tilt="-10.497"/>
+        <vertex pan="-16.6611" tilt="-7.83685"/>
+        <vertex pan="-18.5694" tilt="-6.37789"/>
+        <vertex pan="-21.5776" tilt="-5.69193"/>
+        <vertex pan="-29.4661" tilt="-7.2424"/>
+        <vertex pan="-38.3028" tilt="-9.00149"/>
+        <vertex pan="-42.7163" tilt="-8.985480000000001"/>
+        <vertex pan="-46.5729" tilt="-7.92109"/>
+        <vertex pan="-50.3425" tilt="-6.98235"/>
+        <vertex pan="-51.3934" tilt="-5.65607"/>
+        <vertex pan="-52.4743" tilt="-5.61246"/>
+        <vertex pan="-53.1812" tilt="-6.31462"/>
+        <vertex pan="-57.079" tilt="-5.60608"/>
+        <vertex pan="-62.3961" tilt="-4.55283"/>
+        <vertex pan="-67.91070000000001" tilt="-3.12961"/>
+        <vertex pan="-70.18850000000001" tilt="-2.98495"/>
+        <vertex pan="-78.1506" tilt="-7.23167"/>
+        <vertex pan="-82.35469999999999" tilt="-5.60505"/>
+        <vertex pan="-87.32429999999999" tilt="-3.77187"/>
+        <vertex pan="-92.33929999999999" tilt="-4.86379"/>
+        <vertex pan="-98.1888" tilt="-5.85762"/>
+        <vertex pan="-101.586" tilt="-5.76634"/>
+        <vertex pan="-105.648" tilt="-4.08315"/>
+        <vertex pan="-112.021" tilt="-5.00842"/>
+        <vertex pan="-125.826" tilt="-7.79861"/>
+        <vertex pan="-141.488" tilt="-11.1971"/>
+        <vertex pan="-165.134" tilt="-11.8729"/>
+        <vertex pan="120.513" tilt="-10.1294"/>
+        <vertex pan="114.732" tilt="-12.245"/>
+        <vertex pan="113.706" tilt="-14.4041"/>
+        <vertex pan="109.861" tilt="-13.4662"/>
+        <vertex pan="109.567" tilt="-15.8408"/>
+        <vertex pan="101.509" tilt="-15.331"/>
+        <vertex pan="93.1968" tilt="-19.2129"/>
+        <vertex pan="85.16930000000001" tilt="-20.8999"/>
+        <vertex pan="76.455" tilt="-23.0896"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly02">
+        <vertex pan="-98.59439999999999" tilt="-5.35849"/>
+        <vertex pan="-99.33329999999999" tilt="-4.20366"/>
+        <vertex pan="-102.302" tilt="-2.70611"/>
+        <vertex pan="-104.268" tilt="-3.45445"/>
+        <vertex pan="-106.384" tilt="-2.37019"/>
+        <vertex pan="-110.071" tilt="-1.92325"/>
+        <vertex pan="-111.282" tilt="-0.270183"/>
+        <vertex pan="-114.421" tilt="1.28272"/>
+        <vertex pan="-117.372" tilt="0.278532"/>
+        <vertex pan="-121.296" tilt="0.457769"/>
+        <vertex pan="-124.82" tilt="-0.535055"/>
+        <vertex pan="-126.845" tilt="-0.352333"/>
+        <vertex pan="-124.36" tilt="-7.18404"/>
+        <vertex pan="-111.634" tilt="-4.51846"/>
+        <vertex pan="-105.539" tilt="-3.64975"/>
+        <vertex pan="-101.244" tilt="-5.50933"/>
+        <vertex pan="-101.244" tilt="-5.50933"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="" id="Poly03">
+        <vertex pan="-124.708" tilt="-7.15975"/>
+        <vertex pan="-127.141" tilt="-0.344157"/>
+        <vertex pan="-130.446" tilt="-1.42691"/>
+        <vertex pan="-131.858" tilt="-2.24912"/>
+        <vertex pan="-134.317" tilt="-1.71581"/>
+        <vertex pan="-136.509" tilt="-2.08925"/>
+        <vertex pan="-138.067" tilt="-3.01361"/>
+        <vertex pan="-135.659" tilt="-9.7544"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/011_oshten_o_0.jpg" prev5url="images-lago-naki/011_oshten_o_preview_5.jpg" prev4url="images-lago-naki/011_oshten_o_preview_4.jpg" prev3url="images-lago-naki/011_oshten_o_preview_3.jpg" prev2url="images-lago-naki/011_oshten_o_preview_2.jpg" prev1url="images-lago-naki/011_oshten_o_preview_1.jpg" prev0url="images-lago-naki/011_oshten_o_preview_0.jpg" tile5url="images-lago-naki/011_oshten_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/011_oshten_o_4.jpg" tile3url="images-lago-naki/011_oshten_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/011_oshten_o_2.jpg" tile1url="images-lago-naki/011_oshten_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <view fovmode="0" pannorth="175">
+      <start pan="196.5" fov="70" tilt="-15"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="под вершиной Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92835500000000" latitude="43.99785900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="346.5/-12.5/65" pan="41.7765" skinid="hotspot" url="{node11}" id="Point01" tilt="5.5562"/>
+      <hotspot title="гребень Оштена" target="" pan="-13.3746" skinid="hotspot" url="{node13}" id="Point02" tilt="-1.91395"/>
+      <hotspot title="пер. Оштеновский" target="" pan="136.803" skinid="hotspot" url="{node20}" id="Point03" tilt="-13.9033"/>
+      <hotspot title="ручей Рубленый" target="" pan="119.247" skinid="hotspot" url="{node21}" id="Point04" tilt="-10.2754"/>
+      <hotspot title="Парковка" target="" pan="98.0044" skinid="hotspot" url="{node24}" id="Point05" tilt="-9.71979"/>
+      <hotspot title="г. Семиглавая" target="" pan="-113.747" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point06" tilt="-1.18997"/>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
+        <vertex pan="158.779" tilt="-24.2239"/>
+        <vertex pan="167.969" tilt="-21.1476"/>
+        <vertex pan="172.632" tilt="-21.2765"/>
+        <vertex pan="178.931" tilt="-19.6783"/>
+        <vertex pan="-175.869" tilt="-16.6125"/>
+        <vertex pan="-171.676" tilt="-16.8219"/>
+        <vertex pan="-167.415" tilt="-17.6294"/>
+        <vertex pan="-166.285" tilt="-18.8833"/>
+        <vertex pan="-163.797" tilt="-20.2848"/>
+        <vertex pan="-159.455" tilt="-21.6238"/>
+        <vertex pan="-153.467" tilt="-24.1309"/>
+        <vertex pan="-152.736" tilt="-22.2882"/>
+        <vertex pan="-148.485" tilt="-20.3215"/>
+        <vertex pan="-146.141" tilt="-19.1648"/>
+        <vertex pan="-139.171" tilt="-17.7139"/>
+        <vertex pan="-131.085" tilt="-18.3015"/>
+        <vertex pan="31.3559" tilt="-4.64236"/>
+        <vertex pan="65.0398" tilt="-7.00631"/>
+        <vertex pan="74.36920000000001" tilt="-11.8964"/>
+        <vertex pan="93.86750000000001" tilt="-14.3056"/>
+        <vertex pan="102.101" tilt="-12.2105"/>
+        <vertex pan="113.933" tilt="-14.1776"/>
+        <vertex pan="133.273" tilt="-25.9843"/>
+        <vertex pan="137.961" tilt="-28.9523"/>
+        <vertex pan="144.273" tilt="-30.2886"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly02">
+        <vertex pan="-17.5458" tilt="-4.87581"/>
+        <vertex pan="-18.2252" tilt="-1.81638"/>
+        <vertex pan="-23.2674" tilt="-0.401011"/>
+        <vertex pan="-25.1805" tilt="1.26299"/>
+        <vertex pan="-28.5785" tilt="1.918"/>
+        <vertex pan="-34.1862" tilt="1.03099"/>
+        <vertex pan="-37.9441" tilt="0.721478"/>
+        <vertex pan="-36.6672" tilt="-8.061260000000001"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly03">
+        <vertex pan="-37.0183" tilt="-7.82816"/>
+        <vertex pan="-38.3274" tilt="1.00016"/>
+        <vertex pan="-40.8728" tilt="0.545551"/>
+        <vertex pan="-46.1673" tilt="-1.25395"/>
+        <vertex pan="-49.5723" tilt="-0.681873"/>
+        <vertex pan="-53.2837" tilt="-1.75798"/>
+        <vertex pan="-53.3866" tilt="-9.560510000000001"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/012_pod_vershinoy_oshtena_o_0.jpg" prev5url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_5.jpg" prev4url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_4.jpg" prev3url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_3.jpg" prev2url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_2.jpg" prev1url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_1.jpg" prev0url="images-lago-naki/012_pod_vershinoy_oshtena_o_preview_0.jpg" tile5url="images-lago-naki/012_pod_vershinoy_oshtena_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/012_pod_vershinoy_oshtena_o_4.jpg" tile3url="images-lago-naki/012_pod_vershinoy_oshtena_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/012_pod_vershinoy_oshtena_o_2.jpg" tile1url="images-lago-naki/012_pod_vershinoy_oshtena_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <view fovmode="0" pannorth="285.5">
+      <start pan="169" fov="70" tilt="-17"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="гребень Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.92761100000000" latitude="43.99375500000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-94.6289" skinid="hotspot" url="{node11}" id="Point01" tilt="7.23937"/>
+      <hotspot title="спуск с Оштена" target="" pan="53.6987" skinid="hs_go" url="{node14}" id="Point02" tilt="-14.0227"/>
+      <hotspot title="ручей Рубленый" target="" pan="-125.217" skinid="hotspot" url="{node21}" id="Point03" tilt="-8.71312"/>
+      <hotspot title="Парковка" target="" pan="-147.323" skinid="hotspot" url="{node24}" id="Point04" tilt="-8.97438"/>
+      <hotspot title="г. Семиглавая" target="" pan="-3.88142" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.8310380000000001"/>
+      <hotspot title="Приют Фишт" target="" pan="108.576" skinid="" url="{node7}" id="Point06" tilt="0"/>
+      <hotspot title="Гора на парковке" target="" pan="108.495" skinid="" url="{node26}" id="Point07" tilt="0"/>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
+        <vertex pan="90.9764" tilt="-2.72838"/>
+        <vertex pan="89.8723" tilt="-1.07152"/>
+        <vertex pan="86.9652" tilt="-0.240799"/>
+        <vertex pan="82.77930000000001" tilt="2.54893"/>
+        <vertex pan="75.9633" tilt="1.84059"/>
+        <vertex pan="67.61539999999999" tilt="1.38622"/>
+        <vertex pan="66.0572" tilt="0.840299"/>
+        <vertex pan="66.389" tilt="-6.66788"/>
+        <vertex pan="87.11060000000001" tilt="-3.30676"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly02">
+        <vertex pan="65.6164" tilt="-6.50873"/>
+        <vertex pan="65.5424" tilt="0.570898"/>
+        <vertex pan="62.3879" tilt="-1.01458"/>
+        <vertex pan="58.5427" tilt="-1.11519"/>
+        <vertex pan="54.0242" tilt="-2.54811"/>
+        <vertex pan="53.8344" tilt="-9.008850000000001"/>
+      </polyhotspot>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly03">
+        <vertex pan="104.875" tilt="-0.461598"/>
+        <vertex pan="96.9074" tilt="-5.74327"/>
+        <vertex pan="75.9285" tilt="-17.0361"/>
+        <vertex pan="42.3781" tilt="-26.6943"/>
+        <vertex pan="-46.0007" tilt="-11.7938"/>
+        <vertex pan="-95.5532" tilt="4.17244"/>
+        <vertex pan="-100.666" tilt="3.23329"/>
+        <vertex pan="-118.562" tilt="-8.91095"/>
+        <vertex pan="-125.57" tilt="-12.8836"/>
+        <vertex pan="-138.834" tilt="-9.546530000000001"/>
+        <vertex pan="-150.825" tilt="-11.5283"/>
+        <vertex pan="-154.42" tilt="-9.959479999999999"/>
+        <vertex pan="-159.425" tilt="-9.61769"/>
+        <vertex pan="-161.562" tilt="-8.9307"/>
+        <vertex pan="-163.856" tilt="-9.17531"/>
+        <vertex pan="-169.053" tilt="-5.05632"/>
+        <vertex pan="-175.274" tilt="-5.30077"/>
+        <vertex pan="175.24" tilt="-8.214549999999999"/>
+        <vertex pan="160.013" tilt="-4.87757"/>
+        <vertex pan="158.471" tilt="-5.22262"/>
+        <vertex pan="151.69" tilt="-3.96174"/>
+        <vertex pan="148.823" tilt="-3.50869"/>
+        <vertex pan="145.539" tilt="-2.48511"/>
+        <vertex pan="142.459" tilt="-1.74779"/>
+        <vertex pan="139.107" tilt="-2.27969"/>
+        <vertex pan="133.152" tilt="-5.4489"/>
+        <vertex pan="130.593" tilt="-5.46372"/>
+        <vertex pan="128.717" tilt="-6.30559"/>
+        <vertex pan="127.219" tilt="-5.62491"/>
+        <vertex pan="125.932" tilt="-5.68125"/>
+        <vertex pan="123.667" tilt="-7.0706"/>
+        <vertex pan="121.436" tilt="-7.03949"/>
+        <vertex pan="118.612" tilt="-5.54533"/>
+        <vertex pan="116.234" tilt="-3.02968"/>
+        <vertex pan="113.013" tilt="-1.55393"/>
+        <vertex pan="108.491" tilt="-0.876511"/>
+        <vertex pan="106.548" tilt="-0.460843"/>
+        <vertex pan="105.852" tilt="-0.740263"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/013_greben_oshtena_o_0.jpg" prev5url="images-lago-naki/013_greben_oshtena_o_preview_5.jpg" prev4url="images-lago-naki/013_greben_oshtena_o_preview_4.jpg" prev3url="images-lago-naki/013_greben_oshtena_o_preview_3.jpg" prev2url="images-lago-naki/013_greben_oshtena_o_preview_2.jpg" prev1url="images-lago-naki/013_greben_oshtena_o_preview_1.jpg" prev0url="images-lago-naki/013_greben_oshtena_o_preview_0.jpg" tile5url="images-lago-naki/013_greben_oshtena_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/013_greben_oshtena_o_4.jpg" tile3url="images-lago-naki/013_greben_oshtena_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/013_greben_oshtena_o_2.jpg" tile1url="images-lago-naki/013_greben_oshtena_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <view fovmode="0" pannorth="298">
+      <start pan="109" fov="70" tilt="-11.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="спуск с Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.92529300000000" latitude="43.99396400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="" pan="54.0936" skinid="hotspot" url="{node8}" id="Point02" tilt="-22.2116"/>
+      <hotspot title="оз. Псенодах" target="" pan="-11.7542" skinid="hotspot" url="{node16}" id="Point03" tilt="-14.4986"/>
+      <hotspot title="гребень Оштена" target="290.5/-0.5/65" pan="-131.845" skinid="hs_go" url="{node13}" id="Point04" tilt="12.4545"/>
+      <hotspot title="Приют Фишт" target="" pan="125.412" skinid="hotspot" url="{node7}" id="Point01" tilt="-13.0008"/>
+      <hotspot title="г. Семиглавая" target="" pan="6.30492" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="0.0650256"/>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
+        <vertex pan="116.585" tilt="-15.3483"/>
+        <vertex pan="117.38" tilt="-6.8356"/>
+        <vertex pan="113.195" tilt="-5.3626"/>
+        <vertex pan="111.651" tilt="-2.4133"/>
+        <vertex pan="108.003" tilt="-1.07862"/>
+        <vertex pan="107.068" tilt="-1.76518"/>
+        <vertex pan="100.851" tilt="0.831203"/>
+        <vertex pan="100.016" tilt="2.46671"/>
+        <vertex pan="96.16630000000001" tilt="4.08362"/>
+        <vertex pan="95.4782" tilt="3.67869"/>
+        <vertex pan="90.70950000000001" tilt="3.51647"/>
+        <vertex pan="86.8368" tilt="3.47604"/>
+        <vertex pan="84.98260000000001" tilt="2.79456"/>
+        <vertex pan="83.17400000000001" tilt="2.772"/>
+        <vertex pan="77.8834" tilt="1.41825"/>
+        <vertex pan="77.0163" tilt="0.901474"/>
+        <vertex pan="78.83750000000001" tilt="-1.8115"/>
+        <vertex pan="86.6546" tilt="-8.30086"/>
+        <vertex pan="96.7813" tilt="-14.1763"/>
+        <vertex pan="98.93389999999999" tilt="-18.144"/>
+        <vertex pan="104.639" tilt="-14.2416"/>
+        <vertex pan="110.82" tilt="-15.485"/>
+        <vertex pan="110.953" tilt="-15.3433"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/014_pereval-oshten_o_0.jpg" prev5url="images-lago-naki/014_pereval-oshten_o_preview_5.jpg" prev4url="images-lago-naki/014_pereval-oshten_o_preview_4.jpg" prev3url="images-lago-naki/014_pereval-oshten_o_preview_3.jpg" prev2url="images-lago-naki/014_pereval-oshten_o_preview_2.jpg" prev1url="images-lago-naki/014_pereval-oshten_o_preview_1.jpg" prev0url="images-lago-naki/014_pereval-oshten_o_preview_0.jpg" tile5url="images-lago-naki/014_pereval-oshten_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/014_pereval-oshten_o_4.jpg" tile3url="images-lago-naki/014_pereval-oshten_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/014_pereval-oshten_o_2.jpg" tile1url="images-lago-naki/014_pereval-oshten_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <view fovmode="0" pannorth="317.5">
+      <start pan="1.5" fov="70" tilt="-8.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="оз. Псенодах сверху" datetime="31.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.90449900000000" latitude="44.00749900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="оз. Псенодах - у бездны" target="" pan="17.3713" skinid="hotspot" url="{node19}" id="Point01" tilt="-8.17295"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="4.06015" skinid="hotspot" url="{node17}" id="Point02" tilt="-17.8086"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="264/-6.5/65" pan="169.396" skinid="hs_go" url="{node8}" id="Point03" tilt="-8.398860000000001"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="-10.501" skinid="hotspot" url="{node18}" id="Point04" tilt="-7.36662"/>
+      <hotspot title="пер. Оштеновский" target="46/-3/65" pan="-42.4454" skinid="hs_go" url="{node20}" id="Point05" tilt="-5.99609"/>
+      <hotspot title="г. Оштен" target="" pan="-159.361" skinid="hotspot" url="{node11}" id="Point06" tilt="19.224"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/016_psenodakh_sverkhu_o_0.jpg" prev5url="images-lago-naki/016_psenodakh_sverkhu_o_preview_5.jpg" prev4url="images-lago-naki/016_psenodakh_sverkhu_o_preview_4.jpg" prev3url="images-lago-naki/016_psenodakh_sverkhu_o_preview_3.jpg" prev2url="images-lago-naki/016_psenodakh_sverkhu_o_preview_2.jpg" prev1url="images-lago-naki/016_psenodakh_sverkhu_o_preview_1.jpg" prev0url="images-lago-naki/016_psenodakh_sverkhu_o_preview_0.jpg" tile5url="images-lago-naki/016_psenodakh_sverkhu_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/016_psenodakh_sverkhu_o_4.jpg" tile3url="images-lago-naki/016_psenodakh_sverkhu_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/016_psenodakh_sverkhu_o_2.jpg" tile1url="images-lago-naki/016_psenodakh_sverkhu_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <view fovmode="0" pannorth="109.5">
+      <start pan="132.5" fov="70" tilt="-7.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="оз. Псенодах у родника" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90136400000000" latitude="44.00925300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="оз. Псенодах - бездна" target="" pan="-177.539" skinid="hotspot" url="{node19}" id="Point01" tilt="-0.652847"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="-12" skinid="hotspot" url="{node16}" id="Point02" tilt="15.3358"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="124.156" skinid="hotspot" url="{node18}" id="Point03" tilt="0"/>
+      <hotspot title="пер. Оштеновский" target="42.5/-1/65" pan="111.09" skinid="hs_go" url="{node20}" id="Point04" tilt="-0.055859"/>
+      <hotspot title="г. Оштен" target="" pan="-5.01299" skinid="hotspot" url="{node11}" id="Point05" tilt="19.4131"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/017_psenodakh_u_rodnika_o_0.jpg" prev5url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_5.jpg" prev4url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_4.jpg" prev3url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_3.jpg" prev2url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_2.jpg" prev1url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_1.jpg" prev0url="images-lago-naki/017_psenodakh_u_rodnika_o_preview_0.jpg" tile5url="images-lago-naki/017_psenodakh_u_rodnika_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/017_psenodakh_u_rodnika_o_4.jpg" tile3url="images-lago-naki/017_psenodakh_u_rodnika_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/017_psenodakh_u_rodnika_o_2.jpg" tile1url="images-lago-naki/017_psenodakh_u_rodnika_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <view fovmode="0" pannorth="220.5">
+      <start pan="19" fov="70" tilt="-7.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="оз. Псенодах у озера" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90082000000000" latitude="44.01074900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="оз. Псенодах - бездна" target="" pan="5.02178" skinid="hotspot" url="{node19}" id="Point01" tilt="-5.55514"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="50.4323" skinid="hotspot" url="{node17}" id="Point02" tilt="-4.20412"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="73.21120000000001" skinid="hotspot" url="{node16}" id="Point03" tilt="6.09528"/>
+      <hotspot title="г. Оштен" target="" pan="97.82429999999999" skinid="hotspot" url="{node11}" id="Point04" tilt="18.0463"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="263/-5.5/65" pan="66.1347" skinid="hotspot" url="{node8}" id="Point05" tilt="5.1861"/>
+      <hotspot title="пер. Оштеновский" target="46/-0.5/65" pan="169.204" skinid="hs_go" url="{node20}" id="Point06" tilt="-2.03334"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/018_psenodakh_u_tropy_o_0.jpg" prev5url="images-lago-naki/018_psenodakh_u_tropy_o_preview_5.jpg" prev4url="images-lago-naki/018_psenodakh_u_tropy_o_preview_4.jpg" prev3url="images-lago-naki/018_psenodakh_u_tropy_o_preview_3.jpg" prev2url="images-lago-naki/018_psenodakh_u_tropy_o_preview_2.jpg" prev1url="images-lago-naki/018_psenodakh_u_tropy_o_preview_1.jpg" prev0url="images-lago-naki/018_psenodakh_u_tropy_o_preview_0.jpg" tile5url="images-lago-naki/018_psenodakh_u_tropy_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/018_psenodakh_u_tropy_o_4.jpg" tile3url="images-lago-naki/018_psenodakh_u_tropy_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/018_psenodakh_u_tropy_o_2.jpg" tile1url="images-lago-naki/018_psenodakh_u_tropy_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="5" fov="70" tilt="-11.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="оз. Псенодах бездна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.89969400000000" latitude="44.00960700000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="-106.469" skinid="hotspot" url="{node17}" id="Point01" tilt="4.87836"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="" pan="-152.664" skinid="hotspot" url="{node8}" id="Point02" tilt="8.485329999999999"/>
+      <hotspot title="г. Оштен" target="" pan="-121.915" skinid="hotspot" url="{node11}" id="Point03" tilt="19.0982"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="-26.4744" skinid="hotspot" url="{node18}" id="Point04" tilt="1.44587"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="-123.911" skinid="hotspot" url="{node16}" id="Point05" tilt="9.66269"/>
+      <hotspot title="пер. Оштеновский" target="48.5/1.5/65" pan="-46.1363" skinid="hs_go" url="{node20}" id="Point06" tilt="2.65614"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/019_psenodakh_bezdna_o_0.jpg" prev5url="images-lago-naki/019_psenodakh_bezdna_o_preview_5.jpg" prev4url="images-lago-naki/019_psenodakh_bezdna_o_preview_4.jpg" prev3url="images-lago-naki/019_psenodakh_bezdna_o_preview_3.jpg" prev2url="images-lago-naki/019_psenodakh_bezdna_o_preview_2.jpg" prev1url="images-lago-naki/019_psenodakh_bezdna_o_preview_1.jpg" prev0url="images-lago-naki/019_psenodakh_bezdna_o_preview_0.jpg" tile5url="images-lago-naki/019_psenodakh_bezdna_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/019_psenodakh_bezdna_o_4.jpg" tile3url="images-lago-naki/019_psenodakh_bezdna_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/019_psenodakh_bezdna_o_2.jpg" tile1url="images-lago-naki/019_psenodakh_bezdna_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node20" hideabout="1">
+    <view fovmode="0" pannorth="142">
+      <start pan="291.5" fov="70" tilt="-0.5"/>
+      <min pan="0" fov="30" tilt="-90"/>
+      <max pan="360" fov="102" tilt="90"/>
+    </view>
+    <userdata title="пер. Оштеновский" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.94931600000000" latitude="44.01698200000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-73.9205" skinid="hotspot" url="{node11}" id="Point01" tilt="13.7537"/>
+      <hotspot title="оз. Псенодах" target="41/-6.5/65" pan="-125.252" skinid="hs_go" url="{node18}" id="Point02" tilt="0"/>
+      <hotspot title="ручей Рубленый" target="310.5/-5/65" pan="39.6863" skinid="hs_go" url="{node21}" id="Point03" tilt="-1.02257"/>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
+        <vertex pan="-42.9817" tilt="9.187340000000001"/>
+        <vertex pan="-45.7186" tilt="9.266249999999999"/>
+        <vertex pan="-49.9424" tilt="7.6416"/>
+        <vertex pan="-52.8853" tilt="8.47138"/>
+        <vertex pan="-54.2534" tilt="8.443580000000001"/>
+        <vertex pan="-56.3561" tilt="8.83639"/>
+        <vertex pan="-60.4142" tilt="7.76901"/>
+        <vertex pan="-63.2064" tilt="9.08479"/>
+        <vertex pan="-66.88970000000001" tilt="10.3087"/>
+        <vertex pan="-67.96729999999999" tilt="10.3494"/>
+        <vertex pan="-74.0111" tilt="13.3551"/>
+        <vertex pan="-77.52670000000001" tilt="11.9172"/>
+        <vertex pan="-80.76819999999999" tilt="11.2395"/>
+        <vertex pan="-86.9243" tilt="10.6073"/>
+        <vertex pan="-90.2068" tilt="8.889530000000001"/>
+        <vertex pan="-91.9502" tilt="7.61799"/>
+        <vertex pan="-94.5782" tilt="5.51777"/>
+        <vertex pan="-87.7156" tilt="4.54987"/>
+        <vertex pan="-81.6031" tilt="5.15184"/>
+        <vertex pan="-75.7178" tilt="5.28336"/>
+        <vertex pan="-68.6925" tilt="4.65286"/>
+        <vertex pan="-66.6776" tilt="4.6189"/>
+        <vertex pan="-59.0747" tilt="5.74847"/>
+        <vertex pan="-52.9197" tilt="6.73451"/>
+        <vertex pan="-49.0043" tilt="7.091"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/020_per_oshtenovskiy_o_0.jpg" prev5url="images-lago-naki/020_per_oshtenovskiy_o_preview_5.jpg" prev4url="images-lago-naki/020_per_oshtenovskiy_o_preview_4.jpg" prev3url="images-lago-naki/020_per_oshtenovskiy_o_preview_3.jpg" prev2url="images-lago-naki/020_per_oshtenovskiy_o_preview_2.jpg" prev1url="images-lago-naki/020_per_oshtenovskiy_o_preview_1.jpg" prev0url="images-lago-naki/020_per_oshtenovskiy_o_preview_0.jpg" tile5url="images-lago-naki/020_per_oshtenovskiy_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/020_per_oshtenovskiy_o_4.jpg" tile3url="images-lago-naki/020_per_oshtenovskiy_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/020_per_oshtenovskiy_o_2.jpg" tile1url="images-lago-naki/020_per_oshtenovskiy_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node21" hideabout="1">
+    <view fovmode="0" pannorth="67.5">
+      <start pan="299.5" fov="70" tilt="-9"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="ручей Рубленый" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.97091100000000" latitude="44.01920900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-166.301" skinid="hotspot" url="{node11}" id="Point01" tilt="9.03631"/>
+      <hotspot title="Инструкторская щель" target="150/-12/65" pan="-60.2376" skinid="hs_go" url="{node22}" id="Point02" tilt="-5.52916"/>
+      <hotspot title="пер. Оштеновский" target="273/0/65" pan="-155.387" skinid="hs_go" url="{node20}" id="Point03" tilt="-0.231243"/>
+      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
+        <vertex pan="-161.58" tilt="5.02165"/>
+        <vertex pan="-158.09" tilt="6.52935"/>
+        <vertex pan="-159.484" tilt="7.22674"/>
+        <vertex pan="-161.72" tilt="7.09588"/>
+        <vertex pan="-163.398" tilt="7.36906"/>
+        <vertex pan="-166.327" tilt="8.71768"/>
+        <vertex pan="-169.646" tilt="6.89693"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/021_rubleny_o_0.jpg" prev5url="images-lago-naki/021_rubleny_o_preview_5.jpg" prev4url="images-lago-naki/021_rubleny_o_preview_4.jpg" prev3url="images-lago-naki/021_rubleny_o_preview_3.jpg" prev2url="images-lago-naki/021_rubleny_o_preview_2.jpg" prev1url="images-lago-naki/021_rubleny_o_preview_1.jpg" prev0url="images-lago-naki/021_rubleny_o_preview_0.jpg" tile5url="images-lago-naki/021_rubleny_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/021_rubleny_o_4.jpg" tile3url="images-lago-naki/021_rubleny_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/021_rubleny_o_2.jpg" tile1url="images-lago-naki/021_rubleny_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node22" hideabout="1">
+    <view fovmode="0" pannorth="309">
+      <start pan="254.5" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Инструкторская щель" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.98184900000000" latitude="44.01288300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="ручей Рубленый" target="220.5/-2.5/65" pan="-59.5298" skinid="hs_go" url="{node21}" id="Point01" tilt="-15.4483"/>
+      <hotspot title="Под перевалом Гузерипль" target="12/-0.5/65" pan="114.8" skinid="hs_go" url="{node1}" id="Point02" tilt="-5.68543"/>
+      <hotspot title="Яворовая поляна" target="220.5/-5.5/65" pan="153.212" skinid="hs_go" url="{node23}" id="Point03" tilt="-11.8396"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/022_instruktorskaya_o_0.jpg" prev5url="images-lago-naki/022_instruktorskaya_o_preview_5.jpg" prev4url="images-lago-naki/022_instruktorskaya_o_preview_4.jpg" prev3url="images-lago-naki/022_instruktorskaya_o_preview_3.jpg" prev2url="images-lago-naki/022_instruktorskaya_o_preview_2.jpg" prev1url="images-lago-naki/022_instruktorskaya_o_preview_1.jpg" prev0url="images-lago-naki/022_instruktorskaya_o_preview_0.jpg" tile5url="images-lago-naki/022_instruktorskaya_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/022_instruktorskaya_o_4.jpg" tile3url="images-lago-naki/022_instruktorskaya_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/022_instruktorskaya_o_2.jpg" tile1url="images-lago-naki/022_instruktorskaya_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node23" hideabout="1">
+    <view fovmode="0" pannorth="40.5">
+      <start pan="230.5" fov="70" tilt="-2"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Яворовая поляна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.98751100000000" latitude="44.01052700000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Инструкторская щель" target="281.5/-4/65" pan="63.1741" skinid="hs_go" url="{node22}" id="Point01" tilt="-9.87797"/>
+      <hotspot title="пер. Гузерипль" target="8.5/-0.5/65" pan="-171.344" skinid="hs_go" url="{node1}" id="Point02" tilt="-5.60737"/>
+      <hotspot title="Парковка" target="" pan="-64.7833" skinid="hs_go" url="{node24}" id="Point03" tilt="-13.1199"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/023_yavorovaya_o_0.jpg" prev5url="images-lago-naki/023_yavorovaya_o_preview_5.jpg" prev4url="images-lago-naki/023_yavorovaya_o_preview_4.jpg" prev3url="images-lago-naki/023_yavorovaya_o_preview_3.jpg" prev2url="images-lago-naki/023_yavorovaya_o_preview_2.jpg" prev1url="images-lago-naki/023_yavorovaya_o_preview_1.jpg" prev0url="images-lago-naki/023_yavorovaya_o_preview_0.jpg" tile5url="images-lago-naki/023_yavorovaya_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/023_yavorovaya_o_4.jpg" tile3url="images-lago-naki/023_yavorovaya_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/023_yavorovaya_o_2.jpg" tile1url="images-lago-naki/023_yavorovaya_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node24" hideabout="1">
+    <view fovmode="0" pannorth="352.5">
+      <start pan="118.5" fov="70" tilt="-6.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Парковка" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99567800000000" latitude="44.00919400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="95.97150000000001" skinid="hotspot" url="{node11}" id="Point01" tilt="12.608"/>
+      <hotspot title="Яворовая поляна" target="" pan="76.4751" skinid="hs_go" url="{node23}" id="Point02" tilt="-0.491089"/>
+      <hotspot title="Гора на парковке" target="" pan="-155.795" skinid="hotspot" url="{node26}" id="Point03" tilt="7.86225"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/024_parkovka_o_0.jpg" prev5url="images-lago-naki/024_parkovka_o_preview_5.jpg" prev4url="images-lago-naki/024_parkovka_o_preview_4.jpg" prev3url="images-lago-naki/024_parkovka_o_preview_3.jpg" prev2url="images-lago-naki/024_parkovka_o_preview_2.jpg" prev1url="images-lago-naki/024_parkovka_o_preview_1.jpg" prev0url="images-lago-naki/024_parkovka_o_preview_0.jpg" tile5url="images-lago-naki/024_parkovka_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/024_parkovka_o_4.jpg" tile3url="images-lago-naki/024_parkovka_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/024_parkovka_o_2.jpg" tile1url="images-lago-naki/024_parkovka_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node26" hideabout="1">
+    <view fovmode="0" pannorth="168">
+      <start pan="252" fov="70" tilt="0.5"/>
+      <min pan="0" fov="40" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Гора на парковке" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99813500000000" latitude="43.00809600000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-89.5183" skinid="hotspot" url="{node11}" id="Point01" tilt="13.736"/>
+      <hotspot title="Парковка" target="" pan="-154.242" skinid="hotspot" url="{node24}" id="Point02" tilt="-0.902112"/>
+      <hotspot title="Инструкторская щель" target="" pan="-132.778" skinid="hotspot" url="{node22}" id="Point03" tilt="8.351839999999999"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/026_parkovka_gora_o_0.jpg" prev5url="images-lago-naki/026_parkovka_gora_o_preview_5.jpg" prev4url="images-lago-naki/026_parkovka_gora_o_preview_4.jpg" prev3url="images-lago-naki/026_parkovka_gora_o_preview_3.jpg" prev2url="images-lago-naki/026_parkovka_gora_o_preview_2.jpg" prev1url="images-lago-naki/026_parkovka_gora_o_preview_1.jpg" prev0url="images-lago-naki/026_parkovka_gora_o_preview_0.jpg" tile5url="images-lago-naki/026_parkovka_gora_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/026_parkovka_gora_o_4.jpg" tile3url="images-lago-naki/026_parkovka_gora_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/026_parkovka_gora_o_2.jpg" tile1url="images-lago-naki/026_parkovka_gora_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node27" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Оштен в облаках" datetime="11.08.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Оштен без облаков" target="267/1.5/65" pan="161.937" skinid="hs_clouds" url="{node11}" id="Point01" tilt="31.5517"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images-lago-naki/oshten_o_0.jpg" prev5url="images-lago-naki/oshten_o_preview_5.jpg" prev4url="images-lago-naki/oshten_o_preview_4.jpg" prev3url="images-lago-naki/oshten_o_preview_3.jpg" prev2url="images-lago-naki/oshten_o_preview_2.jpg" prev1url="images-lago-naki/oshten_o_preview_1.jpg" prev0url="images-lago-naki/oshten_o_preview_0.jpg" tile5url="images-lago-naki/oshten_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/oshten_o_4.jpg" tile3url="images-lago-naki/oshten_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/oshten_o_2.jpg" tile1url="images-lago-naki/oshten_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
