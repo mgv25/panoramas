@@ -18,3 +18,4 @@ instruktorskaya	node22
 yavorovaya	node23
 parkovka	node24
 parkovka_gora	node26
+oshten_oblaka	node27
