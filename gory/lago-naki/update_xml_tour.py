@@ -43,7 +43,7 @@ for key in table:
 
 
 
-# #generate redirect pages
+# generate redirect pages
 # mainfilename = "oshten.html"
 # mainfile = open(path + mainfilename, "r", encoding='utf-8')
 # mainlines = mainfile.readlines()
@@ -53,6 +53,6 @@ for key in table:
 #     file = open(path + key + ".html", "w", encoding='utf-8')
 #     for line in mainlines:
 #         if "<meta http-equiv=" in line:
-#             line = "\t\t\t<meta http-equiv=\"refresh\" content=\"0; URL='./lago-naki/\"%s.html'\" />\n" % key
+#             line = "\t\t\t<meta http-equiv=\"refresh\" content=\"0; URL='./lago-naki/%s.html'\" />\n" % key
 #         file.write(line)
 #     file.close()
