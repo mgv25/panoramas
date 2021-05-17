@@ -892,7 +892,7 @@
       <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hotspot" url="{node32}" id="Point03" tilt="-5.70736"/>
       <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.717" skinid="hotspot" url="{node35}" id="Point04" tilt="2.03709"/>
       <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
-      <hotspot title="г. Оштен" target="2/-10.5/65" pan="35.6615" skinid="hotspot" url="{node40}" id="Point06" tilt="2.49697"/>
+      <hotspot title="г. Оштен" target="" pan="45.5933" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/lago-naki/oshten.html" id="Point06" tilt="1.68921"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglavaya_o_0.jpg" prev5url="images/semiglavaya_o_preview_5.jpg" prev4url="images/semiglavaya_o_preview_4.jpg" prev3url="images/semiglavaya_o_preview_3.jpg" prev2url="images/semiglavaya_o_preview_2.jpg" prev1url="images/semiglavaya_o_preview_1.jpg" prev0url="images/semiglavaya_o_preview_0.jpg" tile5url="images/semiglavaya_o_5.jpg" tilesize="2500" tile4url="images/semiglavaya_o_4.jpg" tile3url="images/semiglavaya_o_3.jpg" tilescale="1.004" tile2url="images/semiglavaya_o_2.jpg" tile1url="images/semiglavaya_o_1.jpg"/>
@@ -982,7 +982,7 @@
       <hotspot title="г. Семиглавая" target="188.5/-4.5/65" pan="-74.6883" skinid="hotspot" url="{node31}" id="Point01" tilt="0.133899"/>
       <hotspot title="Перевал" target="49/-0.5/65" pan="-71.3642" skinid="hotspot" url="{node32}" id="Point02" tilt="-3.05377"/>
       <hotspot title="Высота 1494, хребет Семиглавой" target="150/-6.5/65" pan="87.02070000000001" skinid="hs_go" url="{node36}" id="Point03" tilt="-4.58776"/>
-      <hotspot title="г. Оштен" target="" pan="132.363" skinid="hotspot" url="{node40}" id="Point04" tilt="4.58197"/>
+      <hotspot title="г. Оштен" target="" pan="132.16" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/lago-naki/oshten.html" id="Point04" tilt="3.44277"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_1600_3d3_o_0.jpg" prev5url="images/semiglav_1600_3d3_o_preview_5.jpg" prev4url="images/semiglav_1600_3d3_o_preview_4.jpg" prev3url="images/semiglav_1600_3d3_o_preview_3.jpg" prev2url="images/semiglav_1600_3d3_o_preview_2.jpg" prev1url="images/semiglav_1600_3d3_o_preview_1.jpg" prev0url="images/semiglav_1600_3d3_o_preview_0.jpg" tile5url="images/semiglav_1600_3d3_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1600_3d3_o_4.jpg" tile3url="images/semiglav_1600_3d3_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1600_3d3_o_2.jpg" tile1url="images/semiglav_1600_3d3_o_1.jpg"/>
@@ -1058,85 +1058,6 @@
     </hotspots>
     <media/>
     <input tile0url="images/tuapse_o_0.jpg" prev5url="images/tuapse_o_preview_5.jpg" prev4url="images/tuapse_o_preview_4.jpg" prev3url="images/tuapse_o_preview_3.jpg" prev2url="images/tuapse_o_preview_2.jpg" prev1url="images/tuapse_o_preview_1.jpg" prev0url="images/tuapse_o_preview_0.jpg" tile5url="images/tuapse_o_5.jpg" tilesize="2500" tile4url="images/tuapse_o_4.jpg" tile3url="images/tuapse_o_3.jpg" tilescale="1.004" tile2url="images/tuapse_o_2.jpg" tile1url="images/tuapse_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
-    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
-  </panorama>
-  <panorama id="node40" hideabout="1">
-    <view fovmode="0" pannorth="354.5">
-      <start pan="0" fov="70" tilt="0"/>
-      <min pan="0" fov="5" tilt="-90"/>
-      <max pan="360" fov="120" tilt="90"/>
-    </view>
-    <userdata title="г. Оштен" datetime="11.08.2018" description="Одна из трёх гланых вершин Лагонакского нагорья. Высота 2804 м. Вместе с Фиштом (2868) и Пшеха-Су (2743) образуют единый массив, возвышающийся примерно на 1 км над окрестными горами." copyright="" tags="2018|лаго-наки|3д-модели" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
-    <hotspots width="180" height="20" wordwrap="1">
-      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
-      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Семиглавая" target="190.5/-8/65" pan="64.9418" skinid="hs_go" url="{node31}" id="Point01" tilt="-5.16846"/>
-      <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly03">
-        <vertex pan="-112.666" tilt="-11.7488"/>
-        <vertex pan="-115.576" tilt="-11.4076"/>
-        <vertex pan="-121.81" tilt="-6.98467"/>
-        <vertex pan="-126.002" tilt="-6.69705"/>
-        <vertex pan="-133.022" tilt="-7.13085"/>
-        <vertex pan="-138.691" tilt="-9.081020000000001"/>
-        <vertex pan="-146.281" tilt="-8.61767"/>
-        <vertex pan="-151.836" tilt="-7.49065"/>
-        <vertex pan="-157.321" tilt="-6.18356"/>
-        <vertex pan="-167.207" tilt="-3.82907"/>
-        <vertex pan="-170.964" tilt="-3.28387"/>
-        <vertex pan="179.303" tilt="-7.74658"/>
-        <vertex pan="177.475" tilt="-7.10001"/>
-        <vertex pan="170.742" tilt="-4.15347"/>
-        <vertex pan="157.994" tilt="-5.8686"/>
-        <vertex pan="151.556" tilt="-4.26469"/>
-        <vertex pan="143.606" tilt="-6.63632"/>
-        <vertex pan="139.598" tilt="-14.2696"/>
-        <vertex pan="138.96" tilt="-31.8265"/>
-        <vertex pan="-174.916" tilt="-28.4662"/>
-        <vertex pan="-132.52" tilt="-35.8626"/>
-        <vertex pan="-79.6433" tilt="-39.1381"/>
-        <vertex pan="-74.04770000000001" tilt="-28.7068"/>
-        <vertex pan="-76.4727" tilt="-17.265"/>
-        <vertex pan="-79.74720000000001" tilt="-13.5298"/>
-        <vertex pan="-89.36360000000001" tilt="-13.3458"/>
-        <vertex pan="-94.208" tilt="-13.9441"/>
-        <vertex pan="-102.846" tilt="-10.4219"/>
-        <vertex pan="-110.002" tilt="-10.4774"/>
-      </polyhotspot>
-      <polyhotspot title="г. Пшеха-Су" target="" url="" id="Poly02">
-        <vertex pan="124.02" tilt="-9.16774"/>
-        <vertex pan="120.032" tilt="-2.73421"/>
-        <vertex pan="112.938" tilt="-2.48757"/>
-        <vertex pan="104.045" tilt="-1.26357"/>
-        <vertex pan="96.0496" tilt="-0.517513"/>
-        <vertex pan="84.3794" tilt="0.423914"/>
-        <vertex pan="71.5733" tilt="0.682232"/>
-        <vertex pan="68.8056" tilt="0.279092"/>
-        <vertex pan="68.98520000000001" tilt="-8.73629"/>
-        <vertex pan="90.0495" tilt="-9.210760000000001"/>
-        <vertex pan="109.662" tilt="-9.94181"/>
-      </polyhotspot>
-      <polyhotspot title="г. Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
-        <vertex pan="151.34" tilt="-3.30372"/>
-        <vertex pan="149.091" tilt="0.394549"/>
-        <vertex pan="143.779" tilt="2.76275"/>
-        <vertex pan="139.105" tilt="1.4207"/>
-        <vertex pan="133.632" tilt="1.98272"/>
-        <vertex pan="131.189" tilt="0.889285"/>
-        <vertex pan="135.939" tilt="-7.26019"/>
-        <vertex pan="143.317" tilt="-5.3154"/>
-      </polyhotspot>
-      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly04">
-        <vertex pan="135.541" tilt="-7.34473"/>
-        <vertex pan="130.951" tilt="0.732162"/>
-        <vertex pan="124.37" tilt="-0.998965"/>
-        <vertex pan="120.202" tilt="-2.55322"/>
-        <vertex pan="124.199" tilt="-9.088850000000001"/>
-        <vertex pan="129.919" tilt="-8.416880000000001"/>
-      </polyhotspot>
-    </hotspots>
-    <media/>
-    <input tile0url="images/oshten_o_0.jpg" prev5url="images/oshten_o_preview_5.jpg" prev4url="images/oshten_o_preview_4.jpg" prev3url="images/oshten_o_preview_3.jpg" prev2url="images/oshten_o_preview_2.jpg" prev1url="images/oshten_o_preview_1.jpg" prev0url="images/oshten_o_preview_0.jpg" tile5url="images/oshten_o_5.jpg" tilesize="2500" tile4url="images/oshten_o_4.jpg" tile3url="images/oshten_o_3.jpg" tilescale="1.004" tile2url="images/oshten_o_2.jpg" tile1url="images/oshten_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
