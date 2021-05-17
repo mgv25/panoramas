@@ -239,25 +239,6 @@
         <vertex pan="85.16930000000001" tilt="-20.8999"/>
         <vertex pan="76.455" tilt="-23.0896"/>
       </polyhotspot>
-      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly02">
-        <vertex pan="-98.59439999999999" tilt="-5.35849"/>
-        <vertex pan="-99.33329999999999" tilt="-4.20366"/>
-        <vertex pan="-102.302" tilt="-2.70611"/>
-        <vertex pan="-104.268" tilt="-3.45445"/>
-        <vertex pan="-106.384" tilt="-2.37019"/>
-        <vertex pan="-110.071" tilt="-1.92325"/>
-        <vertex pan="-111.282" tilt="-0.270183"/>
-        <vertex pan="-114.421" tilt="1.28272"/>
-        <vertex pan="-117.372" tilt="0.278532"/>
-        <vertex pan="-121.296" tilt="0.457769"/>
-        <vertex pan="-124.82" tilt="-0.535055"/>
-        <vertex pan="-126.845" tilt="-0.352333"/>
-        <vertex pan="-124.36" tilt="-7.18404"/>
-        <vertex pan="-111.634" tilt="-4.51846"/>
-        <vertex pan="-105.539" tilt="-3.64975"/>
-        <vertex pan="-101.244" tilt="-5.50933"/>
-        <vertex pan="-101.244" tilt="-5.50933"/>
-      </polyhotspot>
       <polyhotspot title="Фишт (см 3D модель №2)" target="" url="" id="Poly03">
         <vertex pan="-124.708" tilt="-7.15975"/>
         <vertex pan="-127.141" tilt="-0.344157"/>
@@ -267,6 +248,25 @@
         <vertex pan="-136.509" tilt="-2.08925"/>
         <vertex pan="-138.067" tilt="-3.01361"/>
         <vertex pan="-135.659" tilt="-9.7544"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly02">
+        <vertex pan="-97.03319999999999" tilt="-4.88212"/>
+        <vertex pan="-99.8738" tilt="-3.05869"/>
+        <vertex pan="-102.093" tilt="-1.86188"/>
+        <vertex pan="-104.325" tilt="-2.02116"/>
+        <vertex pan="-107.491" tilt="-2.06354"/>
+        <vertex pan="-107.535" tilt="-3.75396"/>
+        <vertex pan="-104.849" tilt="-3.56227"/>
+        <vertex pan="-101.291" tilt="-5.19528"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly04">
+        <vertex pan="-111.993" tilt="-4.37186"/>
+        <vertex pan="-111.644" tilt="0.0326662"/>
+        <vertex pan="-114.515" tilt="1.94106"/>
+        <vertex pan="-118.731" tilt="0.860739"/>
+        <vertex pan="-123.154" tilt="0.86723"/>
+        <vertex pan="-126.5" tilt="0.0337958"/>
+        <vertex pan="-124.153" tilt="-6.81266"/>
       </polyhotspot>
     </hotspots>
     <media/>
@@ -357,8 +357,6 @@
       <hotspot title="ручей Рубленый" target="" pan="-125.217" skinid="hotspot" url="{node21}" id="Point03" tilt="-8.71312"/>
       <hotspot title="Парковка" target="" pan="-147.323" skinid="hotspot" url="{node24}" id="Point04" tilt="-8.97438"/>
       <hotspot title="г. Семиглавая" target="" pan="-3.88142" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.8310380000000001"/>
-      <hotspot title="Приют Фишт" target="" pan="108.576" skinid="" url="{node7}" id="Point06" tilt="0"/>
-      <hotspot title="Гора на парковке" target="" pan="108.495" skinid="" url="{node26}" id="Point07" tilt="0"/>
       <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="90.9764" tilt="-2.72838"/>
         <vertex pan="89.8723" tilt="-1.07152"/>
