@@ -878,7 +878,7 @@
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node31" hideabout="1">
-    <view fovmode="0" pannorth="154">
+    <view fovmode="0" pannorth="147.5">
       <start pan="188.5" fov="70" tilt="-7"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
@@ -887,12 +887,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Семашхо" target="261.5/-5/65" pan="-159.51" skinid="hotspot" url="{node17}" id="Point01" tilt="-1.64035"/>
-      <hotspot title="г. Два Брата" target="" pan="-156.672" skinid="hotspot" url="{node22}" id="Point02" tilt="-1.91931"/>
+      <hotspot title="г. Семашхо" target="261.5/-5/65" pan="-164.498" skinid="hotspot" url="{node17}" id="Point01" tilt="-2.0674"/>
+      <hotspot title="г. Два Брата" target="" pan="-162.339" skinid="hotspot" url="{node22}" id="Point02" tilt="-2.10088"/>
       <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hotspot" url="{node32}" id="Point03" tilt="-5.70736"/>
-      <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.717" skinid="hotspot" url="{node35}" id="Point04" tilt="2.03709"/>
+      <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.7252" skinid="hotspot" url="{node35}" id="Point04" tilt="2.36258"/>
       <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
-      <hotspot title="г. Оштен" target="" pan="45.5933" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/lago-naki/oshten.html" id="Point06" tilt="1.68921"/>
+      <hotspot title="г. Оштен" target="" pan="35.4305" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/lago-naki/oshten.html" id="Point06" tilt="1.99924"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglavaya_o_0.jpg" prev5url="images/semiglavaya_o_preview_5.jpg" prev4url="images/semiglavaya_o_preview_4.jpg" prev3url="images/semiglavaya_o_preview_3.jpg" prev2url="images/semiglavaya_o_preview_2.jpg" prev1url="images/semiglavaya_o_preview_1.jpg" prev0url="images/semiglavaya_o_preview_0.jpg" tile5url="images/semiglavaya_o_5.jpg" tilesize="2500" tile4url="images/semiglavaya_o_4.jpg" tile3url="images/semiglavaya_o_3.jpg" tilescale="1.004" tile2url="images/semiglavaya_o_2.jpg" tile1url="images/semiglavaya_o_1.jpg"/>
