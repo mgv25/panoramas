@@ -182,11 +182,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="гребень Оштена" target="" pan="-109.481" skinid="hotspot" url="{node13}" id="Point01" tilt="-3.0914"/>
+      <hotspot title="гребень Оштена" target="" pan="-109.447" skinid="hotspot" url="{node13}" id="Point01" tilt="-3.19712"/>
       <hotspot title="под вершиной Оштена" target="" pan="154.907" skinid="hs_go" url="{node12}" id="Point02" tilt="-10.7897"/>
       <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hotspot" url="{node20}" id="Point03" tilt="-14.3631"/>
       <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node21}" id="Point04" tilt="-9.32976"/>
-      <hotspot title="г. Семиглавая" target="" pan="160.769" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.798385"/>
+      <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.7475000000000001"/>
       <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs_clouds" url="{node27}" id="Point06" tilt="21.1199"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
@@ -347,7 +347,7 @@
       <hotspot title="спуск с Оштена" target="" pan="53.6987" skinid="hs_go" url="{node14}" id="Point02" tilt="-14.0227"/>
       <hotspot title="ручей Рубленый" target="" pan="-125.217" skinid="hotspot" url="{node21}" id="Point03" tilt="-8.71312"/>
       <hotspot title="Парковка" target="" pan="-147.323" skinid="hotspot" url="{node24}" id="Point04" tilt="-8.97438"/>
-      <hotspot title="г. Семиглавая" target="" pan="-3.88142" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.8310380000000001"/>
+      <hotspot title="г. Семиглавая" target="" pan="-3.49525" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-1.02453"/>
       <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="90.9764" tilt="-2.72838"/>
         <vertex pan="89.8723" tilt="-1.07152"/>
@@ -426,7 +426,7 @@
       <hotspot title="пер. Фишт-Оштеновский" target="" pan="54.0936" skinid="hotspot" url="{node8}" id="Point02" tilt="-22.2116"/>
       <hotspot title="оз. Псенодах" target="" pan="-11.7542" skinid="hotspot" url="{node16}" id="Point03" tilt="-14.4986"/>
       <hotspot title="гребень Оштена" target="290.5/-0.5/65" pan="-131.845" skinid="hs_go" url="{node13}" id="Point04" tilt="12.4545"/>
-      <hotspot title="Приют Фишт" target="" pan="125.412" skinid="hotspot" url="{node7}" id="Point01" tilt="-13.0008"/>
+      <hotspot title="Приют Фишт" target="" pan="124.816" skinid="hotspot" url="{node7}" id="Point01" tilt="-13.7118"/>
       <hotspot title="г. Семиглавая" target="" pan="6.30492" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="0.0650256"/>
       <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="116.585" tilt="-15.3483"/>
@@ -469,9 +469,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - у бездны" target="" pan="17.3713" skinid="hotspot" url="{node19}" id="Point01" tilt="-8.17295"/>
+      <hotspot title="оз. Псенодах - у бездны" target="" pan="18.9217" skinid="hotspot" url="{node19}" id="Point01" tilt="-8.409050000000001"/>
       <hotspot title="оз. Псенодах - у родника" target="" pan="4.06015" skinid="hotspot" url="{node17}" id="Point02" tilt="-17.8086"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="264/-6.5/65" pan="169.396" skinid="hs_go" url="{node8}" id="Point03" tilt="-8.398860000000001"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="264/-6.5/65" pan="165.689" skinid="hs_go" url="{node8}" id="Point03" tilt="-7.11848"/>
       <hotspot title="оз. Псенодах - у тропы" target="" pan="-10.501" skinid="hotspot" url="{node18}" id="Point04" tilt="-7.36662"/>
       <hotspot title="пер. Оштеновский" target="46/-3/65" pan="-42.4454" skinid="hs_go" url="{node20}" id="Point05" tilt="-5.99609"/>
       <hotspot title="г. Оштен" target="" pan="-159.361" skinid="hotspot" url="{node11}" id="Point06" tilt="19.224"/>
@@ -508,11 +508,11 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах у озера" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90082000000000" latitude="44.01074900000000"/>
+    <userdata title="оз. Псенодах у тропы" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90082000000000" latitude="44.01074900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - бездна" target="" pan="5.02178" skinid="hotspot" url="{node19}" id="Point01" tilt="-5.55514"/>
+      <hotspot title="оз. Псенодах - бездна" target="" pan="-2.30383" skinid="hotspot" url="{node19}" id="Point01" tilt="-7.664"/>
       <hotspot title="оз. Псенодах - у родника" target="" pan="50.4323" skinid="hotspot" url="{node17}" id="Point02" tilt="-4.20412"/>
       <hotspot title="оз. Псенодах сверху" target="" pan="73.21120000000001" skinid="hotspot" url="{node16}" id="Point03" tilt="6.09528"/>
       <hotspot title="г. Оштен" target="" pan="97.82429999999999" skinid="hotspot" url="{node11}" id="Point04" tilt="18.0463"/>
