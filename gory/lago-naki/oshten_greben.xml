@@ -188,6 +188,7 @@
       <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node21}" id="Point04" tilt="-9.32976"/>
       <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.7475000000000001"/>
       <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs_clouds" url="{node27}" id="Point06" tilt="21.1199"/>
+      <hotspot title="Парковка" target="" pan="13.2701" skinid="hotspot" url="{node24}" id="Point07" tilt="-9.736459999999999"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
         <vertex pan="67.0707" tilt="-31.2942"/>
@@ -279,7 +280,7 @@
       <hotspot title="гребень Оштена" target="" pan="-13.3746" skinid="hotspot" url="{node13}" id="Point02" tilt="-1.91395"/>
       <hotspot title="пер. Оштеновский" target="" pan="136.803" skinid="hotspot" url="{node20}" id="Point03" tilt="-13.9033"/>
       <hotspot title="ручей Рубленый" target="" pan="119.247" skinid="hotspot" url="{node21}" id="Point04" tilt="-10.2754"/>
-      <hotspot title="Парковка" target="" pan="98.0044" skinid="hotspot" url="{node24}" id="Point05" tilt="-9.71979"/>
+      <hotspot title="Парковка" target="" pan="97.94240000000001" skinid="hotspot" url="{node24}" id="Point05" tilt="-10.2846"/>
       <hotspot title="г. Семиглавая" target="" pan="-113.747" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point06" tilt="-1.18997"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="158.779" tilt="-24.2239"/>
@@ -659,18 +660,18 @@
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node24" hideabout="1">
-    <view fovmode="0" pannorth="352.5">
+    <view fovmode="0" pannorth="340.5">
       <start pan="118.5" fov="70" tilt="-6.5"/>
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Парковка" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99567800000000" latitude="44.00919400000000"/>
+    <userdata title="Парковка" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99568581619102" latitude="44.00940616606434"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="" pan="95.97150000000001" skinid="hotspot" url="{node11}" id="Point01" tilt="12.608"/>
-      <hotspot title="Яворовая поляна" target="" pan="76.4751" skinid="hs_go" url="{node23}" id="Point02" tilt="-0.491089"/>
-      <hotspot title="Гора на парковке" target="" pan="-155.795" skinid="hotspot" url="{node26}" id="Point03" tilt="7.86225"/>
+      <hotspot title="Яворовая поляна" target="218/-7/65" pan="84.42700000000001" skinid="hs_go" url="{node23}" id="Point02" tilt="-2.9583"/>
+      <hotspot title="г. Оштен" target="" pan="84.4255" skinid="hotspot" url="{node11}" id="Point01" tilt="12.1238"/>
+      <hotspot title="Гора на парковке" target="239/1.5/65" pan="-155.416" skinid="hotspot" url="{node26}" id="Point03" tilt="7.57301"/>
     </hotspots>
     <media/>
     <input tile0url="images-lago-naki/024_parkovka_o_0.jpg" prev5url="images-lago-naki/024_parkovka_o_preview_5.jpg" prev4url="images-lago-naki/024_parkovka_o_preview_4.jpg" prev3url="images-lago-naki/024_parkovka_o_preview_3.jpg" prev2url="images-lago-naki/024_parkovka_o_preview_2.jpg" prev1url="images-lago-naki/024_parkovka_o_preview_1.jpg" prev0url="images-lago-naki/024_parkovka_o_preview_0.jpg" tile5url="images-lago-naki/024_parkovka_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/024_parkovka_o_4.jpg" tile3url="images-lago-naki/024_parkovka_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/024_parkovka_o_2.jpg" tile1url="images-lago-naki/024_parkovka_o_1.jpg"/>
@@ -678,18 +679,18 @@
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node26" hideabout="1">
-    <view fovmode="0" pannorth="168">
+    <view fovmode="0" pannorth="160.5">
       <start pan="252" fov="70" tilt="0.5"/>
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Гора на парковке" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99813500000000" latitude="43.00809600000000"/>
+    <userdata title="Гора на парковке" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99772165122952" latitude="44.00791279407711"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="" pan="-89.5183" skinid="hotspot" url="{node11}" id="Point01" tilt="13.736"/>
-      <hotspot title="Парковка" target="" pan="-154.242" skinid="hotspot" url="{node24}" id="Point02" tilt="-0.902112"/>
       <hotspot title="Инструкторская щель" target="" pan="-132.778" skinid="hotspot" url="{node22}" id="Point03" tilt="8.351839999999999"/>
+      <hotspot title="Парковка" target="" pan="-155.781" skinid="" url="{node24}" id="Point01" tilt="-0.7445850000000001"/>
+      <hotspot title="г. Оштен" target="" pan="-100.072" skinid="" url="{node11}" id="Point02" tilt="14.0683"/>
     </hotspots>
     <media/>
     <input tile0url="images-lago-naki/026_parkovka_gora_o_0.jpg" prev5url="images-lago-naki/026_parkovka_gora_o_preview_5.jpg" prev4url="images-lago-naki/026_parkovka_gora_o_preview_4.jpg" prev3url="images-lago-naki/026_parkovka_gora_o_preview_3.jpg" prev2url="images-lago-naki/026_parkovka_gora_o_preview_2.jpg" prev1url="images-lago-naki/026_parkovka_gora_o_preview_1.jpg" prev0url="images-lago-naki/026_parkovka_gora_o_preview_0.jpg" tile5url="images-lago-naki/026_parkovka_gora_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/026_parkovka_gora_o_4.jpg" tile3url="images-lago-naki/026_parkovka_gora_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/026_parkovka_gora_o_2.jpg" tile1url="images-lago-naki/026_parkovka_gora_o_1.jpg"/>
