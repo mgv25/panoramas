@@ -26,7 +26,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="пер. Фишт-Оштеновский" datetime="2015:11:13 16:53:22" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.91400200000000" latitude="43.99054100000000"/>
+    <userdata title="пер. Фишт-Оштеновский" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.91400200000000" latitude="43.99054100000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -187,7 +187,7 @@
       <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hotspot" url="{node20}" id="Point03" tilt="-14.3631"/>
       <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node21}" id="Point04" tilt="-9.32976"/>
       <hotspot title="г. Семиглавая" target="" pan="160.769" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="-0.798385"/>
-      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-64.07850000000001" skinid="hs_clouds" url="{node27}" id="Point06" tilt="40.6744"/>
+      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs_clouds" url="{node27}" id="Point06" tilt="21.1199"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
         <vertex pan="67.0707" tilt="-31.2942"/>
@@ -339,7 +339,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="гребень Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.92761100000000" latitude="43.99375500000000"/>
+    <userdata title="гребень Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92761100000000" latitude="43.99375500000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -419,7 +419,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="спуск с Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.92529300000000" latitude="43.99396400000000"/>
+    <userdata title="спуск с Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92529300000000" latitude="43.99396400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -465,7 +465,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах сверху" datetime="31.08.2015" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="39.90449900000000" latitude="44.00749900000000"/>
+    <userdata title="оз. Псенодах сверху" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90449900000000" latitude="44.00749900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -706,7 +706,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Оштен без облаков" target="267/1.5/65" pan="161.937" skinid="hs_clouds" url="{node11}" id="Point01" tilt="31.5517"/>
+      <hotspot title="Оштен без облаков" target="267/1.5/65" pan="156.922" skinid="hs_clouds" url="{node11}" id="Point01" tilt="20.5198"/>
     </hotspots>
     <media/>
     <input tile0url="images-lago-naki/oshten_o_0.jpg" prev5url="images-lago-naki/oshten_o_preview_5.jpg" prev4url="images-lago-naki/oshten_o_preview_4.jpg" prev3url="images-lago-naki/oshten_o_preview_3.jpg" prev2url="images-lago-naki/oshten_o_preview_2.jpg" prev1url="images-lago-naki/oshten_o_preview_1.jpg" prev0url="images-lago-naki/oshten_o_preview_0.jpg" tile5url="images-lago-naki/oshten_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/oshten_o_4.jpg" tile3url="images-lago-naki/oshten_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/oshten_o_2.jpg" tile1url="images-lago-naki/oshten_o_1.jpg"/>
