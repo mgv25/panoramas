@@ -19,12 +19,12 @@ pod_syrom	node18
 indushka	node19
 lep_1	node20
 greben_indushka	node21
-dvubrat_vodopad	node22
+dva_brata	node22
 dolmeny_anastasievka	node23
 dvubrat_vodopad	node24
 otrog_semashkho_2	node25
 kruglaya	node26
-most_phenakho	node27
+most_pshenakho	node27
 semashkho_2013	node28
 kiseleva	node29
 mysh_norki	node30
