@@ -91,6 +91,36 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="пер. Гузерипль" target="206/-2/65" pan="-36.7564" skinid="hotspot" url="{node4}" id="Point05" tilt="5.02919"/>
       <hotspot title="Приют Фишт" target="208.5/10.5/65" pan="164.515" skinid="hotspot" url="{node7}" id="Point03" tilt="-9.065200000000001"/>
+      <polyhotspot title="Фишт (см. 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
+        <vertex pan="144.899" tilt="10.9579"/>
+        <vertex pan="145.692" tilt="-7.16913"/>
+        <vertex pan="123.597" tilt="-7.56191"/>
+        <vertex pan="112.315" tilt="-0.769122"/>
+        <vertex pan="105.387" tilt="2.36153"/>
+        <vertex pan="100.167" tilt="3.8837"/>
+        <vertex pan="100.784" tilt="7.78347"/>
+        <vertex pan="107.308" tilt="9.14847"/>
+        <vertex pan="115.231" tilt="11.1332"/>
+        <vertex pan="123.657" tilt="12.5117"/>
+        <vertex pan="126.565" tilt="11.8306"/>
+        <vertex pan="132.022" tilt="13.6425"/>
+        <vertex pan="135.671" tilt="16.0216"/>
+        <vertex pan="141.386" tilt="14.0704"/>
+      </polyhotspot>
+      <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly02">
+        <vertex pan="146.124" tilt="-6.98064"/>
+        <vertex pan="168.894" tilt="-3.08987"/>
+        <vertex pan="168.856" tilt="1.78832"/>
+        <vertex pan="167.64" tilt="4.93973"/>
+        <vertex pan="164.71" tilt="7.24053"/>
+        <vertex pan="161.132" tilt="8.986560000000001"/>
+        <vertex pan="158.514" tilt="8.87608"/>
+        <vertex pan="157.665" tilt="8.222519999999999"/>
+        <vertex pan="151.14" tilt="10.595"/>
+        <vertex pan="149.42" tilt="9.92329"/>
+        <vertex pan="148.049" tilt="10.1585"/>
+        <vertex pan="145.153" tilt="11.0141"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images-lago-naki/05_armyanskiy_o_0.jpg" prev5url="images-lago-naki/05_armyanskiy_o_preview_5.jpg" prev4url="images-lago-naki/05_armyanskiy_o_preview_4.jpg" prev3url="images-lago-naki/05_armyanskiy_o_preview_3.jpg" prev2url="images-lago-naki/05_armyanskiy_o_preview_2.jpg" prev1url="images-lago-naki/05_armyanskiy_o_preview_1.jpg" prev0url="images-lago-naki/05_armyanskiy_o_preview_0.jpg" tile5url="images-lago-naki/05_armyanskiy_o_5.jpg" tilesize="2500" tile4url="images-lago-naki/05_armyanskiy_o_4.jpg" tile3url="images-lago-naki/05_armyanskiy_o_3.jpg" tilescale="1.004" tile2url="images-lago-naki/05_armyanskiy_o_2.jpg" tile1url="images-lago-naki/05_armyanskiy_o_1.jpg"/>
