@@ -700,7 +700,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Яворовая поляна" target="218/-7/65" pan="84.42700000000001" skinid="hs_go" url="{node23}" id="Point02" tilt="-2.9583"/>
-      <hotspot title="г. Оштен" target="" pan="84.4255" skinid="hotspot" url="{node11}" id="Point01" tilt="12.1238"/>
+      <hotspot title="г. Оштен" target="" pan="83.6032" skinid="hotspot" url="{node11}" id="Point01" tilt="12.048"/>
       <hotspot title="Гора на парковке" target="239/1.5/65" pan="-155.416" skinid="hotspot" url="{node26}" id="Point03" tilt="7.57301"/>
     </hotspots>
     <media/>
