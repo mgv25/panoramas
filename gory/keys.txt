@@ -37,4 +37,3 @@ semiglavaya_1494_2014	node36
 semiglavaya_1612_2014	node37
 semiglavaya_lager_2014	node38
 tuapse	node39
-oshten	node40
