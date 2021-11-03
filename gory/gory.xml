@@ -1038,7 +1038,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Высота 1612" target="309/-5.5/65" pan="72.0085" skinid="hs_go" url="{node37}" id="Point01" tilt="0.08001120000000001"/>
-      <hotspot title="В Шпалорез, на поезд Матрицу" target="280.5/-11/65" pan="-83.38249999999999" skinid="" url="{node_shpalorez_4}" id="Point02" tilt="-18.4672"/>
+      <hotspot title="В Шпалорез, на поезд Матрицу" target="280.5/-11/65" pan="-83.38249999999999" skinid="hotspot" url="{node_shpalorez_4}" id="Point02" tilt="-18.4672"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_grachev_per_1d1_o_0.jpg" prev5url="images/semiglav_grachev_per_1d1_o_preview_5.jpg" prev4url="images/semiglav_grachev_per_1d1_o_preview_4.jpg" prev3url="images/semiglav_grachev_per_1d1_o_preview_3.jpg" prev2url="images/semiglav_grachev_per_1d1_o_preview_2.jpg" prev1url="images/semiglav_grachev_per_1d1_o_preview_1.jpg" prev0url="images/semiglav_grachev_per_1d1_o_preview_0.jpg" tile5url="images/semiglav_grachev_per_1d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_grachev_per_1d1_o_4.jpg" tile3url="images/semiglav_grachev_per_1d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_grachev_per_1d1_o_2.jpg" tile1url="images/semiglav_grachev_per_1d1_o_1.jpg"/>
