@@ -1322,7 +1322,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__470.setAttribute('style',hs);
 			this.__470__img=document.createElement('img');
-			this.__470__img.setAttribute('src',basePath + 'images/_470.png');
+			this.__470__img.setAttribute('src',basePath + 'images/hs_470.png');
 			this.__470__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__470__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__470__img);
