@@ -27,16 +27,16 @@ for key in table:
     file.close()
 
 
-# generate html files:
-mainfilename = "gory.html"
-mainfile = open(path + mainfilename, "r", encoding='utf-8')
-mainlines = mainfile.readlines()
-mainfile.close()
+# # generate html files:
+# mainfilename = "gory.html"
+# mainfile = open(path + mainfilename, "r", encoding='utf-8')
+# mainlines = mainfile.readlines()
+# mainfile.close()
 
-for key in table:
-    file = open(path + key + ".html", "w", encoding='utf-8')
-    for line in mainlines:
-        if "pano.readConfigUrl" in line:
-            line = "\t\t\tpano.readConfigUrl(\"%s.xml\");\n" % key
-        file.write(line)
-    file.close()
+# for key in table:
+#     file = open(path + key + ".html", "w", encoding='utf-8')
+#     for line in mainlines:
+#         if "pano.readConfigUrl" in line:
+#             line = "\t\t\tpano.readConfigUrl(\"%s.xml\");\n" % key
+#         file.write(line)
+#     file.close()
