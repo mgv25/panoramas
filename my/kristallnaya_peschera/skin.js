@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex_2021.ggsk
-// Generated Ср 3. ноя 13:52:39 2021
+// Generated Пн 8. ноя 23:22:08 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -1308,11 +1308,11 @@ function pano2vrSkin(player,base) {
 				me._hstext7.ggVisible=false;
 				me.skin.hotspotProxyOut(me.hotspot.id);
 			}
-			this.__470=document.createElement('div');
-			this.__470.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 47';
-			this.__470.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-			this.__470.ggVisible=true;
-			this.__470.className='ggskin ggskin_image';
+			this.__47=document.createElement('div');
+			this.__47.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 47';
+			this.__47.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+			this.__47.ggVisible=true;
+			this.__47.className='ggskin ggskin_image';
 			hs ='position:absolute;';
 			hs+='left: -39px;';
 			hs+='top:  -3px;';
@@ -1320,14 +1320,14 @@ function pano2vrSkin(player,base) {
 			hs+='height: 70px;';
 			hs+=cssPrefix + 'transform-origin: 50% 50%;';
 			hs+='visibility: inherit;';
-			this.__470.setAttribute('style',hs);
-			this.__470__img=document.createElement('img');
-			this.__470__img.setAttribute('src',basePath + 'images/hs_470.png');
-			this.__470__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
-			this.__470__img['ondragstart']=function() { return false; };
-			me.player.checkLoaded.push(this.__470__img);
-			this.__470.appendChild(this.__470__img);
-			this.__div.appendChild(this.__470);
+			this.__47.setAttribute('style',hs);
+			this.__47__img=document.createElement('img');
+			this.__47__img.setAttribute('src',basePath + 'images/hs_47.png');
+			this.__47__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
+			this.__47__img['ondragstart']=function() { return false; };
+			me.player.checkLoaded.push(this.__47__img);
+			this.__47.appendChild(this.__47__img);
+			this.__div.appendChild(this.__47);
 			this._hstext7=document.createElement('div');
 			this._hstext7.ggId='hstext';
 			this._hstext7.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
@@ -1391,11 +1391,11 @@ function pano2vrSkin(player,base) {
 				me._hstext6.ggVisible=false;
 				me.skin.hotspotProxyOut(me.hotspot.id);
 			}
-			this.__47=document.createElement('div');
-			this.__47.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 47';
-			this.__47.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-			this.__47.ggVisible=true;
-			this.__47.className='ggskin ggskin_image';
+			this.__clouds=document.createElement('div');
+			this.__clouds.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 clouds';
+			this.__clouds.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+			this.__clouds.ggVisible=true;
+			this.__clouds.className='ggskin ggskin_image';
 			hs ='position:absolute;';
 			hs+='left: -50px;';
 			hs+='top:  -38px;';
@@ -1403,14 +1403,14 @@ function pano2vrSkin(player,base) {
 			hs+='height: 71px;';
 			hs+=cssPrefix + 'transform-origin: 50% 50%;';
 			hs+='visibility: inherit;';
-			this.__47.setAttribute('style',hs);
-			this.__47__img=document.createElement('img');
-			this.__47__img.setAttribute('src',basePath + 'images/hs_47.png');
-			this.__47__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
-			this.__47__img['ondragstart']=function() { return false; };
-			me.player.checkLoaded.push(this.__47__img);
-			this.__47.appendChild(this.__47__img);
-			this.__div.appendChild(this.__47);
+			this.__clouds.setAttribute('style',hs);
+			this.__clouds__img=document.createElement('img');
+			this.__clouds__img.setAttribute('src',basePath + 'images/hs_clouds.png');
+			this.__clouds__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
+			this.__clouds__img['ondragstart']=function() { return false; };
+			me.player.checkLoaded.push(this.__clouds__img);
+			this.__clouds.appendChild(this.__clouds__img);
+			this.__div.appendChild(this.__clouds);
 			this._hstext6=document.createElement('div');
 			this._hstext6.ggId='hstext';
 			this._hstext6.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
