@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex_2021_3.ggsk
-// Generated Вт 9. ноя 22:53:00 2021
+// Generated Вт 9. ноя 23:05:27 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -853,15 +853,15 @@ function pano2vrSkin(player,base) {
 			this.style[domTransition]='none';
 			if (this.parentNode) {
 				w=this.parentNode.offsetWidth;
-				this.style.left=(-180 + w/2) + 'px';
+				this.style.left=(-205 + w/2) + 'px';
 				h=this.parentNode.offsetHeight;
 				this.style.top=(-130 + h/2) + 'px';
 			}
 		}
 		hs ='position:absolute;';
-		hs+='left: -180px;';
+		hs+='left: -205px;';
 		hs+='top:  -130px;';
-		hs+='width: 360px;';
+		hs+='width: 460px;';
 		hs+='height: 240px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: hidden;';
@@ -879,7 +879,7 @@ function pano2vrSkin(player,base) {
 		hs ='position:absolute;';
 		hs+='left: 0px;';
 		hs+='top:  0px;';
-		hs+='width: 360px;';
+		hs+='width: 460px;';
 		hs+='height: 240px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
@@ -898,7 +898,7 @@ function pano2vrSkin(player,base) {
 		hs ='position:absolute;';
 		hs+='left: -1px;';
 		hs+='top:  -1px;';
-		hs+='width: 358px;';
+		hs+='width: 458px;';
 		hs+='height: 238px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
@@ -916,7 +916,7 @@ function pano2vrSkin(player,base) {
 		hs ='position:absolute;';
 		hs+='left: 10px;';
 		hs+='top:  10px;';
-		hs+='width: 220px;';
+		hs+='width: 440px;';
 		hs+='height: 20px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: inherit;';
@@ -943,8 +943,8 @@ function pano2vrSkin(player,base) {
 		this._description.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 8px;';
-		hs+='top:  41px;';
-		hs+='width: 340px;';
+		hs+='top:  33px;';
+		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: inherit;';
@@ -972,8 +972,8 @@ function pano2vrSkin(player,base) {
 		this._author.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  158px;';
-		hs+='width: 340px;';
+		hs+='top:  151px;';
+		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: inherit;';
@@ -993,6 +993,34 @@ function pano2vrSkin(player,base) {
 		}
 		this._author.ggUpdateText();
 		this._userdata.appendChild(this._author);
+		this._link=document.createElement('div');
+		this._link.ggId='link';
+		this._link.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._link.ggVisible=true;
+		this._link.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: 11px;';
+		hs+='top:  174px;';
+		hs+='width: 440px;';
+		hs+='height: auto;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #ffffff;';
+		hs+='text-align: left;';
+		hs+='white-space: pre-wrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._link.setAttribute('style',hs);
+		this._link.ggUpdateText=function() {
+			var hs="\u0421\u0441\u044b\u043b\u043a\u0430 \u043d\u0430 \u044d\u0442\u0443 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0443:\n<font color=#0000FF><a href="+me.player.userdata.information+">"+me.player.userdata.information+"<\/a><\/font>";
+			if (hs!=this.ggText) {
+				this.ggText=hs;
+				this.innerHTML=hs;
+			}
+		}
+		this._link.ggUpdateText();
+		this._userdata.appendChild(this._link);
 		this._datetime=document.createElement('div');
 		this._datetime.ggId='datetime';
 		this._datetime.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
@@ -1000,7 +1028,7 @@ function pano2vrSkin(player,base) {
 		this._datetime.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 10px;';
-		hs+='top:  207px;';
+		hs+='top:  211px;';
 		hs+='width: auto;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -1257,6 +1285,7 @@ function pano2vrSkin(player,base) {
 		this._title.ggUpdateText();
 		this._description.ggUpdateText();
 		this._author.ggUpdateText();
+		this._link.ggUpdateText();
 		this._datetime.ggUpdateText();
 		this._marker_title.ggUpdateText();
 	};
