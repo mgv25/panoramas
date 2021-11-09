@@ -1351,7 +1351,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__47.setAttribute('style',hs);
 			this.__47__img=document.createElement('img');
-			this.__47__img.setAttribute('src',basePath + 'images/_47.png');
+			this.__47__img.setAttribute('src',basePath + 'images/hs_47.png');
 			this.__47__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__47__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__47__img);
@@ -1434,7 +1434,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__clouds.setAttribute('style',hs);
 			this.__clouds__img=document.createElement('img');
-			this.__clouds__img.setAttribute('src',basePath + 'images/_clouds.png');
+			this.__clouds__img.setAttribute('src',basePath + 'images/hs_clouds.png');
 			this.__clouds__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__clouds__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__clouds__img);
@@ -1517,7 +1517,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__48.setAttribute('style',hs);
 			this.__48__img=document.createElement('img');
-			this.__48__img.setAttribute('src',basePath + 'images/_48.png');
+			this.__48__img.setAttribute('src',basePath + 'images/hs_48.png');
 			this.__48__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__48__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__48__img);
@@ -1600,7 +1600,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__49.setAttribute('style',hs);
 			this.__49__img=document.createElement('img');
-			this.__49__img.setAttribute('src',basePath + 'images/_49.png');
+			this.__49__img.setAttribute('src',basePath + 'images/hs_49.png');
 			this.__49__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__49__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__49__img);
@@ -1712,7 +1712,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__52.setAttribute('style',hs);
 			this.__52__img=document.createElement('img');
-			this.__52__img.setAttribute('src',basePath + 'images/_52.png');
+			this.__52__img.setAttribute('src',basePath + 'images/hs_52.png');
 			this.__52__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__52__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__52__img);
@@ -1795,7 +1795,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__54.setAttribute('style',hs);
 			this.__54__img=document.createElement('img');
-			this.__54__img.setAttribute('src',basePath + 'images/_54.png');
+			this.__54__img.setAttribute('src',basePath + 'images/hs_54.png');
 			this.__54__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__54__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__54__img);
@@ -1849,7 +1849,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__44.setAttribute('style',hs);
 			this.__44__img=document.createElement('img');
-			this.__44__img.setAttribute('src',basePath + 'images/_44.png');
+			this.__44__img.setAttribute('src',basePath + 'images/hs_44.png');
 			this.__44__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__44__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__44__img);
@@ -1932,7 +1932,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__65.setAttribute('style',hs);
 			this.__65__img=document.createElement('img');
-			this.__65__img.setAttribute('src',basePath + 'images/_65.png');
+			this.__65__img.setAttribute('src',basePath + 'images/hs_65.png');
 			this.__65__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__65__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__65__img);
