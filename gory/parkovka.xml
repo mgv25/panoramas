@@ -6,7 +6,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Арка" datetime="2013.07.23" description="Каменная арка под вершиной Индюка" copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.27505552768707" latitude="44.24203241607255"/>
+    <userdata title="Арка" datetime="2013.07.23" description="Каменная арка под вершиной Индюка" copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/arka" longitude="39.27505552768707" latitude="44.24203241607255"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -26,7 +26,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Стоянка у Индюшонка" datetime="23.07.2013" description="Стоянка под Индюшонком, или Пионерская поляна у непересыхающего родника" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.282517433166504" latitude="44.24832701740928"/>
+    <userdata title="Стоянка у Индюшонка" datetime="23.07.2013" description="Стоянка под Индюшонком, или Пионерская поляна у непересыхающего родника" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/polyana-indushonok" longitude="39.282517433166504" latitude="44.24832701740928"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -44,7 +44,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Индюшонок" datetime="23.07.2013" description="Скала Индюшонок возле Индюшки" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.282380640506744" latitude="44.24861713694679"/>
+    <userdata title="Индюшонок" datetime="23.07.2013" description="Скала Индюшонок возле Индюшки" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/indushonok" longitude="39.282380640506744" latitude="44.24861713694679"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -66,7 +66,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Камень Кулак" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.28117632865906" latitude="44.24363110879164"/>
+    <userdata title="Камень Кулак" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/kulak" longitude="39.28117632865906" latitude="44.24363110879164"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -92,7 +92,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="ЛЭП, тропа на Локомотивы" datetime="23.07.2013" description="Просека ЛЭП на тропе к Локомотивским стоянкам" copyright="Волков М.Г." tags="Низ|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.264713861732616" latitude="44.24595386966212"/>
+    <userdata title="ЛЭП, тропа на Локомотивы" datetime="23.07.2013" description="Просека ЛЭП на тропе к Локомотивским стоянкам" copyright="Волков М.Г." tags="Низ|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/lep-2" longitude="39.264713861732616" latitude="44.24595386966212"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -113,7 +113,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Каменное море" datetime="23.07.2013" description="Большая осыпь под Индюшкой" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.276525378227234" latitude="44.24759690893009"/>
+    <userdata title="Каменное море" datetime="23.07.2013" description="Большая осыпь под Индюшкой" copyright="Волков М.Г." tags="Индюшка|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/kamennoye-more" longitude="39.276525378227234" latitude="44.24759690893009"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -135,7 +135,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Камень Можжевельник" datetime="23.07.2013" description="Скала на гребне Индюка, поросшая можжевельником" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.279996156692505" latitude="44.24309309205358"/>
+    <userdata title="Камень Можжевельник" datetime="23.07.2013" description="Скала на гребне Индюка, поросшая можжевельником" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/mozhzhevelnik" longitude="39.279996156692505" latitude="44.24309309205358"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -163,7 +163,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Панорамный Камень" datetime="23.07.2013" description="Скала с панорамным видом на окрестности, самая высокая скальная точка массива г. Индюк" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.28213119506836" latitude="44.244222921520475"/>
+    <userdata title="Панорамный Камень" datetime="23.07.2013" description="Скала с панорамным видом на окрестности, самая высокая скальная точка массива г. Индюк" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/panoramnyi" longitude="39.28213119506836" latitude="44.244222921520475"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -187,7 +187,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Камень Павлик" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.279255867004395" latitude="44.24281639581518"/>
+    <userdata title="Камень Павлик" datetime="23.07.2013" description="Скала на гребне Индюка" copyright="Волков М.Г." tags="Гребень|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pavlik" longitude="39.279255867004395" latitude="44.24281639581518"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -224,7 +224,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Камень Подкова" datetime="23.07.2013" description="Скала сектора Перья, самый простой маршрут на вершину имеет сложность 7а" copyright="Волков М.Г." tags="Индюк|скалы|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.27581995725632" latitude="44.241724970184436"/>
+    <userdata title="Камень Подкова" datetime="23.07.2013" description="Скала сектора Перья, самый простой маршрут на вершину имеет сложность 7а" copyright="Волков М.Г." tags="Индюк|скалы|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/podkova" longitude="39.27581995725632" latitude="44.241724970184436"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -268,7 +268,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Электричка" datetime="23.07.2013" description="Электричка Горячий Ключ - Туапсе" copyright="Волков М.Г." tags="Низ|Железка|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.24011707305908" latitude="44.24701281562171"/>
+    <userdata title="Электричка" datetime="23.07.2013" description="Электричка Горячий Ключ - Туапсе" copyright="Волков М.Г." tags="Низ|Железка|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/elektrichka" longitude="39.24011707305908" latitude="44.24701281562171"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -287,7 +287,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Индюк" datetime="23.07.2013" description="Вершина горы Индюк, одного из самых популярных мест Краснодарского края среди скалолазов и обычных туристов." copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.27527278661728" latitude="44.242059317511334"/>
+    <userdata title="г. Индюк" datetime="23.07.2013" description="Вершина горы Индюк, одного из самых популярных мест Краснодарского края среди скалолазов и обычных туристов." copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., Ромов П.А., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/induk" longitude="39.27527278661728" latitude="44.242059317511334"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -347,7 +347,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Утес Витя" datetime="23.07.2013" description="Утес у вершины Индюка" copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.274964332580566" latitude="44.241895987158"/>
+    <userdata title="Утес Витя" datetime="23.07.2013" description="Утес у вершины Индюка" copyright="Волков М.Г." tags="Индюк|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/vitya" longitude="39.274964332580566" latitude="44.241895987158"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -374,7 +374,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Станция 1744 км" datetime="2013.07.23" description="Ближайшая к г. Индюк станция электрички Горячий Ключ - Туапсе, Краснодарский край" copyright="Волков М.Г." tags="Железка|Низ|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.24117386341095" latitude="44.249097464161025"/>
+    <userdata title="Станция 1744 км" datetime="2013.07.23" description="Ближайшая к г. Индюк станция электрички Горячий Ключ - Туапсе, Краснодарский край" copyright="Волков М.Г." tags="Железка|Низ|2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/1744" longitude="39.24117386341095" latitude="44.249097464161025"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -393,7 +393,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Двубратский водопад, 2013" datetime="2.11.2013" description="Водопад в каньоне Двубратского ручья. В скале есть ванна, в которой можно купаться. Так он выглядел в 2013 году. Долина ручья сильно изменилась после наводнения 25 октября 2018 года. Как она выглядит сейчас, можно посмотреть на панораме 2021 года." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31258100000000" latitude="44.18851900000000"/>
+    <userdata title="Двубратский водопад, 2013" datetime="2.11.2013" description="Водопад в каньоне Двубратского ручья. В скале есть ванна, в которой можно купаться. Так он выглядел в 2013 году. Долина ручья сильно изменилась после наводнения 25 октября 2018 года. Как она выглядит сейчас, можно посмотреть на панораме 2021 года." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dvubrat-vodopad-2013" longitude="39.31258100000000" latitude="44.18851900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -414,7 +414,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Отрог Семашхо" datetime="3.11.2013" description="Главный Кавказский хребет недалеко от Семашхо" copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.32561500000000" latitude="44.19790300000000"/>
+    <userdata title="Отрог Семашхо" datetime="3.11.2013" description="Главный Кавказский хребет недалеко от Семашхо" copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/otrog-semashkho-1" longitude="39.32561500000000" latitude="44.19790300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -437,7 +437,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Семашхо" datetime="8.05.2021" description="Вершина горы Семашхо, 1035 м. Это самая высокая гора окрестностей, входит в Главный Кавказский хребет. Во время ВОВ здесь были ожесточенные бои, на хребте установлено множество памятников." copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
+    <userdata title="г. Семашхо" datetime="8.05.2021" description="Вершина горы Семашхо, 1035 м. Это самая высокая гора окрестностей, входит в Главный Кавказский хребет. Во время ВОВ здесь были ожесточенные бои, на хребте установлено множество памятников." copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semashkho" longitude="39.31308800000000" latitude="44.20548400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -477,7 +477,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Скала Сыр" datetime="4.11.2013" description="Простейшая скала для лазания, очень популярное место у скалолазов." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.27713000000000" latitude="44.24231000000000"/>
+    <userdata title="Скала Сыр" datetime="4.11.2013" description="Простейшая скала для лазания, очень популярное место у скалолазов." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pod-syrom" longitude="39.27713000000000" latitude="44.24231000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -511,7 +511,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Вершина Индюшки" datetime="4.11.2013" description="Вторая главная вершина Массива Индюка. По гребню проходит альпинистский маршрут 3А к.с." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.28051000000000" latitude="44.24689000000000"/>
+    <userdata title="Вершина Индюшки" datetime="4.11.2013" description="Вторая главная вершина Массива Индюка. По гребню проходит альпинистский маршрут 3А к.с." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/indushka" longitude="39.28051000000000" latitude="44.24689000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -539,7 +539,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="ЛЭП, тропа к Каменному морю" datetime="4.11.2013" description="Самая популярная тропа на Индюк. Выходит мимо Каменного моря на поляну Сковорода (Родниковая)." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.26678000000000" latitude="44.24846000000000"/>
+    <userdata title="ЛЭП, тропа к Каменному морю" datetime="4.11.2013" description="Самая популярная тропа на Индюк. Выходит мимо Каменного моря на поляну Сковорода (Родниковая)." copyright="" tags="осень_2013" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/lep-1" longitude="39.26678000000000" latitude="44.24846000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -561,7 +561,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Гребень Индюшки" datetime="1.01.2014" description="Здесь проходит альпинистский маршрут от Каменного моря на вершину Индюшки." copyright="" tags="зима" author="Волков М.Г., Ромов А.П., Бирючева Е., mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.27906000000000" latitude="44.24678000000000"/>
+    <userdata title="Гребень Индюшки" datetime="1.01.2014" description="Здесь проходит альпинистский маршрут от Каменного моря на вершину Индюшки." copyright="" tags="зима" author="Волков М.Г., Ромов А.П., Бирючева Е., mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/greben-indushka" longitude="39.27906000000000" latitude="44.24678000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -587,7 +587,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Два Брата" datetime="7.05.2021" description="В старину именовалась Верблюд из-за визуальной схожести, в чем можно убедиться на любой панораме со стороны, особенно с г. Семашхо." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.32734400000000" latitude="44.18805600000000"/>
+    <userdata title="г. Два Брата" datetime="7.05.2021" description="В старину именовалась Верблюд из-за визуальной схожести, в чем можно убедиться на любой панораме со стороны, особенно с г. Семашхо." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dva-brata" longitude="39.32734400000000" latitude="44.18805600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -612,7 +612,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Дольмены Анастасиевки" datetime="7.05.2021" description="Древние сооружения возрастом 3-5 тыс. лет, находятся недалеко от Анастасиевки. Вся долина реки изобилует дольменами и другими памятниками древности. Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.29269900000000" latitude="44.17781000000000"/>
+    <userdata title="Дольмены Анастасиевки" datetime="7.05.2021" description="Древние сооружения возрастом 3-5 тыс. лет, находятся недалеко от Анастасиевки. Вся долина реки изобилует дольменами и другими памятниками древности. Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="2021|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dolmeny-anastasievka" longitude="39.29269900000000" latitude="44.17781000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -674,7 +674,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Двубратский водопад" datetime="7.05.2021" description="Водопад на двубратском ручье, вытекающий из скалы, в которой есть природная купель. Это место сильно изменилось после наводнения 25 октября 2018 года. Каким оно было раньше, можно увидеть на панораме 2013 года." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31258100000000" latitude="44.18851900000000"/>
+    <userdata title="Двубратский водопад" datetime="7.05.2021" description="Водопад на двубратском ручье, вытекающий из скалы, в которой есть природная купель. Это место сильно изменилось после наводнения 25 октября 2018 года. Каким оно было раньше, можно увидеть на панораме 2013 года." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dvubrat-vodopad" longitude="39.31258100000000" latitude="44.18851900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -695,7 +695,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Отрог Семашхо 2" datetime="8.05.2021" description="Небольшая скала на отроге г. Семашхо" copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.33040000000000" latitude="44.19687800000000"/>
+    <userdata title="Отрог Семашхо 2" datetime="8.05.2021" description="Небольшая скала на отроге г. Семашхо" copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/otrog-semashkho-2" longitude="39.33040000000000" latitude="44.19687800000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -713,7 +713,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Гора Круглая" datetime="8.05.2021" description="Поляна на вершине горы Круглой, входящей в Главный Кавказский хребет." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.30159500000000" latitude="44.23676600000000"/>
+    <userdata title="Гора Круглая" datetime="8.05.2021" description="Поляна на вершине горы Круглой, входящей в Главный Кавказский хребет." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/kruglaya" longitude="39.30159500000000" latitude="44.23676600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -732,7 +732,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Смытый мост через р. Пшенахо" datetime="7.05.2021" description="До наводнения 25 октября 2018 г. здесь был автомобильный мост. Был снесён потоком воды." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.29541500000000" latitude="44.17557600000000"/>
+    <userdata title="Смытый мост через р. Пшенахо" datetime="7.05.2021" description="До наводнения 25 октября 2018 г. здесь был автомобильный мост. Был снесён потоком воды." copyright="" tags="2021" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/most-pshenakho" longitude="39.29541500000000" latitude="44.17557600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -805,7 +805,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Семашхо, 2013" datetime="3.11.2013" description="Вершина горы Семашхо 1035 м." copyright="" tags="осень_2013|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.31308800000000" latitude="44.20548400000000"/>
+    <userdata title="г. Семашхо, 2013" datetime="3.11.2013" description="Вершина горы Семашхо 1035 м." copyright="" tags="осень_2013|3д-модели" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semashkho-2013" longitude="39.31308800000000" latitude="44.20548400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -848,7 +848,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Скала Киселёва" datetime="10.05.2021" description="Живописная скала в окрестностях г. Туапсе. Названа в честь художника Киселёва, который часто изображал её на своих картинах. Здесь также снимался фильм &quot;Бриллиантовая рука&quot;." copyright="" tags="2021|море|Туапсе" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.032214" latitude="44.113531"/>
+    <userdata title="Скала Киселёва" datetime="10.05.2021" description="Живописная скала в окрестностях г. Туапсе. Названа в честь художника Киселёва, который часто изображал её на своих картинах. Здесь также снимался фильм &quot;Бриллиантовая рука&quot;." copyright="" tags="2021|море|Туапсе" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/kiseleva" longitude="39.032214" latitude="44.113531"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -866,7 +866,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Скалы Мышиные норки" datetime="10.05.2021" description="Мыс у скал, которые называются так, потому что в них есть несколько небольших пещер." copyright="" tags="2021|Туапсе|море" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.03100000000000" latitude="44.12000000000000"/>
+    <userdata title="Скалы Мышиные норки" datetime="10.05.2021" description="Мыс у скал, которые называются так, потому что в них есть несколько небольших пещер." copyright="" tags="2021|Туапсе|море" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/mysh-norki" longitude="39.03100000000000" latitude="44.12000000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -883,7 +883,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Семиглавая" datetime="12.06.2016" description="" copyright="" tags="семиглавая" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.44896900000000" latitude="44.11362000000000"/>
+    <userdata title="г. Семиглавая" datetime="12.06.2016" description="" copyright="" tags="семиглавая" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya" longitude="39.44896900000000" latitude="44.11362000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -905,7 +905,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Перевал" datetime="3.05.2014" description="Перевал Семашхо II через хребет г. Семиглавой" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.45572400000000" latitude="44.10601600000000"/>
+    <userdata title="Перевал" datetime="3.05.2014" description="Перевал Семашхо II через хребет г. Семиглавой" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya-pereval" longitude="39.45572400000000" latitude="44.10601600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -924,7 +924,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Дольмен в ур. Кубыши" datetime="4.05.2014" description="Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="семиглавая|2014|3д-модели" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.39898900000000" latitude="44.08991700000000"/>
+    <userdata title="Дольмен в ур. Кубыши" datetime="4.05.2014" description="Нажмите на дольмен, чтобы увидеть его 3D модель" copyright="" tags="семиглавая|2014|3д-модели" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dolmen-semiglavaya" longitude="39.39898900000000" latitude="44.08991700000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -957,7 +957,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Верховья р. Большое Псеушхо" datetime="4.05.2014" description="" copyright="" tags="2014|семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="" latitude=""/>
+    <userdata title="Верховья р. Большое Псеушхо" datetime="4.05.2014" description="" copyright="" tags="2014|семиглавая" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/istok-bol-pseushkho" longitude="" latitude=""/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -975,7 +975,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Привал у высоты 1627" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.48788600000000" latitude="44.08764400000000"/>
+    <userdata title="Привал у высоты 1627" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya-1627-2014" longitude="39.48788600000000" latitude="44.08764400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -997,7 +997,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Высота 1494, хребет Семиглавой" datetime="3.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.51721800000000" latitude="44.07064400000000"/>
+    <userdata title="Высота 1494, хребет Семиглавой" datetime="3.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya-1494-2014" longitude="39.51721800000000" latitude="44.07064400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1015,7 +1015,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Высота 1612" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.54568900000000" latitude="44.06136600000000"/>
+    <userdata title="Высота 1612" datetime="3.05.2016" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya-1612-2014" longitude="39.54568900000000" latitude="44.06136600000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1033,7 +1033,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="У Грачёва перевала" datetime="1.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.65101600000000" latitude="44.00867000000000"/>
+    <userdata title="У Грачёва перевала" datetime="1.05.2014" description="" copyright="" tags="семиглавая|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/semiglavaya-lager-2014" longitude="39.65101600000000" latitude="44.00867000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1070,7 +1070,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="110" tilt="90"/>
     </view>
-    <userdata title="Под перевалом Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.96344100000000" latitude="43.99290500000000"/>
+    <userdata title="Под перевалом Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pod-per-guzeripl" longitude="39.96344100000000" latitude="43.99290500000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1090,7 +1090,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="пер. Фишт-Оштеновский" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.91400200000000" latitude="43.99054100000000"/>
+    <userdata title="пер. Фишт-Оштеновский" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-fisht-oshten" longitude="39.91400200000000" latitude="43.99054100000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1111,7 +1111,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="110" tilt="90"/>
     </view>
-    <userdata title="пер. Гузерипль в тени" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.95913800000000" latitude="43.98257800000000"/>
+    <userdata title="пер. Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-guzeripl" longitude="39.95913800000000" latitude="43.98257800000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1130,7 +1130,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="110" tilt="90"/>
     </view>
-    <userdata title="склон г. Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.96464600000000" latitude="43.98291800000000"/>
+    <userdata title="склон г. Гузерипль" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/sklon-guzeripl" longitude="39.96464600000000" latitude="43.98291800000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1149,7 +1149,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="110" tilt="90"/>
     </view>
-    <userdata title="пер. Армянский" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.94154700000000" latitude="43.97133200000000"/>
+    <userdata title="пер. Армянский" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-armyanskiy" longitude="39.94154700000000" latitude="43.97133200000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1197,7 +1197,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="110" tilt="90"/>
     </view>
-    <userdata title="Приют Фишт" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.93017600000000" latitude="43.95940000000000"/>
+    <userdata title="Приют Фишт" datetime="29.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/priyut-fisht" longitude="39.93017600000000" latitude="43.95940000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1272,7 +1272,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="г. Оштен" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
+    <userdata title="г. Оштен" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/oshten" longitude="39.92939000000000" latitude="43.99709200000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1366,7 +1366,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="под вершиной Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92835500000000" latitude="43.99785900000000"/>
+    <userdata title="под вершиной Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/oshten-pod-vershinoy" longitude="39.92835500000000" latitude="43.99785900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1435,7 +1435,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="гребень Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92761100000000" latitude="43.99375500000000"/>
+    <userdata title="гребень Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/oshten-greben" longitude="39.92761100000000" latitude="43.99375500000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1516,7 +1516,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="спуск с Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.92529300000000" latitude="43.99396400000000"/>
+    <userdata title="спуск с Оштена" datetime="30.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pereval-oshten" longitude="39.92529300000000" latitude="43.99396400000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1562,7 +1562,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах сверху" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90449900000000" latitude="44.00749900000000"/>
+    <userdata title="оз. Псенодах сверху" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/psenodakh-sverkhu" longitude="39.90449900000000" latitude="44.00749900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1584,7 +1584,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах у родника" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90136400000000" latitude="44.00925300000000"/>
+    <userdata title="оз. Псенодах у родника" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/psenodakh-rodnik" longitude="39.90136400000000" latitude="44.00925300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1605,7 +1605,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах у тропы" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.90082000000000" latitude="44.01074900000000"/>
+    <userdata title="оз. Псенодах у тропы" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/psenodakh-u-tropy" longitude="39.90082000000000" latitude="44.01074900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1627,7 +1627,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="оз. Псенодах бездна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.89969400000000" latitude="44.00960700000000"/>
+    <userdata title="оз. Псенодах бездна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/psenodakh-bezdna" longitude="39.89969400000000" latitude="44.00960700000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1649,7 +1649,7 @@
       <min pan="0" fov="30" tilt="-90"/>
       <max pan="360" fov="102" tilt="90"/>
     </view>
-    <userdata title="пер. Оштеновский" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.94931600000000" latitude="44.01698200000000"/>
+    <userdata title="пер. Оштеновский" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-oshtenovskiy" longitude="39.94931600000000" latitude="44.01698200000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1695,7 +1695,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="ручей Рубленый" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.97091100000000" latitude="44.01920900000000"/>
+    <userdata title="ручей Рубленый" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/rubleny" longitude="39.97091100000000" latitude="44.01920900000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1723,7 +1723,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Инструкторская щель" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.98184900000000" latitude="44.01288300000000"/>
+    <userdata title="Инструкторская щель" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/instruktorskaya" longitude="39.98184900000000" latitude="44.01288300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1742,7 +1742,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Яворовая поляна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.98751100000000" latitude="44.01052700000000"/>
+    <userdata title="Яворовая поляна" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/yavorovaya" longitude="39.98751100000000" latitude="44.01052700000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1761,7 +1761,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Парковка" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99568581619102" latitude="44.00940616606434"/>
+    <userdata title="Парковка" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/parkovka" longitude="39.99568581619102" latitude="44.00940616606434"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1780,7 +1780,7 @@
       <min pan="0" fov="40" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Гора на парковке" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="" longitude="39.99772165122952" latitude="44.00791279407711"/>
+    <userdata title="Гора на парковке" datetime="31.08.2015" description="" copyright="" tags="" author="Шевченко Р.Е., г. Краснодар (mgvolkov25@gmail.com)" source="" comment="" info="https://mgv25.github.io/panoramas/gory/parkovka-gora" longitude="39.99772165122952" latitude="44.00791279407711"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1799,7 +1799,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Оштен в облаках" datetime="11.08.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.92939000000000" latitude="43.99709200000000"/>
+    <userdata title="Оштен в облаках" datetime="11.08.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/oshten-oblaka" longitude="39.92939000000000" latitude="43.99709200000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1816,12 +1816,12 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Мост через Пшеху" datetime="01.11.2021" description="" copyright="" tags="" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.702075" latitude="44.073106"/>
+    <userdata title="Мост через Пшеху" datetime="01.11.2021" description="" copyright="" tags="" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/most-pshekha" longitude="39.702075" latitude="44.073106"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-144.577" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="15.1335"/>
-      <hotspot title="К Собор-Скале" target="" pan="106.206" skinid="copter" url="{node_shpalorez_3}" id="Point02" tilt="12.8895"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-144.577" skinid="hs_copter" url="{node_shpalorez_2}" id="Point01" tilt="15.1335"/>
+      <hotspot title="К Собор-Скале" target="" pan="106.206" skinid="hs_copter" url="{node_shpalorez_3}" id="Point02" tilt="12.8895"/>
       <hotspot title="Матрица, узкоколейный поезд" target="281.5/-11/65" pan="-140.88" skinid="hotspot" url="{node_shpalorez_4}" id="Point03" tilt="-2.33119"/>
     </hotspots>
     <media/>
@@ -1835,17 +1835,17 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Шпалорез (пос. Отдаленный)" datetime="01.11.2021" description="" copyright="" tags="Шпалорез" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.701541" latitude="44.069401"/>
+    <userdata title="Шпалорез (пос. Отдаленный)" datetime="01.11.2021" description="" copyright="" tags="Шпалорез" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/shpalorez-500" longitude="39.701541" latitude="44.069401"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Мост через Пшеху" target="" pan="-26.4209" skinid="copter" url="{node_shpalorez_1}" id="Point01" tilt="-43.5529"/>
+      <hotspot title="Мост через Пшеху" target="" pan="-26.4209" skinid="hs_copter" url="{node_shpalorez_1}" id="Point01" tilt="-43.5529"/>
       <hotspot title="г. Оштен" target="240/-6.5/65" pan="-138.263" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="7.52457"/>
       <hotspot title="Матрица - узкоколейный поезд" target="285/-14/65" pan="172.5" skinid="hotspot" url="{node_shpalorez_4}" id="Point05" tilt="-88.54900000000001"/>
       <hotspot title="Высота 1612" target="" pan="70.0741" skinid="hotspot" url="{node37}" id="Point02" tilt="2.42319"/>
       <hotspot title="Высота 1494, хребет Семиглавой" target="" pan="65.5548" skinid="hotspot" url="{node36}" id="Point04" tilt="1.79425"/>
       <hotspot title="У Грачёва перевала" target="" pan="125.283" skinid="hotspot" url="{node38}" id="Point06" tilt="3.71935"/>
-      <hotspot title="У Собор-Скалы" target="" pan="37.2728" skinid="copter" url="{node_shpalorez_3}" id="Point07" tilt="8.55048"/>
+      <hotspot title="У Собор-Скалы" target="" pan="37.2728" skinid="hs_copter" url="{node_shpalorez_3}" id="Point07" tilt="8.55048"/>
     </hotspots>
     <media/>
     <input tile0url="images/shpalorez_500_o_0.jpg" prev5url="images/shpalorez_500_o_preview_5.jpg" prev4url="images/shpalorez_500_o_preview_4.jpg" prev3url="images/shpalorez_500_o_preview_3.jpg" prev2url="images/shpalorez_500_o_preview_2.jpg" prev1url="images/shpalorez_500_o_preview_1.jpg" prev0url="images/shpalorez_500_o_preview_0.jpg" tile5url="images/shpalorez_500_o_5.jpg" tilesize="2500" tile4url="images/shpalorez_500_o_4.jpg" tile3url="images/shpalorez_500_o_3.jpg" tilescale="1.004" tile2url="images/shpalorez_500_o_2.jpg" tile1url="images/shpalorez_500_o_1.jpg"/>
@@ -1858,12 +1858,12 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="У Собор-Скалы" datetime="01.11.2021" description="" copyright="" tags="Шпалорез" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.679818" latitude="44.078464"/>
+    <userdata title="У Собор-Скалы" datetime="01.11.2021" description="" copyright="" tags="Шпалорез" author="Волков М.Г., mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/u-sobor-skaly" longitude="39.679818" latitude="44.078464"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="42.4502" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="-2.49575"/>
-      <hotspot title="Мост через Пшеху" target="" pan="59.1556" skinid="copter" url="{node_shpalorez_1}" id="Point02" tilt="-7.77387"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="42.4502" skinid="hs_copter" url="{node_shpalorez_2}" id="Point01" tilt="-2.49575"/>
+      <hotspot title="Мост через Пшеху" target="" pan="59.1556" skinid="hs_copter" url="{node_shpalorez_1}" id="Point02" tilt="-7.77387"/>
       <hotspot title="г. Оштен" target="" pan="51.1827" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="6.06399"/>
       <hotspot title="Матрица - узкоколейный поезд" target="281.5/-10/65" pan="43.7358" skinid="hotspot" url="{node_shpalorez_4}" id="Point05" tilt="-11.9651"/>
       <hotspot title="У Грачёва перевала" target="" pan="-33.4151" skinid="hotspot" url="{node38}" id="Point06" tilt="4.16352"/>
@@ -1882,11 +1882,11 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Матрица" datetime="09.04.2016" description="Матрицей здесь называют узкоколейный поезд, который идет по долине р. Пшеха в село Черниговское. Для нескольких посёлков матрица - единственный возможный способ добраться во внешний мир, так как дорог там нет." copyright="" tags="Шпалорез" author="Артем Светлов" source="" comment="" info="" longitude="39.684811" latitude="44.206619"/>
+    <userdata title="Матрица" datetime="09.04.2016" description="Матрицей здесь называют узкоколейный поезд, который идет по долине р. Пшеха в село Черниговское. Для нескольких посёлков матрица - единственный возможный способ добраться во внешний мир, так как дорог там нет." copyright="" tags="Шпалорез" author="Артем Светлов" source="" comment="" info="https://mgv25.github.io/panoramas/gory/matritsa" longitude="39.684811" latitude="44.206619"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез, вид сверху" target="" pan="102.113" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="17.3913"/>
+      <hotspot title="Шпалорез, вид сверху" target="" pan="102.113" skinid="hs_copter" url="{node_shpalorez_2}" id="Point01" tilt="17.3913"/>
     </hotspots>
     <media/>
     <input tile0url="images/matritsa_o_0.jpg" prev5url="images/matritsa_o_preview_5.jpg" prev4url="images/matritsa_o_preview_4.jpg" prev3url="images/matritsa_o_preview_3.jpg" prev2url="images/matritsa_o_preview_2.jpg" prev1url="images/matritsa_o_preview_1.jpg" prev0url="images/matritsa_o_preview_0.jpg" tile5url="images/matritsa_o_5.jpg" tilesize="2500" tile4url="images/matritsa_o_4.jpg" tile3url="images/matritsa_o_3.jpg" tilescale="1.004" tile2url="images/matritsa_o_2.jpg" tile1url="images/matritsa_o_1.jpg"/>
