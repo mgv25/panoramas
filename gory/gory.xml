@@ -10,10 +10,10 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Индюк" target="" pan="-59.829" skinid="hotspot" url="{node12}" id="Point01" tilt="41.8281"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="51.1177" skinid="hotspot" url="{node5}" id="Point02" tilt="-22.5989"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-40.4115" skinid="hotspot" url="{node19}" id="Point03" tilt="3.02751"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="35.1379" skinid="hotspot" url="{node20}" id="Point04" tilt="-18.4066"/>
+      <hotspot title="г. Индюк" target="" pan="-59.829" skinid="hs" url="{node12}" id="Point01" tilt="41.8281"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="51.1177" skinid="hs" url="{node5}" id="Point02" tilt="-22.5989"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-40.4115" skinid="hs" url="{node19}" id="Point03" tilt="3.02751"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="35.1379" skinid="hs" url="{node20}" id="Point04" tilt="-18.4066"/>
     </hotspots>
     <media/>
     <input tile0url="images/arka_o_0.jpg" prev5url="images/arka_o_preview_5.jpg" prev4url="images/arka_o_preview_4.jpg" prev3url="images/arka_o_preview_3.jpg" prev2url="images/arka_o_preview_2.jpg" prev1url="images/arka_o_preview_1.jpg" prev0url="images/arka_o_preview_0.jpg" tile5url="images/arka_o_5.jpg" tilesize="2500" tile4url="images/arka_o_4.jpg" tile3url="images/arka_o_3.jpg" tilescale="1.004" tile2url="images/arka_o_2.jpg" tile1url="images/arka_o_1.jpg"/>
@@ -30,8 +30,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Индюшонок" target="" pan="-84.2103" skinid="hs_go" url="{node3}" id="Point01" tilt="-3.37143"/>
-      <hotspot title="Вершина Индюшки" target="" pan="51.5725" skinid="hs_go" url="{node19}" id="Point02" tilt="-8.953989999999999"/>
+      <hotspot title="Индюшонок" target="" pan="-84.2103" skinid="hs-go" url="{node3}" id="Point01" tilt="-3.37143"/>
+      <hotspot title="Вершина Индюшки" target="" pan="51.5725" skinid="hs-go" url="{node19}" id="Point02" tilt="-8.953989999999999"/>
     </hotspots>
     <media/>
     <input tile0url="images/lager_o_0.jpg" prev5url="images/lager_o_preview_5.jpg" prev4url="images/lager_o_preview_4.jpg" prev3url="images/lager_o_preview_3.jpg" prev2url="images/lager_o_preview_2.jpg" prev1url="images/lager_o_preview_1.jpg" prev0url="images/lager_o_preview_0.jpg" tile5url="images/lager_o_5.jpg" tilesize="2500" tile4url="images/lager_o_4.jpg" tile3url="images/lager_o_3.jpg" tilescale="1.004" tile2url="images/lager_o_2.jpg" tile1url="images/lager_o_1.jpg"/>
@@ -48,12 +48,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Станция 1744 км" target="" pan="84.8711" skinid="hotspot" url="{node14}" id="Point01" tilt="-12.3995"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="98.7713" skinid="hotspot" url="{node5}" id="Point02" tilt="-16.3306"/>
-      <hotspot title="Каменное море" target="" pan="95.4684" skinid="hotspot" url="{node6}" id="Point03" tilt="-25.4928"/>
-      <hotspot title="Стоянка у Индюшонка" target="" pan="-126.538" skinid="hotspot" url="{node2}" id="Point04" tilt="-14.3738"/>
-      <hotspot title="Вершина Индюшки" target="" pan="133.752" skinid="hotspot" url="{node19}" id="Point05" tilt="5.97788"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="82.0338" skinid="hotspot" url="{node20}" id="Point06" tilt="-17.9657"/>
+      <hotspot title="Станция 1744 км" target="" pan="84.8711" skinid="hs" url="{node14}" id="Point01" tilt="-12.3995"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="98.7713" skinid="hs" url="{node5}" id="Point02" tilt="-16.3306"/>
+      <hotspot title="Каменное море" target="" pan="95.4684" skinid="hs" url="{node6}" id="Point03" tilt="-25.4928"/>
+      <hotspot title="Стоянка у Индюшонка" target="" pan="-126.538" skinid="hs" url="{node2}" id="Point04" tilt="-14.3738"/>
+      <hotspot title="Вершина Индюшки" target="" pan="133.752" skinid="hs" url="{node19}" id="Point05" tilt="5.97788"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="82.0338" skinid="hs" url="{node20}" id="Point06" tilt="-17.9657"/>
     </hotspots>
     <media/>
     <input tile0url="images/indushonok_o_0.jpg" prev5url="images/indushonok_o_preview_5.jpg" prev4url="images/indushonok_o_preview_4.jpg" prev3url="images/indushonok_o_preview_3.jpg" prev2url="images/indushonok_o_preview_2.jpg" prev1url="images/indushonok_o_preview_1.jpg" prev0url="images/indushonok_o_preview_0.jpg" tile5url="images/indushonok_o_5.jpg" tilesize="2500" tile4url="images/indushonok_o_4.jpg" tile3url="images/indushonok_o_3.jpg" tilescale="1.004" tile2url="images/indushonok_o_2.jpg" tile1url="images/indushonok_o_1.jpg"/>
@@ -70,16 +70,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Панорамный Камень" target="" pan="178.422" skinid="hotspot" url="{node8}" id="Point01" tilt="17.1323"/>
-      <hotspot title="Станция 1744 км" target="" pan="-53.3883" skinid="hotspot" url="{node14}" id="Point02" tilt="-14.0958"/>
-      <hotspot title="г. Индюк" target="" pan="-20.9411" skinid="hotspot" url="{node12}" id="Point03" tilt="0.193198"/>
-      <hotspot title="Камень Можжевельник" target="" pan="-17.4584" skinid="hotspot" url="{node7}" id="Point04" tilt="-13.0809"/>
-      <hotspot title="Камень Павлик" target="" pan="-12.4446" skinid="hotspot" url="{node9}" id="Point05" tilt="-10.0821"/>
-      <hotspot title="Гора Семашхо" target="0/0/65" pan="78.8913" skinid="hotspot" url="{node17}" id="Point06" tilt="5.29707"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-123.143" skinid="hotspot" url="{node19}" id="Point07" tilt="2.57934"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-95.5269" skinid="hotspot" url="{node21}" id="Point08" tilt="-16.0954"/>
-      <hotspot title="Скала Сыр" target="306.5/41/65" pan="-23.373" skinid="hotspot" url="{node18}" id="Point09" tilt="-9.98406"/>
-      <hotspot title="Гора Круглая" target="" pan="114.062" skinid="hotspot" url="{node26}" id="Point10" tilt="6.73209"/>
+      <hotspot title="Панорамный Камень" target="" pan="178.422" skinid="hs" url="{node8}" id="Point01" tilt="17.1323"/>
+      <hotspot title="Станция 1744 км" target="" pan="-53.3883" skinid="hs" url="{node14}" id="Point02" tilt="-14.0958"/>
+      <hotspot title="г. Индюк" target="" pan="-20.9411" skinid="hs" url="{node12}" id="Point03" tilt="0.193198"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-17.4584" skinid="hs" url="{node7}" id="Point04" tilt="-13.0809"/>
+      <hotspot title="Камень Павлик" target="" pan="-12.4446" skinid="hs" url="{node9}" id="Point05" tilt="-10.0821"/>
+      <hotspot title="Гора Семашхо" target="0/0/65" pan="78.8913" skinid="hs" url="{node17}" id="Point06" tilt="5.29707"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-123.143" skinid="hs" url="{node19}" id="Point07" tilt="2.57934"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-95.5269" skinid="hs" url="{node21}" id="Point08" tilt="-16.0954"/>
+      <hotspot title="Скала Сыр" target="306.5/41/65" pan="-23.373" skinid="hs" url="{node18}" id="Point09" tilt="-9.98406"/>
+      <hotspot title="Гора Круглая" target="" pan="114.062" skinid="hs" url="{node26}" id="Point10" tilt="6.73209"/>
     </hotspots>
     <media/>
     <input tile0url="images/kulak_o_0.jpg" prev5url="images/kulak_o_preview_5.jpg" prev4url="images/kulak_o_preview_4.jpg" prev3url="images/kulak_o_preview_3.jpg" prev2url="images/kulak_o_preview_2.jpg" prev1url="images/kulak_o_preview_1.jpg" prev0url="images/kulak_o_preview_0.jpg" tile5url="images/kulak_o_5.jpg" tilesize="2500" tile4url="images/kulak_o_4.jpg" tile3url="images/kulak_o_3.jpg" tilescale="1.004" tile2url="images/kulak_o_2.jpg" tile1url="images/kulak_o_1.jpg"/>
@@ -96,11 +96,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Станция 1744 км" target="" pan="84.1451" skinid="hs_go" url="{node14}" id="Point01" tilt="-13.1594"/>
-      <hotspot title="Индюшонок" target="" pan="21.0126" skinid="hotspot" url="{node3}" id="Point02" tilt="12.9873"/>
-      <hotspot title="г. Индюк" target="" pan="-14.91" skinid="hotspot" url="{node12}" id="Point03" tilt="19.1315"/>
-      <hotspot title="Вершина Индюшки" target="" pan="15.2108" skinid="hotspot" url="{node19}" id="Point04" tilt="14.9065"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="75.0403" skinid="hotspot" url="{node20}" id="Point05" tilt="5.52797"/>
+      <hotspot title="Станция 1744 км" target="" pan="84.1451" skinid="hs-go" url="{node14}" id="Point01" tilt="-13.1594"/>
+      <hotspot title="Индюшонок" target="" pan="21.0126" skinid="hs" url="{node3}" id="Point02" tilt="12.9873"/>
+      <hotspot title="г. Индюк" target="" pan="-14.91" skinid="hs" url="{node12}" id="Point03" tilt="19.1315"/>
+      <hotspot title="Вершина Индюшки" target="" pan="15.2108" skinid="hs" url="{node19}" id="Point04" tilt="14.9065"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="75.0403" skinid="hs" url="{node20}" id="Point05" tilt="5.52797"/>
     </hotspots>
     <media/>
     <input tile0url="images/lep2_o_0.jpg" prev5url="images/lep2_o_preview_5.jpg" prev4url="images/lep2_o_preview_4.jpg" prev3url="images/lep2_o_preview_3.jpg" prev2url="images/lep2_o_preview_2.jpg" prev1url="images/lep2_o_preview_1.jpg" prev0url="images/lep2_o_preview_0.jpg" tile5url="images/lep2_o_5.jpg" tilesize="2500" tile4url="images/lep2_o_4.jpg" tile3url="images/lep2_o_3.jpg" tilescale="1.004" tile2url="images/lep2_o_2.jpg" tile1url="images/lep2_o_1.jpg"/>
@@ -117,12 +117,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Индюшонок" target="" pan="95.5776" skinid="hotspot" url="{node3}" id="Point01" tilt="22.6633"/>
-      <hotspot title="г. Индюк" target="" pan="-17.8125" skinid="hotspot" url="{node12}" id="Point02" tilt="22.3697"/>
-      <hotspot title="Вершина Индюшки" target="" pan="52.3429" skinid="hotspot" url="{node19}" id="Point03" tilt="41.2368"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-50.3059" skinid="hs_go" url="{node20}" id="Point04" tilt="-10.3023"/>
-      <hotspot title="Гребень Индюшки" target="" pan="42.1756" skinid="hotspot" url="{node21}" id="Point05" tilt="37.1625"/>
-      <hotspot title="Скала Сыр" target="308/39.5/65" pan="-10.3171" skinid="hotspot" url="{node18}" id="Point06" tilt="19.8783"/>
+      <hotspot title="Индюшонок" target="" pan="95.5776" skinid="hs" url="{node3}" id="Point01" tilt="22.6633"/>
+      <hotspot title="г. Индюк" target="" pan="-17.8125" skinid="hs" url="{node12}" id="Point02" tilt="22.3697"/>
+      <hotspot title="Вершина Индюшки" target="" pan="52.3429" skinid="hs" url="{node19}" id="Point03" tilt="41.2368"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-50.3059" skinid="hs-go" url="{node20}" id="Point04" tilt="-10.3023"/>
+      <hotspot title="Гребень Индюшки" target="" pan="42.1756" skinid="hs" url="{node21}" id="Point05" tilt="37.1625"/>
+      <hotspot title="Скала Сыр" target="308/39.5/65" pan="-10.3171" skinid="hs" url="{node18}" id="Point06" tilt="19.8783"/>
     </hotspots>
     <media/>
     <input tile0url="images/stone_sea_o_0.jpg" prev5url="images/stone_sea_o_preview_5.jpg" prev4url="images/stone_sea_o_preview_4.jpg" prev3url="images/stone_sea_o_preview_3.jpg" prev2url="images/stone_sea_o_preview_2.jpg" prev1url="images/stone_sea_o_preview_1.jpg" prev0url="images/stone_sea_o_preview_0.jpg" tile5url="images/stone_sea_o_5.jpg" tilesize="2500" tile4url="images/stone_sea_o_4.jpg" tile3url="images/stone_sea_o_3.jpg" tilescale="1.004" tile2url="images/stone_sea_o_2.jpg" tile1url="images/stone_sea_o_1.jpg"/>
@@ -139,18 +139,18 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Камень Павлик" target="" pan="10.6063" skinid="hotspot" url="{node9}" id="Point01" tilt="-7.31361"/>
-      <hotspot title="Камень Подкова" target="" pan="5.03262" skinid="hotspot" url="{node10}" id="Point02" tilt="0.750991"/>
-      <hotspot title="г. Индюк" target="" pan="-1.20536" skinid="hotspot" url="{node12}" id="Point03" tilt="7.76896"/>
-      <hotspot title="Каменное море" target="" pan="-86.0124" skinid="hotspot" url="{node6}" id="Point04" tilt="-18.3912"/>
-      <hotspot title="Камень Кулак" target="" pan="-168.819" skinid="hotspot" url="{node4}" id="Point05" tilt="8.26606"/>
-      <hotspot title="Панорамный Камень" target="" pan="-164.859" skinid="hotspot" url="{node8}" id="Point06" tilt="11.9373"/>
-      <hotspot title="Станция 1744 км" target="" pan="-30.6722" skinid="hotspot" url="{node14}" id="Point07" tilt="-10.7486"/>
-      <hotspot title="Гора Семашхо" target="" pan="105.119" skinid="hotspot" url="{node17}" id="Point08" tilt="3.74547"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-119.729" skinid="hotspot" url="{node19}" id="Point09" tilt="5.43909"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-94.6262" skinid="hotspot" url="{node21}" id="Point10" tilt="-11.9824"/>
-      <hotspot title="Скала Сыр" target="309/42/65" pan="-8.392530000000001" skinid="hotspot" url="{node18}" id="Point11" tilt="-6.39393"/>
-      <hotspot title="Гора Круглая" target="" pan="140.35" skinid="hotspot" url="{node26}" id="Point12" tilt="5.97974"/>
+      <hotspot title="Камень Павлик" target="" pan="10.6063" skinid="hs" url="{node9}" id="Point01" tilt="-7.31361"/>
+      <hotspot title="Камень Подкова" target="" pan="5.03262" skinid="hs" url="{node10}" id="Point02" tilt="0.750991"/>
+      <hotspot title="г. Индюк" target="" pan="-1.20536" skinid="hs" url="{node12}" id="Point03" tilt="7.76896"/>
+      <hotspot title="Каменное море" target="" pan="-86.0124" skinid="hs" url="{node6}" id="Point04" tilt="-18.3912"/>
+      <hotspot title="Камень Кулак" target="" pan="-168.819" skinid="hs" url="{node4}" id="Point05" tilt="8.26606"/>
+      <hotspot title="Панорамный Камень" target="" pan="-164.859" skinid="hs" url="{node8}" id="Point06" tilt="11.9373"/>
+      <hotspot title="Станция 1744 км" target="" pan="-30.6722" skinid="hs" url="{node14}" id="Point07" tilt="-10.7486"/>
+      <hotspot title="Гора Семашхо" target="" pan="105.119" skinid="hs" url="{node17}" id="Point08" tilt="3.74547"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-119.729" skinid="hs" url="{node19}" id="Point09" tilt="5.43909"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-94.6262" skinid="hs" url="{node21}" id="Point10" tilt="-11.9824"/>
+      <hotspot title="Скала Сыр" target="309/42/65" pan="-8.392530000000001" skinid="hs" url="{node18}" id="Point11" tilt="-6.39393"/>
+      <hotspot title="Гора Круглая" target="" pan="140.35" skinid="hs" url="{node26}" id="Point12" tilt="5.97974"/>
     </hotspots>
     <media/>
     <input tile0url="images/mozhzhevelnik_o_0.jpg" prev5url="images/mozhzhevelnik_o_preview_5.jpg" prev4url="images/mozhzhevelnik_o_preview_4.jpg" prev3url="images/mozhzhevelnik_o_preview_3.jpg" prev2url="images/mozhzhevelnik_o_preview_2.jpg" prev1url="images/mozhzhevelnik_o_preview_1.jpg" prev0url="images/mozhzhevelnik_o_preview_0.jpg" tile5url="images/mozhzhevelnik_o_5.jpg" tilesize="2500" tile4url="images/mozhzhevelnik_o_4.jpg" tile3url="images/mozhzhevelnik_o_3.jpg" tilescale="1.004" tile2url="images/mozhzhevelnik_o_2.jpg" tile1url="images/mozhzhevelnik_o_1.jpg"/>
@@ -167,14 +167,14 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Камень Кулак" target="" pan="3.45772" skinid="hotspot" url="{node4}" id="Point01" tilt="-19.6992"/>
-      <hotspot title="Камень Можжевельник" target="" pan="-4.62077" skinid="hotspot" url="{node7}" id="Point02" tilt="-15.9977"/>
-      <hotspot title="Камень Павлик" target="" pan="-9.2791" skinid="hotspot" url="{node9}" id="Point03" tilt="-10.3182"/>
-      <hotspot title="г. Индюк" target="" pan="-14.7807" skinid="hotspot" url="{node12}" id="Point04" tilt="-0.547868"/>
-      <hotspot title="Гора Семашхо" target="" pan="81.0466" skinid="hotspot" url="{node17}" id="Point05" tilt="3.94935"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-104.803" skinid="hotspot" url="{node19}" id="Point06" tilt="-1.31071"/>
-      <hotspot title="Гора Круглая" target="" pan="114.013" skinid="hotspot" url="{node26}" id="Point07" tilt="5.50608"/>
-      <hotspot title="г. Семиглавая" target="0/0/65" pan="94.8132" skinid="hotspot" url="{node31}" id="Point08" tilt="3.34218"/>
+      <hotspot title="Камень Кулак" target="" pan="3.45772" skinid="hs" url="{node4}" id="Point01" tilt="-19.6992"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-4.62077" skinid="hs" url="{node7}" id="Point02" tilt="-15.9977"/>
+      <hotspot title="Камень Павлик" target="" pan="-9.2791" skinid="hs" url="{node9}" id="Point03" tilt="-10.3182"/>
+      <hotspot title="г. Индюк" target="" pan="-14.7807" skinid="hs" url="{node12}" id="Point04" tilt="-0.547868"/>
+      <hotspot title="Гора Семашхо" target="" pan="81.0466" skinid="hs" url="{node17}" id="Point05" tilt="3.94935"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-104.803" skinid="hs" url="{node19}" id="Point06" tilt="-1.31071"/>
+      <hotspot title="Гора Круглая" target="" pan="114.013" skinid="hs" url="{node26}" id="Point07" tilt="5.50608"/>
+      <hotspot title="г. Семиглавая" target="0/0/65" pan="94.8132" skinid="hs" url="{node31}" id="Point08" tilt="3.34218"/>
     </hotspots>
     <media/>
     <input tile0url="images/panoramnyi_o_0.jpg" prev5url="images/panoramnyi_o_preview_5.jpg" prev4url="images/panoramnyi_o_preview_4.jpg" prev3url="images/panoramnyi_o_preview_3.jpg" prev2url="images/panoramnyi_o_preview_2.jpg" prev1url="images/panoramnyi_o_preview_1.jpg" prev0url="images/panoramnyi_o_preview_0.jpg" tile5url="images/panoramnyi_o_5.jpg" tilesize="2500" tile4url="images/panoramnyi_o_4.jpg" tile3url="images/panoramnyi_o_3.jpg" tilescale="1.004" tile2url="images/panoramnyi_o_2.jpg" tile1url="images/panoramnyi_o_1.jpg"/>
@@ -191,16 +191,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Панорамный Камень" target="" pan="-162.076" skinid="hotspot" url="{node8}" id="Point01" tilt="10.5213"/>
-      <hotspot title="Камень Можжевельник" target="" pan="-167.866" skinid="hotspot" url="{node7}" id="Point02" tilt="5.07831"/>
-      <hotspot title="Камень Кулак" target="" pan="-164.983" skinid="hotspot" url="{node4}" id="Point03" tilt="7.78778"/>
-      <hotspot title="Арка" target="" pan="-0.198798" skinid="hotspot" url="{node1}" id="Point04" tilt="10.6892"/>
-      <hotspot title="Камень Подкова" target="" pan="7.07317" skinid="hotspot" url="{node10}" id="Point05" tilt="2.05892"/>
-      <hotspot title="Гора Семашхо" target="" pan="108.787" skinid="hotspot" url="{node17}" id="Point06" tilt="3.54183"/>
-      <hotspot title="Скала Сыр" target="308.5/38.5/65" pan="-11.0556" skinid="hotspot" url="{node18}" id="Point07" tilt="-3.44072"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-121.14" skinid="hotspot" url="{node19}" id="Point08" tilt="5.20513"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-100.614" skinid="hotspot" url="{node21}" id="Point09" tilt="-6.74712"/>
-      <hotspot title="Гора Круглая" target="" pan="144.486" skinid="hotspot" url="{node26}" id="Point10" tilt="5.68914"/>
+      <hotspot title="Панорамный Камень" target="" pan="-162.076" skinid="hs" url="{node8}" id="Point01" tilt="10.5213"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-167.866" skinid="hs" url="{node7}" id="Point02" tilt="5.07831"/>
+      <hotspot title="Камень Кулак" target="" pan="-164.983" skinid="hs" url="{node4}" id="Point03" tilt="7.78778"/>
+      <hotspot title="Арка" target="" pan="-0.198798" skinid="hs" url="{node1}" id="Point04" tilt="10.6892"/>
+      <hotspot title="Камень Подкова" target="" pan="7.07317" skinid="hs" url="{node10}" id="Point05" tilt="2.05892"/>
+      <hotspot title="Гора Семашхо" target="" pan="108.787" skinid="hs" url="{node17}" id="Point06" tilt="3.54183"/>
+      <hotspot title="Скала Сыр" target="308.5/38.5/65" pan="-11.0556" skinid="hs" url="{node18}" id="Point07" tilt="-3.44072"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-121.14" skinid="hs" url="{node19}" id="Point08" tilt="5.20513"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-100.614" skinid="hs" url="{node21}" id="Point09" tilt="-6.74712"/>
+      <hotspot title="Гора Круглая" target="" pan="144.486" skinid="hs" url="{node26}" id="Point10" tilt="5.68914"/>
       <polyhotspot title="Корона Индюка" target="" url="" id="Poly01">
         <vertex pan="16.2024" tilt="3.65753"/>
         <vertex pan="15.6112" tilt="5.67636"/>
@@ -228,15 +228,15 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Индюк" target="" pan="110.434" skinid="hotspot" url="{node12}" id="Point01" tilt="35.3767"/>
-      <hotspot title="Панорамный Камень" target="" pan="-21.0402" skinid="hotspot" url="{node8}" id="Point02" tilt="7.06706"/>
-      <hotspot title="Камень Кулак" target="" pan="-23.7459" skinid="hotspot" url="{node4}" id="Point03" tilt="4.56538"/>
-      <hotspot title="Камень Можжевельник" target="" pan="-26.4642" skinid="hotspot" url="{node7}" id="Point04" tilt="1.61241"/>
-      <hotspot title="Камень Павлик" target="" pan="-29.1822" skinid="hotspot" url="{node9}" id="Point05" tilt="-1.92842"/>
-      <hotspot title="Гора Семашхо" target="" pan="-102.904" skinid="hotspot" url="{node17}" id="Point06" tilt="6.11802"/>
-      <hotspot title="Скала Сыр" target="304.5/38.5/65" pan="23.5449" skinid="hotspot" url="{node18}" id="Point07" tilt="-14.5077"/>
-      <hotspot title="Вершина Индюшки" target="" pan="8.23119" skinid="hotspot" url="{node19}" id="Point08" tilt="2.92287"/>
-      <hotspot title="Гора Круглая" target="" pan="-65.1949" skinid="hotspot" url="{node26}" id="Point09" tilt="8.70322"/>
+      <hotspot title="г. Индюк" target="" pan="110.434" skinid="hs" url="{node12}" id="Point01" tilt="35.3767"/>
+      <hotspot title="Панорамный Камень" target="" pan="-21.0402" skinid="hs" url="{node8}" id="Point02" tilt="7.06706"/>
+      <hotspot title="Камень Кулак" target="" pan="-23.7459" skinid="hs" url="{node4}" id="Point03" tilt="4.56538"/>
+      <hotspot title="Камень Можжевельник" target="" pan="-26.4642" skinid="hs" url="{node7}" id="Point04" tilt="1.61241"/>
+      <hotspot title="Камень Павлик" target="" pan="-29.1822" skinid="hs" url="{node9}" id="Point05" tilt="-1.92842"/>
+      <hotspot title="Гора Семашхо" target="" pan="-102.904" skinid="hs" url="{node17}" id="Point06" tilt="6.11802"/>
+      <hotspot title="Скала Сыр" target="304.5/38.5/65" pan="23.5449" skinid="hs" url="{node18}" id="Point07" tilt="-14.5077"/>
+      <hotspot title="Вершина Индюшки" target="" pan="8.23119" skinid="hs" url="{node19}" id="Point08" tilt="2.92287"/>
+      <hotspot title="Гора Круглая" target="" pan="-65.1949" skinid="hs" url="{node26}" id="Point09" tilt="8.70322"/>
       <polyhotspot title="Корона Индюка" target="" url="" id="Poly01">
         <vertex pan="176.367" tilt="9.23175"/>
         <vertex pan="174.788" tilt="11.5811"/>
@@ -272,9 +272,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="На ст. 1744 км" target="" pan="-103.508" skinid="hs_go" url="{node14}" id="Point01" tilt="-24.03"/>
-      <hotspot title="В Туапсе" target="95.5/2/65" pan="0.279702" skinid="hs_go" url="{node39}" id="Point02" tilt="-17.4777"/>
-      <hotspot title="На олимпиаду в Сочи!" target="" pan="25.4531" skinid="hs_go" url="https://mgv25.github.io/panoramas/paralympics/entrance.html" id="Point03" tilt="-15.7541"/>
+      <hotspot title="На ст. 1744 км" target="" pan="-103.508" skinid="hs-go" url="{node14}" id="Point01" tilt="-24.03"/>
+      <hotspot title="В Туапсе" target="95.5/2/65" pan="0.279702" skinid="hs-go" url="{node39}" id="Point02" tilt="-17.4777"/>
+      <hotspot title="На олимпиаду в Сочи!" target="" pan="25.4531" skinid="hs-go" url="https://mgv25.github.io/panoramas/paralympics/entrance.html" id="Point03" tilt="-15.7541"/>
     </hotspots>
     <media/>
     <input tile0url="images/tambur_o_0.jpg" prev5url="images/tambur_o_preview_5.jpg" prev4url="images/tambur_o_preview_4.jpg" prev3url="images/tambur_o_preview_3.jpg" prev2url="images/tambur_o_preview_2.jpg" prev1url="images/tambur_o_preview_1.jpg" prev0url="images/tambur_o_preview_0.jpg" tile5url="images/tambur_o_5.jpg" tilesize="2500" tile4url="images/tambur_o_4.jpg" tile3url="images/tambur_o_3.jpg" tilescale="1.004" tile2url="images/tambur_o_2.jpg" tile1url="images/tambur_o_1.jpg"/>
@@ -291,22 +291,22 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Утес Витя" target="" pan="-4.63458" skinid="hotspot" url="{node13}" id="Point01" tilt="-13.0675"/>
-      <hotspot title="Арка" target="" pan="-54.967" skinid="hotspot" url="{node1}" id="Point02" tilt="-33.0703"/>
-      <hotspot title="Станция 1744 км" target="" pan="-57.465" skinid="hotspot" url="{node14}" id="Point03" tilt="-11.1668"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-69.25149999999999" skinid="hotspot" url="{node5}" id="Point04" tilt="-24.1974"/>
-      <hotspot title="Каменное море" target="" pan="-144.22" skinid="hotspot" url="{node6}" id="Point05" tilt="-18.1187"/>
-      <hotspot title="Панорамный Камень" target="" pan="163.809" skinid="hotspot" url="{node8}" id="Point06" tilt="3.70432"/>
-      <hotspot title="Камень Павлик" target="" pan="153.791" skinid="hotspot" url="{node9}" id="Point07" tilt="-8.64087"/>
-      <hotspot title="Камень Можжевельник" target="" pan="158.477" skinid="hotspot" url="{node7}" id="Point08" tilt="-4.66565"/>
-      <hotspot title="Камень Кулак" target="" pan="160.585" skinid="hotspot" url="{node4}" id="Point09" tilt="-0.126925"/>
-      <hotspot title="Камень Подкова" target="" pan="119.648" skinid="hotspot" url="{node10}" id="Point10" tilt="-37.423"/>
-      <hotspot title="Скала Сыр" target="307.5/37/65" pan="167.989" skinid="hotspot" url="{node18}" id="Point12" tilt="-31.8287"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-167.305" skinid="hotspot" url="{node19}" id="Point13" tilt="2.11523"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-88.2908" skinid="hotspot" url="{node20}" id="Point14" tilt="-21.6368"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-156.411" skinid="hotspot" url="{node21}" id="Point15" tilt="-9.0083"/>
-      <hotspot title="Гора Круглая" target="" pan="123.541" skinid="hotspot" url="{node26}" id="Point16" tilt="6.23753"/>
-      <hotspot title="г. Семашхо" target="" pan="85.7012" skinid="hotspot" url="{node17}" id="Point11" tilt="5.46814"/>
+      <hotspot title="Утес Витя" target="" pan="-4.63458" skinid="hs" url="{node13}" id="Point01" tilt="-13.0675"/>
+      <hotspot title="Арка" target="" pan="-54.967" skinid="hs" url="{node1}" id="Point02" tilt="-33.0703"/>
+      <hotspot title="Станция 1744 км" target="" pan="-57.465" skinid="hs" url="{node14}" id="Point03" tilt="-11.1668"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-69.25149999999999" skinid="hs" url="{node5}" id="Point04" tilt="-24.1974"/>
+      <hotspot title="Каменное море" target="" pan="-144.22" skinid="hs" url="{node6}" id="Point05" tilt="-18.1187"/>
+      <hotspot title="Панорамный Камень" target="" pan="163.809" skinid="hs" url="{node8}" id="Point06" tilt="3.70432"/>
+      <hotspot title="Камень Павлик" target="" pan="153.791" skinid="hs" url="{node9}" id="Point07" tilt="-8.64087"/>
+      <hotspot title="Камень Можжевельник" target="" pan="158.477" skinid="hs" url="{node7}" id="Point08" tilt="-4.66565"/>
+      <hotspot title="Камень Кулак" target="" pan="160.585" skinid="hs" url="{node4}" id="Point09" tilt="-0.126925"/>
+      <hotspot title="Камень Подкова" target="" pan="119.648" skinid="hs" url="{node10}" id="Point10" tilt="-37.423"/>
+      <hotspot title="Скала Сыр" target="307.5/37/65" pan="167.989" skinid="hs" url="{node18}" id="Point12" tilt="-31.8287"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-167.305" skinid="hs" url="{node19}" id="Point13" tilt="2.11523"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-88.2908" skinid="hs" url="{node20}" id="Point14" tilt="-21.6368"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-156.411" skinid="hs" url="{node21}" id="Point15" tilt="-9.0083"/>
+      <hotspot title="Гора Круглая" target="" pan="123.541" skinid="hs" url="{node26}" id="Point16" tilt="6.23753"/>
+      <hotspot title="г. Семашхо" target="" pan="85.7012" skinid="hs" url="{node17}" id="Point11" tilt="5.46814"/>
       <polyhotspot title="Корона Индюка" target="" url="" id="Poly05">
         <vertex pan="90.6867" tilt="-44.8869"/>
         <vertex pan="91.8526" tilt="-40.5204"/>
@@ -351,17 +351,17 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Арка" target="" pan="149.84" skinid="hotspot" url="{node1}" id="Point01" tilt="-0.0264747"/>
-      <hotspot title="г. Индюк" target="" pan="107.501" skinid="hotspot" url="{node12}" id="Point02" tilt="18.995"/>
-      <hotspot title="Панорамный Камень" target="" pan="79.59139999999999" skinid="hotspot" url="{node8}" id="Point03" tilt="1.94415"/>
-      <hotspot title="Камень Можжевельник" target="" pan="76.544" skinid="hotspot" url="{node7}" id="Point04" tilt="-2.79255"/>
-      <hotspot title="Камень Павлик" target="" pan="74.3595" skinid="hotspot" url="{node9}" id="Point05" tilt="-5.55732"/>
-      <hotspot title="Камень Кулак" target="" pan="77.9187" skinid="hotspot" url="{node4}" id="Point06" tilt="-0.336188"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-157.754" skinid="hotspot" url="{node5}" id="Point07" tilt="-24.639"/>
-      <hotspot title="Станция 1744 км" target="" pan="-143.514" skinid="hotspot" url="{node14}" id="Point08" tilt="-12.8348"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-176.465" skinid="hotspot" url="{node20}" id="Point10" tilt="-21.4818"/>
-      <hotspot title="г. Семашхо" target="" pan="0.358426" skinid="hotspot" url="{node17}" id="Point09" tilt="1.70201"/>
-      <hotspot title="Гора Круглая" target="" pan="38.5" skinid="hotspot" url="{node26}" id="Point11" tilt="2.92297"/>
+      <hotspot title="Арка" target="" pan="149.84" skinid="hs" url="{node1}" id="Point01" tilt="-0.0264747"/>
+      <hotspot title="г. Индюк" target="" pan="107.501" skinid="hs" url="{node12}" id="Point02" tilt="18.995"/>
+      <hotspot title="Панорамный Камень" target="" pan="79.59139999999999" skinid="hs" url="{node8}" id="Point03" tilt="1.94415"/>
+      <hotspot title="Камень Можжевельник" target="" pan="76.544" skinid="hs" url="{node7}" id="Point04" tilt="-2.79255"/>
+      <hotspot title="Камень Павлик" target="" pan="74.3595" skinid="hs" url="{node9}" id="Point05" tilt="-5.55732"/>
+      <hotspot title="Камень Кулак" target="" pan="77.9187" skinid="hs" url="{node4}" id="Point06" tilt="-0.336188"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-157.754" skinid="hs" url="{node5}" id="Point07" tilt="-24.639"/>
+      <hotspot title="Станция 1744 км" target="" pan="-143.514" skinid="hs" url="{node14}" id="Point08" tilt="-12.8348"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-176.465" skinid="hs" url="{node20}" id="Point10" tilt="-21.4818"/>
+      <hotspot title="г. Семашхо" target="" pan="0.358426" skinid="hs" url="{node17}" id="Point09" tilt="1.70201"/>
+      <hotspot title="Гора Круглая" target="" pan="38.5" skinid="hs" url="{node26}" id="Point11" tilt="2.92297"/>
     </hotspots>
     <media/>
     <input tile0url="images/vitya_o_0.jpg" prev5url="images/vitya_o_preview_5.jpg" prev4url="images/vitya_o_preview_4.jpg" prev3url="images/vitya_o_preview_3.jpg" prev2url="images/vitya_o_preview_2.jpg" prev1url="images/vitya_o_preview_1.jpg" prev0url="images/vitya_o_preview_0.jpg" tile5url="images/vitya_o_5.jpg" tilesize="2500" tile4url="images/vitya_o_4.jpg" tile3url="images/vitya_o_3.jpg" tilescale="1.004" tile2url="images/vitya_o_2.jpg" tile1url="images/vitya_o_1.jpg"/>
@@ -378,9 +378,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="35.1395" skinid="hs_go" url="{node5}" id="Point01" tilt="4.49557"/>
-      <hotspot title="В поезд" target="" pan="12.1859" skinid="hotspot" url="{node11}" id="Point02" tilt="3.30672"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="53.6326" skinid="hs_go" url="{node20}" id="Point03" tilt="4.42267"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="35.1395" skinid="hs-go" url="{node5}" id="Point01" tilt="4.49557"/>
+      <hotspot title="В поезд" target="" pan="12.1859" skinid="hs" url="{node11}" id="Point02" tilt="3.30672"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="53.6326" skinid="hs-go" url="{node20}" id="Point03" tilt="4.42267"/>
     </hotspots>
     <media/>
     <input tile0url="images/1744_o_0.jpg" prev5url="images/1744_o_preview_5.jpg" prev4url="images/1744_o_preview_4.jpg" prev3url="images/1744_o_preview_3.jpg" prev2url="images/1744_o_preview_2.jpg" prev1url="images/1744_o_preview_1.jpg" prev0url="images/1744_o_preview_0.jpg" tile5url="images/1744_o_5.jpg" tilesize="2500" tile4url="images/1744_o_4.jpg" tile3url="images/1744_o_3.jpg" tilescale="1.004" tile2url="images/1744_o_2.jpg" tile1url="images/1744_o_1.jpg"/>
@@ -397,11 +397,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="На отрог Семашхо" target="30.5/-22/65" pan="-8.03585" skinid="hotspot" url="{node16}" id="Point01" tilt="47.1256"/>
-      <hotspot title="Два Брата" target="249.5/-1/65" pan="-54.6438" skinid="hs_go" url="{node22}" id="Point02" tilt="42.4813"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-125.831" skinid="hs_go" url="{node27}" id="Point03" tilt="-8.20246"/>
-      <hotspot title="Двубратский водопад, 2013" target="267/-10.5/65" pan="-76.9803" skinid="hs_2013_active" url="{node15}" id="Point04" tilt="10.2141"/>
-      <hotspot title="Двубратский водопад, 2021" target="259.5/-13/65" pan="-96.7599" skinid="hs_2021_faded" url="{node24}" id="Point05" tilt="9.889810000000001"/>
+      <hotspot title="На отрог Семашхо" target="30.5/-22/65" pan="-8.03585" skinid="hs" url="{node16}" id="Point01" tilt="47.1256"/>
+      <hotspot title="Два Брата" target="249.5/-1/65" pan="-54.6438" skinid="hs-go" url="{node22}" id="Point02" tilt="42.4813"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-125.831" skinid="hs-go" url="{node27}" id="Point03" tilt="-8.20246"/>
+      <hotspot title="Двубратский водопад, 2013" target="267/-10.5/65" pan="-76.9803" skinid="hs-2013-active" url="{node15}" id="Point04" tilt="10.2141"/>
+      <hotspot title="Двубратский водопад, 2021" target="259.5/-13/65" pan="-96.7599" skinid="hs-2021-faded" url="{node24}" id="Point05" tilt="9.889810000000001"/>
     </hotspots>
     <media/>
     <input tile0url="images/dvubrat_vodopad_o_0.jpg" prev5url="images/dvubrat_vodopad_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_o_4.jpg" tile3url="images/dvubrat_vodopad_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_o_2.jpg" tile1url="images/dvubrat_vodopad_o_1.jpg"/>
@@ -418,13 +418,13 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Гора Семашхо" target="262/-10.5/65" pan="-101.903" skinid="hs_go" url="{node17}" id="Point02" tilt="-2.71272"/>
-      <hotspot title="Два Брата" target="249/-2/65" pan="61.7577" skinid="hotspot" url="{node22}" id="Point03" tilt="2.14739"/>
-      <hotspot title="Двубратский водопад" target="0/0/65" pan="14.3313" skinid="hotspot" url="{node24}" id="Point04" tilt="-20.5011"/>
-      <hotspot title="Отрог Семашхо 2" target="" pan="-173.437" skinid="hs_go" url="{node25}" id="Point01" tilt="-7.64902"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="17.8829" skinid="hotspot" url="{node27}" id="Point05" tilt="-10.6291"/>
-      <hotspot title="Скала Киселёва" target="" pan="-3.49198" skinid="hotspot" url="{node29}" id="Point06" tilt="2.23235"/>
-      <hotspot title="Туапсе" target="" pan="4.04896" skinid="hotspot" url="{node39}" id="Point07" tilt="2.09162"/>
+      <hotspot title="Гора Семашхо" target="262/-10.5/65" pan="-101.903" skinid="hs-go" url="{node17}" id="Point02" tilt="-2.71272"/>
+      <hotspot title="Два Брата" target="249/-2/65" pan="61.7577" skinid="hs" url="{node22}" id="Point03" tilt="2.14739"/>
+      <hotspot title="Двубратский водопад" target="0/0/65" pan="14.3313" skinid="hs" url="{node24}" id="Point04" tilt="-20.5011"/>
+      <hotspot title="Отрог Семашхо 2" target="" pan="-173.437" skinid="hs-go" url="{node25}" id="Point01" tilt="-7.64902"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="17.8829" skinid="hs" url="{node27}" id="Point05" tilt="-10.6291"/>
+      <hotspot title="Скала Киселёва" target="" pan="-3.49198" skinid="hs" url="{node29}" id="Point06" tilt="2.23235"/>
+      <hotspot title="Туапсе" target="" pan="4.04896" skinid="hs" url="{node39}" id="Point07" tilt="2.09162"/>
     </hotspots>
     <media/>
     <input tile0url="images/khrebet_o_0.jpg" prev5url="images/khrebet_o_preview_5.jpg" prev4url="images/khrebet_o_preview_4.jpg" prev3url="images/khrebet_o_preview_3.jpg" prev2url="images/khrebet_o_preview_2.jpg" prev1url="images/khrebet_o_preview_1.jpg" prev0url="images/khrebet_o_preview_0.jpg" tile5url="images/khrebet_o_5.jpg" tilesize="2500" tile4url="images/khrebet_o_4.jpg" tile3url="images/khrebet_o_3.jpg" tilescale="1.004" tile2url="images/khrebet_o_2.jpg" tile1url="images/khrebet_o_1.jpg"/>
@@ -441,16 +441,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="-18.2633" skinid="hotspot" url="{node22}" id="Point03" tilt="-2.29549"/>
-      <hotspot title="Отрог Семашхо 2" target="" pan="5.89215" skinid="hotspot" url="{node25}" id="Point02" tilt="-5.07666"/>
-      <hotspot title="Отрог Семашхо" target="" pan="-1.59155" skinid="hotspot" url="{node16}" id="Point05" tilt="-5.32698"/>
-      <hotspot title="Гора Круглая" target="" pan="146.218" skinid="hotspot" url="{node26}" id="Point01" tilt="-0.431894"/>
-      <hotspot title="Скала Киселёва" target="" pan="-114.377" skinid="hotspot" url="{node29}" id="Point04" tilt="-1.05102"/>
-      <hotspot title="г. Индюк" target="" pan="168.975" skinid="hotspot" url="{node12}" id="Point06" tilt="-0.97238"/>
-      <hotspot title="г.Семашхо, 2013" target="254/-2/65" pan="-87.5038" skinid="hs_2013_faded" url="{node28}" id="Point07" tilt="-18.6849"/>
-      <hotspot title="г.Семашхо, 2021" target="265.5/-5/65" pan="-106.037" skinid="hs_2021_active" url="{node17}" id="Point08" tilt="-18.3088"/>
-      <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-0.404606" skinid="hotspot" url="{node31}" id="Point09" tilt="2.05104"/>
-      <hotspot title="Туапсе" target="88/-0.5/65" pan="-106.509" skinid="hotspot" url="{node39}" id="Point10" tilt="-1.46876"/>
+      <hotspot title="Два Брата" target="" pan="-18.2633" skinid="hs" url="{node22}" id="Point03" tilt="-2.29549"/>
+      <hotspot title="Отрог Семашхо 2" target="" pan="5.89215" skinid="hs" url="{node25}" id="Point02" tilt="-5.07666"/>
+      <hotspot title="Отрог Семашхо" target="" pan="-1.59155" skinid="hs" url="{node16}" id="Point05" tilt="-5.32698"/>
+      <hotspot title="Гора Круглая" target="" pan="146.218" skinid="hs" url="{node26}" id="Point01" tilt="-0.431894"/>
+      <hotspot title="Скала Киселёва" target="" pan="-114.377" skinid="hs" url="{node29}" id="Point04" tilt="-1.05102"/>
+      <hotspot title="г. Индюк" target="" pan="168.975" skinid="hs" url="{node12}" id="Point06" tilt="-0.97238"/>
+      <hotspot title="г.Семашхо, 2013" target="254/-2/65" pan="-87.5038" skinid="hs-2013-faded" url="{node28}" id="Point07" tilt="-18.6849"/>
+      <hotspot title="г.Семашхо, 2021" target="265.5/-5/65" pan="-106.037" skinid="hs-2021-active" url="{node17}" id="Point08" tilt="-18.3088"/>
+      <hotspot title="г. Семиглавая" target="29.5/-0.5/65" pan="-0.404606" skinid="hs" url="{node31}" id="Point09" tilt="2.05104"/>
+      <hotspot title="Туапсе" target="88/-0.5/65" pan="-106.509" skinid="hs" url="{node39}" id="Point10" tilt="-1.46876"/>
       <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
         <vertex pan="-84.87179999999999" tilt="-6.36655"/>
         <vertex pan="-83.2406" tilt="-2.39503"/>
@@ -481,11 +481,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Камень Подкова" target="" pan="116.735" skinid="hotspot" url="{node10}" id="Point02" tilt="15.0779"/>
-      <hotspot title="Камень Павлик" target="0/0/65" pan="-114.949" skinid="hs_go" url="{node9}" id="Point03" tilt="5.00485"/>
-      <hotspot title="Гора Семашхо" target="" pan="151.547" skinid="hotspot" url="{node17}" id="Point04" tilt="2.4589"/>
-      <hotspot title="г. Индюк" target="" pan="56.3816" skinid="hotspot" url="{node12}" id="Point05" tilt="33.3271"/>
-      <hotspot title="Гора Круглая" target="" pan="-168.293" skinid="hotspot" url="{node26}" id="Point01" tilt="9.09764"/>
+      <hotspot title="Камень Подкова" target="" pan="116.735" skinid="hs" url="{node10}" id="Point02" tilt="15.0779"/>
+      <hotspot title="Камень Павлик" target="0/0/65" pan="-114.949" skinid="hs-go" url="{node9}" id="Point03" tilt="5.00485"/>
+      <hotspot title="Гора Семашхо" target="" pan="151.547" skinid="hs" url="{node17}" id="Point04" tilt="2.4589"/>
+      <hotspot title="г. Индюк" target="" pan="56.3816" skinid="hs" url="{node12}" id="Point05" tilt="33.3271"/>
+      <hotspot title="Гора Круглая" target="" pan="-168.293" skinid="hs" url="{node26}" id="Point01" tilt="9.09764"/>
       <polyhotspot title="Корона Индюка" target="" url="" id="Poly01">
         <vertex pan="105.471" tilt="4.34417"/>
         <vertex pan="104.627" tilt="8.58201"/>
@@ -515,18 +515,18 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Индюк" target="" pan="18.3111" skinid="hotspot" url="{node12}" id="Point01" tilt="0.387577"/>
-      <hotspot title="Индюшонок" target="" pan="-166.412" skinid="hotspot" url="{node3}" id="Point02" tilt="-5.51681"/>
-      <hotspot title="Стоянка у Индюшонка" target="" pan="-179.968" skinid="hotspot" url="{node2}" id="Point03" tilt="-7.23119"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-29.0849" skinid="hotspot" url="{node5}" id="Point04" tilt="-19.4597"/>
-      <hotspot title="Панорамный Камень" target="" pan="79.5684" skinid="hotspot" url="{node8}" id="Point05" tilt="2.78943"/>
-      <hotspot title="Камень Кулак" target="" pan="64.5078" skinid="hotspot" url="{node4}" id="Point06" tilt="-1.98783"/>
-      <hotspot title="Камень Павлик" target="" pan="39.0156" skinid="hotspot" url="{node9}" id="Point07" tilt="-5.40036"/>
-      <hotspot title="Камень Можжевельник" target="" pan="43.5709" skinid="hotspot" url="{node7}" id="Point08" tilt="-5.02139"/>
-      <hotspot title="Каменное море" target="" pan="-49.2229" skinid="hotspot" url="{node6}" id="Point09" tilt="-31.7839"/>
-      <hotspot title="Станция 1744 км" target="" pan="-40.5919" skinid="hotspot" url="{node14}" id="Point10" tilt="-12.2663"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-44.6553" skinid="hotspot" url="{node20}" id="Point11" tilt="-21.0701"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-39.015" skinid="hotspot" url="{node21}" id="Point12" tilt="-27.8436"/>
+      <hotspot title="г. Индюк" target="" pan="18.3111" skinid="hs" url="{node12}" id="Point01" tilt="0.387577"/>
+      <hotspot title="Индюшонок" target="" pan="-166.412" skinid="hs" url="{node3}" id="Point02" tilt="-5.51681"/>
+      <hotspot title="Стоянка у Индюшонка" target="" pan="-179.968" skinid="hs" url="{node2}" id="Point03" tilt="-7.23119"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-29.0849" skinid="hs" url="{node5}" id="Point04" tilt="-19.4597"/>
+      <hotspot title="Панорамный Камень" target="" pan="79.5684" skinid="hs" url="{node8}" id="Point05" tilt="2.78943"/>
+      <hotspot title="Камень Кулак" target="" pan="64.5078" skinid="hs" url="{node4}" id="Point06" tilt="-1.98783"/>
+      <hotspot title="Камень Павлик" target="" pan="39.0156" skinid="hs" url="{node9}" id="Point07" tilt="-5.40036"/>
+      <hotspot title="Камень Можжевельник" target="" pan="43.5709" skinid="hs" url="{node7}" id="Point08" tilt="-5.02139"/>
+      <hotspot title="Каменное море" target="" pan="-49.2229" skinid="hs" url="{node6}" id="Point09" tilt="-31.7839"/>
+      <hotspot title="Станция 1744 км" target="" pan="-40.5919" skinid="hs" url="{node14}" id="Point10" tilt="-12.2663"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-44.6553" skinid="hs" url="{node20}" id="Point11" tilt="-21.0701"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-39.015" skinid="hs" url="{node21}" id="Point12" tilt="-27.8436"/>
     </hotspots>
     <media/>
     <input tile0url="images/indushka_o_0.jpg" prev5url="images/indushka_o_preview_5.jpg" prev4url="images/indushka_o_preview_4.jpg" prev3url="images/indushka_o_preview_3.jpg" prev2url="images/indushka_o_preview_2.jpg" prev1url="images/indushka_o_preview_1.jpg" prev0url="images/indushka_o_preview_0.jpg" tile5url="images/indushka_o_5.jpg" tilesize="2500" tile4url="images/indushka_o_4.jpg" tile3url="images/indushka_o_3.jpg" tilescale="1.004" tile2url="images/indushka_o_2.jpg" tile1url="images/indushka_o_1.jpg"/>
@@ -543,12 +543,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Индюшонок" target="" pan="-73.0637" skinid="hotspot" url="{node3}" id="Point01" tilt="17.34"/>
-      <hotspot title="Вершина Индюшки" target="" pan="-81.7186" skinid="hotspot" url="{node19}" id="Point02" tilt="20.7408"/>
-      <hotspot title="г. Индюк" target="" pan="-118.228" skinid="hotspot" url="{node12}" id="Point03" tilt="24.3825"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="172.646" skinid="hotspot" url="{node5}" id="Point04" tilt="-1.12153"/>
-      <hotspot title="Станция 1744 км" target="" pan="96.8557" skinid="hs_go" url="{node14}" id="Point05" tilt="-14.5798"/>
-      <hotspot title="Гребень Индюшки" target="" pan="-86.83199999999999" skinid="hotspot" url="{node21}" id="Point06" tilt="17.6213"/>
+      <hotspot title="Индюшонок" target="" pan="-73.0637" skinid="hs" url="{node3}" id="Point01" tilt="17.34"/>
+      <hotspot title="Вершина Индюшки" target="" pan="-81.7186" skinid="hs" url="{node19}" id="Point02" tilt="20.7408"/>
+      <hotspot title="г. Индюк" target="" pan="-118.228" skinid="hs" url="{node12}" id="Point03" tilt="24.3825"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="172.646" skinid="hs" url="{node5}" id="Point04" tilt="-1.12153"/>
+      <hotspot title="Станция 1744 км" target="" pan="96.8557" skinid="hs-go" url="{node14}" id="Point05" tilt="-14.5798"/>
+      <hotspot title="Гребень Индюшки" target="" pan="-86.83199999999999" skinid="hs" url="{node21}" id="Point06" tilt="17.6213"/>
     </hotspots>
     <media/>
     <input tile0url="images/lep1_o_0.jpg" prev5url="images/lep1_o_preview_5.jpg" prev4url="images/lep1_o_preview_4.jpg" prev3url="images/lep1_o_preview_3.jpg" prev2url="images/lep1_o_preview_2.jpg" prev1url="images/lep1_o_preview_1.jpg" prev0url="images/lep1_o_preview_0.jpg" tile5url="images/lep1_o_5.jpg" tilesize="2500" tile4url="images/lep1_o_4.jpg" tile3url="images/lep1_o_3.jpg" tilescale="1.004" tile2url="images/lep1_o_2.jpg" tile1url="images/lep1_o_1.jpg"/>
@@ -565,16 +565,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Индюк" target="" pan="23.2103" skinid="hotspot" url="{node12}" id="Point01" tilt="15.6943"/>
-      <hotspot title="Вершина Индюшки" target="" pan="161.726" skinid="hs_go" url="{node19}" id="Point02" tilt="44.8143"/>
-      <hotspot title="Каменное море" target="" pan="-81.75920000000001" skinid="hotspot" url="{node6}" id="Point03" tilt="-33.0009"/>
-      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-87.1768" skinid="hotspot" url="{node20}" id="Point04" tilt="-15.2525"/>
-      <hotspot title="Станция 1744 км" target="" pan="-47.0566" skinid="hotspot" url="{node14}" id="Point05" tilt="-9.01957"/>
-      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-65.377" skinid="hotspot" url="{node5}" id="Point06" tilt="-14.0843"/>
-      <hotspot title="Камень Павлик" target="" pan="56.0853" skinid="hotspot" url="{node9}" id="Point07" tilt="12.4622"/>
-      <hotspot title="Камень Можжевельник" target="" pan="62.3871" skinid="hotspot" url="{node7}" id="Point08" tilt="13.6799"/>
-      <hotspot title="Камень Кулак" target="" pan="72.6726" skinid="hotspot" url="{node4}" id="Point09" tilt="14.3403"/>
-      <hotspot title="Скала Сыр" target="304/39/65" pan="30.8094" skinid="hotspot" url="{node18}" id="Point10" tilt="12.2867"/>
+      <hotspot title="г. Индюк" target="" pan="23.2103" skinid="hs" url="{node12}" id="Point01" tilt="15.6943"/>
+      <hotspot title="Вершина Индюшки" target="" pan="161.726" skinid="hs-go" url="{node19}" id="Point02" tilt="44.8143"/>
+      <hotspot title="Каменное море" target="" pan="-81.75920000000001" skinid="hs" url="{node6}" id="Point03" tilt="-33.0009"/>
+      <hotspot title="ЛЭП, тропа к Каменному морю" target="" pan="-87.1768" skinid="hs" url="{node20}" id="Point04" tilt="-15.2525"/>
+      <hotspot title="Станция 1744 км" target="" pan="-47.0566" skinid="hs" url="{node14}" id="Point05" tilt="-9.01957"/>
+      <hotspot title="ЛЭП, тропа на Локомотивы" target="" pan="-65.377" skinid="hs" url="{node5}" id="Point06" tilt="-14.0843"/>
+      <hotspot title="Камень Павлик" target="" pan="56.0853" skinid="hs" url="{node9}" id="Point07" tilt="12.4622"/>
+      <hotspot title="Камень Можжевельник" target="" pan="62.3871" skinid="hs" url="{node7}" id="Point08" tilt="13.6799"/>
+      <hotspot title="Камень Кулак" target="" pan="72.6726" skinid="hs" url="{node4}" id="Point09" tilt="14.3403"/>
+      <hotspot title="Скала Сыр" target="304/39/65" pan="30.8094" skinid="hs" url="{node18}" id="Point10" tilt="12.2867"/>
     </hotspots>
     <media/>
     <input tile0url="images/greben1_o_0.jpg" prev5url="images/greben1_o_preview_5.jpg" prev4url="images/greben1_o_preview_4.jpg" prev3url="images/greben1_o_preview_3.jpg" prev2url="images/greben1_o_preview_2.jpg" prev1url="images/greben1_o_preview_1.jpg" prev0url="images/greben1_o_preview_0.jpg" tile5url="images/greben1_o_5.jpg" tilesize="2500" tile4url="images/greben1_o_4.jpg" tile3url="images/greben1_o_3.jpg" tilescale="1.004" tile2url="images/greben1_o_2.jpg" tile1url="images/greben1_o_1.jpg"/>
@@ -591,15 +591,15 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Отрог Семашхо" target="48.5/-7/65" pan="-172.591" skinid="hotspot" url="{node16}" id="Point01" tilt="1.14861"/>
-      <hotspot title="г. Семашхо" target="153/-11.5/65" pan="-148.656" skinid="hotspot" url="{node17}" id="Point02" tilt="3.80359"/>
-      <hotspot title="Двубратский водопад" target="" pan="-101.292" skinid="hotspot" url="{node24}" id="Point04" tilt="-17.5317"/>
-      <hotspot title="Отрог Семашхо 2" target="231/-1.5/65" pan="173.837" skinid="hotspot" url="{node25}" id="Point03" tilt="-1.65254"/>
-      <hotspot title="Скала Киселёва" target="" pan="-72.4359" skinid="hotspot" url="{node29}" id="Point06" tilt="-0.362383"/>
-      <hotspot title="г. Семиглавая" target="28.5/-1.5/65" pan="51.0673" skinid="hotspot" url="{node31}" id="Point07" tilt="3.98049"/>
-      <hotspot title="Туапсе" target="" pan="297.987" skinid="hotspot" url="{node39}" id="Point08" tilt="0"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-39.5524" skinid="hotspot" url="{node27}" id="Point05" tilt="-15.1295"/>
-      <hotspot title="Дольмены Анастасиевки" target="" pan="-66.32859999999999" skinid="hotspot" url="{node23}" id="Point09" tilt="-11.7931"/>
+      <hotspot title="Отрог Семашхо" target="48.5/-7/65" pan="-172.591" skinid="hs" url="{node16}" id="Point01" tilt="1.14861"/>
+      <hotspot title="г. Семашхо" target="153/-11.5/65" pan="-148.656" skinid="hs" url="{node17}" id="Point02" tilt="3.80359"/>
+      <hotspot title="Двубратский водопад" target="" pan="-101.292" skinid="hs" url="{node24}" id="Point04" tilt="-17.5317"/>
+      <hotspot title="Отрог Семашхо 2" target="231/-1.5/65" pan="173.837" skinid="hs" url="{node25}" id="Point03" tilt="-1.65254"/>
+      <hotspot title="Скала Киселёва" target="" pan="-72.4359" skinid="hs" url="{node29}" id="Point06" tilt="-0.362383"/>
+      <hotspot title="г. Семиглавая" target="28.5/-1.5/65" pan="51.0673" skinid="hs" url="{node31}" id="Point07" tilt="3.98049"/>
+      <hotspot title="Туапсе" target="" pan="297.987" skinid="hs" url="{node39}" id="Point08" tilt="0"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-39.5524" skinid="hs" url="{node27}" id="Point05" tilt="-15.1295"/>
+      <hotspot title="Дольмены Анастасиевки" target="" pan="-66.32859999999999" skinid="hs" url="{node23}" id="Point09" tilt="-11.7931"/>
     </hotspots>
     <media/>
     <input tile0url="images/dva_brata_o_0.jpg" prev5url="images/dva_brata_o_preview_5.jpg" prev4url="images/dva_brata_o_preview_4.jpg" prev3url="images/dva_brata_o_preview_3.jpg" prev2url="images/dva_brata_o_preview_2.jpg" prev1url="images/dva_brata_o_preview_1.jpg" prev0url="images/dva_brata_o_preview_0.jpg" tile5url="images/dva_brata_o_5.jpg" tilesize="2500" tile4url="images/dva_brata_o_4.jpg" tile3url="images/dva_brata_o_3.jpg" tilescale="1.004" tile2url="images/dva_brata_o_2.jpg" tile1url="images/dva_brata_o_1.jpg"/>
@@ -616,8 +616,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="0/0/65" pan="-93.22539999999999" skinid="hs_go" url="{node27}" id="Point01" tilt="-8.481170000000001"/>
-      <hotspot title="В Туапсе" target="91/-2.5/65" pan="59.3715" skinid="hs_go" url="{node39}" id="Point02" tilt="-13.8793"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="0/0/65" pan="-93.22539999999999" skinid="hs-go" url="{node27}" id="Point01" tilt="-8.481170000000001"/>
+      <hotspot title="В Туапсе" target="91/-2.5/65" pan="59.3715" skinid="hs-go" url="{node39}" id="Point02" tilt="-13.8793"/>
       <polyhotspot title="Дольмен (см 3D модель)" target="" url="https://skfb.ly/POHV" id="Poly01">
         <vertex pan="38.3696" tilt="-7.02979"/>
         <vertex pan="25.8746" tilt="-5.9767"/>
@@ -678,11 +678,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="-52.6854" skinid="hs_go" url="{node22}" id="Point01" tilt="51.6478"/>
-      <hotspot title="Отрог Семашхо" target="17.5/-17/65" pan="12.8338" skinid="hotspot" url="{node16}" id="Point02" tilt="51.7377"/>
-      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-174.903" skinid="hs_go" url="{node27}" id="Point03" tilt="-18.9629"/>
-      <hotspot title="Двубратский водопад, 2013" target="265.5/-10.5/65" pan="-80.31870000000001" skinid="hs_2013_faded" url="{node15}" id="Point04" tilt="10.5777"/>
-      <hotspot title="Двубратский водопад, 2021" target="266.5/4/65" pan="-101.367" skinid="hs_2021_active" url="{node24}" id="Point05" tilt="10.5705"/>
+      <hotspot title="Два Брата" target="" pan="-52.6854" skinid="hs-go" url="{node22}" id="Point01" tilt="51.6478"/>
+      <hotspot title="Отрог Семашхо" target="17.5/-17/65" pan="12.8338" skinid="hs" url="{node16}" id="Point02" tilt="51.7377"/>
+      <hotspot title="Смытый мост через р. Пшенахо" target="" pan="-174.903" skinid="hs-go" url="{node27}" id="Point03" tilt="-18.9629"/>
+      <hotspot title="Двубратский водопад, 2013" target="265.5/-10.5/65" pan="-80.31870000000001" skinid="hs-2013-faded" url="{node15}" id="Point04" tilt="10.5777"/>
+      <hotspot title="Двубратский водопад, 2021" target="266.5/4/65" pan="-101.367" skinid="hs-2021-active" url="{node24}" id="Point05" tilt="10.5705"/>
     </hotspots>
     <media/>
     <input tile0url="images/dvubrat_vodopad_2021_o_0.jpg" prev5url="images/dvubrat_vodopad_2021_o_preview_5.jpg" prev4url="images/dvubrat_vodopad_2021_o_preview_4.jpg" prev3url="images/dvubrat_vodopad_2021_o_preview_3.jpg" prev2url="images/dvubrat_vodopad_2021_o_preview_2.jpg" prev1url="images/dvubrat_vodopad_2021_o_preview_1.jpg" prev0url="images/dvubrat_vodopad_2021_o_preview_0.jpg" tile5url="images/dvubrat_vodopad_2021_o_5.jpg" tilesize="2500" tile4url="images/dvubrat_vodopad_2021_o_4.jpg" tile3url="images/dvubrat_vodopad_2021_o_3.jpg" tilescale="1.004" tile2url="images/dvubrat_vodopad_2021_o_2.jpg" tile1url="images/dvubrat_vodopad_2021_o_1.jpg"/>
@@ -699,8 +699,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="172.385" skinid="hotspot" url="{node22}" id="Point01" tilt="7.09371"/>
-      <hotspot title="Отрог Семашхо" target="" pan="114.28" skinid="hs_go" url="{node16}" id="Point03" tilt="-9.30153"/>
+      <hotspot title="Два Брата" target="" pan="172.385" skinid="hs" url="{node22}" id="Point01" tilt="7.09371"/>
+      <hotspot title="Отрог Семашхо" target="" pan="114.28" skinid="hs-go" url="{node16}" id="Point03" tilt="-9.30153"/>
     </hotspots>
     <media/>
     <input tile0url="images/khrebet_2_o_0.jpg" prev5url="images/khrebet_2_o_preview_5.jpg" prev4url="images/khrebet_2_o_preview_4.jpg" prev3url="images/khrebet_2_o_preview_3.jpg" prev2url="images/khrebet_2_o_preview_2.jpg" prev1url="images/khrebet_2_o_preview_1.jpg" prev0url="images/khrebet_2_o_preview_0.jpg" tile5url="images/khrebet_2_o_5.jpg" tilesize="2500" tile4url="images/khrebet_2_o_4.jpg" tile3url="images/khrebet_2_o_3.jpg" tilescale="1.004" tile2url="images/khrebet_2_o_2.jpg" tile1url="images/khrebet_2_o_1.jpg"/>
@@ -717,9 +717,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Гора Семашхо" target="" pan="-2.22411" skinid="hotspot" url="{node17}" id="Point01" tilt="2.26356"/>
-      <hotspot title="г. Индюк" target="127.5/-0.5/65" pan="-133.977" skinid="hs_go" url="{node8}" id="Point02" tilt="-8.91018"/>
-      <hotspot title="г. Семиглавая" target="34/-1.5/65" pan="24.8916" skinid="hotspot" url="{node31}" id="Point03" tilt="3.20305"/>
+      <hotspot title="Гора Семашхо" target="" pan="-2.22411" skinid="hs" url="{node17}" id="Point01" tilt="2.26356"/>
+      <hotspot title="г. Индюк" target="127.5/-0.5/65" pan="-133.977" skinid="hs-go" url="{node8}" id="Point02" tilt="-8.91018"/>
+      <hotspot title="г. Семиглавая" target="34/-1.5/65" pan="24.8916" skinid="hs" url="{node31}" id="Point03" tilt="3.20305"/>
     </hotspots>
     <media/>
     <input tile0url="images/kruglaya_o_0.jpg" prev5url="images/kruglaya_o_preview_5.jpg" prev4url="images/kruglaya_o_preview_4.jpg" prev3url="images/kruglaya_o_preview_3.jpg" prev2url="images/kruglaya_o_preview_2.jpg" prev1url="images/kruglaya_o_preview_1.jpg" prev0url="images/kruglaya_o_preview_0.jpg" tile5url="images/kruglaya_o_5.jpg" tilesize="2500" tile4url="images/kruglaya_o_4.jpg" tile3url="images/kruglaya_o_3.jpg" tilescale="1.004" tile2url="images/kruglaya_o_2.jpg" tile1url="images/kruglaya_o_1.jpg"/>
@@ -736,14 +736,14 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Дольмены у Анастасиевки" target="" pan="157.594" skinid="hs_go" url="{node23}" id="Point02" tilt="-7.325"/>
-      <hotspot title="В Туапсе" target="86/-0.5/65" pan="94.5307" skinid="hs_go" url="{node39}" id="Point04" tilt="-4.5202"/>
-      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-55.5704" skinid="hotspot" url="{node31}" id="Point05" tilt="7.05624"/>
-      <hotspot title="Исток р. Большое Псеушхо" target="129.5/-3.5/65" pan="-65.9305" skinid="hs_go" url="{node34}" id="Point06" tilt="-6.44219"/>
-      <hotspot title="г. Два Брата" target="" pan="-3.90978" skinid="hotspot" url="{node22}" id="Point01" tilt="16.8025"/>
-      <hotspot title="Отрог Семашхо" target="" pan="13.8489" skinid="hotspot" url="{node16}" id="Point07" tilt="14.6113"/>
-      <hotspot title="Двубратский водопад" target="" pan="9.831860000000001" skinid="hotspot" url="{node24}" id="Point03" tilt="11.818"/>
-      <hotspot title="г. Семашхо" target="" pan="36.469" skinid="hotspot" url="{node17}" id="Point08" tilt="16.3425"/>
+      <hotspot title="Дольмены у Анастасиевки" target="" pan="157.594" skinid="hs-go" url="{node23}" id="Point02" tilt="-7.325"/>
+      <hotspot title="В Туапсе" target="86/-0.5/65" pan="94.5307" skinid="hs-go" url="{node39}" id="Point04" tilt="-4.5202"/>
+      <hotspot title="г. Семиглавая" target="24.5/0.5/65" pan="-55.5704" skinid="hs" url="{node31}" id="Point05" tilt="7.05624"/>
+      <hotspot title="Исток р. Большое Псеушхо" target="129.5/-3.5/65" pan="-65.9305" skinid="hs-go" url="{node34}" id="Point06" tilt="-6.44219"/>
+      <hotspot title="г. Два Брата" target="" pan="-3.90978" skinid="hs" url="{node22}" id="Point01" tilt="16.8025"/>
+      <hotspot title="Отрог Семашхо" target="" pan="13.8489" skinid="hs" url="{node16}" id="Point07" tilt="14.6113"/>
+      <hotspot title="Двубратский водопад" target="" pan="9.831860000000001" skinid="hs" url="{node24}" id="Point03" tilt="11.818"/>
+      <hotspot title="г. Семашхо" target="" pan="36.469" skinid="hs" url="{node17}" id="Point08" tilt="16.3425"/>
       <polyhotspot title="река Пшенахо" target="" url="" id="Poly01">
         <vertex pan="104.556" tilt="-17.3948"/>
         <vertex pan="97.1108" tilt="-13.967"/>
@@ -809,16 +809,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Два Брата" target="" pan="-24.242" skinid="hotspot" url="{node22}" id="Point01" tilt="-2.58066"/>
-      <hotspot title="Отрог Семашхо" target="" pan="-8.07808" skinid="hotspot" url="{node16}" id="Point02" tilt="-4.89239"/>
-      <hotspot title="Отрог Семашхо 2" target="" pan="-0.521627" skinid="hotspot" url="{node25}" id="Point03" tilt="-5.04068"/>
-      <hotspot title="Гора Круглая" target="" pan="140.038" skinid="hotspot" url="{node26}" id="Point04" tilt="-1.17447"/>
-      <hotspot title="г. Индюк" target="" pan="162.857" skinid="hotspot" url="{node12}" id="Point05" tilt="-2.2705"/>
-      <hotspot title="Скала Киселёва" target="342.5/-26/65" pan="-119.661" skinid="hotspot" url="{node29}" id="Point06" tilt="-1.06779"/>
-      <hotspot title="г. Семашхо, 2013" target="254/0/65" pan="-91.34569999999999" skinid="hs_2013_active" url="{node28}" id="Point07" tilt="-25.9446"/>
-      <hotspot title="г. Семашхо, 2021" target="267.5/-4/65" pan="-114.254" skinid="hs_2021_faded" url="{node17}" id="Point08" tilt="-26.415"/>
-      <hotspot title="г. Семиглавая" target="359.5/-7/65" pan="-6.6649" skinid="hotspot" url="{node31}" id="Point09" tilt="0.187153"/>
-      <hotspot title="Туапсе" target="89/0/65" pan="-114.922" skinid="hotspot" url="{node39}" id="Point10" tilt="0.0401419"/>
+      <hotspot title="Два Брата" target="" pan="-24.242" skinid="hs" url="{node22}" id="Point01" tilt="-2.58066"/>
+      <hotspot title="Отрог Семашхо" target="" pan="-8.07808" skinid="hs" url="{node16}" id="Point02" tilt="-4.89239"/>
+      <hotspot title="Отрог Семашхо 2" target="" pan="-0.521627" skinid="hs" url="{node25}" id="Point03" tilt="-5.04068"/>
+      <hotspot title="Гора Круглая" target="" pan="140.038" skinid="hs" url="{node26}" id="Point04" tilt="-1.17447"/>
+      <hotspot title="г. Индюк" target="" pan="162.857" skinid="hs" url="{node12}" id="Point05" tilt="-2.2705"/>
+      <hotspot title="Скала Киселёва" target="342.5/-26/65" pan="-119.661" skinid="hs" url="{node29}" id="Point06" tilt="-1.06779"/>
+      <hotspot title="г. Семашхо, 2013" target="254/0/65" pan="-91.34569999999999" skinid="hs-2013-active" url="{node28}" id="Point07" tilt="-25.9446"/>
+      <hotspot title="г. Семашхо, 2021" target="267.5/-4/65" pan="-114.254" skinid="hs-2021-faded" url="{node17}" id="Point08" tilt="-26.415"/>
+      <hotspot title="г. Семиглавая" target="359.5/-7/65" pan="-6.6649" skinid="hs" url="{node31}" id="Point09" tilt="0.187153"/>
+      <hotspot title="Туапсе" target="89/0/65" pan="-114.922" skinid="hs" url="{node39}" id="Point10" tilt="0.0401419"/>
       <polyhotspot title="См 3D модель памятника" target="" url="https://skfb.ly/o6rpY" id="Poly01">
         <vertex pan="-93.4793" tilt="-6.26038"/>
         <vertex pan="-91.58450000000001" tilt="-1.11317"/>
@@ -852,8 +852,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="В Туапсе" target="" pan="31.3056" skinid="hs_go" url="{node39}" id="Point01" tilt="-13.6894"/>
-      <hotspot title="Скалы Мышиные норки" target="10/-7/65" pan="-170.266" skinid="hs_go" url="{node30}" id="Point02" tilt="-6.27415"/>
+      <hotspot title="В Туапсе" target="" pan="31.3056" skinid="hs-go" url="{node39}" id="Point01" tilt="-13.6894"/>
+      <hotspot title="Скалы Мышиные норки" target="10/-7/65" pan="-170.266" skinid="hs-go" url="{node30}" id="Point02" tilt="-6.27415"/>
     </hotspots>
     <media/>
     <input tile0url="images/kiseleva_o_0.jpg" prev5url="images/kiseleva_o_preview_5.jpg" prev4url="images/kiseleva_o_preview_4.jpg" prev3url="images/kiseleva_o_preview_3.jpg" prev2url="images/kiseleva_o_preview_2.jpg" prev1url="images/kiseleva_o_preview_1.jpg" prev0url="images/kiseleva_o_preview_0.jpg" tile5url="images/kiseleva_o_5.jpg" tilesize="2500" tile4url="images/kiseleva_o_4.jpg" tile3url="images/kiseleva_o_3.jpg" tilescale="1.004" tile2url="images/kiseleva_o_2.jpg" tile1url="images/kiseleva_o_1.jpg"/>
@@ -870,7 +870,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Скала Киселёва" target="" pan="23.0116" skinid="hotspot" url="{node29}" id="Point01" tilt="5.73722"/>
+      <hotspot title="Скала Киселёва" target="" pan="23.0116" skinid="hs" url="{node29}" id="Point01" tilt="5.73722"/>
     </hotspots>
     <media/>
     <input tile0url="images/mys_mysh_norki_o_0.jpg" prev5url="images/mys_mysh_norki_o_preview_5.jpg" prev4url="images/mys_mysh_norki_o_preview_4.jpg" prev3url="images/mys_mysh_norki_o_preview_3.jpg" prev2url="images/mys_mysh_norki_o_preview_2.jpg" prev1url="images/mys_mysh_norki_o_preview_1.jpg" prev0url="images/mys_mysh_norki_o_preview_0.jpg" tile5url="images/mys_mysh_norki_o_5.jpg" tilesize="2500" tile4url="images/mys_mysh_norki_o_4.jpg" tile3url="images/mys_mysh_norki_o_3.jpg" tilescale="1.004" tile2url="images/mys_mysh_norki_o_2.jpg" tile1url="images/mys_mysh_norki_o_1.jpg"/>
@@ -887,12 +887,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Семашхо" target="261.5/-5/65" pan="-164.498" skinid="hotspot" url="{node17}" id="Point01" tilt="-2.0674"/>
-      <hotspot title="г. Два Брата" target="" pan="-162.339" skinid="hotspot" url="{node22}" id="Point02" tilt="-2.10088"/>
-      <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hotspot" url="{node32}" id="Point03" tilt="-5.70736"/>
-      <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.7252" skinid="hotspot" url="{node35}" id="Point04" tilt="2.36258"/>
-      <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
-      <hotspot title="г. Оштен" target="" pan="35.4305" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.99924"/>
+      <hotspot title="г. Семашхо" target="261.5/-5/65" pan="-164.498" skinid="hs" url="{node17}" id="Point01" tilt="-2.0674"/>
+      <hotspot title="г. Два Брата" target="" pan="-162.339" skinid="hs" url="{node22}" id="Point02" tilt="-2.10088"/>
+      <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hs" url="{node32}" id="Point03" tilt="-5.70736"/>
+      <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.7252" skinid="hs" url="{node35}" id="Point04" tilt="2.36258"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hs" url="{node33}" id="Point05" tilt="-16.8284"/>
+      <hotspot title="г. Оштен" target="" pan="35.4305" skinid="hs" url="{node_lagonaki_11}" id="Point06" tilt="1.99924"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglavaya_o_0.jpg" prev5url="images/semiglavaya_o_preview_5.jpg" prev4url="images/semiglavaya_o_preview_4.jpg" prev3url="images/semiglavaya_o_preview_3.jpg" prev2url="images/semiglavaya_o_preview_2.jpg" prev1url="images/semiglavaya_o_preview_1.jpg" prev0url="images/semiglavaya_o_preview_0.jpg" tile5url="images/semiglavaya_o_5.jpg" tilesize="2500" tile4url="images/semiglavaya_o_4.jpg" tile3url="images/semiglavaya_o_3.jpg" tilescale="1.004" tile2url="images/semiglavaya_o_2.jpg" tile1url="images/semiglavaya_o_1.jpg"/>
@@ -909,9 +909,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Семиглавая" target="192.5/-4.5/65" pan="39.782" skinid="hotspot" url="{node31}" id="Point01" tilt="8.56743"/>
-      <hotspot title="Дольмен под Семиглавой" target="" pan="143.674" skinid="hs_go" url="{node33}" id="Point02" tilt="-17.7578"/>
-      <hotspot title="У высоты 1627" target="83.5/-2/65" pan="-119.604" skinid="hotspot" url="{node35}" id="Point03" tilt="4.57738"/>
+      <hotspot title="г. Семиглавая" target="192.5/-4.5/65" pan="39.782" skinid="hs" url="{node31}" id="Point01" tilt="8.56743"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="143.674" skinid="hs-go" url="{node33}" id="Point02" tilt="-17.7578"/>
+      <hotspot title="У высоты 1627" target="83.5/-2/65" pan="-119.604" skinid="hs" url="{node35}" id="Point03" tilt="4.57738"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_pamyatnik_3d4_o_0.jpg" prev5url="images/semiglav_pamyatnik_3d4_o_preview_5.jpg" prev4url="images/semiglav_pamyatnik_3d4_o_preview_4.jpg" prev3url="images/semiglav_pamyatnik_3d4_o_preview_3.jpg" prev2url="images/semiglav_pamyatnik_3d4_o_preview_2.jpg" prev1url="images/semiglav_pamyatnik_3d4_o_preview_1.jpg" prev0url="images/semiglav_pamyatnik_3d4_o_preview_0.jpg" tile5url="images/semiglav_pamyatnik_3d4_o_5.jpg" tilesize="2500" tile4url="images/semiglav_pamyatnik_3d4_o_4.jpg" tile3url="images/semiglav_pamyatnik_3d4_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_pamyatnik_3d4_o_2.jpg" tile1url="images/semiglav_pamyatnik_3d4_o_1.jpg"/>
@@ -928,8 +928,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Перевал через Семиглавую" target="" pan="-113.509" skinid="hs_go" url="{node32}" id="Point01" tilt="-14.9508"/>
-      <hotspot title="Вниз, к истоку р. Большое Псеушхо" target="" pan="96.8633" skinid="hs_go" url="{node34}" id="Point02" tilt="-9.114940000000001"/>
+      <hotspot title="Перевал через Семиглавую" target="" pan="-113.509" skinid="hs-go" url="{node32}" id="Point01" tilt="-14.9508"/>
+      <hotspot title="Вниз, к истоку р. Большое Псеушхо" target="" pan="96.8633" skinid="hs-go" url="{node34}" id="Point02" tilt="-9.114940000000001"/>
       <polyhotspot title="Дольмен (см 3D модель)" target="" url="https://skfb.ly/POGT" id="Poly01">
         <vertex pan="49.7061" tilt="-2.28634"/>
         <vertex pan="37.1942" tilt="3.81286"/>
@@ -961,8 +961,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Дольмен под Семиглавой" target="" pan="121.227" skinid="hs_go" url="{node33}" id="Point01" tilt="5.0573"/>
-      <hotspot title="В низовья р. Пшенахо" target="" pan="-13.0823" skinid="hs_go" url="{node27}" id="Point02" tilt="-10.9798"/>
+      <hotspot title="Дольмен под Семиглавой" target="" pan="121.227" skinid="hs-go" url="{node33}" id="Point01" tilt="5.0573"/>
+      <hotspot title="В низовья р. Пшенахо" target="" pan="-13.0823" skinid="hs-go" url="{node27}" id="Point02" tilt="-10.9798"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_rechka_4d2_o_0.jpg" prev5url="images/semiglav_rechka_4d2_o_preview_5.jpg" prev4url="images/semiglav_rechka_4d2_o_preview_4.jpg" prev3url="images/semiglav_rechka_4d2_o_preview_3.jpg" prev2url="images/semiglav_rechka_4d2_o_preview_2.jpg" prev1url="images/semiglav_rechka_4d2_o_preview_1.jpg" prev0url="images/semiglav_rechka_4d2_o_preview_0.jpg" tile5url="images/semiglav_rechka_4d2_o_5.jpg" tilesize="2500" tile4url="images/semiglav_rechka_4d2_o_4.jpg" tile3url="images/semiglav_rechka_4d2_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_rechka_4d2_o_2.jpg" tile1url="images/semiglav_rechka_4d2_o_1.jpg"/>
@@ -979,12 +979,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Семиглавая" target="188.5/-4.5/65" pan="-74.6883" skinid="hotspot" url="{node31}" id="Point01" tilt="0.133899"/>
-      <hotspot title="Перевал" target="49/-0.5/65" pan="-71.3642" skinid="hotspot" url="{node32}" id="Point02" tilt="-3.05377"/>
-      <hotspot title="Высота 1494, хребет Семиглавой" target="150/-6.5/65" pan="87.02070000000001" skinid="hs_go" url="{node36}" id="Point03" tilt="-4.58776"/>
-      <hotspot title="г. Оштен" target="" pan="132.16" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="3.44277"/>
-      <hotspot title="У Собор-Скалы" target="" pan="144.607" skinid="hotspot" url="{node_shpalorez_3}" id="Point05" tilt="-1.0782"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="141.267" skinid="hotspot" url="{node_shpalorez_2}" id="Point06" tilt="-1.01985"/>
+      <hotspot title="г. Семиглавая" target="188.5/-4.5/65" pan="-74.6883" skinid="hs" url="{node31}" id="Point01" tilt="0.133899"/>
+      <hotspot title="Перевал" target="49/-0.5/65" pan="-71.3642" skinid="hs" url="{node32}" id="Point02" tilt="-3.05377"/>
+      <hotspot title="Высота 1494, хребет Семиглавой" target="150/-6.5/65" pan="87.02070000000001" skinid="hs-go" url="{node36}" id="Point03" tilt="-4.58776"/>
+      <hotspot title="г. Оштен" target="" pan="132.16" skinid="hs" url="{node_lagonaki_11}" id="Point04" tilt="3.44277"/>
+      <hotspot title="У Собор-Скалы" target="" pan="144.607" skinid="hs" url="{node_shpalorez_3}" id="Point05" tilt="-1.0782"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="141.267" skinid="hs" url="{node_shpalorez_2}" id="Point06" tilt="-1.01985"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_1600_3d3_o_0.jpg" prev5url="images/semiglav_1600_3d3_o_preview_5.jpg" prev4url="images/semiglav_1600_3d3_o_preview_4.jpg" prev3url="images/semiglav_1600_3d3_o_preview_3.jpg" prev2url="images/semiglav_1600_3d3_o_preview_2.jpg" prev1url="images/semiglav_1600_3d3_o_preview_1.jpg" prev0url="images/semiglav_1600_3d3_o_preview_0.jpg" tile5url="images/semiglav_1600_3d3_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1600_3d3_o_4.jpg" tile3url="images/semiglav_1600_3d3_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1600_3d3_o_2.jpg" tile1url="images/semiglav_1600_3d3_o_1.jpg"/>
@@ -1001,8 +1001,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="У высоты 1627, хребет Семиглавой" target="285.5/-7.5/65" pan="-50.0382" skinid="hs_go" url="{node35}" id="Point01" tilt="-5.41029"/>
-      <hotspot title="Высота 1612" target="150/-1.5/65" pan="144.199" skinid="hs_go" url="{node37}" id="Point02" tilt="-2.78656"/>
+      <hotspot title="У высоты 1627, хребет Семиглавой" target="285.5/-7.5/65" pan="-50.0382" skinid="hs-go" url="{node35}" id="Point01" tilt="-5.41029"/>
+      <hotspot title="Высота 1612" target="150/-1.5/65" pan="144.199" skinid="hs-go" url="{node37}" id="Point02" tilt="-2.78656"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_1494_3d2_o_0.jpg" prev5url="images/semiglav_1494_3d2_o_preview_5.jpg" prev4url="images/semiglav_1494_3d2_o_preview_4.jpg" prev3url="images/semiglav_1494_3d2_o_preview_3.jpg" prev2url="images/semiglav_1494_3d2_o_preview_2.jpg" prev1url="images/semiglav_1494_3d2_o_preview_1.jpg" prev0url="images/semiglav_1494_3d2_o_preview_0.jpg" tile5url="images/semiglav_1494_3d2_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1494_3d2_o_4.jpg" tile3url="images/semiglav_1494_3d2_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1494_3d2_o_2.jpg" tile1url="images/semiglav_1494_3d2_o_1.jpg"/>
@@ -1019,8 +1019,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Высота 1494, хребет Семиглавой" target="329.5/-2.5/65" pan="-52.8067" skinid="hs_go" url="{node36}" id="Point01" tilt="-0.645993"/>
-      <hotspot title="У Грачёва перевала" target="358.5/-13.5/65" pan="147.448" skinid="hs_go" url="{node38}" id="Point02" tilt="0.480026"/>
+      <hotspot title="Высота 1494, хребет Семиглавой" target="329.5/-2.5/65" pan="-52.8067" skinid="hs-go" url="{node36}" id="Point01" tilt="-0.645993"/>
+      <hotspot title="У Грачёва перевала" target="358.5/-13.5/65" pan="147.448" skinid="hs-go" url="{node38}" id="Point02" tilt="0.480026"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_1612_3d1_o_0.jpg" prev5url="images/semiglav_1612_3d1_o_preview_5.jpg" prev4url="images/semiglav_1612_3d1_o_preview_4.jpg" prev3url="images/semiglav_1612_3d1_o_preview_3.jpg" prev2url="images/semiglav_1612_3d1_o_preview_2.jpg" prev1url="images/semiglav_1612_3d1_o_preview_1.jpg" prev0url="images/semiglav_1612_3d1_o_preview_0.jpg" tile5url="images/semiglav_1612_3d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_1612_3d1_o_4.jpg" tile3url="images/semiglav_1612_3d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_1612_3d1_o_2.jpg" tile1url="images/semiglav_1612_3d1_o_1.jpg"/>
@@ -1037,8 +1037,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Высота 1612" target="309/-5.5/65" pan="72.0085" skinid="hs_go" url="{node37}" id="Point01" tilt="0.08001120000000001"/>
-      <hotspot title="В Шпалорез, на поезд Матрицу" target="280.5/-11/65" pan="-83.38249999999999" skinid="hs_go" url="{node_shpalorez_4}" id="Point02" tilt="-18.4672"/>
+      <hotspot title="Высота 1612" target="309/-5.5/65" pan="72.0085" skinid="hs-go" url="{node37}" id="Point01" tilt="0.08001120000000001"/>
+      <hotspot title="В Шпалорез, на поезд Матрицу" target="280.5/-11/65" pan="-83.38249999999999" skinid="hs-go" url="{node_shpalorez_4}" id="Point02" tilt="-18.4672"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglav_grachev_per_1d1_o_0.jpg" prev5url="images/semiglav_grachev_per_1d1_o_preview_5.jpg" prev4url="images/semiglav_grachev_per_1d1_o_preview_4.jpg" prev3url="images/semiglav_grachev_per_1d1_o_preview_3.jpg" prev2url="images/semiglav_grachev_per_1d1_o_preview_2.jpg" prev1url="images/semiglav_grachev_per_1d1_o_preview_1.jpg" prev0url="images/semiglav_grachev_per_1d1_o_preview_0.jpg" tile5url="images/semiglav_grachev_per_1d1_o_5.jpg" tilesize="2500" tile4url="images/semiglav_grachev_per_1d1_o_4.jpg" tile3url="images/semiglav_grachev_per_1d1_o_3.jpg" tilescale="1.004" tile2url="images/semiglav_grachev_per_1d1_o_2.jpg" tile1url="images/semiglav_grachev_per_1d1_o_1.jpg"/>
@@ -1055,9 +1055,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Скала Киселёва" target="" pan="87.9774" skinid="hs_go" url="{node29}" id="Point01" tilt="-4.29662"/>
-      <hotspot title="Уехать на электричке" target="" pan="-33.9651" skinid="hs_go" url="{node11}" id="Point02" tilt="-2.99598"/>
-      <hotspot title="В горы" target="" pan="-67.0552" skinid="hs_go" url="{node23}" id="Point03" tilt="-2.84746"/>
+      <hotspot title="Скала Киселёва" target="" pan="87.9774" skinid="hs-go" url="{node29}" id="Point01" tilt="-4.29662"/>
+      <hotspot title="Уехать на электричке" target="" pan="-33.9651" skinid="hs-go" url="{node11}" id="Point02" tilt="-2.99598"/>
+      <hotspot title="В горы" target="" pan="-67.0552" skinid="hs-go" url="{node23}" id="Point03" tilt="-2.84746"/>
     </hotspots>
     <media/>
     <input tile0url="images/tuapse_o_0.jpg" prev5url="images/tuapse_o_preview_5.jpg" prev4url="images/tuapse_o_preview_4.jpg" prev3url="images/tuapse_o_preview_3.jpg" prev2url="images/tuapse_o_preview_2.jpg" prev1url="images/tuapse_o_preview_1.jpg" prev0url="images/tuapse_o_preview_0.jpg" tile5url="images/tuapse_o_5.jpg" tilesize="2500" tile4url="images/tuapse_o_4.jpg" tile3url="images/tuapse_o_3.jpg" tilescale="1.004" tile2url="images/tuapse_o_2.jpg" tile1url="images/tuapse_o_1.jpg"/>
@@ -1074,10 +1074,10 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="пер. Гузерипль" target="49/-7/65" pan="2.79483" skinid="hs_go" url="{node_lagonaki_4}" id="Point02" tilt="-4.87719"/>
-      <hotspot title="Инструкторская щель" target="" pan="177.5" skinid="hotspot" url="{node_lagonaki_22}" id="Point03" tilt="-3.2203"/>
-      <hotspot title="Яворовая поляна" target="77/4/65" pan="168.433" skinid="hs_go" url="{node_lagonaki_23}" id="Point04" tilt="-14.1253"/>
-      <hotspot title="Парковка" target="" pan="162.583" skinid="hotspot" url="{node_lagonaki_24}" id="Point05" tilt="-4.90698"/>
+      <hotspot title="пер. Гузерипль" target="49/-7/65" pan="2.79483" skinid="hs-go" url="{node_lagonaki_4}" id="Point02" tilt="-4.87719"/>
+      <hotspot title="Инструкторская щель" target="" pan="177.5" skinid="hs" url="{node_lagonaki_22}" id="Point03" tilt="-3.2203"/>
+      <hotspot title="Яворовая поляна" target="77/4/65" pan="168.433" skinid="hs-go" url="{node_lagonaki_23}" id="Point04" tilt="-14.1253"/>
+      <hotspot title="Парковка" target="" pan="162.583" skinid="hs" url="{node_lagonaki_24}" id="Point05" tilt="-4.90698"/>
     </hotspots>
     <media/>
     <input tile0url="images/01_pod_guzeriplem_o_0.jpg" prev5url="images/01_pod_guzeriplem_o_preview_5.jpg" prev4url="images/01_pod_guzeriplem_o_preview_4.jpg" prev3url="images/01_pod_guzeriplem_o_preview_3.jpg" prev2url="images/01_pod_guzeriplem_o_preview_2.jpg" prev1url="images/01_pod_guzeriplem_o_preview_1.jpg" prev0url="images/01_pod_guzeriplem_o_preview_0.jpg" tile5url="images/01_pod_guzeriplem_o_5.jpg" tilesize="2500" tile4url="images/01_pod_guzeriplem_o_4.jpg" tile3url="images/01_pod_guzeriplem_o_3.jpg" tilescale="1.004" tile2url="images/01_pod_guzeriplem_o_2.jpg" tile1url="images/01_pod_guzeriplem_o_1.jpg"/>
@@ -1094,11 +1094,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Приют Фишт" target="205.5/12/65" pan="-111.723" skinid="hotspot" url="{node_lagonaki_7}" id="Point01" tilt="-8.703049999999999"/>
-      <hotspot title="оз. Псенодах" target="10/-12/65" pan="98.7992" skinid="hs_go" url="{node_lagonaki_16}" id="Point02" tilt="-8.411479999999999"/>
-      <hotspot title="подъём на Оштен" target="" pan="-15.0074" skinid="hotspot" url="{node_lagonaki_14}" id="Point03" tilt="24.1913"/>
-      <hotspot title="г. Оштен" target="" pan="-1.5616" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="24.4517"/>
-      <hotspot title="гребень Оштена" target="283/-6/65" pan="-9.65926" skinid="hotspot" url="{node_lagonaki_13}" id="Point05" tilt="24.8928"/>
+      <hotspot title="Приют Фишт" target="205.5/12/65" pan="-111.723" skinid="hs" url="{node_lagonaki_7}" id="Point01" tilt="-8.703049999999999"/>
+      <hotspot title="оз. Псенодах" target="10/-12/65" pan="98.7992" skinid="hs-go" url="{node_lagonaki_16}" id="Point02" tilt="-8.411479999999999"/>
+      <hotspot title="подъём на Оштен" target="" pan="-15.0074" skinid="hs" url="{node_lagonaki_14}" id="Point03" tilt="24.1913"/>
+      <hotspot title="г. Оштен" target="" pan="-1.5616" skinid="hs" url="{node_lagonaki_11}" id="Point04" tilt="24.4517"/>
+      <hotspot title="гребень Оштена" target="283/-6/65" pan="-9.65926" skinid="hs" url="{node_lagonaki_13}" id="Point05" tilt="24.8928"/>
     </hotspots>
     <media/>
     <input tile0url="images/08_per_fisht_oshten_o_0.jpg" prev5url="images/08_per_fisht_oshten_o_preview_5.jpg" prev4url="images/08_per_fisht_oshten_o_preview_4.jpg" prev3url="images/08_per_fisht_oshten_o_preview_3.jpg" prev2url="images/08_per_fisht_oshten_o_preview_2.jpg" prev1url="images/08_per_fisht_oshten_o_preview_1.jpg" prev0url="images/08_per_fisht_oshten_o_preview_0.jpg" tile5url="images/08_per_fisht_oshten_o_5.jpg" tilesize="2500" tile4url="images/08_per_fisht_oshten_o_4.jpg" tile3url="images/08_per_fisht_oshten_o_3.jpg" tilescale="1.004" tile2url="images/08_per_fisht_oshten_o_2.jpg" tile1url="images/08_per_fisht_oshten_o_1.jpg"/>
@@ -1115,9 +1115,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="склон г. Гузерипль" target="" pan="120.398" skinid="hotspot" url="{node_lagonaki_3}" id="Point01" tilt="9.963509999999999"/>
-      <hotspot title="Под перевалом Гузерипль" target="188.5/-9/65" pan="-161.427" skinid="hs_go" url="{node_lagonaki_1}" id="Point02" tilt="-10.2289"/>
-      <hotspot title="пер. Армянский" target="159.5/-5/65" pan="37.2298" skinid="hs_go" url="{node_lagonaki_5}" id="Point03" tilt="-18.7282"/>
+      <hotspot title="склон г. Гузерипль" target="" pan="120.398" skinid="hs" url="{node_lagonaki_3}" id="Point01" tilt="9.963509999999999"/>
+      <hotspot title="Под перевалом Гузерипль" target="188.5/-9/65" pan="-161.427" skinid="hs-go" url="{node_lagonaki_1}" id="Point02" tilt="-10.2289"/>
+      <hotspot title="пер. Армянский" target="159.5/-5/65" pan="37.2298" skinid="hs-go" url="{node_lagonaki_5}" id="Point03" tilt="-18.7282"/>
     </hotspots>
     <media/>
     <input tile0url="images/04_per_guzeripl_o_0.jpg" prev5url="images/04_per_guzeripl_o_preview_5.jpg" prev4url="images/04_per_guzeripl_o_preview_4.jpg" prev3url="images/04_per_guzeripl_o_preview_3.jpg" prev2url="images/04_per_guzeripl_o_preview_2.jpg" prev1url="images/04_per_guzeripl_o_preview_1.jpg" prev0url="images/04_per_guzeripl_o_preview_0.jpg" tile5url="images/04_per_guzeripl_o_5.jpg" tilesize="2500" tile4url="images/04_per_guzeripl_o_4.jpg" tile3url="images/04_per_guzeripl_o_3.jpg" tilescale="1.004" tile2url="images/04_per_guzeripl_o_2.jpg" tile1url="images/04_per_guzeripl_o_1.jpg"/>
@@ -1134,9 +1134,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="пер. Гузерипль" target="" pan="9.151619999999999" skinid="hotspot" url="{node_lagonaki_4}" id="Point02" tilt="-7.00654"/>
-      <hotspot title="Под перевалом Гузерипль" target="" pan="-62.8021" skinid="hs_go" url="{node_lagonaki_1}" id="Point03" tilt="-8.29482"/>
-      <hotspot title="пер. Армянский" target="" pan="67.612" skinid="hs_go" url="{node_lagonaki_5}" id="Point01" tilt="-19.7375"/>
+      <hotspot title="пер. Гузерипль" target="" pan="9.151619999999999" skinid="hs" url="{node_lagonaki_4}" id="Point02" tilt="-7.00654"/>
+      <hotspot title="Под перевалом Гузерипль" target="" pan="-62.8021" skinid="hs-go" url="{node_lagonaki_1}" id="Point03" tilt="-8.29482"/>
+      <hotspot title="пер. Армянский" target="" pan="67.612" skinid="hs-go" url="{node_lagonaki_5}" id="Point01" tilt="-19.7375"/>
     </hotspots>
     <media/>
     <input tile0url="images/03_sklon_guzeripl_o_0.jpg" prev5url="images/03_sklon_guzeripl_o_preview_5.jpg" prev4url="images/03_sklon_guzeripl_o_preview_4.jpg" prev3url="images/03_sklon_guzeripl_o_preview_3.jpg" prev2url="images/03_sklon_guzeripl_o_preview_2.jpg" prev1url="images/03_sklon_guzeripl_o_preview_1.jpg" prev0url="images/03_sklon_guzeripl_o_preview_0.jpg" tile5url="images/03_sklon_guzeripl_o_5.jpg" tilesize="2500" tile4url="images/03_sklon_guzeripl_o_4.jpg" tile3url="images/03_sklon_guzeripl_o_3.jpg" tilescale="1.004" tile2url="images/03_sklon_guzeripl_o_2.jpg" tile1url="images/03_sklon_guzeripl_o_1.jpg"/>
@@ -1153,8 +1153,8 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="пер. Гузерипль" target="206/-2/65" pan="-36.7564" skinid="hotspot" url="{node_lagonaki_4}" id="Point05" tilt="5.02919"/>
-      <hotspot title="Приют Фишт" target="208.5/10.5/65" pan="164.515" skinid="hotspot" url="{node_lagonaki_7}" id="Point03" tilt="-9.065200000000001"/>
+      <hotspot title="пер. Гузерипль" target="206/-2/65" pan="-36.7564" skinid="hs" url="{node_lagonaki_4}" id="Point05" tilt="5.02919"/>
+      <hotspot title="Приют Фишт" target="208.5/10.5/65" pan="164.515" skinid="hs" url="{node_lagonaki_7}" id="Point03" tilt="-9.065200000000001"/>
       <polyhotspot title="Фишт (см. 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="144.899" tilt="10.9579"/>
         <vertex pan="145.692" tilt="-7.16913"/>
@@ -1201,10 +1201,10 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="137.5/-4.5/65" pan="108.938" skinid="hotspot" url="{node_lagonaki_8}" id="Point01" tilt="10.3742"/>
-      <hotspot title="пер. Армянский" target="329.5/-4.5/65" pan="54.5553" skinid="hotspot" url="{node_lagonaki_5}" id="Point02" tilt="10.6052"/>
-      <hotspot title="подъём на Оштен" target="" pan="95.0731" skinid="hotspot" url="{node_lagonaki_14}" id="Point03" tilt="16.5252"/>
-      <hotspot title="г. Оштен" target="" pan="88.48869999999999" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="18.7524"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="137.5/-4.5/65" pan="108.938" skinid="hs" url="{node_lagonaki_8}" id="Point01" tilt="10.3742"/>
+      <hotspot title="пер. Армянский" target="329.5/-4.5/65" pan="54.5553" skinid="hs" url="{node_lagonaki_5}" id="Point02" tilt="10.6052"/>
+      <hotspot title="подъём на Оштен" target="" pan="95.0731" skinid="hs" url="{node_lagonaki_14}" id="Point03" tilt="16.5252"/>
+      <hotspot title="г. Оштен" target="" pan="88.48869999999999" skinid="hs" url="{node_lagonaki_11}" id="Point04" tilt="18.7524"/>
       <polyhotspot title="Фишт (см 3D модель №2)" target="" url="https://skfb.ly/6p8I9" id="Poly01">
         <vertex pan="-112.728" tilt="12.4475"/>
         <vertex pan="-114.498" tilt="17.7571"/>
@@ -1276,13 +1276,13 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="гребень Оштена" target="93/-12.5/65" pan="-109.447" skinid="hotspot" url="{node_lagonaki_13}" id="Point01" tilt="-3.19712"/>
-      <hotspot title="под вершиной Оштена" target="245.5/-5.5/65" pan="154.907" skinid="hs_go" url="{node_lagonaki_12}" id="Point02" tilt="-10.7897"/>
-      <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hotspot" url="{node_lagonaki_20}" id="Point03" tilt="-14.3631"/>
-      <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node_lagonaki_21}" id="Point04" tilt="-9.32976"/>
-      <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hotspot" url="{node31}" id="Point05" tilt="-0.7475000000000001"/>
-      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs_clouds" url="{node_lagonaki_27}" id="Point06" tilt="21.1199"/>
-      <hotspot title="Парковка" target="" pan="13.2701" skinid="hotspot" url="{node_lagonaki_24}" id="Point07" tilt="-9.736459999999999"/>
+      <hotspot title="гребень Оштена" target="93/-12.5/65" pan="-109.447" skinid="hs" url="{node_lagonaki_13}" id="Point01" tilt="-3.19712"/>
+      <hotspot title="под вершиной Оштена" target="245.5/-5.5/65" pan="154.907" skinid="hs-go" url="{node_lagonaki_12}" id="Point02" tilt="-10.7897"/>
+      <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hs" url="{node_lagonaki_20}" id="Point03" tilt="-14.3631"/>
+      <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hs" url="{node_lagonaki_21}" id="Point04" tilt="-9.32976"/>
+      <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hs" url="{node31}" id="Point05" tilt="-0.7475000000000001"/>
+      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs-clouds" url="{node_lagonaki_27}" id="Point06" tilt="21.1199"/>
+      <hotspot title="Парковка" target="" pan="13.2701" skinid="hs" url="{node_lagonaki_24}" id="Point07" tilt="-9.736459999999999"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
         <vertex pan="67.0707" tilt="-31.2942"/>
@@ -1370,13 +1370,13 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="346.5/-12.5/65" pan="41.7765" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="5.5562"/>
-      <hotspot title="гребень Оштена" target="106/-9.5/65" pan="-13.3746" skinid="hotspot" url="{node_lagonaki_13}" id="Point02" tilt="-1.91395"/>
-      <hotspot title="пер. Оштеновский" target="" pan="136.803" skinid="hotspot" url="{node_lagonaki_20}" id="Point03" tilt="-13.9033"/>
-      <hotspot title="ручей Рубленый" target="" pan="119.247" skinid="hotspot" url="{node_lagonaki_21}" id="Point04" tilt="-10.2754"/>
-      <hotspot title="Парковка" target="" pan="97.94240000000001" skinid="hotspot" url="{node_lagonaki_24}" id="Point05" tilt="-10.2846"/>
-      <hotspot title="г. Семиглавая" target="" pan="-113.747" skinid="hotspot" url="{node31}" id="Point06" tilt="-1.18997"/>
-      <hotspot title="Шпалорез (пос. Отдалённый)" target="0/0/65" pan="-118.246" skinid="hotspot" url="{node_shpalorez_2}" id="Point07" tilt="-3.41448"/>
+      <hotspot title="г. Оштен" target="346.5/-12.5/65" pan="41.7765" skinid="hs" url="{node_lagonaki_11}" id="Point01" tilt="5.5562"/>
+      <hotspot title="гребень Оштена" target="106/-9.5/65" pan="-13.3746" skinid="hs" url="{node_lagonaki_13}" id="Point02" tilt="-1.91395"/>
+      <hotspot title="пер. Оштеновский" target="" pan="136.803" skinid="hs" url="{node_lagonaki_20}" id="Point03" tilt="-13.9033"/>
+      <hotspot title="ручей Рубленый" target="" pan="119.247" skinid="hs" url="{node_lagonaki_21}" id="Point04" tilt="-10.2754"/>
+      <hotspot title="Парковка" target="" pan="97.94240000000001" skinid="hs" url="{node_lagonaki_24}" id="Point05" tilt="-10.2846"/>
+      <hotspot title="г. Семиглавая" target="" pan="-113.747" skinid="hs" url="{node31}" id="Point06" tilt="-1.18997"/>
+      <hotspot title="Шпалорез (пос. Отдалённый)" target="0/0/65" pan="-118.246" skinid="hs" url="{node_shpalorez_2}" id="Point07" tilt="-3.41448"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="158.779" tilt="-24.2239"/>
         <vertex pan="167.969" tilt="-21.1476"/>
@@ -1439,12 +1439,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="" pan="-94.6289" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="7.23937"/>
-      <hotspot title="спуск с Оштена" target="" pan="53.6987" skinid="hs_go" url="{node_lagonaki_14}" id="Point02" tilt="-14.0227"/>
-      <hotspot title="ручей Рубленый" target="" pan="-125.217" skinid="hotspot" url="{node_lagonaki_21}" id="Point03" tilt="-8.71312"/>
-      <hotspot title="Парковка" target="" pan="-147.323" skinid="hotspot" url="{node_lagonaki_24}" id="Point04" tilt="-8.97438"/>
-      <hotspot title="г. Семиглавая" target="" pan="-3.49525" skinid="hotspot" url="{node31}" id="Point05" tilt="-1.02453"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-9.546290000000001" skinid="hotspot" url="{node_shpalorez_2}" id="Point06" tilt="-2.67128"/>
+      <hotspot title="г. Оштен" target="" pan="-94.6289" skinid="hs" url="{node_lagonaki_11}" id="Point01" tilt="7.23937"/>
+      <hotspot title="спуск с Оштена" target="" pan="53.6987" skinid="hs-go" url="{node_lagonaki_14}" id="Point02" tilt="-14.0227"/>
+      <hotspot title="ручей Рубленый" target="" pan="-125.217" skinid="hs" url="{node_lagonaki_21}" id="Point03" tilt="-8.71312"/>
+      <hotspot title="Парковка" target="" pan="-147.323" skinid="hs" url="{node_lagonaki_24}" id="Point04" tilt="-8.97438"/>
+      <hotspot title="г. Семиглавая" target="" pan="-3.49525" skinid="hs" url="{node31}" id="Point05" tilt="-1.02453"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-9.546290000000001" skinid="hs" url="{node_shpalorez_2}" id="Point06" tilt="-2.67128"/>
       <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="90.9764" tilt="-2.72838"/>
         <vertex pan="89.8723" tilt="-1.07152"/>
@@ -1520,11 +1520,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="" pan="54.0936" skinid="hotspot" url="{node_lagonaki_8}" id="Point02" tilt="-22.2116"/>
-      <hotspot title="оз. Псенодах" target="" pan="-11.7542" skinid="hotspot" url="{node_lagonaki_16}" id="Point03" tilt="-14.4986"/>
-      <hotspot title="гребень Оштена" target="290.5/-0.5/65" pan="-131.845" skinid="hs_go" url="{node_lagonaki_13}" id="Point04" tilt="12.4545"/>
-      <hotspot title="Приют Фишт" target="" pan="124.816" skinid="hotspot" url="{node_lagonaki_7}" id="Point01" tilt="-13.7118"/>
-      <hotspot title="г. Семиглавая" target="" pan="6.30492" skinid="hotspot" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="0.0650256"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="" pan="54.0936" skinid="hs" url="{node_lagonaki_8}" id="Point02" tilt="-22.2116"/>
+      <hotspot title="оз. Псенодах" target="" pan="-11.7542" skinid="hs" url="{node_lagonaki_16}" id="Point03" tilt="-14.4986"/>
+      <hotspot title="гребень Оштена" target="290.5/-0.5/65" pan="-131.845" skinid="hs-go" url="{node_lagonaki_13}" id="Point04" tilt="12.4545"/>
+      <hotspot title="Приют Фишт" target="" pan="124.816" skinid="hs" url="{node_lagonaki_7}" id="Point01" tilt="-13.7118"/>
+      <hotspot title="г. Семиглавая" target="" pan="6.30492" skinid="hs" url="https://mgv25.github.io/panoramas/gory/semiglavaya.html" id="Point05" tilt="0.0650256"/>
       <polyhotspot title="Фишт (см 3D модель)" target="" url="https://skfb.ly/6oZAz" id="Poly01">
         <vertex pan="116.585" tilt="-15.3483"/>
         <vertex pan="117.38" tilt="-6.8356"/>
@@ -1566,12 +1566,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - у бездны" target="" pan="18.9217" skinid="hotspot" url="{node_lagonaki_19}" id="Point01" tilt="-8.409050000000001"/>
-      <hotspot title="оз. Псенодах - у родника" target="" pan="4.06015" skinid="hotspot" url="{node_lagonaki_17}" id="Point02" tilt="-17.8086"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="264/-6.5/65" pan="165.689" skinid="hs_go" url="{node_lagonaki_8}" id="Point03" tilt="-7.11848"/>
-      <hotspot title="оз. Псенодах - у тропы" target="" pan="-10.501" skinid="hotspot" url="{node_lagonaki_18}" id="Point04" tilt="-7.36662"/>
-      <hotspot title="пер. Оштеновский" target="46/-3/65" pan="-42.4454" skinid="hs_go" url="{node_lagonaki_20}" id="Point05" tilt="-5.99609"/>
-      <hotspot title="г. Оштен" target="" pan="-159.361" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="19.224"/>
+      <hotspot title="оз. Псенодах - у бездны" target="" pan="18.9217" skinid="hs" url="{node_lagonaki_19}" id="Point01" tilt="-8.409050000000001"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="4.06015" skinid="hs" url="{node_lagonaki_17}" id="Point02" tilt="-17.8086"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="264/-6.5/65" pan="165.689" skinid="hs-go" url="{node_lagonaki_8}" id="Point03" tilt="-7.11848"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="-10.501" skinid="hs" url="{node_lagonaki_18}" id="Point04" tilt="-7.36662"/>
+      <hotspot title="пер. Оштеновский" target="46/-3/65" pan="-42.4454" skinid="hs-go" url="{node_lagonaki_20}" id="Point05" tilt="-5.99609"/>
+      <hotspot title="г. Оштен" target="" pan="-159.361" skinid="hs" url="{node_lagonaki_11}" id="Point06" tilt="19.224"/>
     </hotspots>
     <media/>
     <input tile0url="images/016_psenodakh_sverkhu_o_0.jpg" prev5url="images/016_psenodakh_sverkhu_o_preview_5.jpg" prev4url="images/016_psenodakh_sverkhu_o_preview_4.jpg" prev3url="images/016_psenodakh_sverkhu_o_preview_3.jpg" prev2url="images/016_psenodakh_sverkhu_o_preview_2.jpg" prev1url="images/016_psenodakh_sverkhu_o_preview_1.jpg" prev0url="images/016_psenodakh_sverkhu_o_preview_0.jpg" tile5url="images/016_psenodakh_sverkhu_o_5.jpg" tilesize="2500" tile4url="images/016_psenodakh_sverkhu_o_4.jpg" tile3url="images/016_psenodakh_sverkhu_o_3.jpg" tilescale="1.004" tile2url="images/016_psenodakh_sverkhu_o_2.jpg" tile1url="images/016_psenodakh_sverkhu_o_1.jpg"/>
@@ -1588,11 +1588,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - бездна" target="" pan="-177.539" skinid="hotspot" url="{node_lagonaki_19}" id="Point01" tilt="-0.652847"/>
-      <hotspot title="оз. Псенодах сверху" target="" pan="-12" skinid="hotspot" url="{node_lagonaki_16}" id="Point02" tilt="15.3358"/>
-      <hotspot title="оз. Псенодах - у тропы" target="" pan="124.156" skinid="hotspot" url="{node_lagonaki_18}" id="Point03" tilt="0"/>
-      <hotspot title="пер. Оштеновский" target="42.5/-1/65" pan="111.09" skinid="hs_go" url="{node_lagonaki_20}" id="Point04" tilt="-0.055859"/>
-      <hotspot title="г. Оштен" target="" pan="-5.01299" skinid="hotspot" url="{node_lagonaki_11}" id="Point05" tilt="19.4131"/>
+      <hotspot title="оз. Псенодах - бездна" target="" pan="-177.539" skinid="hs" url="{node_lagonaki_19}" id="Point01" tilt="-0.652847"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="-12" skinid="hs" url="{node_lagonaki_16}" id="Point02" tilt="15.3358"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="124.156" skinid="hs" url="{node_lagonaki_18}" id="Point03" tilt="0"/>
+      <hotspot title="пер. Оштеновский" target="42.5/-1/65" pan="111.09" skinid="hs-go" url="{node_lagonaki_20}" id="Point04" tilt="-0.055859"/>
+      <hotspot title="г. Оштен" target="" pan="-5.01299" skinid="hs" url="{node_lagonaki_11}" id="Point05" tilt="19.4131"/>
     </hotspots>
     <media/>
     <input tile0url="images/017_psenodakh_u_rodnika_o_0.jpg" prev5url="images/017_psenodakh_u_rodnika_o_preview_5.jpg" prev4url="images/017_psenodakh_u_rodnika_o_preview_4.jpg" prev3url="images/017_psenodakh_u_rodnika_o_preview_3.jpg" prev2url="images/017_psenodakh_u_rodnika_o_preview_2.jpg" prev1url="images/017_psenodakh_u_rodnika_o_preview_1.jpg" prev0url="images/017_psenodakh_u_rodnika_o_preview_0.jpg" tile5url="images/017_psenodakh_u_rodnika_o_5.jpg" tilesize="2500" tile4url="images/017_psenodakh_u_rodnika_o_4.jpg" tile3url="images/017_psenodakh_u_rodnika_o_3.jpg" tilescale="1.004" tile2url="images/017_psenodakh_u_rodnika_o_2.jpg" tile1url="images/017_psenodakh_u_rodnika_o_1.jpg"/>
@@ -1609,12 +1609,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - бездна" target="" pan="-2.30383" skinid="hotspot" url="{node_lagonaki_19}" id="Point01" tilt="-7.664"/>
-      <hotspot title="оз. Псенодах - у родника" target="" pan="50.4323" skinid="hotspot" url="{node_lagonaki_17}" id="Point02" tilt="-4.20412"/>
-      <hotspot title="оз. Псенодах сверху" target="" pan="73.21120000000001" skinid="hotspot" url="{node_lagonaki_16}" id="Point03" tilt="6.09528"/>
-      <hotspot title="г. Оштен" target="" pan="97.82429999999999" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="18.0463"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="263/-5.5/65" pan="66.1347" skinid="hotspot" url="{node_lagonaki_8}" id="Point05" tilt="5.1861"/>
-      <hotspot title="пер. Оштеновский" target="46/-0.5/65" pan="169.204" skinid="hs_go" url="{node_lagonaki_20}" id="Point06" tilt="-2.03334"/>
+      <hotspot title="оз. Псенодах - бездна" target="" pan="-2.30383" skinid="hs" url="{node_lagonaki_19}" id="Point01" tilt="-7.664"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="50.4323" skinid="hs" url="{node_lagonaki_17}" id="Point02" tilt="-4.20412"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="73.21120000000001" skinid="hs" url="{node_lagonaki_16}" id="Point03" tilt="6.09528"/>
+      <hotspot title="г. Оштен" target="" pan="97.82429999999999" skinid="hs" url="{node_lagonaki_11}" id="Point04" tilt="18.0463"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="263/-5.5/65" pan="66.1347" skinid="hs" url="{node_lagonaki_8}" id="Point05" tilt="5.1861"/>
+      <hotspot title="пер. Оштеновский" target="46/-0.5/65" pan="169.204" skinid="hs-go" url="{node_lagonaki_20}" id="Point06" tilt="-2.03334"/>
     </hotspots>
     <media/>
     <input tile0url="images/018_psenodakh_u_tropy_o_0.jpg" prev5url="images/018_psenodakh_u_tropy_o_preview_5.jpg" prev4url="images/018_psenodakh_u_tropy_o_preview_4.jpg" prev3url="images/018_psenodakh_u_tropy_o_preview_3.jpg" prev2url="images/018_psenodakh_u_tropy_o_preview_2.jpg" prev1url="images/018_psenodakh_u_tropy_o_preview_1.jpg" prev0url="images/018_psenodakh_u_tropy_o_preview_0.jpg" tile5url="images/018_psenodakh_u_tropy_o_5.jpg" tilesize="2500" tile4url="images/018_psenodakh_u_tropy_o_4.jpg" tile3url="images/018_psenodakh_u_tropy_o_3.jpg" tilescale="1.004" tile2url="images/018_psenodakh_u_tropy_o_2.jpg" tile1url="images/018_psenodakh_u_tropy_o_1.jpg"/>
@@ -1631,12 +1631,12 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="оз. Псенодах - у родника" target="" pan="-106.469" skinid="hotspot" url="{node_lagonaki_17}" id="Point01" tilt="4.87836"/>
-      <hotspot title="пер. Фишт-Оштеновский" target="" pan="-152.664" skinid="hotspot" url="{node_lagonaki_8}" id="Point02" tilt="8.485329999999999"/>
-      <hotspot title="г. Оштен" target="" pan="-121.915" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="19.0982"/>
-      <hotspot title="оз. Псенодах - у тропы" target="" pan="-26.4744" skinid="hotspot" url="{node_lagonaki_18}" id="Point04" tilt="1.44587"/>
-      <hotspot title="оз. Псенодах сверху" target="" pan="-123.911" skinid="hotspot" url="{node_lagonaki_16}" id="Point05" tilt="9.66269"/>
-      <hotspot title="пер. Оштеновский" target="48.5/1.5/65" pan="-46.1363" skinid="hs_go" url="{node_lagonaki_20}" id="Point06" tilt="2.65614"/>
+      <hotspot title="оз. Псенодах - у родника" target="" pan="-106.469" skinid="hs" url="{node_lagonaki_17}" id="Point01" tilt="4.87836"/>
+      <hotspot title="пер. Фишт-Оштеновский" target="" pan="-152.664" skinid="hs" url="{node_lagonaki_8}" id="Point02" tilt="8.485329999999999"/>
+      <hotspot title="г. Оштен" target="" pan="-121.915" skinid="hs" url="{node_lagonaki_11}" id="Point03" tilt="19.0982"/>
+      <hotspot title="оз. Псенодах - у тропы" target="" pan="-26.4744" skinid="hs" url="{node_lagonaki_18}" id="Point04" tilt="1.44587"/>
+      <hotspot title="оз. Псенодах сверху" target="" pan="-123.911" skinid="hs" url="{node_lagonaki_16}" id="Point05" tilt="9.66269"/>
+      <hotspot title="пер. Оштеновский" target="48.5/1.5/65" pan="-46.1363" skinid="hs-go" url="{node_lagonaki_20}" id="Point06" tilt="2.65614"/>
     </hotspots>
     <media/>
     <input tile0url="images/019_psenodakh_bezdna_o_0.jpg" prev5url="images/019_psenodakh_bezdna_o_preview_5.jpg" prev4url="images/019_psenodakh_bezdna_o_preview_4.jpg" prev3url="images/019_psenodakh_bezdna_o_preview_3.jpg" prev2url="images/019_psenodakh_bezdna_o_preview_2.jpg" prev1url="images/019_psenodakh_bezdna_o_preview_1.jpg" prev0url="images/019_psenodakh_bezdna_o_preview_0.jpg" tile5url="images/019_psenodakh_bezdna_o_5.jpg" tilesize="2500" tile4url="images/019_psenodakh_bezdna_o_4.jpg" tile3url="images/019_psenodakh_bezdna_o_3.jpg" tilescale="1.004" tile2url="images/019_psenodakh_bezdna_o_2.jpg" tile1url="images/019_psenodakh_bezdna_o_1.jpg"/>
@@ -1653,9 +1653,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="" pan="-73.9205" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="13.7537"/>
-      <hotspot title="оз. Псенодах" target="41/-6.5/65" pan="-125.252" skinid="hs_go" url="{node_lagonaki_18}" id="Point02" tilt="0"/>
-      <hotspot title="ручей Рубленый" target="310.5/-5/65" pan="39.6863" skinid="hs_go" url="{node_lagonaki_21}" id="Point03" tilt="-1.02257"/>
+      <hotspot title="г. Оштен" target="" pan="-73.9205" skinid="hs" url="{node_lagonaki_11}" id="Point01" tilt="13.7537"/>
+      <hotspot title="оз. Псенодах" target="41/-6.5/65" pan="-125.252" skinid="hs-go" url="{node_lagonaki_18}" id="Point02" tilt="0"/>
+      <hotspot title="ручей Рубленый" target="310.5/-5/65" pan="39.6863" skinid="hs-go" url="{node_lagonaki_21}" id="Point03" tilt="-1.02257"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="-42.9817" tilt="9.187340000000001"/>
         <vertex pan="-45.7186" tilt="9.266249999999999"/>
@@ -1699,9 +1699,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Оштен" target="" pan="-166.301" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="9.03631"/>
-      <hotspot title="Инструкторская щель" target="150/-12/65" pan="-60.2376" skinid="hs_go" url="{node_lagonaki_22}" id="Point02" tilt="-5.52916"/>
-      <hotspot title="пер. Оштеновский" target="273/0/65" pan="-155.387" skinid="hs_go" url="{node_lagonaki_20}" id="Point03" tilt="-0.231243"/>
+      <hotspot title="г. Оштен" target="" pan="-166.301" skinid="hs" url="{node_lagonaki_11}" id="Point01" tilt="9.03631"/>
+      <hotspot title="Инструкторская щель" target="150/-12/65" pan="-60.2376" skinid="hs-go" url="{node_lagonaki_22}" id="Point02" tilt="-5.52916"/>
+      <hotspot title="пер. Оштеновский" target="273/0/65" pan="-155.387" skinid="hs-go" url="{node_lagonaki_20}" id="Point03" tilt="-0.231243"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="-161.58" tilt="5.02165"/>
         <vertex pan="-158.09" tilt="6.52935"/>
@@ -1727,9 +1727,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="ручей Рубленый" target="220.5/-2.5/65" pan="-59.5298" skinid="hs_go" url="{node_lagonaki_21}" id="Point01" tilt="-15.4483"/>
-      <hotspot title="Под перевалом Гузерипль" target="12/-0.5/65" pan="114.8" skinid="hs_go" url="{node_lagonaki_1}" id="Point02" tilt="-5.68543"/>
-      <hotspot title="Яворовая поляна" target="220.5/-5.5/65" pan="153.212" skinid="hs_go" url="{node_lagonaki_23}" id="Point03" tilt="-11.8396"/>
+      <hotspot title="ручей Рубленый" target="220.5/-2.5/65" pan="-59.5298" skinid="hs-go" url="{node_lagonaki_21}" id="Point01" tilt="-15.4483"/>
+      <hotspot title="Под перевалом Гузерипль" target="12/-0.5/65" pan="114.8" skinid="hs-go" url="{node_lagonaki_1}" id="Point02" tilt="-5.68543"/>
+      <hotspot title="Яворовая поляна" target="220.5/-5.5/65" pan="153.212" skinid="hs-go" url="{node_lagonaki_23}" id="Point03" tilt="-11.8396"/>
     </hotspots>
     <media/>
     <input tile0url="images/022_instruktorskaya_o_0.jpg" prev5url="images/022_instruktorskaya_o_preview_5.jpg" prev4url="images/022_instruktorskaya_o_preview_4.jpg" prev3url="images/022_instruktorskaya_o_preview_3.jpg" prev2url="images/022_instruktorskaya_o_preview_2.jpg" prev1url="images/022_instruktorskaya_o_preview_1.jpg" prev0url="images/022_instruktorskaya_o_preview_0.jpg" tile5url="images/022_instruktorskaya_o_5.jpg" tilesize="2500" tile4url="images/022_instruktorskaya_o_4.jpg" tile3url="images/022_instruktorskaya_o_3.jpg" tilescale="1.004" tile2url="images/022_instruktorskaya_o_2.jpg" tile1url="images/022_instruktorskaya_o_1.jpg"/>
@@ -1746,9 +1746,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Инструкторская щель" target="281.5/-4/65" pan="63.1741" skinid="hs_go" url="{node_lagonaki_22}" id="Point01" tilt="-9.87797"/>
-      <hotspot title="пер. Гузерипль" target="8.5/-0.5/65" pan="-171.344" skinid="hs_go" url="{node_lagonaki_1}" id="Point02" tilt="-5.60737"/>
-      <hotspot title="Парковка" target="" pan="-64.7833" skinid="hs_go" url="{node_lagonaki_24}" id="Point03" tilt="-13.1199"/>
+      <hotspot title="Инструкторская щель" target="281.5/-4/65" pan="63.1741" skinid="hs-go" url="{node_lagonaki_22}" id="Point01" tilt="-9.87797"/>
+      <hotspot title="пер. Гузерипль" target="8.5/-0.5/65" pan="-171.344" skinid="hs-go" url="{node_lagonaki_1}" id="Point02" tilt="-5.60737"/>
+      <hotspot title="Парковка" target="" pan="-64.7833" skinid="hs-go" url="{node_lagonaki_24}" id="Point03" tilt="-13.1199"/>
     </hotspots>
     <media/>
     <input tile0url="images/023_yavorovaya_o_0.jpg" prev5url="images/023_yavorovaya_o_preview_5.jpg" prev4url="images/023_yavorovaya_o_preview_4.jpg" prev3url="images/023_yavorovaya_o_preview_3.jpg" prev2url="images/023_yavorovaya_o_preview_2.jpg" prev1url="images/023_yavorovaya_o_preview_1.jpg" prev0url="images/023_yavorovaya_o_preview_0.jpg" tile5url="images/023_yavorovaya_o_5.jpg" tilesize="2500" tile4url="images/023_yavorovaya_o_4.jpg" tile3url="images/023_yavorovaya_o_3.jpg" tilescale="1.004" tile2url="images/023_yavorovaya_o_2.jpg" tile1url="images/023_yavorovaya_o_1.jpg"/>
@@ -1765,9 +1765,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Яворовая поляна" target="218/-7/65" pan="84.42700000000001" skinid="hs_go" url="{node_lagonaki_23}" id="Point02" tilt="-2.9583"/>
-      <hotspot title="г. Оштен" target="" pan="83.6032" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="12.048"/>
-      <hotspot title="Гора на парковке" target="239/1.5/65" pan="-155.416" skinid="hotspot" url="{node_lagonaki_26}" id="Point03" tilt="7.57301"/>
+      <hotspot title="Яворовая поляна" target="218/-7/65" pan="84.42700000000001" skinid="hs-go" url="{node_lagonaki_23}" id="Point02" tilt="-2.9583"/>
+      <hotspot title="г. Оштен" target="" pan="83.6032" skinid="hs" url="{node_lagonaki_11}" id="Point01" tilt="12.048"/>
+      <hotspot title="Гора на парковке" target="239/1.5/65" pan="-155.416" skinid="hs" url="{node_lagonaki_26}" id="Point03" tilt="7.57301"/>
     </hotspots>
     <media/>
     <input tile0url="images/024_parkovka_o_0.jpg" prev5url="images/024_parkovka_o_preview_5.jpg" prev4url="images/024_parkovka_o_preview_4.jpg" prev3url="images/024_parkovka_o_preview_3.jpg" prev2url="images/024_parkovka_o_preview_2.jpg" prev1url="images/024_parkovka_o_preview_1.jpg" prev0url="images/024_parkovka_o_preview_0.jpg" tile5url="images/024_parkovka_o_5.jpg" tilesize="2500" tile4url="images/024_parkovka_o_4.jpg" tile3url="images/024_parkovka_o_3.jpg" tilescale="1.004" tile2url="images/024_parkovka_o_2.jpg" tile1url="images/024_parkovka_o_1.jpg"/>
@@ -1784,7 +1784,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Инструкторская щель" target="" pan="-132.778" skinid="hotspot" url="{node_lagonaki_22}" id="Point03" tilt="8.351839999999999"/>
+      <hotspot title="Инструкторская щель" target="" pan="-132.778" skinid="hs" url="{node_lagonaki_22}" id="Point03" tilt="8.351839999999999"/>
       <hotspot title="Парковка" target="" pan="-155.781" skinid="" url="{node_lagonaki_24}" id="Point01" tilt="-0.7445850000000001"/>
       <hotspot title="г. Оштен" target="" pan="-100.072" skinid="" url="{node_lagonaki_11}" id="Point02" tilt="14.0683"/>
     </hotspots>
@@ -1803,7 +1803,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Оштен без облаков" target="267/1.5/65" pan="156.922" skinid="hs_clouds" url="{node_lagonaki_11}" id="Point01" tilt="20.5198"/>
+      <hotspot title="Оштен без облаков" target="267/1.5/65" pan="156.922" skinid="hs-clouds" url="{node_lagonaki_11}" id="Point01" tilt="20.5198"/>
     </hotspots>
     <media/>
     <input tile0url="images/oshten_o_0.jpg" prev5url="images/oshten_o_preview_5.jpg" prev4url="images/oshten_o_preview_4.jpg" prev3url="images/oshten_o_preview_3.jpg" prev2url="images/oshten_o_preview_2.jpg" prev1url="images/oshten_o_preview_1.jpg" prev0url="images/oshten_o_preview_0.jpg" tile5url="images/oshten_o_5.jpg" tilesize="2500" tile4url="images/oshten_o_4.jpg" tile3url="images/oshten_o_3.jpg" tilescale="1.004" tile2url="images/oshten_o_2.jpg" tile1url="images/oshten_o_1.jpg"/>
@@ -1820,9 +1820,9 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-144.577" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="15.1335"/>
-      <hotspot title="К Собор-Скале" target="" pan="106.206" skinid="copter" url="{node_shpalorez_3}" id="Point02" tilt="12.8895"/>
-      <hotspot title="Матрица, узкоколейный поезд" target="281.5/-11/65" pan="-140.88" skinid="hotspot" url="{node_shpalorez_4}" id="Point03" tilt="-2.33119"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="-144.577" skinid="hs-copter" url="{node_shpalorez_2}" id="Point01" tilt="15.1335"/>
+      <hotspot title="К Собор-Скале" target="" pan="106.206" skinid="hs-copter" url="{node_shpalorez_3}" id="Point02" tilt="12.8895"/>
+      <hotspot title="Матрица, узкоколейный поезд" target="281.5/-11/65" pan="-140.88" skinid="hs" url="{node_shpalorez_4}" id="Point03" tilt="-2.33119"/>
     </hotspots>
     <media/>
     <input tile0url="images/most_pshekha_o_0.jpg" prev5url="images/most_pshekha_o_preview_5.jpg" prev4url="images/most_pshekha_o_preview_4.jpg" prev3url="images/most_pshekha_o_preview_3.jpg" prev2url="images/most_pshekha_o_preview_2.jpg" prev1url="images/most_pshekha_o_preview_1.jpg" prev0url="images/most_pshekha_o_preview_0.jpg" tile5url="images/most_pshekha_o_5.jpg" tilesize="2500" tile4url="images/most_pshekha_o_4.jpg" tile3url="images/most_pshekha_o_3.jpg" tilescale="1.004" tile2url="images/most_pshekha_o_2.jpg" tile1url="images/most_pshekha_o_1.jpg"/>
@@ -1839,13 +1839,13 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Мост через Пшеху" target="" pan="-26.4209" skinid="copter" url="{node_shpalorez_1}" id="Point01" tilt="-43.5529"/>
-      <hotspot title="г. Оштен" target="240/-6.5/65" pan="-138.263" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="7.52457"/>
-      <hotspot title="Матрица - узкоколейный поезд" target="285/-14/65" pan="172.5" skinid="hotspot" url="{node_shpalorez_4}" id="Point05" tilt="-88.54900000000001"/>
-      <hotspot title="Высота 1612" target="" pan="70.0741" skinid="hotspot" url="{node37}" id="Point02" tilt="2.42319"/>
-      <hotspot title="Высота 1494, хребет Семиглавой" target="" pan="65.5548" skinid="hotspot" url="{node36}" id="Point04" tilt="1.79425"/>
-      <hotspot title="У Грачёва перевала" target="" pan="125.283" skinid="hotspot" url="{node38}" id="Point06" tilt="3.71935"/>
-      <hotspot title="У Собор-Скалы" target="" pan="37.2728" skinid="copter" url="{node_shpalorez_3}" id="Point07" tilt="8.55048"/>
+      <hotspot title="Мост через Пшеху" target="" pan="-26.4209" skinid="hs-copter" url="{node_shpalorez_1}" id="Point01" tilt="-43.5529"/>
+      <hotspot title="г. Оштен" target="240/-6.5/65" pan="-138.263" skinid="hs" url="{node_lagonaki_11}" id="Point03" tilt="7.52457"/>
+      <hotspot title="Матрица - узкоколейный поезд" target="285/-14/65" pan="172.5" skinid="hs" url="{node_shpalorez_4}" id="Point05" tilt="-88.54900000000001"/>
+      <hotspot title="Высота 1612" target="" pan="70.0741" skinid="hs" url="{node37}" id="Point02" tilt="2.42319"/>
+      <hotspot title="Высота 1494, хребет Семиглавой" target="" pan="65.5548" skinid="hs" url="{node36}" id="Point04" tilt="1.79425"/>
+      <hotspot title="У Грачёва перевала" target="" pan="125.283" skinid="hs" url="{node38}" id="Point06" tilt="3.71935"/>
+      <hotspot title="У Собор-Скалы" target="" pan="37.2728" skinid="hs-copter" url="{node_shpalorez_3}" id="Point07" tilt="8.55048"/>
     </hotspots>
     <media/>
     <input tile0url="images/shpalorez_500_o_0.jpg" prev5url="images/shpalorez_500_o_preview_5.jpg" prev4url="images/shpalorez_500_o_preview_4.jpg" prev3url="images/shpalorez_500_o_preview_3.jpg" prev2url="images/shpalorez_500_o_preview_2.jpg" prev1url="images/shpalorez_500_o_preview_1.jpg" prev0url="images/shpalorez_500_o_preview_0.jpg" tile5url="images/shpalorez_500_o_5.jpg" tilesize="2500" tile4url="images/shpalorez_500_o_4.jpg" tile3url="images/shpalorez_500_o_3.jpg" tilescale="1.004" tile2url="images/shpalorez_500_o_2.jpg" tile1url="images/shpalorez_500_o_1.jpg"/>
@@ -1862,14 +1862,14 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="42.4502" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="-2.49575"/>
-      <hotspot title="Мост через Пшеху" target="" pan="59.1556" skinid="copter" url="{node_shpalorez_1}" id="Point02" tilt="-7.77387"/>
-      <hotspot title="г. Оштен" target="" pan="51.1827" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="6.06399"/>
-      <hotspot title="Матрица - узкоколейный поезд" target="281.5/-10/65" pan="43.7358" skinid="hotspot" url="{node_shpalorez_4}" id="Point05" tilt="-11.9651"/>
-      <hotspot title="У Грачёва перевала" target="" pan="-33.4151" skinid="hotspot" url="{node38}" id="Point06" tilt="4.16352"/>
-      <hotspot title="Высота 1494, хребет Семиглавой" target="" pan="-101" skinid="hotspot" url="{node36}" id="Point07" tilt="3.6355"/>
-      <hotspot title="Высота 1612" target="" pan="-95.1489" skinid="hotspot" url="{node37}" id="Point08" tilt="4.66714"/>
-      <hotspot title="Привал у высоты 1627" target="" pan="-108.828" skinid="hotspot" url="{node35}" id="Point04" tilt="3.60281"/>
+      <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="42.4502" skinid="hs-copter" url="{node_shpalorez_2}" id="Point01" tilt="-2.49575"/>
+      <hotspot title="Мост через Пшеху" target="" pan="59.1556" skinid="hs-copter" url="{node_shpalorez_1}" id="Point02" tilt="-7.77387"/>
+      <hotspot title="г. Оштен" target="" pan="51.1827" skinid="hs" url="{node_lagonaki_11}" id="Point03" tilt="6.06399"/>
+      <hotspot title="Матрица - узкоколейный поезд" target="281.5/-10/65" pan="43.7358" skinid="hs" url="{node_shpalorez_4}" id="Point05" tilt="-11.9651"/>
+      <hotspot title="У Грачёва перевала" target="" pan="-33.4151" skinid="hs" url="{node38}" id="Point06" tilt="4.16352"/>
+      <hotspot title="Высота 1494, хребет Семиглавой" target="" pan="-101" skinid="hs" url="{node36}" id="Point07" tilt="3.6355"/>
+      <hotspot title="Высота 1612" target="" pan="-95.1489" skinid="hs" url="{node37}" id="Point08" tilt="4.66714"/>
+      <hotspot title="Привал у высоты 1627" target="" pan="-108.828" skinid="hs" url="{node35}" id="Point04" tilt="3.60281"/>
     </hotspots>
     <media/>
     <input tile0url="images/u_sobor_skaly_o_0.jpg" prev5url="images/u_sobor_skaly_o_preview_5.jpg" prev4url="images/u_sobor_skaly_o_preview_4.jpg" prev3url="images/u_sobor_skaly_o_preview_3.jpg" prev2url="images/u_sobor_skaly_o_preview_2.jpg" prev1url="images/u_sobor_skaly_o_preview_1.jpg" prev0url="images/u_sobor_skaly_o_preview_0.jpg" tile5url="images/u_sobor_skaly_o_5.jpg" tilesize="2500" tile4url="images/u_sobor_skaly_o_4.jpg" tile3url="images/u_sobor_skaly_o_3.jpg" tilescale="1.004" tile2url="images/u_sobor_skaly_o_2.jpg" tile1url="images/u_sobor_skaly_o_1.jpg"/>
@@ -1886,7 +1886,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Шпалорез, вид сверху" target="" pan="102.113" skinid="copter" url="{node_shpalorez_2}" id="Point01" tilt="17.3913"/>
+      <hotspot title="Шпалорез, вид сверху" target="" pan="102.113" skinid="hs-copter" url="{node_shpalorez_2}" id="Point01" tilt="17.3913"/>
     </hotspots>
     <media/>
     <input tile0url="images/matritsa_o_0.jpg" prev5url="images/matritsa_o_preview_5.jpg" prev4url="images/matritsa_o_preview_4.jpg" prev3url="images/matritsa_o_preview_3.jpg" prev2url="images/matritsa_o_preview_2.jpg" prev1url="images/matritsa_o_preview_1.jpg" prev0url="images/matritsa_o_preview_0.jpg" tile5url="images/matritsa_o_5.jpg" tilesize="2500" tile4url="images/matritsa_o_4.jpg" tile3url="images/matritsa_o_3.jpg" tilescale="1.004" tile2url="images/matritsa_o_2.jpg" tile1url="images/matritsa_o_1.jpg"/>
