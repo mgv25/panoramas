@@ -1051,7 +1051,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Туапсе" datetime="14.03.2014" description="Центральная площадь г. Туапсе" copyright="" tags="Туапсе|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="" longitude="39.07321000000000" latitude="44.09483000000000"/>
+    <userdata title="Туапсе" datetime="14.03.2014" description="Центральная площадь г. Туапсе" copyright="" tags="Туапсе|2014" author="Волков М.Г., Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/tuapse" longitude="39.07321000000000" latitude="44.09483000000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1785,8 +1785,8 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Инструкторская щель" target="" pan="-132.778" skinid="hotspot" url="{node_lagonaki_22}" id="Point03" tilt="8.351839999999999"/>
-      <hotspot title="Парковка" target="" pan="-155.781" skinid="" url="{node_lagonaki_24}" id="Point01" tilt="-0.7445850000000001"/>
-      <hotspot title="г. Оштен" target="" pan="-100.072" skinid="" url="{node_lagonaki_11}" id="Point02" tilt="14.0683"/>
+      <hotspot title="Парковка" target="" pan="-155.781" skinid="hotspot" url="{node_lagonaki_24}" id="Point01" tilt="-0.7445850000000001"/>
+      <hotspot title="г. Оштен" target="" pan="-100.072" skinid="hotspot" url="{node_lagonaki_11}" id="Point02" tilt="14.0683"/>
     </hotspots>
     <media/>
     <input tile0url="images/026_parkovka_gora_o_0.jpg" prev5url="images/026_parkovka_gora_o_preview_5.jpg" prev4url="images/026_parkovka_gora_o_preview_4.jpg" prev3url="images/026_parkovka_gora_o_preview_3.jpg" prev2url="images/026_parkovka_gora_o_preview_2.jpg" prev1url="images/026_parkovka_gora_o_preview_1.jpg" prev0url="images/026_parkovka_gora_o_preview_0.jpg" tile5url="images/026_parkovka_gora_o_5.jpg" tilesize="2500" tile4url="images/026_parkovka_gora_o_4.jpg" tile3url="images/026_parkovka_gora_o_3.jpg" tilescale="1.004" tile2url="images/026_parkovka_gora_o_2.jpg" tile1url="images/026_parkovka_gora_o_1.jpg"/>
