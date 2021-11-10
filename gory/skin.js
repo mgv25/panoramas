@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
-// Filename: simplex_2021_3.ggsk
-// Generated Ср 10. ноя 00:17:30 2021
+// Filename: simplex_2021_4_gory-map.ggsk
+// Generated Ср 10. ноя 12:46:49 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -862,7 +862,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: -205px;';
 		hs+='top:  -130px;';
 		hs+='width: 460px;';
-		hs+='height: 240px;';
+		hs+='height: 270px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: hidden;';
 		this._userdata.setAttribute('style',hs);
@@ -880,7 +880,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: 0px;';
 		hs+='top:  0px;';
 		hs+='width: 460px;';
-		hs+='height: 240px;';
+		hs+='height: 270px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
 		hs+='visibility: inherit;';
@@ -899,7 +899,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: -1px;';
 		hs+='top:  -1px;';
 		hs+='width: 458px;';
-		hs+='height: 238px;';
+		hs+='height: 268px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
 		hs+='visibility: inherit;';
@@ -972,7 +972,7 @@ function pano2vrSkin(player,base) {
 		this._author.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  151px;';
+		hs+='top:  147px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -1000,7 +1000,7 @@ function pano2vrSkin(player,base) {
 		this._link.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  174px;';
+		hs+='top:  169px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -1021,14 +1021,35 @@ function pano2vrSkin(player,base) {
 		}
 		this._link.ggUpdateText();
 		this._userdata.appendChild(this._link);
+		this._map_link=document.createElement('div');
+		this._map_link.ggId='map_link';
+		this._map_link.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._map_link.ggVisible=true;
+		this._map_link.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: 11px;';
+		hs+='top:  206px;';
+		hs+='width: 440px;';
+		hs+='height: auto;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #ffffff;';
+		hs+='text-align: left;';
+		hs+='white-space: pre-wrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._map_link.setAttribute('style',hs);
+		this._map_link.innerHTML="\u041a\u0430\u0440\u0442\u0430 \u0441\u043e \u0432\u0441\u0435\u043c\u0438 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430\u043c\u0438: <a href=\"https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB\">https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB<\/a>";
+		this._userdata.appendChild(this._map_link);
 		this._datetime=document.createElement('div');
 		this._datetime.ggId='datetime';
 		this._datetime.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._datetime.ggVisible=true;
 		this._datetime.className='ggskin ggskin_text';
 		hs ='position:absolute;';
-		hs+='left: 10px;';
-		hs+='top:  211px;';
+		hs+='left: 12px;';
+		hs+='top:  243px;';
 		hs+='width: auto;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
