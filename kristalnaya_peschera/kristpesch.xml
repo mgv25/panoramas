@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Балкон" datetime="2021:11:07 09:19:23" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="40.403633" latitude="44.059592"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал №1, развилка" target="127/-17.5/65" pan="-157.951" skinid="hs_go" url="{node2}" id="Point01" tilt="-10.5116"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20211107_061923481.PHOTOSPHERE_o_0.jpg" prev5url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_5.jpg" prev4url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_4.jpg" prev3url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_3.jpg" prev2url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_2.jpg" prev1url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_1.jpg" prev0url="images/PXL_20211107_061923481.PHOTOSPHERE_o_preview_0.jpg" tile5url="images/PXL_20211107_061923481.PHOTOSPHERE_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_061923481.PHOTOSPHERE_o_4.jpg" tile3url="images/PXL_20211107_061923481.PHOTOSPHERE_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_061923481.PHOTOSPHERE_o_2.jpg" tile1url="images/PXL_20211107_061923481.PHOTOSPHERE_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал №1, развилка" datetime="2021:11:07 09:27:12" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="40.400658" latitude="44.074242"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Выход из пещеры" target="326.5/-2/65" pan="-56.0182" skinid="hs_go" url="{node7}" id="Point01" tilt="-9.910159999999999"/>
+      <hotspot title="Зал №2, кристаллы" target="171/-6/65" pan="154.68" skinid="hs_go" url="{node5}" id="Point02" tilt="-28.2488"/>
+      <hotspot title="Балкон" target="329/-5.5/65" pan="101.617" skinid="hs_go" url="{node1}" id="Point03" tilt="-22.6072"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20211107_062712887.PHOTOSPHERE_o_0.jpg" prev5url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_5.jpg" prev4url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_4.jpg" prev3url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_3.jpg" prev2url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_2.jpg" prev1url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_1.jpg" prev0url="images/PXL_20211107_062712887.PHOTOSPHERE_o_preview_0.jpg" tile5url="images/PXL_20211107_062712887.PHOTOSPHERE_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_062712887.PHOTOSPHERE_o_4.jpg" tile3url="images/PXL_20211107_062712887.PHOTOSPHERE_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_062712887.PHOTOSPHERE_o_2.jpg" tile1url="images/PXL_20211107_062712887.PHOTOSPHERE_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал №2, кристаллы" datetime="2021:11:07 09:03:10" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="40.403633" latitude="44.059592"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал №1, развилка" target="129/-22/65" pan="18.3346" skinid="hs_go" url="{node2}" id="Point01" tilt="-20.4681"/>
+      <hotspot title="Зал №3, натёчности" target="230/68/65" pan="172.851" skinid="hs_go" url="{node6}" id="Point02" tilt="-22.9527"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20211107_060310201.PHOTOSPHERE_o_0.jpg" prev5url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_5.jpg" prev4url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_4.jpg" prev3url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_3.jpg" prev2url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_2.jpg" prev1url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_1.jpg" prev0url="images/PXL_20211107_060310201.PHOTOSPHERE_o_preview_0.jpg" tile5url="images/PXL_20211107_060310201.PHOTOSPHERE_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_060310201.PHOTOSPHERE_o_4.jpg" tile3url="images/PXL_20211107_060310201.PHOTOSPHERE_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_060310201.PHOTOSPHERE_o_2.jpg" tile1url="images/PXL_20211107_060310201.PHOTOSPHERE_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал №3, натёчности" datetime="2021:11:07 09:08:40" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="40.403633" latitude="44.059592"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал№2, кристаллы" target="10/-6/65" pan="1.20016" skinid="hs_go" url="{node5}" id="Point01" tilt="-27.217"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20211107_060840260.PHOTOSPHERE_o_0.jpg" prev5url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_5.jpg" prev4url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_4.jpg" prev3url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_3.jpg" prev2url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_2.jpg" prev1url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_1.jpg" prev0url="images/PXL_20211107_060840260.PHOTOSPHERE_o_preview_0.jpg" tile5url="images/PXL_20211107_060840260.PHOTOSPHERE_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_060840260.PHOTOSPHERE_o_4.jpg" tile3url="images/PXL_20211107_060840260.PHOTOSPHERE_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_060840260.PHOTOSPHERE_o_2.jpg" tile1url="images/PXL_20211107_060840260.PHOTOSPHERE_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Вход в пещеру" datetime="2021:11:09 17:28:35" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="40.403592" latitude="44.059617"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал №1, развилка" target="125.5/-23/65" pan="135.756" skinid="hs_go" url="{node2}" id="Point01" tilt="-15.8818"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_0.jpg" prev5url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_5.jpg" prev4url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_4.jpg" prev3url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_3.jpg" prev2url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_2.jpg" prev1url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_1.jpg" prev0url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_preview_0.jpg" tile5url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_4.jpg" tile3url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_2.jpg" tile1url="images/PXL_20211107_063449970.PHOTOSPHERE++_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
