@@ -10,11 +10,11 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Зал №1, развилка" target="127/-17.5/65" pan="-157.951" skinid="hs_go" url="{node2}" id="Point01" tilt="-10.5116"/>
+      <hotspot title="Зал №1, развилка" target="127/-17.5/65" pan="-160.162" skinid="hs_go" url="{node2}" id="Point01" tilt="-10.5045"/>
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20211107_061923481_o_0.jpg" prev5url="images/PXL_20211107_061923481_o_preview_5.jpg" prev4url="images/PXL_20211107_061923481_o_preview_4.jpg" prev3url="images/PXL_20211107_061923481_o_preview_3.jpg" prev2url="images/PXL_20211107_061923481_o_preview_2.jpg" prev1url="images/PXL_20211107_061923481_o_preview_1.jpg" prev0url="images/PXL_20211107_061923481_o_preview_0.jpg" tile5url="images/PXL_20211107_061923481_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_061923481_o_4.jpg" tile3url="images/PXL_20211107_061923481_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_061923481_o_2.jpg" tile1url="images/PXL_20211107_061923481_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node2" hideabout="1">
@@ -33,7 +33,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20211107_062712887_o_0.jpg" prev5url="images/PXL_20211107_062712887_o_preview_5.jpg" prev4url="images/PXL_20211107_062712887_o_preview_4.jpg" prev3url="images/PXL_20211107_062712887_o_preview_3.jpg" prev2url="images/PXL_20211107_062712887_o_preview_2.jpg" prev1url="images/PXL_20211107_062712887_o_preview_1.jpg" prev0url="images/PXL_20211107_062712887_o_preview_0.jpg" tile5url="images/PXL_20211107_062712887_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_062712887_o_4.jpg" tile3url="images/PXL_20211107_062712887_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_062712887_o_2.jpg" tile1url="images/PXL_20211107_062712887_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node5" hideabout="1">
@@ -51,7 +51,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20211107_060310201_o_0.jpg" prev5url="images/PXL_20211107_060310201_o_preview_5.jpg" prev4url="images/PXL_20211107_060310201_o_preview_4.jpg" prev3url="images/PXL_20211107_060310201_o_preview_3.jpg" prev2url="images/PXL_20211107_060310201_o_preview_2.jpg" prev1url="images/PXL_20211107_060310201_o_preview_1.jpg" prev0url="images/PXL_20211107_060310201_o_preview_0.jpg" tile5url="images/PXL_20211107_060310201_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_060310201_o_4.jpg" tile3url="images/PXL_20211107_060310201_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_060310201_o_2.jpg" tile1url="images/PXL_20211107_060310201_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node6" hideabout="1">
@@ -68,7 +68,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20211107_060840260_o_0.jpg" prev5url="images/PXL_20211107_060840260_o_preview_5.jpg" prev4url="images/PXL_20211107_060840260_o_preview_4.jpg" prev3url="images/PXL_20211107_060840260_o_preview_3.jpg" prev2url="images/PXL_20211107_060840260_o_preview_2.jpg" prev1url="images/PXL_20211107_060840260_o_preview_1.jpg" prev0url="images/PXL_20211107_060840260_o_preview_0.jpg" tile5url="images/PXL_20211107_060840260_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_060840260_o_4.jpg" tile3url="images/PXL_20211107_060840260_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_060840260_o_2.jpg" tile1url="images/PXL_20211107_060840260_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
   <panorama id="node7" hideabout="1">
@@ -85,7 +85,7 @@
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20211107_063449970_o_0.jpg" prev5url="images/PXL_20211107_063449970_o_preview_5.jpg" prev4url="images/PXL_20211107_063449970_o_preview_4.jpg" prev3url="images/PXL_20211107_063449970_o_preview_3.jpg" prev2url="images/PXL_20211107_063449970_o_preview_2.jpg" prev1url="images/PXL_20211107_063449970_o_preview_1.jpg" prev0url="images/PXL_20211107_063449970_o_preview_0.jpg" tile5url="images/PXL_20211107_063449970_o_5.jpg" tilesize="2176" tile4url="images/PXL_20211107_063449970_o_4.jpg" tile3url="images/PXL_20211107_063449970_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20211107_063449970_o_2.jpg" tile1url="images/PXL_20211107_063449970_o_1.jpg"/>
-    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.000" delay="5.00"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="5.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
 </tour>
