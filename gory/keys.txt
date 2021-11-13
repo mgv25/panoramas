@@ -62,3 +62,8 @@ most-pshekha	node_shpalorez_1
 shpalorez-500	node_shpalorez_2
 u-sobor-skaly	node_shpalorez_3
 matritsa	node_shpalorez_4
+crystal-cave	node40
+crystal-cave-razvilka	node41
+crystal-cave-2	node42
+crystal-cave-3	node43
+crystal-cave-balkon	node44

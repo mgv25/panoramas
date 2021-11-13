@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
-// Filename: simplex_2021_5_gory-map_no-extra-buttons.ggsk
-// Generated Ср 10. ноя 13:18:08 2021
+// Filename: simplex_2021_3.ggsk
+// Generated Сб 13. ноя 06:24:40 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -115,7 +115,7 @@ function pano2vrSkin(player,base) {
 		this._up.ggVisible=true;
 		this._up.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 55px;';
+		hs+='left: 25px;';
 		hs+='top:  -5px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -151,7 +151,7 @@ function pano2vrSkin(player,base) {
 		this._down.ggVisible=true;
 		this._down.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 55px;';
+		hs+='left: 25px;';
 		hs+='top:  25px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -187,7 +187,7 @@ function pano2vrSkin(player,base) {
 		this._left.ggVisible=true;
 		this._left.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 30px;';
+		hs+='left: 0px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -223,7 +223,7 @@ function pano2vrSkin(player,base) {
 		this._right.ggVisible=true;
 		this._right.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 80px;';
+		hs+='left: 50px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -259,7 +259,7 @@ function pano2vrSkin(player,base) {
 		this._zoomin.ggVisible=true;
 		this._zoomin.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 120px;';
+		hs+='left: 90px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -343,7 +343,7 @@ function pano2vrSkin(player,base) {
 		this._zoomout.ggVisible=true;
 		this._zoomout.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 150px;';
+		hs+='left: 120px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -421,13 +421,90 @@ function pano2vrSkin(player,base) {
 		this._tt_zoomout.appendChild(this._tt_zoomout_white);
 		this._zoomout.appendChild(this._tt_zoomout);
 		this._controller.appendChild(this._zoomout);
+		this._autorotate=document.createElement('div');
+		this._autorotate.ggId='autorotate';
+		this._autorotate.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._autorotate.ggVisible=true;
+		this._autorotate.className='ggskin ggskin_svg';
+		hs ='position:absolute;';
+		hs+='left: 160px;';
+		hs+='top:  10px;';
+		hs+='width: 32px;';
+		hs+='height: 32px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='cursor: pointer;';
+		this._autorotate.setAttribute('style',hs);
+		this._autorotate__img=document.createElement('img');
+		this._autorotate__img.setAttribute('src',basePath + 'images/autorotate.svg');
+		this._autorotate__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 32px;height: 32px;-webkit-user-drag:none;');
+		this._autorotate__img['ondragstart']=function() { return false; };
+		this._autorotate.appendChild(this._autorotate__img);
+		this._autorotate.onclick=function () {
+			me.player.toggleAutorotate();
+		}
+		this._autorotate.onmouseover=function () {
+			me._tt_autorotate.style[domTransition]='none';
+			me._tt_autorotate.style.visibility='inherit';
+			me._tt_autorotate.ggVisible=true;
+			me._autorotate__img.src=basePath + 'images/autorotate__o.svg';
+		}
+		this._autorotate.onmouseout=function () {
+			me._tt_autorotate.style[domTransition]='none';
+			me._tt_autorotate.style.visibility='hidden';
+			me._tt_autorotate.ggVisible=false;
+			me._autorotate__img.src=basePath + 'images/autorotate.svg';
+		}
+		this._tt_autorotate=document.createElement('div');
+		this._tt_autorotate.ggId='tt_autorotate';
+		this._tt_autorotate.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._tt_autorotate.ggVisible=false;
+		this._tt_autorotate.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: -65px;';
+		hs+='top:  36px;';
+		hs+='width: 170px;';
+		hs+='height: 18px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: hidden;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #000000;';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._tt_autorotate.setAttribute('style',hs);
+		this._tt_autorotate.innerHTML="Start\/Stop Autorotation";
+		this._tt_autorotate_white=document.createElement('div');
+		this._tt_autorotate_white.ggId='tt_autorotate_white';
+		this._tt_autorotate_white.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._tt_autorotate_white.ggVisible=true;
+		this._tt_autorotate_white.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: -1px;';
+		hs+='top:  -1px;';
+		hs+='width: 170px;';
+		hs+='height: 18px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #ffffff;';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._tt_autorotate_white.setAttribute('style',hs);
+		this._tt_autorotate_white.innerHTML="Start\/Stop Autorotation";
+		this._tt_autorotate.appendChild(this._tt_autorotate_white);
+		this._autorotate.appendChild(this._tt_autorotate);
+		this._controller.appendChild(this._autorotate);
 		this._info=document.createElement('div');
 		this._info.ggId='info';
 		this._info.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._info.ggVisible=true;
 		this._info.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 240px;';
+		hs+='left: 270px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -501,13 +578,90 @@ function pano2vrSkin(player,base) {
 		this._tt_info.appendChild(this._tt_info_white);
 		this._info.appendChild(this._tt_info);
 		this._controller.appendChild(this._info);
+		this._movemode=document.createElement('div');
+		this._movemode.ggId='movemode';
+		this._movemode.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._movemode.ggVisible=true;
+		this._movemode.className='ggskin ggskin_svg';
+		hs ='position:absolute;';
+		hs+='left: 190px;';
+		hs+='top:  10px;';
+		hs+='width: 32px;';
+		hs+='height: 32px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='cursor: pointer;';
+		this._movemode.setAttribute('style',hs);
+		this._movemode__img=document.createElement('img');
+		this._movemode__img.setAttribute('src',basePath + 'images/movemode.svg');
+		this._movemode__img.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 32px;height: 32px;-webkit-user-drag:none;');
+		this._movemode__img['ondragstart']=function() { return false; };
+		this._movemode.appendChild(this._movemode__img);
+		this._movemode.onclick=function () {
+			me.player.changeViewMode(2);
+		}
+		this._movemode.onmouseover=function () {
+			me._tt_movemode.style[domTransition]='none';
+			me._tt_movemode.style.visibility='inherit';
+			me._tt_movemode.ggVisible=true;
+			me._movemode__img.src=basePath + 'images/movemode__o.svg';
+		}
+		this._movemode.onmouseout=function () {
+			me._tt_movemode.style[domTransition]='none';
+			me._tt_movemode.style.visibility='hidden';
+			me._tt_movemode.ggVisible=false;
+			me._movemode__img.src=basePath + 'images/movemode.svg';
+		}
+		this._tt_movemode=document.createElement('div');
+		this._tt_movemode.ggId='tt_movemode';
+		this._tt_movemode.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._tt_movemode.ggVisible=false;
+		this._tt_movemode.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: -65px;';
+		hs+='top:  36px;';
+		hs+='width: 170px;';
+		hs+='height: 18px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: hidden;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #000000;';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._tt_movemode.setAttribute('style',hs);
+		this._tt_movemode.innerHTML="Change Control Mode";
+		this._tt_movemode_white=document.createElement('div');
+		this._tt_movemode_white.ggId='tt_movemode_white';
+		this._tt_movemode_white.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		this._tt_movemode_white.ggVisible=true;
+		this._tt_movemode_white.className='ggskin ggskin_text';
+		hs ='position:absolute;';
+		hs+='left: -1px;';
+		hs+='top:  -1px;';
+		hs+='width: 170px;';
+		hs+='height: 18px;';
+		hs+=cssPrefix + 'transform-origin: 50% 50%;';
+		hs+='visibility: inherit;';
+		hs+='border: 0px solid #000000;';
+		hs+='color: #ffffff;';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 0px 1px 0px 1px;';
+		hs+='overflow: hidden;';
+		this._tt_movemode_white.setAttribute('style',hs);
+		this._tt_movemode_white.innerHTML="Change Control Mode";
+		this._tt_movemode.appendChild(this._tt_movemode_white);
+		this._movemode.appendChild(this._tt_movemode);
+		this._controller.appendChild(this._movemode);
 		this._fullscreen=document.createElement('div');
 		this._fullscreen.ggId='fullscreen';
 		this._fullscreen.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._fullscreen.ggVisible=true;
 		this._fullscreen.className='ggskin ggskin_svg';
 		hs ='position:absolute;';
-		hs+='left: 190px;';
+		hs+='left: 220px;';
 		hs+='top:  10px;';
 		hs+='width: 32px;';
 		hs+='height: 32px;';
@@ -708,7 +862,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: -205px;';
 		hs+='top:  -130px;';
 		hs+='width: 460px;';
-		hs+='height: 270px;';
+		hs+='height: 240px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='visibility: hidden;';
 		this._userdata.setAttribute('style',hs);
@@ -726,7 +880,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: 0px;';
 		hs+='top:  0px;';
 		hs+='width: 460px;';
-		hs+='height: 270px;';
+		hs+='height: 240px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
 		hs+='visibility: inherit;';
@@ -745,7 +899,7 @@ function pano2vrSkin(player,base) {
 		hs+='left: -1px;';
 		hs+='top:  -1px;';
 		hs+='width: 458px;';
-		hs+='height: 268px;';
+		hs+='height: 238px;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
 		hs+='opacity: 0.5;';
 		hs+='visibility: inherit;';
@@ -818,7 +972,7 @@ function pano2vrSkin(player,base) {
 		this._author.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  147px;';
+		hs+='top:  151px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -846,7 +1000,7 @@ function pano2vrSkin(player,base) {
 		this._link.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  169px;';
+		hs+='top:  174px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -867,35 +1021,14 @@ function pano2vrSkin(player,base) {
 		}
 		this._link.ggUpdateText();
 		this._userdata.appendChild(this._link);
-		this._map_link=document.createElement('div');
-		this._map_link.ggId='map_link';
-		this._map_link.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		this._map_link.ggVisible=true;
-		this._map_link.className='ggskin ggskin_text';
-		hs ='position:absolute;';
-		hs+='left: 11px;';
-		hs+='top:  206px;';
-		hs+='width: 440px;';
-		hs+='height: auto;';
-		hs+=cssPrefix + 'transform-origin: 50% 50%;';
-		hs+='visibility: inherit;';
-		hs+='border: 0px solid #000000;';
-		hs+='color: #ffffff;';
-		hs+='text-align: left;';
-		hs+='white-space: pre-wrap;';
-		hs+='padding: 0px 1px 0px 1px;';
-		hs+='overflow: hidden;';
-		this._map_link.setAttribute('style',hs);
-		this._map_link.innerHTML="\u041a\u0430\u0440\u0442\u0430 \u0441\u043e \u0432\u0441\u0435\u043c\u0438 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430\u043c\u0438: <a href=\"https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB\">https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB<\/a>";
-		this._userdata.appendChild(this._map_link);
 		this._datetime=document.createElement('div');
 		this._datetime.ggId='datetime';
 		this._datetime.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
 		this._datetime.ggVisible=true;
 		this._datetime.className='ggskin ggskin_text';
 		hs ='position:absolute;';
-		hs+='left: 12px;';
-		hs+='top:  243px;';
+		hs+='left: 10px;';
+		hs+='top:  211px;';
 		hs+='width: auto;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
