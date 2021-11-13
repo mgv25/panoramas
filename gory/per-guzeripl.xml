@@ -1893,4 +1893,92 @@
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
+  <panorama id="node40" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="313.5" fov="70" tilt="-6"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Вход в Кристальную пещеру" datetime="2021:11:09 17:28:35" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Кристальная пещера, зал 1, развилка" target="127/-20.5/65" pan="136.669" skinid="hs_go" url="{node41}" id="Point01" tilt="-14.2455"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach_Cave_1_o_0.jpg" prev5url="images/Tkhach_Cave_1_o_preview_5.jpg" prev4url="images/Tkhach_Cave_1_o_preview_4.jpg" prev3url="images/Tkhach_Cave_1_o_preview_3.jpg" prev2url="images/Tkhach_Cave_1_o_preview_2.jpg" prev1url="images/Tkhach_Cave_1_o_preview_1.jpg" prev0url="images/Tkhach_Cave_1_o_preview_0.jpg" tile5url="images/Tkhach_Cave_1_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_1_o_4.jpg" tile3url="images/Tkhach_Cave_1_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_1_o_2.jpg" tile1url="images/Tkhach_Cave_1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node41" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="129.5" fov="70" tilt="-22"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Кристальная пещера, зал 1, развилка" datetime="2021:11:07 09:27:12" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-razvilka" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Выход из пещеры" target="319/-5.5/65" pan="-58.2807" skinid="hs_go" url="{node40}" id="Point01" tilt="-9.35459"/>
+      <hotspot title="Зал 2, кристаллы" target="" pan="153.818" skinid="hs_go" url="{node42}" id="Point02" tilt="-28.0939"/>
+      <hotspot title="Второй выход на &quot;балкон&quot;" target="328/0.5/65" pan="101.896" skinid="hs_go" url="{node44}" id="Point03" tilt="-23.9597"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach_Cave_2_o_0.jpg" prev5url="images/Tkhach_Cave_2_o_preview_5.jpg" prev4url="images/Tkhach_Cave_2_o_preview_4.jpg" prev3url="images/Tkhach_Cave_2_o_preview_3.jpg" prev2url="images/Tkhach_Cave_2_o_preview_2.jpg" prev1url="images/Tkhach_Cave_2_o_preview_1.jpg" prev0url="images/Tkhach_Cave_2_o_preview_0.jpg" tile5url="images/Tkhach_Cave_2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_2_o_4.jpg" tile3url="images/Tkhach_Cave_2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_2_o_2.jpg" tile1url="images/Tkhach_Cave_2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node42" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="44" fov="70" tilt="13.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Кристальная пещера, зал 2, кристаллы" datetime="2021:11:07 09:03:10" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-2" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал 1, развилка" target="118/-23/65" pan="17.6685" skinid="hs_go" url="{node41}" id="Point01" tilt="-28.0208"/>
+      <hotspot title="Зал 3, натёчности" target="233.5/67/65" pan="172.271" skinid="hs_go" url="{node43}" id="Point02" tilt="-29.7432"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach_Cave_3_o_0.jpg" prev5url="images/Tkhach_Cave_3_o_preview_5.jpg" prev4url="images/Tkhach_Cave_3_o_preview_4.jpg" prev3url="images/Tkhach_Cave_3_o_preview_3.jpg" prev2url="images/Tkhach_Cave_3_o_preview_2.jpg" prev1url="images/Tkhach_Cave_3_o_preview_1.jpg" prev0url="images/Tkhach_Cave_3_o_preview_0.jpg" tile5url="images/Tkhach_Cave_3_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_3_o_4.jpg" tile3url="images/Tkhach_Cave_3_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_3_o_2.jpg" tile1url="images/Tkhach_Cave_3_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node43" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="247" fov="70" tilt="64"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Кристальная пещера, зал 3, натёчности" datetime="2021:11:13 05:30:09" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-3" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал 2, кристаллы" target="17.5/-3/65" pan="1.4343" skinid="hs_go" url="{node42}" id="Point01" tilt="-23.2995"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach_Cave_4_o_0.jpg" prev5url="images/Tkhach_Cave_4_o_preview_5.jpg" prev4url="images/Tkhach_Cave_4_o_preview_4.jpg" prev3url="images/Tkhach_Cave_4_o_preview_3.jpg" prev2url="images/Tkhach_Cave_4_o_preview_2.jpg" prev1url="images/Tkhach_Cave_4_o_preview_1.jpg" prev0url="images/Tkhach_Cave_4_o_preview_0.jpg" tile5url="images/Tkhach_Cave_4_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_4_o_4.jpg" tile3url="images/Tkhach_Cave_4_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_4_o_2.jpg" tile1url="images/Tkhach_Cave_4_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node44" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="324" fov="70" tilt="-5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Кристальная пещера, балкон" datetime="2021:11:07 09:19:23" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-balkon" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Зал 1, развилка" target="131/-21.5/65" pan="-161.147" skinid="hs_go" url="{node41}" id="Point01" tilt="-10.456"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach_Cave_5_o_0.jpg" prev5url="images/Tkhach_Cave_5_o_preview_5.jpg" prev4url="images/Tkhach_Cave_5_o_preview_4.jpg" prev3url="images/Tkhach_Cave_5_o_preview_3.jpg" prev2url="images/Tkhach_Cave_5_o_preview_2.jpg" prev1url="images/Tkhach_Cave_5_o_preview_1.jpg" prev0url="images/Tkhach_Cave_5_o_preview_0.jpg" tile5url="images/Tkhach_Cave_5_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_5_o_4.jpg" tile3url="images/Tkhach_Cave_5_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_5_o_2.jpg" tile1url="images/Tkhach_Cave_5_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
 </tour>
