@@ -1281,8 +1281,10 @@
       <hotspot title="пер. Оштеновский" target="" pan="53.3257" skinid="hotspot" url="{node_lagonaki_20}" id="Point03" tilt="-14.3631"/>
       <hotspot title="ручей Рубленый" target="" pan="34.945" skinid="hotspot" url="{node_lagonaki_21}" id="Point04" tilt="-9.32976"/>
       <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hotspot" url="{node31}" id="Point05" tilt="-0.7475000000000001"/>
-      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-43.1395" skinid="hs_clouds" url="{node_lagonaki_27}" id="Point06" tilt="21.1199"/>
+      <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-42.83" skinid="hs_clouds" url="{node_lagonaki_27}" id="Point06" tilt="20.3743"/>
       <hotspot title="Парковка" target="" pan="13.2701" skinid="hotspot" url="{node_lagonaki_24}" id="Point07" tilt="-9.736459999999999"/>
+      <hotspot title="г. Большой Тхач" target="" pan="7.00696" skinid="hotspot" url="{node61}" id="Point08" tilt="0.928362"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-2.05647" skinid="hotspot" url="{node52}" id="Point09" tilt="0.794123"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
         <vertex pan="67.0707" tilt="-31.2942"/>
@@ -1702,6 +1704,7 @@
       <hotspot title="г. Оштен" target="" pan="-166.301" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="9.03631"/>
       <hotspot title="Инструкторская щель" target="150/-12/65" pan="-60.2376" skinid="hs_go" url="{node_lagonaki_22}" id="Point02" tilt="-5.52916"/>
       <hotspot title="пер. Оштеновский" target="273/0/65" pan="-155.387" skinid="hs_go" url="{node_lagonaki_20}" id="Point03" tilt="-0.231243"/>
+      <hotspot title="Станица Даховская" target="0/0/65" pan="-11.644" skinid="hs_go" url="{node81}" id="Point04" tilt="-2.79322"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="-161.58" tilt="5.02165"/>
         <vertex pan="-158.09" tilt="6.52935"/>
@@ -1899,11 +1902,14 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Вход в Кристальную пещеру" datetime="2021:11:09 17:28:35" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <userdata title="Вход в Кристальную пещеру" datetime="7.11.2021" description="" copyright="" tags="Тхач|Кристальная_пещера|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave" longitude="40.40419377245128" latitude="44.05946981170701"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Зал 1, развилка" target="127/-20.5/65" pan="136.669" skinid="hs_go" url="{node41}" id="Point01" tilt="-14.2455"/>
+      <hotspot title="Подъём к Кристальной пещере" target="283/-13/65" pan="-43.6742" skinid="hotspot" url="{node67}" id="Point02" tilt="-28.6749"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="-53.2974" skinid="hs_copter" url="{node78}" id="Point03" tilt="-5.51922"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="-145.232" skinid="hs_go" url="{node77}" id="Point04" tilt="4.12353"/>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach_Cave_1_o_0.jpg" prev5url="images/Tkhach_Cave_1_o_preview_5.jpg" prev4url="images/Tkhach_Cave_1_o_preview_4.jpg" prev3url="images/Tkhach_Cave_1_o_preview_3.jpg" prev2url="images/Tkhach_Cave_1_o_preview_2.jpg" prev1url="images/Tkhach_Cave_1_o_preview_1.jpg" prev0url="images/Tkhach_Cave_1_o_preview_0.jpg" tile5url="images/Tkhach_Cave_1_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_1_o_4.jpg" tile3url="images/Tkhach_Cave_1_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_1_o_2.jpg" tile1url="images/Tkhach_Cave_1_o_1.jpg"/>
@@ -1916,7 +1922,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Кристальная пещера, зал 1, развилка" datetime="2021:11:07 09:27:12" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-razvilka" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <userdata title="Кристальная пещера, зал 1, развилка" datetime="7.11.2021" description="" copyright="" tags="Тхач|Кристальная_пещера|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-razvilka" longitude="40.40363700000000" latitude="44.05940300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1935,7 +1941,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Кристальная пещера, зал 2, кристаллы" datetime="2021:11:07 09:03:10" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-2" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <userdata title="Кристальная пещера, зал 2, кристаллы" datetime="7.11.2021" description="" copyright="" tags="Тхач|Кристальная_пещера|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-2" longitude="40.40363700000000" latitude="44.05940300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1953,7 +1959,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Кристальная пещера, зал 3, натёчности" datetime="2021:11:13 05:30:09" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-3" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <userdata title="Кристальная пещера, зал 3, натёчности" datetime="7.11.2021" description="" copyright="" tags="Тхач|Кристальная_пещера|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-3" longitude="40.40363700000000" latitude="44.05940300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1970,7 +1976,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Кристальная пещера, балкон" datetime="2021:11:07 09:19:23" description="" copyright="" tags="Тхач|Кристальная_пещера" author="" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-balkon" longitude="40.40363700000000" latitude="44.05940300000000"/>
+    <userdata title="Кристальная пещера, балкон" datetime="7.11.2021" description="" copyright="" tags="Тхач|Кристальная_пещера|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/crystal-cave-balkon" longitude="40.40363700000000" latitude="44.05940300000000"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
@@ -1978,6 +1984,951 @@
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach_Cave_5_o_0.jpg" prev5url="images/Tkhach_Cave_5_o_preview_5.jpg" prev4url="images/Tkhach_Cave_5_o_preview_4.jpg" prev3url="images/Tkhach_Cave_5_o_preview_3.jpg" prev2url="images/Tkhach_Cave_5_o_preview_2.jpg" prev1url="images/Tkhach_Cave_5_o_preview_1.jpg" prev0url="images/Tkhach_Cave_5_o_preview_0.jpg" tile5url="images/Tkhach_Cave_5_o_5.jpg" tilesize="2500" tile4url="images/Tkhach_Cave_5_o_4.jpg" tile3url="images/Tkhach_Cave_5_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach_Cave_5_o_2.jpg" tile1url="images/Tkhach_Cave_5_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node45" hideabout="1">
+    <view fovmode="0" pannorth="313.5">
+      <start pan="336" fov="70" tilt="-3.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="У Чай-горы" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/u-chai-gory" longitude="40.56161100000000" latitude="43.97617400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="21.264" skinid="hotspot" url="{node48}" id="Point01" tilt="2.83375"/>
+      <hotspot title="Родник у Чай-горы" target="" pan="83.83329999999999" skinid="hs_go" url="{node46}" id="Point02" tilt="-11.139"/>
+      <hotspot title="Под г. Сундуки" target="" pan="-5.16053" skinid="hs_go" url="{node47}" id="Point03" tilt="-11.5413"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-1_u-chay-gory_2_o_0.jpg" prev5url="images/Tkhach-1_u-chay-gory_2_o_preview_5.jpg" prev4url="images/Tkhach-1_u-chay-gory_2_o_preview_4.jpg" prev3url="images/Tkhach-1_u-chay-gory_2_o_preview_3.jpg" prev2url="images/Tkhach-1_u-chay-gory_2_o_preview_2.jpg" prev1url="images/Tkhach-1_u-chay-gory_2_o_preview_1.jpg" prev0url="images/Tkhach-1_u-chay-gory_2_o_preview_0.jpg" tile5url="images/Tkhach-1_u-chay-gory_2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-1_u-chay-gory_2_o_4.jpg" tile3url="images/Tkhach-1_u-chay-gory_2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-1_u-chay-gory_2_o_2.jpg" tile1url="images/Tkhach-1_u-chay-gory_2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node46" hideabout="1">
+    <view fovmode="0" pannorth="234.5">
+      <start pan="346" fov="70" tilt="-9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Родник у Чай-горы" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/rodnik-u-chai-gory" longitude="40.55816400000000" latitude="43.97281500000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Пупырь у Сундуков" target="350/-1.5/65" pan="-70.2546" skinid="hotspot" url="{node48}" id="Point01" tilt="4.23921"/>
+      <hotspot title="У Чай-горы" target="342/-6/65" pan="-97.1413" skinid="hs_go" url="{node45}" id="Point02" tilt="-7.17406"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_0.jpg" prev5url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_5.jpg" prev4url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_4.jpg" prev3url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_3.jpg" prev2url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_2.jpg" prev1url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_1.jpg" prev0url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_preview_0.jpg" tile5url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_4.jpg" tile3url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_2.jpg" tile1url="images/Tkhach-2_Rodnik-u-chay-gory-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node47" hideabout="1">
+    <view fovmode="0" pannorth="204.5">
+      <start pan="289" fov="70" tilt="-11.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Под г. Сундуки" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pod-sundukami" longitude="40.55462400000000" latitude="43.98073600000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-77.4804" skinid="hotspot" url="{node48}" id="Point01" tilt="2.06193"/>
+      <hotspot title="Родник у Чай-горы" target="" pan="42.6366" skinid="hotspot" url="{node46}" id="Point02" tilt="-5.70709"/>
+      <hotspot title="У Чай-горы" target="" pan="69.3032" skinid="hotspot" url="{node45}" id="Point03" tilt="-3.35013"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-66.44929999999999" skinid="hotspot" url="{node51}" id="Point04" tilt="2.39923"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-68.6387" skinid="hotspot" url="{node52}" id="Point05" tilt="2.15524"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-3_Pod-Sundukami_o_0.jpg" prev5url="images/Tkhach-3_Pod-Sundukami_o_preview_5.jpg" prev4url="images/Tkhach-3_Pod-Sundukami_o_preview_4.jpg" prev3url="images/Tkhach-3_Pod-Sundukami_o_preview_3.jpg" prev2url="images/Tkhach-3_Pod-Sundukami_o_preview_2.jpg" prev1url="images/Tkhach-3_Pod-Sundukami_o_preview_1.jpg" prev0url="images/Tkhach-3_Pod-Sundukami_o_preview_0.jpg" tile5url="images/Tkhach-3_Pod-Sundukami_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-3_Pod-Sundukami_o_4.jpg" tile3url="images/Tkhach-3_Pod-Sundukami_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-3_Pod-Sundukami_o_2.jpg" tile1url="images/Tkhach-3_Pod-Sundukami_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node48" hideabout="1">
+    <view fovmode="0" pannorth="271.5">
+      <start pan="344" fov="70" tilt="-4"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Пупырь у Сундуков" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pupyr-u-sundukov" longitude="40.53675500000000" latitude="43.98350400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="0.00869149" skinid="hotspot" url="{node52}" id="Point01" tilt="1.71887"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="3.77227" skinid="hotspot" url="{node51}" id="Point02" tilt="2.04775"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-27.5291" skinid="hotspot" url="{node71}" id="Point03" tilt="0.134363"/>
+      <hotspot title="г. Асбестная" target="" pan="-21.5492" skinid="hotspot" url="{node58}" id="Point04" tilt="0.410624"/>
+      <hotspot title="Хребет Агиге" target="" pan="18.2496" skinid="hotspot" url="{node50}" id="Point05" tilt="-0.0488653"/>
+      <hotspot title="Под г. Сундуки" target="" pan="169.126" skinid="hotspot" url="{node47}" id="Point07" tilt="-3.20059"/>
+      <hotspot title="У Чай-горы" target="" pan="158.169" skinid="hotspot" url="{node45}" id="Point08" tilt="-3.00357"/>
+      <hotspot title="Родник у Чай-горы" target="" pan="146.83" skinid="hotspot" url="{node46}" id="Point09" tilt="-3.04278"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-35.9471" skinid="hotspot" url="{node61}" id="Point10" tilt="1.41069"/>
+      <hotspot title="Под г. Агиге" target="" pan="390.06" skinid="hotspot" url="{node49}" id="Point06" tilt="0"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-4_Pupyr-u-Sundukov_o_0.jpg" prev5url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_5.jpg" prev4url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_4.jpg" prev3url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_3.jpg" prev2url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_2.jpg" prev1url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_1.jpg" prev0url="images/Tkhach-4_Pupyr-u-Sundukov_o_preview_0.jpg" tile5url="images/Tkhach-4_Pupyr-u-Sundukov_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-4_Pupyr-u-Sundukov_o_4.jpg" tile3url="images/Tkhach-4_Pupyr-u-Sundukov_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-4_Pupyr-u-Sundukov_o_2.jpg" tile1url="images/Tkhach-4_Pupyr-u-Sundukov_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node49" hideabout="1">
+    <view fovmode="0" pannorth="330.5">
+      <start pan="39" fov="70" tilt="-7.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Под г. Агиге" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/pod-agige" longitude="40.52349900000000" latitude="43.97831100000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Асбестная" target="" pan="28.6748" skinid="hotspot" url="{node58}" id="Point01" tilt="1.9991"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="16.7967" skinid="hotspot" url="{node61}" id="Point02" tilt="2.46422"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="51.9749" skinid="hotspot" url="{node52}" id="Point03" tilt="3.8248"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="54.7538" skinid="hotspot" url="{node51}" id="Point04" tilt="4.41873"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-92.0733" skinid="hotspot" url="{node48}" id="Point05" tilt="0.707096"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="44.0348" skinid="hotspot" url="{node56}" id="Point06" tilt="-1.02152"/>
+      <hotspot title="Хребет Агиге" target="" pan="54.8231" skinid="hs_go" url="{node50}" id="Point08" tilt="-17.1209"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="24.8236" skinid="hotspot" url="{node71}" id="Point09" tilt="1.59665"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-5_Pod-Agige_o_0.jpg" prev5url="images/Tkhach-5_Pod-Agige_o_preview_5.jpg" prev4url="images/Tkhach-5_Pod-Agige_o_preview_4.jpg" prev3url="images/Tkhach-5_Pod-Agige_o_preview_3.jpg" prev2url="images/Tkhach-5_Pod-Agige_o_preview_2.jpg" prev1url="images/Tkhach-5_Pod-Agige_o_preview_1.jpg" prev0url="images/Tkhach-5_Pod-Agige_o_preview_0.jpg" tile5url="images/Tkhach-5_Pod-Agige_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-5_Pod-Agige_o_4.jpg" tile3url="images/Tkhach-5_Pod-Agige_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-5_Pod-Agige_o_2.jpg" tile1url="images/Tkhach-5_Pod-Agige_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node50" hideabout="1">
+    <view fovmode="0" pannorth="40.5">
+      <start pan="332.5" fov="70" tilt="-16"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Хребет Агиге" datetime="4.11.2021" description="" copyright="" tags="Тхач|Агиге|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/khrebet-agige" longitude="40.51782800000000" latitude="43.97884400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Асбестная" target="" pan="96.9045" skinid="hotspot" url="{node58}" id="Point01" tilt="3.13518"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="85.44" skinid="hotspot" url="{node61}" id="Point02" tilt="3.34033"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="122.159" skinid="hotspot" url="{node52}" id="Point04" tilt="5.56583"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-32.6288" skinid="hotspot" url="{node48}" id="Point05" tilt="1.52812"/>
+      <hotspot title="Под г. Агиге" target="" pan="-56.6323" skinid="hotspot" url="{node49}" id="Point06" tilt="0.754625"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="126.306" skinid="hotspot" url="{node51}" id="Point07" tilt="6.10634"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="113.011" skinid="hotspot" url="{node56}" id="Point08" tilt="-0.367804"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="93.2137" skinid="hotspot" url="{node71}" id="Point09" tilt="2.55516"/>
+      <hotspot title="вид на Фишт и Эльбрус" target="7/-4.5/65" pan="149.119" skinid="hotspot" url="{node54}" id="Point11" tilt="1.29325"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="130.721" skinid="hotspot" url="{node53}" id="Point10" tilt="5.11293"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-6_Khrebet_Agige_o_0.jpg" prev5url="images/Tkhach-6_Khrebet_Agige_o_preview_5.jpg" prev4url="images/Tkhach-6_Khrebet_Agige_o_preview_4.jpg" prev3url="images/Tkhach-6_Khrebet_Agige_o_preview_3.jpg" prev2url="images/Tkhach-6_Khrebet_Agige_o_preview_2.jpg" prev1url="images/Tkhach-6_Khrebet_Agige_o_preview_1.jpg" prev0url="images/Tkhach-6_Khrebet_Agige_o_preview_0.jpg" tile5url="images/Tkhach-6_Khrebet_Agige_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-6_Khrebet_Agige_o_4.jpg" tile3url="images/Tkhach-6_Khrebet_Agige_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-6_Khrebet_Agige_o_2.jpg" tile1url="images/Tkhach-6_Khrebet_Agige_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node53" hideabout="1">
+    <view fovmode="0" pannorth="344.5">
+      <start pan="355.5" fov="70" tilt="-33.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Пропасть на Восточном Ачешбоке" datetime="4.11.2021" description="" copyright="" tags="Тхач|пиксель|Ачешбоки|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/propast-vost-acheshbok" longitude="40.48660314906267" latitude="43.97885200226671"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Хребет Агиге" target="" pan="-105.753" skinid="hotspot" url="{node50}" id="Point01" tilt="-0.944439"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-98.93470000000001" skinid="hotspot" url="{node48}" id="Point02" tilt="-0.57441"/>
+      <hotspot title="вид на Фишт и Эльбрус" target="" pan="123.876" skinid="hotspot" url="{node54}" id="Point03" tilt="-5.76663"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="78.87479999999999" skinid="hs_go" url="{node51}" id="Point04" tilt="-9.42271"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_0.jpg" prev5url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_4.jpg" tile3url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_2.jpg" tile1url="images/Tkhach-Pixel-1_Propast-Vost-Acheshbok_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node51" hideabout="1">
+    <view fovmode="0" pannorth="321.5">
+      <start pan="3" fov="70" tilt="-7.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Восточный Ачешбок" datetime="4.11.2021" description="Высота 2442 м" copyright="" tags="Тхач|Ачешбоки|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/vost-acheshbok" longitude="40.47504900000000" latitude="43.98183300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-10.4179" skinid="hotspot" url="{node61}" id="Point01" tilt="1.40904"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="33.3455" skinid="hotspot" url="{node52}" id="Point02" tilt="3.39116"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-2.96366" skinid="hotspot" url="{node73}" id="Point03" tilt="0.0160317"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-5.19203" skinid="hotspot" url="{node71}" id="Point04" tilt="-0.39261"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-126.7" skinid="hotspot" url="{node48}" id="Point05" tilt="-2.94026"/>
+      <hotspot title="Хребет Агиге" target="" pan="-134.367" skinid="hotspot" url="{node50}" id="Point08" tilt="-3.89778"/>
+      <hotspot title="вид на Фишт и Эльбрус" target="" pan="137.807" skinid="hotspot" url="{node54}" id="Point07" tilt="-11.4237"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="-1.64314" skinid="hotspot" url="{node56}" id="Point12" tilt="-8.79907"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="353/-30.5/65" pan="-144.856" skinid="hotspot" url="{node53}" id="Point14" tilt="-4.68629"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-7_Vost_Acheshbok-3_o_0.jpg" prev5url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_5.jpg" prev4url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_4.jpg" prev3url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_3.jpg" prev2url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_2.jpg" prev1url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_1.jpg" prev0url="images/Tkhach-7_Vost_Acheshbok-3_o_preview_0.jpg" tile5url="images/Tkhach-7_Vost_Acheshbok-3_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-7_Vost_Acheshbok-3_o_4.jpg" tile3url="images/Tkhach-7_Vost_Acheshbok-3_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-7_Vost_Acheshbok-3_o_2.jpg" tile1url="images/Tkhach-7_Vost_Acheshbok-3_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node52" hideabout="1">
+    <view fovmode="0" pannorth="61">
+      <start pan="74" fov="70" tilt="-16.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Западный Ачешбок" datetime="4.11.2021" description="Высота 2486 м" copyright="" tags="2021|Тхач|Ачешбоки|коптер" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/zap-acheshbok" longitude="40.461124" latitude="43.985053"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="82.5827" skinid="hotspot" url="{node61}" id="Point01" tilt="0.43153"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-46.7669" skinid="hotspot" url="{node51}" id="Point02" tilt="-1.24676"/>
+      <hotspot title="г. Асбестная" target="" pan="71.1685" skinid="hotspot" url="{node58}" id="Point03" tilt="-2.56879"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="89.14019999999999" skinid="hotspot" url="{node73}" id="Point04" tilt="-0.817762"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="85.3145" skinid="hotspot" url="{node71}" id="Point05" tilt="-1.22696"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-30.5713" skinid="hotspot" url="{node48}" id="Point08" tilt="-2.19681"/>
+      <hotspot title="Хребет Агиге" target="" pan="-37.6486" skinid="hotspot" url="{node50}" id="Point09" tilt="-2.97285"/>
+      <hotspot title="г. Оштен" target="" pan="149.032" skinid="hotspot" url="{node_lagonaki_11}" id="Point10" tilt="2.03366"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-57.823" skinid="hotspot" url="{node55}" id="Point11" tilt="-20.092"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="35.0766" skinid="hotspot" url="{node56}" id="Point14" tilt="-29.3525"/>
+      <hotspot title="вид на Фишт и Эльбрус" target="" pan="-88.3492" skinid="hotspot" url="{node54}" id="Point15" tilt="-9.387840000000001"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-air-1_Zap_Acheshbok_o_0.jpg" prev5url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_5.jpg" prev4url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_4.jpg" prev3url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_3.jpg" prev2url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_2.jpg" prev1url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_1.jpg" prev0url="images/Tkhach-air-1_Zap_Acheshbok_o_preview_0.jpg" tile5url="images/Tkhach-air-1_Zap_Acheshbok_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-air-1_Zap_Acheshbok_o_4.jpg" tile3url="images/Tkhach-air-1_Zap_Acheshbok_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-air-1_Zap_Acheshbok_o_2.jpg" tile1url="images/Tkhach-air-1_Zap_Acheshbok_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node54" hideabout="1">
+    <view fovmode="0" pannorth="173">
+      <start pan="253.5" fov="70" tilt="-6.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="вид на Фишт и Эльбрус" datetime="5.11.2021" description="" copyright="" tags="Тхач|Ачешбоки|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/vid-fisht-elbrus" longitude="40.47471100000000" latitude="43.96893900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-101.243" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="1.21558"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="167.683" skinid="hotspot" url="{node51}" id="Point02" tilt="19.1243"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="132.684" skinid="hs_go" url="{node53}" id="Point03" tilt="0.630285"/>
+      <hotspot title="Хребет Агиге" target="" pan="101.145" skinid="hotspot" url="{node50}" id="Point04" tilt="3.26416"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-155.424" skinid="hotspot" url="{node52}" id="Point05" tilt="10.6827"/>
+      <hotspot title="пер. Чёртовы ворота" target="0/0/65" pan="-165.236" skinid="hs_go" url="{node55}" id="Point06" tilt="-3.86111"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-8_vid_na_Elbrus_o_0.jpg" prev5url="images/Tkhach-8_vid_na_Elbrus_o_preview_5.jpg" prev4url="images/Tkhach-8_vid_na_Elbrus_o_preview_4.jpg" prev3url="images/Tkhach-8_vid_na_Elbrus_o_preview_3.jpg" prev2url="images/Tkhach-8_vid_na_Elbrus_o_preview_2.jpg" prev1url="images/Tkhach-8_vid_na_Elbrus_o_preview_1.jpg" prev0url="images/Tkhach-8_vid_na_Elbrus_o_preview_0.jpg" tile5url="images/Tkhach-8_vid_na_Elbrus_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-8_vid_na_Elbrus_o_4.jpg" tile3url="images/Tkhach-8_vid_na_Elbrus_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-8_vid_na_Elbrus_o_2.jpg" tile1url="images/Tkhach-8_vid_na_Elbrus_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node55" hideabout="1">
+    <view fovmode="0" pannorth="292.5">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="пер. Чёртовы ворота" datetime="5.11.2021" description="" copyright="" tags="Тхач|Ачешбоки|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-chyortovy-vorota" longitude="40.46921700000000" latitude="43.98245900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Асбестная" target="291/-7.5/65" pan="-46.2741" skinid="hotspot" url="{node58}" id="Point01" tilt="5.06598"/>
+      <hotspot title="г. Западный Ачешбок" target="325/-19.5/65" pan="-4.90552" skinid="hotspot" url="{node52}" id="Point02" tilt="38.1747"/>
+      <hotspot title="г. Восточный Ачешбок" target="17/-8.5/65" pan="-162.988" skinid="hotspot" url="{node51}" id="Point03" tilt="37.4251"/>
+      <hotspot title="вид на Фишт и Эльбрус" target="69/-1/65" pan="126.788" skinid="hs_go" url="{node54}" id="Point04" tilt="-8.38641"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="306.5/1.5/65" pan="-66.3781" skinid="hs_go" url="{node56}" id="Point05" tilt="-9.44741"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_0.jpg" prev5url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_5.jpg" prev4url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_4.jpg" prev3url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_3.jpg" prev2url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_2.jpg" prev1url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_1.jpg" prev0url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_preview_0.jpg" tile5url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_4.jpg" tile3url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_2.jpg" tile1url="images/Tkhach-9_Per_Chyortovy_vorota-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node56" hideabout="1">
+    <view fovmode="0" pannorth="274.5">
+      <start pan="124" fov="70" tilt="10"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="перемычка Ачешбоки-Асбестная" datetime="5.11.2021" description="" copyright="" tags="Тхач|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/acheshboki-asbestnaya" longitude="40.46471600000000" latitude="43.99081000000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="134.757" skinid="hotspot" url="{node51}" id="Point01" tilt="20.871"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="70.43859999999999" skinid="hotspot" url="{node52}" id="Point02" tilt="34.9094"/>
+      <hotspot title="г. Асбестная" target="128.5/-7/65" pan="-72.7761" skinid="hotspot" url="{node58}" id="Point03" tilt="16.0798"/>
+      <hotspot title="г. Оштен" target="" pan="3.43665" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="1.65442"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="117.225" skinid="hs_go" url="{node55}" id="Point05" tilt="0.568728"/>
+      <hotspot title="Родник под г. Асбестной" target="112.5/-7/65" pan="-55.3608" skinid="hs_go" url="{node57}" id="Point06" tilt="-8.144159999999999"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="176.996" skinid="hotspot" url="{node48}" id="Point07" tilt="4.55938"/>
+      <hotspot title="Хребет Агиге" target="" pan="164.318" skinid="hotspot" url="{node50}" id="Point08" tilt="5.78592"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="151.132" skinid="hotspot" url="{node53}" id="Point09" tilt="10.7762"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_0.jpg" prev5url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_4.jpg" tile3url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_2.jpg" tile1url="images/Tkhach-Pixel-2_peremychka-na-Asbestn-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node57" hideabout="1">
+    <view fovmode="0" pannorth="85.5">
+      <start pan="117.5" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Родник под г. Асбестной" datetime="5.11.2021" description="" copyright="" tags="Тхач|Асбестная|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/rodnik-asbestnaya" longitude="40.45807900000000" latitude="44.00041900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Асбестная" target="" pan="99.8047" skinid="hotspot" url="{node58}" id="Point01" tilt="11.892"/>
+      <hotspot title="перемычка Ачешбоки-Асбестная" target="107/12/65" pan="-117.227" skinid="hs_go" url="{node56}" id="Point02" tilt="-0.791789"/>
+      <hotspot title="г. Оштен" target="" pan="176.299" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="2.46495"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_0.jpg" prev5url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_5.jpg" prev4url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_4.jpg" prev3url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_3.jpg" prev2url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_2.jpg" prev1url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_1.jpg" prev0url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_preview_0.jpg" tile5url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_4.jpg" tile3url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_2.jpg" tile1url="images/Tkhach-10_rodnik-pod-Asbestnoy-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node58" hideabout="1">
+    <view fovmode="0" pannorth="86.5">
+      <start pan="286.5" fov="70" tilt="-14"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Асбестная" datetime="5.11.2021" description="Высота 2285 м" copyright="" tags="Тхач|Асбестная|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/asbestnaya" longitude="40.45520000000000" latitude="44.00875400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="115.242" skinid="hotspot" url="{node61}" id="Point01" tilt="1.74671"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="117.667" skinid="hotspot" url="{node64}" id="Point02" tilt="1.35705"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="128.565" skinid="hotspot" url="{node71}" id="Point07" tilt="-0.274187"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="131.615" skinid="hotspot" url="{node73}" id="Point08" tilt="0.00676274"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-83.06050000000001" skinid="hotspot" url="{node52}" id="Point09" tilt="5.0556"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-65.19459999999999" skinid="hotspot" url="{node51}" id="Point10" tilt="3.52658"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-72.6403" skinid="hotspot" url="{node55}" id="Point11" tilt="-1.42491"/>
+      <hotspot title="Родник под г. Асбестной" target="" pan="-82.21040000000001" skinid="hs_go" url="{node57}" id="Point12" tilt="-17.2638"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-56.0505" skinid="hotspot" url="{node53}" id="Point14" tilt="1.22034"/>
+      <hotspot title="Хребет Агиге" target="" pan="-37.0309" skinid="hotspot" url="{node50}" id="Point15" tilt="-0.299766"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-26.7557" skinid="hotspot" url="{node48}" id="Point17" tilt="-0.8760790000000001"/>
+      <hotspot title="г. Оштен" target="" pan="178.055" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="1.63146"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-11_Asbestnaya-10-2_o_0.jpg" prev5url="images/Tkhach-11_Asbestnaya-10-2_o_preview_5.jpg" prev4url="images/Tkhach-11_Asbestnaya-10-2_o_preview_4.jpg" prev3url="images/Tkhach-11_Asbestnaya-10-2_o_preview_3.jpg" prev2url="images/Tkhach-11_Asbestnaya-10-2_o_preview_2.jpg" prev1url="images/Tkhach-11_Asbestnaya-10-2_o_preview_1.jpg" prev0url="images/Tkhach-11_Asbestnaya-10-2_o_preview_0.jpg" tile5url="images/Tkhach-11_Asbestnaya-10-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-11_Asbestnaya-10-2_o_4.jpg" tile3url="images/Tkhach-11_Asbestnaya-10-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-11_Asbestnaya-10-2_o_2.jpg" tile1url="images/Tkhach-11_Asbestnaya-10-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node59" hideabout="1">
+    <view fovmode="0" pannorth="324">
+      <start pan="354" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="отрог Малого Тхача" datetime="5.11.2021" description="" copyright="" tags="Тхач|Тхач_М|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/otrog-m-tkhach" longitude="40.44180200000000" latitude="44.02962700000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-1.75878" skinid="hotspot" url="{node61}" id="Point01" tilt="14.1982"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="-4.93262" skinid="hotspot" url="{node65}" id="Point02" tilt="13.414"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="3.06822" skinid="hotspot" url="{node64}" id="Point03" tilt="11.8377"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="32.5/-80/65" pan="-1.89183" skinid="hs_copter" url="{node70}" id="Point05" tilt="34.7573"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="12.2292" skinid="hs_copter" url="{node68}" id="Point06" tilt="30.019"/>
+      <hotspot title="Тхачский перевал" target="" pan="8.47147" skinid="hotspot" url="{node60}" id="Point07" tilt="2.08495"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="115.271" skinid="hotspot" url="{node71}" id="Point08" tilt="23.069"/>
+      <hotspot title="г. Асбестная" target="" pan="164.201" skinid="hotspot" url="{node58}" id="Point09" tilt="10.3228"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="61.1774" skinid="hs_copter" url="{node69}" id="Point10" tilt="40.9714"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-12_prival_mezh_Thkachami_o_0.jpg" prev5url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_5.jpg" prev4url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_4.jpg" prev3url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_3.jpg" prev2url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_2.jpg" prev1url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_1.jpg" prev0url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_0.jpg" tile5url="images/Tkhach-12_prival_mezh_Thkachami_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-12_prival_mezh_Thkachami_o_4.jpg" tile3url="images/Tkhach-12_prival_mezh_Thkachami_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-12_prival_mezh_Thkachami_o_2.jpg" tile1url="images/Tkhach-12_prival_mezh_Thkachami_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node60" hideabout="1">
+    <view fovmode="0" pannorth="14">
+      <start pan="19.5" fov="70" tilt="18.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Тхачский перевал" datetime="5.11.2021" description="Высота 1951 м" copyright="" tags="Тхач|Тхач_Б|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-tkhachskiy" longitude="40.42986600000000" latitude="44.03849100000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач" target="189/-13.5/65" pan="16.5" skinid="hotspot" url="{node61}" id="Point01" tilt="40.63"/>
+      <hotspot title="г. Асбестная" target="" pan="-135.524" skinid="hotspot" url="{node58}" id="Point02" tilt="3.13635"/>
+      <hotspot title="г. Оштен" target="" pan="109.448" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="1.46647"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-112.214" skinid="hotspot" url="{node48}" id="Point04" tilt="0.235789"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="10.8331" skinid="hotspot" url="{node65}" id="Point05" tilt="38.8135"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="18.8644" skinid="hs_copter" url="{node70}" id="Point06" tilt="61.5019"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="42.6786" skinid="hotspot" url="{node64}" id="Point07" tilt="30.2526"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="48.484" skinid="hotspot" url="{node63}" id="Point08" tilt="24.1473"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-121.942" skinid="hotspot" url="{node59}" id="Point09" tilt="-3.84481"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-148.638" skinid="hotspot" url="{node71}" id="Point10" tilt="6.75834"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="42.5/-31/65" pan="-171.71" skinid="hs_copter" url="{node69}" id="Point11" tilt="25.4423"/>
+      <hotspot title="г. Колокольня" target="126/-5.5/65" pan="82.62860000000001" skinid="hs_go" url="{node75}" id="Point12" tilt="-21.0335"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="150.097" skinid="hs_copter" url="{node68}" id="Point13" tilt="62.8452"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="27.0861" skinid="hs_copter" url="{node74}" id="Point14" tilt="38.5853"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-14_per-Tkhachskiy-zakat_o_0.jpg" prev5url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_5.jpg" prev4url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_4.jpg" prev3url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_3.jpg" prev2url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_2.jpg" prev1url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_1.jpg" prev0url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_0.jpg" tile5url="images/Tkhach-14_per-Tkhachskiy-zakat_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-14_per-Tkhachskiy-zakat_o_4.jpg" tile3url="images/Tkhach-14_per-Tkhachskiy-zakat_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-14_per-Tkhachskiy-zakat_o_2.jpg" tile1url="images/Tkhach-14_per-Tkhachskiy-zakat_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node61" hideabout="1">
+    <view fovmode="0" pannorth="357.5">
+      <start pan="196.5" fov="70" tilt="-17"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Большой Тхач, вершина" datetime="6.11.2021" description="Высота 2368 м" copyright="" tags="Тхач|Тхач_Б|2021|вершина" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach" longitude="40.42945800000000" latitude="44.04281300000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Западный Ачешбок" target="79/-10/65" pan="-160.923" skinid="hotspot" url="{node52}" id="Point01" tilt="1.09665"/>
+      <hotspot title="Хребет Агиге" target="" pan="-138.077" skinid="hotspot" url="{node50}" id="Point03" tilt="-0.375533"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-130.011" skinid="hotspot" url="{node48}" id="Point04" tilt="-0.769331"/>
+      <hotspot title="г. Оштен" target="" pan="94.5166" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.16756"/>
+      <hotspot title="Тхачский перевал" target="" pan="-178.772" skinid="hotspot" url="{node60}" id="Point08" tilt="-36.0988"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-160.392" skinid="hs_copter" url="{node70}" id="Point09" tilt="44.0669"/>
+      <hotspot title="Большой Тхач, пик 3" target="261.5/-9/65" pan="-66.0646" skinid="hotspot" url="{node65}" id="Point10" tilt="-11.1964"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-149.726" skinid="hotspot" url="{node53}" id="Point11" tilt="0.160764"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-147.854" skinid="hotspot" url="{node59}" id="Point12" tilt="-13.0744"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="178.64" skinid="hotspot" url="{node73}" id="Point13" tilt="-3.87403"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-177.079" skinid="hs_copter" url="{node69}" id="Point14" tilt="13.269"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="168.638" skinid="hs_copter" url="{node68}" id="Point15" tilt="9.947509999999999"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-162.787" skinid="hs_copter" url="{node74}" id="Point16" tilt="-28.8019"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="64.4866" skinid="hotspot" url="{node64}" id="Point17" tilt="-0.6610740000000001"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="58.7668" skinid="hotspot" url="{node63}" id="Point18" tilt="-1.09024"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="51.7125" skinid="hotspot" url="{node62}" id="Point19" tilt="-2.53322"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-167.304" skinid="hotspot" url="{node71}" id="Point20" tilt="-2.5372"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-154.12" skinid="hotspot" url="{node51}" id="Point02" tilt="0.934793"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-16_Tkhach-vershina_o_0.jpg" prev5url="images/Tkhach-16_Tkhach-vershina_o_preview_5.jpg" prev4url="images/Tkhach-16_Tkhach-vershina_o_preview_4.jpg" prev3url="images/Tkhach-16_Tkhach-vershina_o_preview_3.jpg" prev2url="images/Tkhach-16_Tkhach-vershina_o_preview_2.jpg" prev1url="images/Tkhach-16_Tkhach-vershina_o_preview_1.jpg" prev0url="images/Tkhach-16_Tkhach-vershina_o_preview_0.jpg" tile5url="images/Tkhach-16_Tkhach-vershina_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-16_Tkhach-vershina_o_4.jpg" tile3url="images/Tkhach-16_Tkhach-vershina_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-16_Tkhach-vershina_o_2.jpg" tile1url="images/Tkhach-16_Tkhach-vershina_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node62" hideabout="1">
+    <view fovmode="0" pannorth="13.5">
+      <start pan="60" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой Тхач, пик 3 - с Крестом" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-pik-3" longitude="40.421334" latitude="44.047103"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="111.375" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.7690590000000001"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-112.345" skinid="hotspot" url="{node61}" id="Point02" tilt="4.35394"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="-127.827" skinid="hotspot" url="{node63}" id="Point03" tilt="7.4015"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-111.983" skinid="hs_copter" url="{node70}" id="Point04" tilt="20.3443"/>
+      <hotspot title="г. Асбестная" target="" pan="-134.075" skinid="hotspot" url="{node58}" id="Point05" tilt="0"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-135.779" skinid="hotspot" url="{node51}" id="Point06" tilt="1.80818"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-138.537" skinid="hs_copter" url="{node68}" id="Point08" tilt="8.99395"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-141.691" skinid="hotspot" url="{node52}" id="Point09" tilt="1.97143"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-141.184" skinid="hotspot" url="{node71}" id="Point10" tilt="-1.0513"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-149.184" skinid="hotspot" url="{node73}" id="Point11" tilt="-1.46911"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-148.746" skinid="hs_copter" url="{node69}" id="Point12" tilt="13.4983"/>
+      <hotspot title="Вход в Кристальную пещеру" target="" pan="34.8894" skinid="hs_go" url="{node40}" id="Point13" tilt="-15.9278"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="59.3075" skinid="hs_go" url="{node77}" id="Point15" tilt="-12.5022"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-2_peak_Krest_o_0.jpg" prev5url="images/Tkhach-Air-2_peak_Krest_o_preview_5.jpg" prev4url="images/Tkhach-Air-2_peak_Krest_o_preview_4.jpg" prev3url="images/Tkhach-Air-2_peak_Krest_o_preview_3.jpg" prev2url="images/Tkhach-Air-2_peak_Krest_o_preview_2.jpg" prev1url="images/Tkhach-Air-2_peak_Krest_o_preview_1.jpg" prev0url="images/Tkhach-Air-2_peak_Krest_o_preview_0.jpg" tile5url="images/Tkhach-Air-2_peak_Krest_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-2_peak_Krest_o_4.jpg" tile3url="images/Tkhach-Air-2_peak_Krest_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-2_peak_Krest_o_2.jpg" tile1url="images/Tkhach-Air-2_peak_Krest_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node63" hideabout="1">
+    <view fovmode="0" pannorth="355.5">
+      <start pan="219" fov="70" tilt="-16"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой Тхач, пик 2" datetime="6.11.2021" description="" copyright="" tags="ТХач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-pik-2" longitude="40.423362" latitude="44.045265"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="34.3211" skinid="hotspot" url="{node62}" id="Point01" tilt="-4.424"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-123.014" skinid="hs_copter" url="{node70}" id="Point02" tilt="18.196"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-123.042" skinid="hotspot" url="{node61}" id="Point03" tilt="2.31035"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="-130.551" skinid="hotspot" url="{node64}" id="Point04" tilt="2.7347"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-136.326" skinid="hs_copter" url="{node74}" id="Point05" tilt="-6.90401"/>
+      <hotspot title="Хребет Агиге" target="" pan="-139.045" skinid="hotspot" url="{node50}" id="Point06" tilt="-0.137056"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-143.842" skinid="hotspot" url="{node59}" id="Point07" tilt="-9.89814"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="209.927" skinid="hotspot" url="{node53}" id="Point08" tilt="0"/>
+      <hotspot title="Тхачский перевал" target="" pan="-154.781" skinid="hotspot" url="{node60}" id="Point09" tilt="-17.6058"/>
+      <hotspot title="г. Асбестная" target="" pan="-152.341" skinid="hotspot" url="{node58}" id="Point10" tilt="-0.0330513"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-153.902" skinid="hotspot" url="{node51}" id="Point11" tilt="1.00576"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-156.771" skinid="hotspot" url="{node55}" id="Point12" tilt="-0.689365"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-160.338" skinid="hotspot" url="{node71}" id="Point13" tilt="-2.1287"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-169.815" skinid="hotspot" url="{node73}" id="Point14" tilt="-2.87453"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-173.923" skinid="hs_copter" url="{node69}" id="Point15" tilt="18.7122"/>
+      <hotspot title="г. Оштен" target="" pan="93.0655" skinid="hotspot" url="{node_lagonaki_11}" id="Point16" tilt="1.56529"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-158.016" skinid="hs_copter" url="{node68}" id="Point17" tilt="11.7955"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-3_Tkhach-Peak-2_o_0.jpg" prev5url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_5.jpg" prev4url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_4.jpg" prev3url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_3.jpg" prev2url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_2.jpg" prev1url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_1.jpg" prev0url="images/Tkhach-Air-3_Tkhach-Peak-2_o_preview_0.jpg" tile5url="images/Tkhach-Air-3_Tkhach-Peak-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-3_Tkhach-Peak-2_o_4.jpg" tile3url="images/Tkhach-Air-3_Tkhach-Peak-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-3_Tkhach-Peak-2_o_2.jpg" tile1url="images/Tkhach-Air-3_Tkhach-Peak-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node64" hideabout="1">
+    <view fovmode="0" pannorth="36">
+      <start pan="282.5" fov="70" tilt="-15.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой Тхач, пик 1" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-pik-1" longitude="40.425811" latitude="44.043974"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-120.565" skinid="hotspot" url="{node52}" id="Point01" tilt="1.17996"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-109.779" skinid="hotspot" url="{node53}" id="Point03" tilt="0.0907536"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-114.058" skinid="hotspot" url="{node51}" id="Point05" tilt="0.931588"/>
+      <hotspot title="Тхачский перевал" target="" pan="-118.72" skinid="hotspot" url="{node60}" id="Point06" tilt="-25.4943"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-122.651" skinid="hotspot" url="{node71}" id="Point07" tilt="-2.00922"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-126.137" skinid="hs_copter" url="{node68}" id="Point08" tilt="13.4452"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-133.727" skinid="hotspot" url="{node73}" id="Point09" tilt="-2.49512"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-136.867" skinid="hs_copter" url="{node69}" id="Point10" tilt="19.225"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="89.95440000000001" skinid="hotspot" url="{node63}" id="Point11" tilt="-0.473874"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-76.9419" skinid="hotspot" url="{node61}" id="Point12" tilt="2.21842"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-79.1404" skinid="hs_copter" url="{node70}" id="Point13" tilt="36.7739"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-90.9791" skinid="hotspot" url="{node48}" id="Point14" tilt="-0.388551"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-93.1384" skinid="hs_copter" url="{node74}" id="Point15" tilt="-19.8751"/>
+      <hotspot title="Хребет Агиге" target="" pan="-98.3933" skinid="hotspot" url="{node50}" id="Point16" tilt="-0.246273"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-105.431" skinid="hotspot" url="{node59}" id="Point17" tilt="-11.2241"/>
+      <hotspot title="г. Оштен" target="" pan="133.347" skinid="hotspot" url="{node_lagonaki_11}" id="Point18" tilt="1.60829"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-4_Tkhach-Peak-1_o_0.jpg" prev5url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_5.jpg" prev4url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_4.jpg" prev3url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_3.jpg" prev2url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_2.jpg" prev1url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_1.jpg" prev0url="images/Tkhach-Air-4_Tkhach-Peak-1_o_preview_0.jpg" tile5url="images/Tkhach-Air-4_Tkhach-Peak-1_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-4_Tkhach-Peak-1_o_4.jpg" tile3url="images/Tkhach-Air-4_Tkhach-Peak-1_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-4_Tkhach-Peak-1_o_2.jpg" tile1url="images/Tkhach-Air-4_Tkhach-Peak-1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node65" hideabout="1">
+    <view fovmode="0" pannorth="125">
+      <start pan="265" fov="70" tilt="-13"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой Тхач, восточный пик" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|2021|пиксель" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-pik-vost-1" longitude="40.43036760000000" latitude="44.04339250000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-108.555" skinid="hotspot" url="{node61}" id="Point01" tilt="15.5765"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-34.1487" skinid="hotspot" url="{node52}" id="Point02" tilt="2.38067"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-27.3869" skinid="hotspot" url="{node51}" id="Point03" tilt="2.0032"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-30.3536" skinid="hotspot" url="{node55}" id="Point05" tilt="0"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-2.99851" skinid="hotspot" url="{node48}" id="Point06" tilt="-0.196238"/>
+      <hotspot title="Хребет Агиге" target="" pan="-10.6755" skinid="hotspot" url="{node50}" id="Point07" tilt="0.247899"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-23.5023" skinid="hotspot" url="{node59}" id="Point08" tilt="-11.5188"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-41.6037" skinid="hotspot" url="{node71}" id="Point09" tilt="-1.28875"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="85.5/2.5/65" pan="-73.9361" skinid="hs_copter" url="{node74}" id="Point11" tilt="-10.9981"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-55.5074" skinid="hotspot" url="{node73}" id="Point10" tilt="-1.58184"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-54.0804" skinid="hs_copter" url="{node69}" id="Point12" tilt="21.7284"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-70.1443" skinid="hs_copter" url="{node68}" id="Point13" tilt="14.4111"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-136.502" skinid="hs_copter" url="{node70}" id="Point14" tilt="89.9425"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="-166.717" skinid="hotspot" url="{node63}" id="Point04" tilt="0.984198"/>
+      <hotspot title="Большой Тхач, пик 3 - с Крестом" target="" pan="-174.705" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.261952"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="-159.064" skinid="hotspot" url="{node64}" id="Point16" tilt="2.61688"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_0.jpg" prev5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_4.jpg" tile3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_2.jpg" tile1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node67" hideabout="1">
+    <view fovmode="0" pannorth="222">
+      <start pan="281" fov="70" tilt="-11"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Подъём к Кристальной пещере" datetime="7.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|2021|пиксель" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/podyom-crystal-cave" longitude="40.403333" latitude="44.060997"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Вход в Кристальную пещеру" target="" pan="61.1173" skinid="hotspot" url="{node40}" id="Point01" tilt="22.8006"/>
+      <hotspot title="г. Оштен" target="" pan="-37.6574" skinid="hotspot" url="{node_lagonaki_11}" id="Point02" tilt="1.68753"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="-111.652" skinid="hs_copter" url="{node78}" id="Point03" tilt="-4.44968"/>
+      <hotspot title="г. Колокольня" target="" pan="-78.071" skinid="hotspot" url="{node75}" id="Point04" tilt="-12.9619"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="54.2055" skinid="hotspot" url="{node77}" id="Point06" tilt="29.1959"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Pixel-4_podyom--k-peschere_o_0.jpg" prev5url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-4_podyom--k-peschere_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-4_podyom--k-peschere_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-4_podyom--k-peschere_o_4.jpg" tile3url="images/Tkhach-Pixel-4_podyom--k-peschere_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-4_podyom--k-peschere_o_2.jpg" tile1url="images/Tkhach-Pixel-4_podyom--k-peschere_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node68" hideabout="1">
+    <view fovmode="0" pannorth="8">
+      <start pan="14.5" fov="70" tilt="-19"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Тхачский перевал с высоты 400 м" datetime="6.11.2021" description="Высота точки съёмки 2370 м" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/per-tkhachskiy-400" longitude="40.428439" latitude="44.037463"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="0.0347692" skinid="hotspot" url="{node61}" id="Point01" tilt="1.0082"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="0.850317" skinid="hs_copter" url="{node70}" id="Point02" tilt="28.6264"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="-5.11153" skinid="hotspot" url="{node65}" id="Point03" tilt="-0.359021"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="24.1881" skinid="hotspot" url="{node64}" id="Point04" tilt="0.418987"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="33.0102" skinid="hotspot" url="{node63}" id="Point05" tilt="0.0802274"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="35.9353" skinid="hotspot" url="{node62}" id="Point06" tilt="-0.64717"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="47.6906" skinid="hotspot" url="{node77}" id="Point08" tilt="-3.93157"/>
+      <hotspot title="Тхачский перевал" target="" pan="-38.2021" skinid="hotspot" url="{node60}" id="Point09" tilt="-64.5715"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-0.242354" skinid="hs_copter" url="{node74}" id="Point10" tilt="-9.011189999999999"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-165.21" skinid="hotspot" url="{node73}" id="Point11" tilt="-5.36761"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-175.41" skinid="hs_copter" url="{node69}" id="Point12" tilt="27.9735"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-148.713" skinid="hotspot" url="{node71}" id="Point13" tilt="-3.26396"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-116.585" skinid="hotspot" url="{node48}" id="Point14" tilt="-0.400796"/>
+      <hotspot title="Хребет Агиге" target="" pan="-124.41" skinid="hotspot" url="{node50}" id="Point15" tilt="-0.31482"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-136.462" skinid="hotspot" url="{node53}" id="Point16" tilt="0"/>
+      <hotspot title="г. Асбестная" target="" pan="-138.166" skinid="hotspot" url="{node58}" id="Point17" tilt="-0.7134120000000001"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-140.872" skinid="hotspot" url="{node51}" id="Point18" tilt="0.8390030000000001"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-147.68" skinid="hotspot" url="{node52}" id="Point19" tilt="1.49464"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-144.012" skinid="hotspot" url="{node55}" id="Point20" tilt="-1.25445"/>
+      <hotspot title="г. Оштен" target="" pan="104.228" skinid="hotspot" url="{node_lagonaki_11}" id="Point21" tilt="0.9757900000000001"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-121.395" skinid="hotspot" url="{node59}" id="Point22" tilt="-16.4915"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_0.jpg" prev5url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_5.jpg" prev4url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_4.jpg" prev3url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_3.jpg" prev2url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_2.jpg" prev1url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_1.jpg" prev0url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_0.jpg" tile5url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_4.jpg" tile3url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_2.jpg" tile1url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node69" hideabout="1">
+    <view fovmode="0" pannorth="33">
+      <start pan="39" fov="70" tilt="-23"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="600 м над Малым Тхачом" datetime="6.11.2021" description="Высота точки съёмки 2870 м" copyright="" tags="Тхач|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/m-tkhach-600" longitude="40.427471" latitude="44.02838900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="127.764" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.284844"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="36.8451" skinid="hotspot" url="{node64}" id="Point02" tilt="-14.6781"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="25.83" skinid="hs_copter" url="{node68}" id="Point03" tilt="-27.468"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="26.9358" skinid="hotspot" url="{node61}" id="Point04" tilt="-15.8722"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="27.4111" skinid="hs_copter" url="{node70}" id="Point05" tilt="1.64712"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="24.9211" skinid="hotspot" url="{node65}" id="Point06" tilt="-15.7106"/>
+      <hotspot title="Тхачский перевал" target="" pan="24.2953" skinid="hotspot" url="{node60}" id="Point08" tilt="-39.0515"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="42.5457" skinid="hotspot" url="{node63}" id="Point09" tilt="-14.0156"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="46.0233" skinid="hotspot" url="{node62}" id="Point10" tilt="-13.093"/>
+      <hotspot title="г. Колокольня" target="" pan="64.0985" skinid="hotspot" url="{node75}" id="Point11" tilt="-12.3021"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="61.8821" skinid="hotspot" url="{node77}" id="Point13" tilt="-10.971"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-118.089" skinid="hotspot" url="{node52}" id="Point14" tilt="-3.13148"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-110.799" skinid="hotspot" url="{node51}" id="Point16" tilt="-2.88207"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-106.434" skinid="hotspot" url="{node53}" id="Point19" tilt="-3.6745"/>
+      <hotspot title="г. Асбестная" target="" pan="-101.734" skinid="hotspot" url="{node58}" id="Point20" tilt="-9.18426"/>
+      <hotspot title="У Малого Тхача в воздухе" target="" pan="-102.778" skinid="hs_copter" url="{node72}" id="Point21" tilt="-32.9743"/>
+      <hotspot title="Хребет Агиге" target="" pan="-94.5448" skinid="hotspot" url="{node50}" id="Point22" tilt="-3.56233"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-87.08580000000001" skinid="hotspot" url="{node73}" id="Point23" tilt="-70.18170000000001"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-93.8746" skinid="hotspot" url="{node71}" id="Point25" tilt="-31.119"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-86.84139999999999" skinid="hotspot" url="{node48}" id="Point26" tilt="-2.88551"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-51.1437" skinid="hotspot" url="{node59}" id="Point27" tilt="-37.7574"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="65.8032" skinid="hotspot" url="{node79}" id="Point29" tilt="-7.82229"/>
+      <hotspot title="Станица Даховская" target="" pan="70.8072" skinid="hotspot" url="{node81}" id="Point07" tilt="-4.49694"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-6_M-Tkhach+600_o_0.jpg" prev5url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_5.jpg" prev4url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_4.jpg" prev3url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_3.jpg" prev2url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_2.jpg" prev1url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_1.jpg" prev0url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_0.jpg" tile5url="images/Tkhach-Air-6_M-Tkhach+600_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-6_M-Tkhach+600_o_4.jpg" tile3url="images/Tkhach-Air-6_M-Tkhach+600_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-6_M-Tkhach+600_o_2.jpg" tile1url="images/Tkhach-Air-6_M-Tkhach+600_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node70" hideabout="1">
+    <view fovmode="0" pannorth="19.5">
+      <start pan="31.5" fov="70" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Большой Тхач с высоты 500 м" datetime="7.11.2021" description="Высота точки съёмки 2870 м" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-500" longitude="40.429546" latitude="44.04283800000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="116.722" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.460327"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="-38.9485" skinid="hotspot" url="{node65}" id="Point02" tilt="-78.7144"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-108.317" skinid="hotspot" url="{node48}" id="Point03" tilt="-2.93402"/>
+      <hotspot title="Хребет Агиге" target="" pan="-117.033" skinid="hotspot" url="{node50}" id="Point05" tilt="-3.01508"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-127.532" skinid="hotspot" url="{node53}" id="Point06" tilt="-2.87649"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-126.706" skinid="hotspot" url="{node59}" id="Point07" tilt="-26.3404"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-132.174" skinid="hotspot" url="{node51}" id="Point08" tilt="-2.23839"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-138.859" skinid="hotspot" url="{node52}" id="Point10" tilt="-2.52791"/>
+      <hotspot title="г. Асбестная" target="" pan="-132.104" skinid="hotspot" url="{node58}" id="Point11" tilt="-6.86984"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-145.239" skinid="hotspot" url="{node71}" id="Point12" tilt="-14.0112"/>
+      <hotspot title="Тхачский перевал" target="" pan="-153.192" skinid="hotspot" url="{node60}" id="Point13" tilt="-59.6058"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-157.475" skinid="hotspot" url="{node73}" id="Point14" tilt="-17.0646"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-166.3" skinid="hs_copter" url="{node69}" id="Point15" tilt="9.521610000000001"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-175.818" skinid="hs_copter" url="{node68}" id="Point16" tilt="-35.3497"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="58.5188" skinid="hs_copter" url="{node79}" id="Point18" tilt="-9.700889999999999"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="68.4152" skinid="hotspot" url="{node77}" id="Point19" tilt="-14.7536"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="73.2469" skinid="hotspot" url="{node62}" id="Point21" tilt="-31.2085"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="78.4028" skinid="hotspot" url="{node63}" id="Point22" tilt="-39.0364"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="84.3955" skinid="hotspot" url="{node64}" id="Point23" tilt="-55.2819"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="149.997" skinid="hotspot" url="{node61}" id="Point24" tilt="-89.9619"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-160.237" skinid="hs_copter" url="{node74}" id="Point25" tilt="-78.4851"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="51.9336" skinid="hotspot" url="{node78}" id="Point20" tilt="-11.4408"/>
+      <hotspot title="Станица Даховская" target="" pan="59.6412" skinid="hotspot" url="{node81}" id="Point04" tilt="-4.3847"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-7_B-Tkhach+500_o_0.jpg" prev5url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_5.jpg" prev4url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_4.jpg" prev3url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_3.jpg" prev2url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_2.jpg" prev1url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_1.jpg" prev0url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_0.jpg" tile5url="images/Tkhach-Air-7_B-Tkhach+500_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-7_B-Tkhach+500_o_4.jpg" tile3url="images/Tkhach-Air-7_B-Tkhach+500_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-7_B-Tkhach+500_o_2.jpg" tile1url="images/Tkhach-Air-7_B-Tkhach+500_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node71" hideabout="1">
+    <view fovmode="0" pannorth="14">
+      <start pan="244.5" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Малый Тхач, вторая вершина" datetime="6.11.2021" description="Высота 2237 м" copyright="" tags="Тхач|Тхач_М|2021|коптер" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/m-tkhach-2" longitude="40.437034" latitude="44.023218"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-141.227" skinid="hotspot" url="{node52}" id="Point01" tilt="4.42797"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-132.237" skinid="hotspot" url="{node51}" id="Point02" tilt="3.82609"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="-136.338" skinid="hotspot" url="{node55}" id="Point03" tilt="0.398994"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-127.263" skinid="hotspot" url="{node53}" id="Point04" tilt="2.5783"/>
+      <hotspot title="г. Асбестная" target="" pan="-123.774" skinid="hotspot" url="{node58}" id="Point05" tilt="2.36343"/>
+      <hotspot title="Хребет Агиге" target="" pan="-113.391" skinid="hotspot" url="{node50}" id="Point06" tilt="0.797045"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-104.918" skinid="hotspot" url="{node48}" id="Point07" tilt="0.78094"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-15.1698" skinid="hotspot" url="{node59}" id="Point08" tilt="-17.7115"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="70.5698" skinid="hs_copter" url="{node69}" id="Point09" tilt="35.593"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="68.3441" skinid="hotspot" url="{node73}" id="Point10" tilt="1.45739"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="27.5726" skinid="hotspot" url="{node65}" id="Point11" tilt="3.95032"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="29.9163" skinid="hotspot" url="{node61}" id="Point12" tilt="4.82194"/>
+      <hotspot title="Тхачский перевал" target="" pan="33.4496" skinid="hotspot" url="{node60}" id="Point13" tilt="-6.35465"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="35.7324" skinid="hotspot" url="{node64}" id="Point14" tilt="4.30252"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="38.4524" skinid="hotspot" url="{node63}" id="Point15" tilt="3.66765"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="38.162" skinid="hs_copter" url="{node68}" id="Point17" tilt="10.4822"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="48.4181" skinid="hotspot" url="{node77}" id="Point19" tilt="-0.770362"/>
+      <hotspot title="У Малого Тхача в воздухе" target="" pan="-179.997" skinid="hs_copter" url="{node72}" id="Point20" tilt="-14.7734"/>
+      <hotspot title="г. Оштен" target="" pan="108.344" skinid="hotspot" url="{node_lagonaki_11}" id="Point21" tilt="2.67886"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="29.8841" skinid="hs_copter" url="{node70}" id="Point22" tilt="25.0247"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-8_M-Tkhach-1_o_0.jpg" prev5url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_5.jpg" prev4url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_4.jpg" prev3url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_3.jpg" prev2url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_2.jpg" prev1url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_1.jpg" prev0url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_0.jpg" tile5url="images/Tkhach-Air-8_M-Tkhach-1_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-8_M-Tkhach-1_o_4.jpg" tile3url="images/Tkhach-Air-8_M-Tkhach-1_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-8_M-Tkhach-1_o_2.jpg" tile1url="images/Tkhach-Air-8_M-Tkhach-1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node72" hideabout="1">
+    <view fovmode="0" pannorth="283.5">
+      <start pan="301.5" fov="70" tilt="-27.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="У Малого Тхача в воздухе" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_М|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/m-tkhach-air" longitude="40.436852" latitude="44.022451"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="17.3565" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="1.52238"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="-62.1269" skinid="hotspot" url="{node61}" id="Point02" tilt="3.79385"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="-64.3249" skinid="hotspot" url="{node65}" id="Point03" tilt="3.20099"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="-56.8308" skinid="hotspot" url="{node64}" id="Point04" tilt="3.45664"/>
+      <hotspot title="Тхачский перевал" target="" pan="-59.7129" skinid="hotspot" url="{node60}" id="Point05" tilt="-6.18366"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="-52.4681" skinid="hotspot" url="{node62}" id="Point06" tilt="2.24354"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="-53.6699" skinid="hotspot" url="{node63}" id="Point07" tilt="2.89707"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-54.864" skinid="hotspot" url="{node68}" id="Point08" tilt="11.8145"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="-43.9043" skinid="hotspot" url="{node77}" id="Point10" tilt="-0.2494"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-27.3792" skinid="hotspot" url="{node69}" id="Point11" tilt="37.1014"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="330.866" skinid="hotspot" url="{node73}" id="Point12" tilt="0"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-62.1637" skinid="hotspot" url="{node70}" id="Point13" tilt="25.0368"/>
+      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="297.3" skinid="hotspot" url="{node74}" id="Point14" tilt="0"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-86.45740000000001" skinid="hotspot" url="{node71}" id="Point15" tilt="-4.03795"/>
+      <hotspot title="г. Асбестная" target="" pan="147.368" skinid="hotspot" url="{node58}" id="Point16" tilt="1.24685"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="128.575" skinid="hotspot" url="{node52}" id="Point17" tilt="3.38201"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="137.652" skinid="hotspot" url="{node51}" id="Point18" tilt="2.7625"/>
+      <hotspot title="пер. Чёртовы ворота" target="" pan="133.716" skinid="hotspot" url="{node55}" id="Point19" tilt="0"/>
+      <hotspot title="Хребет Агиге" target="" pan="156.734" skinid="hotspot" url="{node50}" id="Point20" tilt="0.351888"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="165.118" skinid="hotspot" url="{node48}" id="Point21" tilt="0.281704"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_0.jpg" prev5url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_5.jpg" prev4url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_4.jpg" prev3url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_3.jpg" prev2url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_2.jpg" prev1url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_1.jpg" prev0url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_0.jpg" tile5url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_4.jpg" tile3url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_2.jpg" tile1url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node73" hideabout="1">
+    <view fovmode="0" pannorth="57">
+      <start pan="79.5" fov="70" tilt="-18.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Малый Тхач, главная вершина" datetime="6.11.2021" description="Высота 2237 м" copyright="" tags="Тхач|Тхач_М|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/m-tkhach" longitude="40.430138" latitude="44.02681800000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="151.205" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="1.73953"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="108.627" skinid="hs_copter" url="{node69}" id="Point02" tilt="35.4989"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="55.868" skinid="hotspot" url="{node65}" id="Point03" tilt="4.35121"/>
+      <hotspot title="Тхачский перевал" target="" pan="57.9488" skinid="hotspot" url="{node60}" id="Point04" tilt="-10.3857"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="58.609" skinid="hotspot" url="{node61}" id="Point06" tilt="5.00991"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="58.7445" skinid="hs_copter" url="{node70}" id="Point07" tilt="34.3417"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="63.3961" skinid="hs_copter" url="{node68}" id="Point08" tilt="14.0514"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="67.10769999999999" skinid="hotspot" url="{node64}" id="Point09" tilt="4.58176"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="71.6452" skinid="hotspot" url="{node63}" id="Point10" tilt="4.12239"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="74.1765" skinid="hotspot" url="{node62}" id="Point11" tilt="3.16268"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="87.526" skinid="hotspot" url="{node77}" id="Point13" tilt="-0.444453"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-95.0354" skinid="hotspot" url="{node52}" id="Point14" tilt="3.82113"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-87.4747" skinid="hotspot" url="{node51}" id="Point16" tilt="3.16154"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-82.85509999999999" skinid="hotspot" url="{node53}" id="Point17" tilt="2.20485"/>
+      <hotspot title="г. Асбестная" target="" pan="-78.1627" skinid="hotspot" url="{node58}" id="Point18" tilt="2.26814"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-68.8253" skinid="hotspot" url="{node71}" id="Point21" tilt="1.96262"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-62.4302" skinid="hotspot" url="{node48}" id="Point22" tilt="0.597748"/>
+      <hotspot title="г. Колокольня" target="" pan="89.694" skinid="hotspot" url="{node75}" id="Point12" tilt="-3.47503"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-10_M-Tkhach-2_o_0.jpg" prev5url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_5.jpg" prev4url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_4.jpg" prev3url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_3.jpg" prev2url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_2.jpg" prev1url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_1.jpg" prev0url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_0.jpg" tile5url="images/Tkhach-Air-10_M-Tkhach-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-10_M-Tkhach-2_o_4.jpg" tile3url="images/Tkhach-Air-10_M-Tkhach-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-10_M-Tkhach-2_o_2.jpg" tile1url="images/Tkhach-Air-10_M-Tkhach-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node74" hideabout="1">
+    <view fovmode="0" pannorth="49">
+      <start pan="87.5" fov="70" tilt="4.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Стена Большого Тхача с воздуха" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-stena" longitude="40.430211" latitude="44.04117900000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Западный Ачешбок" target="" pan="-109.388" skinid="hotspot" url="{node52}" id="Point01" tilt="1.96432"/>
+      <hotspot title="г. Восточный Ачешбок" target="" pan="-102.529" skinid="hotspot" url="{node51}" id="Point03" tilt="1.48996"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-97.8921" skinid="hotspot" url="{node53}" id="Point05" tilt="0.70289"/>
+      <hotspot title="Хребет Агиге" target="" pan="-85.6584" skinid="hotspot" url="{node50}" id="Point06" tilt="0"/>
+      <hotspot title="Пупырь у Сундуков" target="" pan="-77.93129999999999" skinid="hotspot" url="{node48}" id="Point08" tilt="0"/>
+      <hotspot title="отрог Малого Тхача" target="" pan="-95.34350000000001" skinid="hotspot" url="{node59}" id="Point09" tilt="-11.2353"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-115.714" skinid="hotspot" url="{node71}" id="Point10" tilt="-0.07944859999999999"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="228.791" skinid="hotspot" url="{node73}" id="Point11" tilt="0"/>
+      <hotspot title="Тхачский перевал" target="" pan="-123.207" skinid="hotspot" url="{node60}" id="Point12" tilt="-42.4054"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-139.976" skinid="hs_copter" url="{node69}" id="Point13" tilt="24.7207"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-151.083" skinid="hs_copter" url="{node68}" id="Point14" tilt="9.78187"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="65.2062" skinid="hotspot" url="{node70}" id="Point15" tilt="47.4704"/>
+      <hotspot title="г. Большой Тхач, вершина" target="" pan="65.4199" skinid="hotspot" url="{node61}" id="Point16" tilt="33.1585"/>
+      <hotspot title="Большой Тхач, пик 3" target="" pan="42.7389" skinid="hotspot" url="{node65}" id="Point17" tilt="24.9623"/>
+      <hotspot title="Большой Тхач, пик 1" target="" pan="98.3133" skinid="hotspot" url="{node64}" id="Point18" tilt="14.7709"/>
+      <hotspot title="г. Оштен" target="" pan="145.857" skinid="hotspot" url="{node_lagonaki_11}" id="Point19" tilt="1.7795"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-11_Stena-Tkhacha_o_0.jpg" prev5url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_5.jpg" prev4url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_4.jpg" prev3url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_3.jpg" prev2url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_2.jpg" prev1url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_1.jpg" prev0url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_0.jpg" tile5url="images/Tkhach-Air-11_Stena-Tkhacha_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-11_Stena-Tkhacha_o_4.jpg" tile3url="images/Tkhach-Air-11_Stena-Tkhacha_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-11_Stena-Tkhacha_o_2.jpg" tile1url="images/Tkhach-Air-11_Stena-Tkhacha_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node75" hideabout="1">
+    <view fovmode="0" pannorth="243">
+      <start pan="114.5" fov="70" tilt="2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="г. Колокольня" datetime="6.11.2021" description="Высота 1761 м" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/kolokolnya" longitude="40.397679" latitude="44.063251"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="-16.0195" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.821894"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="95.1866" skinid="hs_copter" url="{node69}" id="Point02" tilt="12.5476"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="95.324" skinid="hotspot" url="{node73}" id="Point03" tilt="5.99879"/>
+      <hotspot title="Подъём к Кристальной пещере" target="" pan="124.55" skinid="hotspot" url="{node67}" id="Point04" tilt="14.8722"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="98.2651" skinid="hotspot" url="{node71}" id="Point05" tilt="4.96803"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="108.466" skinid="hotspot" url="{node77}" id="Point07" tilt="20.778"/>
+      <hotspot title="Вход в Кристальную пещеру" target="" pan="114.956" skinid="hotspot" url="{node40}" id="Point08" tilt="17.7098"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="-93.6037" skinid="hs_copter" url="{node78}" id="Point09" tilt="1.54042"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="-82.7897" skinid="hs_copter" url="{node79}" id="Point10" tilt="-5.73075"/>
+      <hotspot title="Тайвань" target="" pan="-94.43680000000001" skinid="hotspot" url="{node80}" id="Point11" tilt="-8.208460000000001"/>
+      <hotspot title="Станица Даховская" target="" pan="-77.84869999999999" skinid="hotspot" url="{node81}" id="Point06" tilt="-2.30694"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-12_Kolokolnya_o_0.jpg" prev5url="images/Tkhach-Air-12_Kolokolnya_o_preview_5.jpg" prev4url="images/Tkhach-Air-12_Kolokolnya_o_preview_4.jpg" prev3url="images/Tkhach-Air-12_Kolokolnya_o_preview_3.jpg" prev2url="images/Tkhach-Air-12_Kolokolnya_o_preview_2.jpg" prev1url="images/Tkhach-Air-12_Kolokolnya_o_preview_1.jpg" prev0url="images/Tkhach-Air-12_Kolokolnya_o_preview_0.jpg" tile5url="images/Tkhach-Air-12_Kolokolnya_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-12_Kolokolnya_o_4.jpg" tile3url="images/Tkhach-Air-12_Kolokolnya_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-12_Kolokolnya_o_2.jpg" tile1url="images/Tkhach-Air-12_Kolokolnya_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node77" hideabout="1">
+    <view fovmode="0" pannorth="339.5">
+      <start pan="3" fov="70" tilt="-15.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Выступ Тхача у Колокольни" datetime="6.11.2021" description="" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/b-tkhach-vystup-kolokolnya" longitude="40.40372790000000" latitude="44.05909870000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Оштен" target="" pan="79.6463" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.865973"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="4.90677" skinid="hs_copter" url="{node78}" id="Point02" tilt="-8.06324"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="-170.619" skinid="hs_copter" url="{node69}" id="Point03" tilt="12.25"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-169.538" skinid="hotspot" url="{node73}" id="Point04" tilt="4.51664"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-165.873" skinid="hotspot" url="{node71}" id="Point05" tilt="4.36476"/>
+      <hotspot title="г. Асбестная" target="" pan="-163.302" skinid="hotspot" url="{node58}" id="Point06" tilt="4.03687"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="-152.884" skinid="hotspot" url="{node62}" id="Point08" tilt="10.8504"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="15.519" skinid="hs_copter" url="{node79}" id="Point10" tilt="-7.68902"/>
+      <hotspot title="Вход в Кристальную пещеру" target="" pan="-15.7404" skinid="hs_go" url="{node40}" id="Point11" tilt="-38.0784"/>
+      <hotspot title="Станица Даховская" target="" pan="18.2942" skinid="hotspot" url="{node81}" id="Point13" tilt="-3.27305"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_0.jpg" prev5url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_5.jpg" prev4url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_4.jpg" prev3url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_3.jpg" prev2url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_2.jpg" prev1url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_1.jpg" prev0url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_preview_0.jpg" tile5url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_4.jpg" tile3url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_2.jpg" tile1url="images/Tkhach-Air-14_Vystup-Tkhacha-u-Kolokolni-3-4_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node80" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Тайвань" datetime="7.11.2021" description="" copyright="" tags="Тхач|Тайвань|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/taiwan" longitude="40.37584600000000" latitude="44.10079400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Колокольня" target="" pan="150.911" skinid="hs_go" url="{node75}" id="Point01" tilt="-4.16343"/>
+      <hotspot title="Станица Даховская" target="" pan="57.1565" skinid="hs_go" url="{node81}" id="Point02" tilt="-7.6569"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="65.94450000000001" skinid="hs_copter" url="{node79}" id="Point03" tilt="25.4934"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="150.527" skinid="hs_copter" url="{node78}" id="Point04" tilt="88.0985"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-18_Taiwan_o_0.jpg" prev5url="images/Tkhach-18_Taiwan_o_preview_5.jpg" prev4url="images/Tkhach-18_Taiwan_o_preview_4.jpg" prev3url="images/Tkhach-18_Taiwan_o_preview_3.jpg" prev2url="images/Tkhach-18_Taiwan_o_preview_2.jpg" prev1url="images/Tkhach-18_Taiwan_o_preview_1.jpg" prev0url="images/Tkhach-18_Taiwan_o_preview_0.jpg" tile5url="images/Tkhach-18_Taiwan_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-18_Taiwan_o_4.jpg" tile3url="images/Tkhach-18_Taiwan_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-18_Taiwan_o_2.jpg" tile1url="images/Tkhach-18_Taiwan_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node78" hideabout="1">
+    <view fovmode="0" pannorth="310.5">
+      <start pan="161" fov="70" tilt="-10.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Тайвань с высоты 500 м" datetime="7.11.2021" description="Высота точки съёмки 1350 м" copyright="" tags="Тхач|Тхач_Б|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/taiwan-500" longitude="40.37584600000000" latitude="44.10079400000000"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Колокольня" target="" pan="153.635" skinid="hotspot" url="{node75}" id="Point01" tilt="7.3606"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="156.449" skinid="hotspot" url="{node77}" id="Point02" tilt="8.89676"/>
+      <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="19.2273" skinid="hs_copter" url="{node79}" id="Point03" tilt="2.68084"/>
+      <hotspot title="г. Оштен" target="" pan="58.5252" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="3.24479"/>
+      <hotspot title="Станица Даховская" target="" pan="-6.54445" skinid="hotspot" url="{node81}" id="Point05" tilt="-1.25027"/>
+      <hotspot title="Тайвань" target="" pan="46.9625" skinid="hs_copter" url="{node80}" id="Point06" tilt="-89.1494"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-15_Taiwan+500_o_0.jpg" prev5url="images/Tkhach-Air-15_Taiwan+500_o_preview_5.jpg" prev4url="images/Tkhach-Air-15_Taiwan+500_o_preview_4.jpg" prev3url="images/Tkhach-Air-15_Taiwan+500_o_preview_3.jpg" prev2url="images/Tkhach-Air-15_Taiwan+500_o_preview_2.jpg" prev1url="images/Tkhach-Air-15_Taiwan+500_o_preview_1.jpg" prev0url="images/Tkhach-Air-15_Taiwan+500_o_preview_0.jpg" tile5url="images/Tkhach-Air-15_Taiwan+500_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-15_Taiwan+500_o_4.jpg" tile3url="images/Tkhach-Air-15_Taiwan+500_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-15_Taiwan+500_o_2.jpg" tile1url="images/Tkhach-Air-15_Taiwan+500_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node79" hideabout="1">
+    <view fovmode="0" pannorth="27">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Долина р. Сахрай с высоты 500 м" datetime="7.11.2021" description="Высота точки съёмки 1350 м" copyright="" tags="Тхач|Сахрай|коптер|2021" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/sakhray-500" longitude="40.358355" latitude="44.105741"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="г. Колокольня" target="" pan="-119.289" skinid="hotspot" url="{node75}" id="Point02" tilt="5.03525"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="" pan="-118.05" skinid="hotspot" url="{node77}" id="Point04" tilt="6.78923"/>
+      <hotspot title="Тайвань" target="" pan="-84.5864" skinid="hotspot" url="{node80}" id="Point05" tilt="-16.7174"/>
+      <hotspot title="Тайвань с высоты 500 м" target="" pan="-83.4871" skinid="hs_copter" url="{node78}" id="Point06" tilt="4.53115"/>
+      <hotspot title="Станица Даховская" target="" pan="67.89149999999999" skinid="hotspot" url="{node81}" id="Point07" tilt="-2.10679"/>
+      <hotspot title="г. Оштен" target="" pan="136.263" skinid="hotspot" url="{node_lagonaki_11}" id="Point09" tilt="3.02424"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-16_Sakhray_o_0.jpg" prev5url="images/Tkhach-Air-16_Sakhray_o_preview_5.jpg" prev4url="images/Tkhach-Air-16_Sakhray_o_preview_4.jpg" prev3url="images/Tkhach-Air-16_Sakhray_o_preview_3.jpg" prev2url="images/Tkhach-Air-16_Sakhray_o_preview_2.jpg" prev1url="images/Tkhach-Air-16_Sakhray_o_preview_1.jpg" prev0url="images/Tkhach-Air-16_Sakhray_o_preview_0.jpg" tile5url="images/Tkhach-Air-16_Sakhray_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-16_Sakhray_o_4.jpg" tile3url="images/Tkhach-Air-16_Sakhray_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-16_Sakhray_o_2.jpg" tile1url="images/Tkhach-Air-16_Sakhray_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node81" hideabout="1">
+    <view fovmode="0" pannorth="183">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Станица Даховская" datetime="7.11.2021" description="" copyright="" tags="Тхач|Даховская|населёнка|2021|коптер" author="Михаил Волков, г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/gory/dakhovskaya" longitude="40.201340" latitude="44.235622"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Тайвань" target="" pan="33.0701" skinid="hs_go" url="{node80}" id="Point01" tilt="-2.83851"/>
+      <hotspot title="Плато Лаго-Наки" target="" pan="-32.1594" skinid="hs_go" url="{node_lagonaki_21}" id="Point02" tilt="-2.06821"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Tkhach-Air-17_Dakhovskaya_o_0.jpg" prev5url="images/Tkhach-Air-17_Dakhovskaya_o_preview_5.jpg" prev4url="images/Tkhach-Air-17_Dakhovskaya_o_preview_4.jpg" prev3url="images/Tkhach-Air-17_Dakhovskaya_o_preview_3.jpg" prev2url="images/Tkhach-Air-17_Dakhovskaya_o_preview_2.jpg" prev1url="images/Tkhach-Air-17_Dakhovskaya_o_preview_1.jpg" prev0url="images/Tkhach-Air-17_Dakhovskaya_o_preview_0.jpg" tile5url="images/Tkhach-Air-17_Dakhovskaya_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-17_Dakhovskaya_o_4.jpg" tile3url="images/Tkhach-Air-17_Dakhovskaya_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-17_Dakhovskaya_o_2.jpg" tile1url="images/Tkhach-Air-17_Dakhovskaya_o_1.jpg"/>
     <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="20.00"/>
     <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
   </panorama>
