@@ -2302,6 +2302,7 @@
       <hotspot title="Хребет Агиге" target="" pan="-37.0309" skinid="hotspot" url="{node50}" id="Point15" tilt="-0.299766"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-26.7557" skinid="hotspot" url="{node48}" id="Point17" tilt="-0.8760790000000001"/>
       <hotspot title="г. Оштен" target="" pan="178.055" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="1.63146"/>
+      <hotspot title="600 м над Малым Тхачом" target="" pan="131.881" skinid="hs_copter" url="{node69}" id="Point04" tilt="13.9355"/>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-11_Asbestnaya-10-2_o_0.jpg" prev5url="images/Tkhach-11_Asbestnaya-10-2_o_preview_5.jpg" prev4url="images/Tkhach-11_Asbestnaya-10-2_o_preview_4.jpg" prev3url="images/Tkhach-11_Asbestnaya-10-2_o_preview_3.jpg" prev2url="images/Tkhach-11_Asbestnaya-10-2_o_preview_2.jpg" prev1url="images/Tkhach-11_Asbestnaya-10-2_o_preview_1.jpg" prev0url="images/Tkhach-11_Asbestnaya-10-2_o_preview_0.jpg" tile5url="images/Tkhach-11_Asbestnaya-10-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-11_Asbestnaya-10-2_o_4.jpg" tile3url="images/Tkhach-11_Asbestnaya-10-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-11_Asbestnaya-10-2_o_2.jpg" tile1url="images/Tkhach-11_Asbestnaya-10-2_o_1.jpg"/>
@@ -2326,7 +2327,7 @@
       <hotspot title="Тхачский перевал" target="" pan="8.47147" skinid="hotspot" url="{node60}" id="Point07" tilt="2.08495"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="115.271" skinid="hotspot" url="{node71}" id="Point08" tilt="23.069"/>
       <hotspot title="г. Асбестная" target="" pan="164.201" skinid="hotspot" url="{node58}" id="Point09" tilt="10.3228"/>
-      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="61.1774" skinid="hs_copter" url="{node69}" id="Point10" tilt="40.9714"/>
+      <hotspot title="Малый Тхач с высоты 600 м" target="" pan="68.2614" skinid="hs_copter" url="{node69}" id="Point10" tilt="36.9212"/>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-12_prival_mezh_Thkachami_o_0.jpg" prev5url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_5.jpg" prev4url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_4.jpg" prev3url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_3.jpg" prev2url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_2.jpg" prev1url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_1.jpg" prev0url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_0.jpg" tile5url="images/Tkhach-12_prival_mezh_Thkachami_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-12_prival_mezh_Thkachami_o_4.jpg" tile3url="images/Tkhach-12_prival_mezh_Thkachami_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-12_prival_mezh_Thkachami_o_2.jpg" tile1url="images/Tkhach-12_prival_mezh_Thkachami_o_1.jpg"/>
@@ -2514,8 +2515,8 @@
       <hotspot title="600 м над Малым Тхачом" target="" pan="-54.0804" skinid="hs_copter" url="{node69}" id="Point12" tilt="21.7284"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-70.1443" skinid="hs_copter" url="{node68}" id="Point13" tilt="14.4111"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-136.502" skinid="hs_copter" url="{node70}" id="Point14" tilt="89.9425"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="-166.717" skinid="hotspot" url="{node63}" id="Point04" tilt="0.984198"/>
-      <hotspot title="Большой Тхач, пик 3 - с Крестом" target="" pan="-174.705" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.261952"/>
+      <hotspot title="Большой Тхач, пик 2" target="" pan="-168.461" skinid="hotspot" url="{node63}" id="Point04" tilt="1.08833"/>
+      <hotspot title="Большой Тхач, пик 3 - с Крестом" target="" pan="-177.318" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.614797"/>
       <hotspot title="Большой Тхач, пик 1" target="" pan="-159.064" skinid="hotspot" url="{node64}" id="Point16" tilt="2.61688"/>
     </hotspots>
     <media/>
@@ -2673,7 +2674,7 @@
       <hotspot title="г. Восточный Ачешбок" target="" pan="-132.237" skinid="hotspot" url="{node51}" id="Point02" tilt="3.82609"/>
       <hotspot title="пер. Чёртовы ворота" target="" pan="-136.338" skinid="hotspot" url="{node55}" id="Point03" tilt="0.398994"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-127.263" skinid="hotspot" url="{node53}" id="Point04" tilt="2.5783"/>
-      <hotspot title="г. Асбестная" target="" pan="-123.774" skinid="hotspot" url="{node58}" id="Point05" tilt="2.36343"/>
+      <hotspot title="г. Асбестная" target="" pan="-123.548" skinid="hotspot" url="{node58}" id="Point05" tilt="2.33657"/>
       <hotspot title="Хребет Агиге" target="" pan="-113.391" skinid="hotspot" url="{node50}" id="Point06" tilt="0.797045"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-104.918" skinid="hotspot" url="{node48}" id="Point07" tilt="0.78094"/>
       <hotspot title="отрог Малого Тхача" target="" pan="-15.1698" skinid="hotspot" url="{node59}" id="Point08" tilt="-17.7115"/>
