@@ -892,7 +892,7 @@
       <hotspot title="Перевал" target="244/-5.5/65" pan="-2.10574" skinid="hotspot" url="{node32}" id="Point03" tilt="-5.70736"/>
       <hotspot title="У высоты 1627" target="77.5/-0.5/65" pan="13.7252" skinid="hotspot" url="{node35}" id="Point04" tilt="2.36258"/>
       <hotspot title="Дольмен под Семиглавой" target="" pan="-84.5599" skinid="hotspot" url="{node33}" id="Point05" tilt="-16.8284"/>
-      <hotspot title="г. Оштен" target="" pan="35.4305" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.99924"/>
+      <hotspot title="г. Оштен" target="12/-13.5/65" pan="35.4305" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.99924"/>
     </hotspots>
     <media/>
     <input tile0url="images/semiglavaya_o_0.jpg" prev5url="images/semiglavaya_o_preview_5.jpg" prev4url="images/semiglavaya_o_preview_4.jpg" prev3url="images/semiglavaya_o_preview_3.jpg" prev2url="images/semiglavaya_o_preview_2.jpg" prev1url="images/semiglavaya_o_preview_1.jpg" prev0url="images/semiglavaya_o_preview_0.jpg" tile5url="images/semiglavaya_o_5.jpg" tilesize="2500" tile4url="images/semiglavaya_o_4.jpg" tile3url="images/semiglavaya_o_3.jpg" tilescale="1.004" tile2url="images/semiglavaya_o_2.jpg" tile1url="images/semiglavaya_o_1.jpg"/>
@@ -982,7 +982,7 @@
       <hotspot title="г. Семиглавая" target="188.5/-4.5/65" pan="-74.6883" skinid="hotspot" url="{node31}" id="Point01" tilt="0.133899"/>
       <hotspot title="Перевал" target="49/-0.5/65" pan="-71.3642" skinid="hotspot" url="{node32}" id="Point02" tilt="-3.05377"/>
       <hotspot title="Высота 1494, хребет Семиглавой" target="150/-6.5/65" pan="87.02070000000001" skinid="hs_go" url="{node36}" id="Point03" tilt="-4.58776"/>
-      <hotspot title="г. Оштен" target="" pan="132.16" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="3.44277"/>
+      <hotspot title="г. Оштен" target="0.5/-7/65" pan="132.16" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="3.44277"/>
       <hotspot title="У Собор-Скалы" target="" pan="144.607" skinid="hotspot" url="{node_shpalorez_3}" id="Point05" tilt="-1.0782"/>
       <hotspot title="Шпалорез (пос. Отдаленный)" target="" pan="141.267" skinid="hotspot" url="{node_shpalorez_2}" id="Point06" tilt="-1.01985"/>
     </hotspots>
@@ -1283,8 +1283,8 @@
       <hotspot title="г. Семиглавая" target="" pan="160.342" skinid="hotspot" url="{node31}" id="Point05" tilt="-0.7475000000000001"/>
       <hotspot title="Оштен в облаках" target="151.5/7.5/65" pan="-42.83" skinid="hs_clouds" url="{node_lagonaki_27}" id="Point06" tilt="20.3743"/>
       <hotspot title="Парковка" target="" pan="13.2701" skinid="hotspot" url="{node_lagonaki_24}" id="Point07" tilt="-9.736459999999999"/>
-      <hotspot title="г. Большой Тхач" target="" pan="7.00696" skinid="hotspot" url="{node61}" id="Point08" tilt="0.928362"/>
-      <hotspot title="г. Западный Ачешбок" target="" pan="-2.05647" skinid="hotspot" url="{node52}" id="Point09" tilt="0.794123"/>
+      <hotspot title="г. Большой Тхач" target="202.5/-14/65" pan="7.00696" skinid="hotspot" url="{node61}" id="Point08" tilt="0.928362"/>
+      <hotspot title="г. Западный Ачешбок" target="316.5/-14/65" pan="-2.05647" skinid="hotspot" url="{node52}" id="Point09" tilt="0.794123"/>
       <polyhotspot title="Оштен (см 3D модель)" target="" url="https://skfb.ly/6pGwo" id="Poly01">
         <vertex pan="74.12179999999999" tilt="-26.7079"/>
         <vertex pan="67.0707" tilt="-31.2942"/>
@@ -2058,7 +2058,7 @@
       <hotspot title="г. Западный Ачешбок" target="" pan="0.00869149" skinid="hotspot" url="{node52}" id="Point01" tilt="1.71887"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="3.77227" skinid="hotspot" url="{node51}" id="Point02" tilt="2.04775"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-27.5291" skinid="hotspot" url="{node71}" id="Point03" tilt="0.134363"/>
-      <hotspot title="г. Асбестная" target="" pan="-21.5492" skinid="hotspot" url="{node58}" id="Point04" tilt="0.410624"/>
+      <hotspot title="г. Асбестная" target="121.5/-6.5/65" pan="-21.5492" skinid="hotspot" url="{node58}" id="Point04" tilt="0.410624"/>
       <hotspot title="Хребет Агиге" target="" pan="18.2496" skinid="hotspot" url="{node50}" id="Point05" tilt="-0.0488653"/>
       <hotspot title="Под г. Сундуки" target="" pan="169.126" skinid="hotspot" url="{node47}" id="Point07" tilt="-3.20059"/>
       <hotspot title="У Чай-горы" target="" pan="158.169" skinid="hotspot" url="{node45}" id="Point08" tilt="-3.00357"/>
@@ -2081,13 +2081,13 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Асбестная" target="" pan="28.6748" skinid="hotspot" url="{node58}" id="Point01" tilt="1.9991"/>
+      <hotspot title="г. Асбестная" target="129.5/-5.5/65" pan="28.6748" skinid="hotspot" url="{node58}" id="Point01" tilt="1.9991"/>
       <hotspot title="г. Большой Тхач, вершина" target="" pan="16.7967" skinid="hotspot" url="{node61}" id="Point02" tilt="2.46422"/>
       <hotspot title="г. Западный Ачешбок" target="" pan="51.9749" skinid="hotspot" url="{node52}" id="Point03" tilt="3.8248"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="54.7538" skinid="hotspot" url="{node51}" id="Point04" tilt="4.41873"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-92.0733" skinid="hotspot" url="{node48}" id="Point05" tilt="0.707096"/>
       <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="44.0348" skinid="hotspot" url="{node56}" id="Point06" tilt="-1.02152"/>
-      <hotspot title="Хребет Агиге" target="" pan="54.8231" skinid="hs_go" url="{node50}" id="Point08" tilt="-17.1209"/>
+      <hotspot title="Хребет Агиге" target="" pan="54.96" skinid="hs_go" url="{node50}" id="Point08" tilt="-16.7393"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="24.8236" skinid="hotspot" url="{node71}" id="Point09" tilt="1.59665"/>
     </hotspots>
     <media/>
@@ -2105,7 +2105,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Асбестная" target="" pan="96.9045" skinid="hotspot" url="{node58}" id="Point01" tilt="3.13518"/>
+      <hotspot title="г. Асбестная" target="124/-7/65" pan="96.9045" skinid="hotspot" url="{node58}" id="Point01" tilt="3.13518"/>
       <hotspot title="г. Большой Тхач, вершина" target="" pan="85.44" skinid="hotspot" url="{node61}" id="Point02" tilt="3.34033"/>
       <hotspot title="г. Западный Ачешбок" target="" pan="122.159" skinid="hotspot" url="{node52}" id="Point04" tilt="5.56583"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-32.6288" skinid="hotspot" url="{node48}" id="Point05" tilt="1.52812"/>
@@ -2178,12 +2178,12 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Большой Тхач, вершина" target="" pan="82.5827" skinid="hotspot" url="{node61}" id="Point01" tilt="0.43153"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-46.7669" skinid="hotspot" url="{node51}" id="Point02" tilt="-1.24676"/>
-      <hotspot title="г. Асбестная" target="" pan="71.1685" skinid="hotspot" url="{node58}" id="Point03" tilt="-2.56879"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="89.14019999999999" skinid="hotspot" url="{node73}" id="Point04" tilt="-0.817762"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="85.3145" skinid="hotspot" url="{node71}" id="Point05" tilt="-1.22696"/>
+      <hotspot title="г. Асбестная" target="127.5/-5/65" pan="71.1685" skinid="hotspot" url="{node58}" id="Point03" tilt="-2.56879"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="72/-11/65" pan="89.14019999999999" skinid="hotspot" url="{node73}" id="Point04" tilt="-0.817762"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="50.5/-9/65" pan="85.3145" skinid="hotspot" url="{node71}" id="Point05" tilt="-1.22696"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-30.5713" skinid="hotspot" url="{node48}" id="Point08" tilt="-2.19681"/>
       <hotspot title="Хребет Агиге" target="" pan="-37.6486" skinid="hotspot" url="{node50}" id="Point09" tilt="-2.97285"/>
-      <hotspot title="г. Оштен" target="" pan="149.032" skinid="hotspot" url="{node_lagonaki_11}" id="Point10" tilt="2.03366"/>
+      <hotspot title="г. Оштен" target="217/-7.5/65" pan="149.032" skinid="hotspot" url="{node_lagonaki_11}" id="Point10" tilt="2.03366"/>
       <hotspot title="пер. Чёртовы ворота" target="" pan="-57.823" skinid="hotspot" url="{node55}" id="Point11" tilt="-20.092"/>
       <hotspot title="перемычка Ачешбоки-Асбестная" target="" pan="35.0766" skinid="hotspot" url="{node56}" id="Point14" tilt="-29.3525"/>
       <hotspot title="вид на Фишт и Эльбрус" target="" pan="-88.3492" skinid="hotspot" url="{node54}" id="Point15" tilt="-9.387840000000001"/>
@@ -2225,7 +2225,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Асбестная" target="291/-7.5/65" pan="-46.2741" skinid="hotspot" url="{node58}" id="Point01" tilt="5.06598"/>
+      <hotspot title="г. Асбестная" target="124/-9.5/65" pan="-46.2741" skinid="hotspot" url="{node58}" id="Point01" tilt="5.06598"/>
       <hotspot title="г. Западный Ачешбок" target="325/-19.5/65" pan="-4.90552" skinid="hotspot" url="{node52}" id="Point02" tilt="38.1747"/>
       <hotspot title="г. Восточный Ачешбок" target="17/-8.5/65" pan="-162.988" skinid="hotspot" url="{node51}" id="Point03" tilt="37.4251"/>
       <hotspot title="вид на Фишт и Эльбрус" target="69/-1/65" pan="126.788" skinid="hs_go" url="{node54}" id="Point04" tilt="-8.38641"/>
@@ -2248,7 +2248,7 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="134.757" skinid="hotspot" url="{node51}" id="Point01" tilt="20.871"/>
       <hotspot title="г. Западный Ачешбок" target="" pan="70.43859999999999" skinid="hotspot" url="{node52}" id="Point02" tilt="34.9094"/>
-      <hotspot title="г. Асбестная" target="128.5/-7/65" pan="-72.7761" skinid="hotspot" url="{node58}" id="Point03" tilt="16.0798"/>
+      <hotspot title="г. Асбестная" target="128/-7/65" pan="-72.7761" skinid="hotspot" url="{node58}" id="Point03" tilt="16.0798"/>
       <hotspot title="г. Оштен" target="" pan="3.43665" skinid="hotspot" url="{node_lagonaki_11}" id="Point04" tilt="1.65442"/>
       <hotspot title="пер. Чёртовы ворота" target="" pan="117.225" skinid="hs_go" url="{node55}" id="Point05" tilt="0.568728"/>
       <hotspot title="Родник под г. Асбестной" target="112.5/-7/65" pan="-55.3608" skinid="hs_go" url="{node57}" id="Point06" tilt="-8.144159999999999"/>
@@ -2292,12 +2292,12 @@
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Большой Тхач, вершина" target="" pan="115.242" skinid="hotspot" url="{node61}" id="Point01" tilt="1.74671"/>
       <hotspot title="Большой Тхач, пик 1" target="" pan="117.667" skinid="hotspot" url="{node64}" id="Point02" tilt="1.35705"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="128.565" skinid="hotspot" url="{node71}" id="Point07" tilt="-0.274187"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="131.615" skinid="hotspot" url="{node73}" id="Point08" tilt="0.00676274"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="32.5/-4/65" pan="128.565" skinid="hotspot" url="{node71}" id="Point07" tilt="-0.274187"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="78/-11.5/65" pan="131.615" skinid="hotspot" url="{node73}" id="Point08" tilt="0.00676274"/>
       <hotspot title="г. Западный Ачешбок" target="" pan="-83.06050000000001" skinid="hotspot" url="{node52}" id="Point09" tilt="5.0556"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-65.19459999999999" skinid="hotspot" url="{node51}" id="Point10" tilt="3.52658"/>
       <hotspot title="пер. Чёртовы ворота" target="" pan="-72.6403" skinid="hotspot" url="{node55}" id="Point11" tilt="-1.42491"/>
-      <hotspot title="Родник под г. Асбестной" target="" pan="-82.21040000000001" skinid="hs_go" url="{node57}" id="Point12" tilt="-17.2638"/>
+      <hotspot title="Родник под г. Асбестной" target="267.5/-7/65" pan="-82.21040000000001" skinid="hs_go" url="{node57}" id="Point12" tilt="-17.2638"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-56.0505" skinid="hotspot" url="{node53}" id="Point14" tilt="1.22034"/>
       <hotspot title="Хребет Агиге" target="" pan="-37.0309" skinid="hotspot" url="{node50}" id="Point15" tilt="-0.299766"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-26.7557" skinid="hotspot" url="{node48}" id="Point17" tilt="-0.8760790000000001"/>
@@ -2345,15 +2345,15 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Большой Тхач" target="189/-13.5/65" pan="16.5" skinid="hotspot" url="{node61}" id="Point01" tilt="40.63"/>
-      <hotspot title="г. Асбестная" target="" pan="-135.524" skinid="hotspot" url="{node58}" id="Point02" tilt="3.13635"/>
+      <hotspot title="г. Асбестная" target="289/-8.5/65" pan="-135.524" skinid="hotspot" url="{node58}" id="Point02" tilt="3.13635"/>
       <hotspot title="г. Оштен" target="" pan="109.448" skinid="hotspot" url="{node_lagonaki_11}" id="Point03" tilt="1.46647"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-112.214" skinid="hotspot" url="{node48}" id="Point04" tilt="0.235789"/>
       <hotspot title="Большой Тхач, пик 3" target="" pan="10.8331" skinid="hotspot" url="{node65}" id="Point05" tilt="38.8135"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="18.8644" skinid="hs_copter" url="{node70}" id="Point06" tilt="61.5019"/>
       <hotspot title="Большой Тхач, пик 1" target="" pan="42.6786" skinid="hotspot" url="{node64}" id="Point07" tilt="30.2526"/>
       <hotspot title="Большой Тхач, пик 2" target="" pan="48.484" skinid="hotspot" url="{node63}" id="Point08" tilt="24.1473"/>
-      <hotspot title="отрог Малого Тхача" target="" pan="-121.942" skinid="hotspot" url="{node59}" id="Point09" tilt="-3.84481"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-148.638" skinid="hotspot" url="{node71}" id="Point10" tilt="6.75834"/>
+      <hotspot title="отрог Малого Тхача" target="156/-1/65" pan="-121.942" skinid="hotspot" url="{node59}" id="Point09" tilt="-3.84481"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="237.5/-9/65" pan="-148.638" skinid="hotspot" url="{node71}" id="Point10" tilt="6.75834"/>
       <hotspot title="Малый Тхач с высоты 600 м" target="42.5/-31/65" pan="-171.71" skinid="hs_copter" url="{node69}" id="Point11" tilt="25.4423"/>
       <hotspot title="г. Колокольня" target="126/-5.5/65" pan="82.62860000000001" skinid="hs_go" url="{node75}" id="Point12" tilt="-21.0335"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="150.097" skinid="hs_copter" url="{node68}" id="Point13" tilt="62.8452"/>
@@ -2377,20 +2377,20 @@
       <hotspot title="г. Западный Ачешбок" target="79/-10/65" pan="-160.923" skinid="hotspot" url="{node52}" id="Point01" tilt="1.09665"/>
       <hotspot title="Хребет Агиге" target="" pan="-138.077" skinid="hotspot" url="{node50}" id="Point03" tilt="-0.375533"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-130.011" skinid="hotspot" url="{node48}" id="Point04" tilt="-0.769331"/>
-      <hotspot title="г. Оштен" target="" pan="94.5166" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.16756"/>
+      <hotspot title="г. Оштен" target="226/-11.5/65" pan="94.5166" skinid="hotspot" url="{node_lagonaki_11}" id="Point06" tilt="1.16756"/>
       <hotspot title="Тхачский перевал" target="" pan="-178.772" skinid="hotspot" url="{node60}" id="Point08" tilt="-36.0988"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-160.392" skinid="hs_copter" url="{node70}" id="Point09" tilt="44.0669"/>
       <hotspot title="Большой Тхач, пик 3" target="261.5/-9/65" pan="-66.0646" skinid="hotspot" url="{node65}" id="Point10" tilt="-11.1964"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-149.726" skinid="hotspot" url="{node53}" id="Point11" tilt="0.160764"/>
       <hotspot title="отрог Малого Тхача" target="" pan="-147.854" skinid="hotspot" url="{node59}" id="Point12" tilt="-13.0744"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="178.64" skinid="hotspot" url="{node73}" id="Point13" tilt="-3.87403"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="276.5/-8/65" pan="178.64" skinid="hotspot" url="{node73}" id="Point13" tilt="-3.87403"/>
       <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-177.079" skinid="hs_copter" url="{node69}" id="Point14" tilt="13.269"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="168.638" skinid="hs_copter" url="{node68}" id="Point15" tilt="9.947509999999999"/>
       <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-162.787" skinid="hs_copter" url="{node74}" id="Point16" tilt="-28.8019"/>
-      <hotspot title="Большой Тхач, пик 1" target="" pan="64.4866" skinid="hotspot" url="{node64}" id="Point17" tilt="-0.6610740000000001"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="58.7668" skinid="hotspot" url="{node63}" id="Point18" tilt="-1.09024"/>
-      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="51.7125" skinid="hotspot" url="{node62}" id="Point19" tilt="-2.53322"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-167.304" skinid="hotspot" url="{node71}" id="Point20" tilt="-2.5372"/>
+      <hotspot title="Большой Тхач, пик 1" target="92.5/-5/65" pan="64.4866" skinid="hotspot" url="{node64}" id="Point17" tilt="-0.6610740000000001"/>
+      <hotspot title="Большой Тхач, пик 2" target="40/-6.5/65" pan="58.7668" skinid="hotspot" url="{node63}" id="Point18" tilt="-1.09024"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="63.5/-9.5/65" pan="51.7125" skinid="hotspot" url="{node62}" id="Point19" tilt="-2.53322"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="240/-10/65" pan="-167.304" skinid="hotspot" url="{node71}" id="Point20" tilt="-2.5372"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-154.12" skinid="hotspot" url="{node51}" id="Point02" tilt="0.934793"/>
     </hotspots>
     <media/>
@@ -2409,8 +2409,8 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Оштен" target="" pan="111.375" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="0.7690590000000001"/>
-      <hotspot title="г. Большой Тхач, вершина" target="" pan="-112.345" skinid="hotspot" url="{node61}" id="Point02" tilt="4.35394"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="-127.827" skinid="hotspot" url="{node63}" id="Point03" tilt="7.4015"/>
+      <hotspot title="г. Большой Тхач, вершина" target="206.5/-14.5/65" pan="-112.345" skinid="hotspot" url="{node61}" id="Point02" tilt="4.35394"/>
+      <hotspot title="Большой Тхач, пик 2" target="221.5/-7.5/65" pan="-127.827" skinid="hotspot" url="{node63}" id="Point03" tilt="7.4015"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-111.983" skinid="hs_copter" url="{node70}" id="Point04" tilt="20.3443"/>
       <hotspot title="г. Асбестная" target="" pan="-134.075" skinid="hotspot" url="{node58}" id="Point05" tilt="0"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-135.779" skinid="hotspot" url="{node51}" id="Point06" tilt="1.80818"/>
@@ -2437,20 +2437,20 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="34.3211" skinid="hotspot" url="{node62}" id="Point01" tilt="-4.424"/>
+      <hotspot title="Большой Тхач, пик с Крестом" target="61/-10.5/65" pan="34.3211" skinid="hotspot" url="{node62}" id="Point01" tilt="-4.424"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-123.014" skinid="hs_copter" url="{node70}" id="Point02" tilt="18.196"/>
       <hotspot title="г. Большой Тхач, вершина" target="" pan="-123.042" skinid="hotspot" url="{node61}" id="Point03" tilt="2.31035"/>
-      <hotspot title="Большой Тхач, пик 1" target="" pan="-130.551" skinid="hotspot" url="{node64}" id="Point04" tilt="2.7347"/>
+      <hotspot title="Большой Тхач, пик 1" target="282/-9/65" pan="-130.551" skinid="hotspot" url="{node64}" id="Point04" tilt="2.7347"/>
       <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-136.326" skinid="hs_copter" url="{node74}" id="Point05" tilt="-6.90401"/>
       <hotspot title="Хребет Агиге" target="" pan="-139.045" skinid="hotspot" url="{node50}" id="Point06" tilt="-0.137056"/>
       <hotspot title="отрог Малого Тхача" target="" pan="-143.842" skinid="hotspot" url="{node59}" id="Point07" tilt="-9.89814"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="209.927" skinid="hotspot" url="{node53}" id="Point08" tilt="0"/>
       <hotspot title="Тхачский перевал" target="" pan="-154.781" skinid="hotspot" url="{node60}" id="Point09" tilt="-17.6058"/>
-      <hotspot title="г. Асбестная" target="" pan="-152.341" skinid="hotspot" url="{node58}" id="Point10" tilt="-0.0330513"/>
+      <hotspot title="г. Асбестная" target="291.5/-3/65" pan="-152.341" skinid="hotspot" url="{node58}" id="Point10" tilt="-0.0330513"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-153.902" skinid="hotspot" url="{node51}" id="Point11" tilt="1.00576"/>
       <hotspot title="пер. Чёртовы ворота" target="" pan="-156.771" skinid="hotspot" url="{node55}" id="Point12" tilt="-0.689365"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-160.338" skinid="hotspot" url="{node71}" id="Point13" tilt="-2.1287"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-169.815" skinid="hotspot" url="{node73}" id="Point14" tilt="-2.87453"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="236.5/-7.5/65" pan="-160.338" skinid="hotspot" url="{node71}" id="Point13" tilt="-2.1287"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="278/-9/65" pan="-169.815" skinid="hotspot" url="{node73}" id="Point14" tilt="-2.87453"/>
       <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-173.923" skinid="hs_copter" url="{node69}" id="Point15" tilt="18.7122"/>
       <hotspot title="г. Оштен" target="" pan="93.0655" skinid="hotspot" url="{node_lagonaki_11}" id="Point16" tilt="1.56529"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-158.016" skinid="hs_copter" url="{node68}" id="Point17" tilt="11.7955"/>
@@ -2470,16 +2470,16 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="г. Западный Ачешбок" target="" pan="-120.565" skinid="hotspot" url="{node52}" id="Point01" tilt="1.17996"/>
+      <hotspot title="г. Западный Ачешбок" target="313/-12/65" pan="-120.565" skinid="hotspot" url="{node52}" id="Point01" tilt="1.17996"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-109.779" skinid="hotspot" url="{node53}" id="Point03" tilt="0.0907536"/>
       <hotspot title="г. Восточный Ачешбок" target="" pan="-114.058" skinid="hotspot" url="{node51}" id="Point05" tilt="0.931588"/>
       <hotspot title="Тхачский перевал" target="" pan="-118.72" skinid="hotspot" url="{node60}" id="Point06" tilt="-25.4943"/>
-      <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-122.651" skinid="hotspot" url="{node71}" id="Point07" tilt="-2.00922"/>
+      <hotspot title="г. Малый Тхач, вторая вершина" target="237.5/-8.5/65" pan="-122.651" skinid="hotspot" url="{node71}" id="Point07" tilt="-2.00922"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-126.137" skinid="hs_copter" url="{node68}" id="Point08" tilt="13.4452"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="-133.727" skinid="hotspot" url="{node73}" id="Point09" tilt="-2.49512"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="278/-9/65" pan="-133.727" skinid="hotspot" url="{node73}" id="Point09" tilt="-2.49512"/>
       <hotspot title="Малый Тхач с высоты 600 м" target="" pan="-136.867" skinid="hs_copter" url="{node69}" id="Point10" tilt="19.225"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="89.95440000000001" skinid="hotspot" url="{node63}" id="Point11" tilt="-0.473874"/>
-      <hotspot title="г. Большой Тхач, вершина" target="" pan="-76.9419" skinid="hotspot" url="{node61}" id="Point12" tilt="2.21842"/>
+      <hotspot title="Большой Тхач, пик 2" target="45.5/-8/65" pan="89.95440000000001" skinid="hotspot" url="{node63}" id="Point11" tilt="-0.473874"/>
+      <hotspot title="г. Большой Тхач, вершина" target="198/-13.5/65" pan="-76.9419" skinid="hotspot" url="{node61}" id="Point12" tilt="2.21842"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-79.1404" skinid="hs_copter" url="{node70}" id="Point13" tilt="36.7739"/>
       <hotspot title="Пупырь у Сундуков" target="" pan="-90.9791" skinid="hotspot" url="{node48}" id="Point14" tilt="-0.388551"/>
       <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-93.1384" skinid="hs_copter" url="{node74}" id="Point15" tilt="-19.8751"/>
@@ -2515,9 +2515,9 @@
       <hotspot title="600 м над Малым Тхачом" target="" pan="-54.0804" skinid="hs_copter" url="{node69}" id="Point12" tilt="21.7284"/>
       <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-70.1443" skinid="hs_copter" url="{node68}" id="Point13" tilt="14.4111"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-136.502" skinid="hs_copter" url="{node70}" id="Point14" tilt="89.9425"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="-168.461" skinid="hotspot" url="{node63}" id="Point04" tilt="1.08833"/>
-      <hotspot title="Большой Тхач, пик 3 - с Крестом" target="" pan="-177.318" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.614797"/>
-      <hotspot title="Большой Тхач, пик 1" target="" pan="-159.064" skinid="hotspot" url="{node64}" id="Point16" tilt="2.61688"/>
+      <hotspot title="Большой Тхач, пик 2" target="43.5/-5.5/65" pan="-168.461" skinid="hotspot" url="{node63}" id="Point04" tilt="1.08833"/>
+      <hotspot title="Большой Тхач, пик 3 - с Крестом" target="63/-4/65" pan="-177.318" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.614797"/>
+      <hotspot title="Большой Тхач, пик 1" target="99/-12/65" pan="-159.064" skinid="hotspot" url="{node64}" id="Point16" tilt="2.61688"/>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_0.jpg" prev5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_4.jpg" tile3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_2.jpg" tile1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_1.jpg"/>
@@ -2753,8 +2753,8 @@
       <hotspot title="Большой Тхач, пик 2" target="" pan="71.6452" skinid="hotspot" url="{node63}" id="Point10" tilt="4.12239"/>
       <hotspot title="Большой Тхач, пик с Крестом" target="" pan="74.1765" skinid="hotspot" url="{node62}" id="Point11" tilt="3.16268"/>
       <hotspot title="Выступ Тхача у Колокольни" target="" pan="87.526" skinid="hotspot" url="{node77}" id="Point13" tilt="-0.444453"/>
-      <hotspot title="г. Западный Ачешбок" target="" pan="-95.0354" skinid="hotspot" url="{node52}" id="Point14" tilt="3.82113"/>
-      <hotspot title="г. Восточный Ачешбок" target="" pan="-87.4747" skinid="hotspot" url="{node51}" id="Point16" tilt="3.16154"/>
+      <hotspot title="г. Западный Ачешбок" target="319.5/-9.5/65" pan="-95.0354" skinid="hotspot" url="{node52}" id="Point14" tilt="3.82113"/>
+      <hotspot title="г. Восточный Ачешбок" target="10.5/-10.5/65" pan="-87.4747" skinid="hotspot" url="{node51}" id="Point16" tilt="3.16154"/>
       <hotspot title="Пропасть на Восточном Ачешбоке" target="" pan="-82.85509999999999" skinid="hotspot" url="{node53}" id="Point17" tilt="2.20485"/>
       <hotspot title="г. Асбестная" target="" pan="-78.1627" skinid="hotspot" url="{node58}" id="Point18" tilt="2.26814"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-68.8253" skinid="hotspot" url="{node71}" id="Point21" tilt="1.96262"/>
