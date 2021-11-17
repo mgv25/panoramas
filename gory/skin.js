@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex_2021_5_gory-map_no-extra-buttons.ggsk
-// Generated Вс 14. ноя 20:29:56 2021
+// Generated Ср 17. ноя 11:46:05 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -1704,15 +1704,25 @@ function pano2vrSkin(player,base) {
 			}
 			this.__65=document.createElement('div');
 			this.__65.ggId='\u0418\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 65';
-			this.__65.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+			this.__65.ggParameter={ rx:0,ry:0,a:0,sx:0.8,sy:0.8 };
 			this.__65.ggVisible=true;
 			this.__65.className='ggskin ggskin_image';
+			this.__65.ggUpdatePosition=function() {
+				this.style[domTransition]='none';
+				if (this.parentNode) {
+					w=this.parentNode.offsetWidth;
+					this.style.left=(-44 + w/2) + 'px';
+					h=this.parentNode.offsetHeight;
+					this.style.top=(-27 + h/2) + 'px';
+				}
+			}
 			hs ='position:absolute;';
-			hs+='left: -42px;';
-			hs+='top:  -25px;';
+			hs+='left: -44px;';
+			hs+='top:  -27px;';
 			hs+='width: 85px;';
 			hs+='height: 50px;';
 			hs+=cssPrefix + 'transform-origin: 50% 50%;';
+			hs+=cssPrefix + 'transform: ' + parameterToTransform(this.__65.ggParameter) + ';';
 			hs+='visibility: inherit;';
 			this.__65.setAttribute('style',hs);
 			this.__65__img=document.createElement('img');
