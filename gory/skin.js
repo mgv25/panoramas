@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR pro 4.1.0/3405MS
 // Filename: simplex_2021_5_gory-map_no-extra-buttons.ggsk
-// Generated Ср 17. ноя 11:46:05 2021
+// Generated Чт 18. ноя 15:15:57 2021
 
 function pano2vrSkin(player,base) {
 	var me=this;
@@ -818,7 +818,7 @@ function pano2vrSkin(player,base) {
 		this._author.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  147px;';
+		hs+='top:  138px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -846,7 +846,7 @@ function pano2vrSkin(player,base) {
 		this._link.className='ggskin ggskin_text';
 		hs ='position:absolute;';
 		hs+='left: 11px;';
-		hs+='top:  169px;';
+		hs+='top:  159px;';
 		hs+='width: 440px;';
 		hs+='height: auto;';
 		hs+=cssPrefix + 'transform-origin: 50% 50%;';
@@ -886,7 +886,7 @@ function pano2vrSkin(player,base) {
 		hs+='padding: 0px 1px 0px 1px;';
 		hs+='overflow: hidden;';
 		this._map_link.setAttribute('style',hs);
-		this._map_link.innerHTML="\u041a\u0430\u0440\u0442\u0430 \u0441\u043e \u0432\u0441\u0435\u043c\u0438 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430\u043c\u0438: <a href=\"https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB\">https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB<\/a>";
+		this._map_link.innerHTML="\u041a\u0430\u0440\u0442\u0430 \u0441\u043e \u0432\u0441\u0435\u043c\u0438 \u043f\u0430\u043d\u043e\u0440\u0430\u043c\u0430\u043c\u0438: <a href=\"https:\/\/yandex.ru\/maps\/-\/CCUu42GxSB\">https:\/\/yandex.ru\/maps\/-\/CCUu54wePD<\/a>";
 		this._userdata.appendChild(this._map_link);
 		this._datetime=document.createElement('div');
 		this._datetime.ggId='datetime';
