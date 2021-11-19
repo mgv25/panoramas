@@ -2209,6 +2209,16 @@
       <hotspot title="Хребет Агиге" target="321.5/-3.5/65" pan="101.145" skinid="hotspot" url="{node50}" id="Point04" tilt="3.26416"/>
       <hotspot title="г. Западный Ачешбок" target="71.5/-9.5/65" pan="-155.424" skinid="hotspot" url="{node52}" id="Point05" tilt="10.6827"/>
       <hotspot title="пер. Чёртовы ворота" target="0/0/65" pan="-165.236" skinid="hs_go" url="{node55}" id="Point06" tilt="-3.86111"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="57.8005" tilt="-0.180808"/>
+        <vertex pan="59.4317" tilt="1.58801"/>
+        <vertex pan="61.5274" tilt="0.517363"/>
+        <vertex pan="61.0175" tilt="-0.59986"/>
+        <vertex pan="58.3134" tilt="-0.600437"/>
+        <vertex pan="58.3134" tilt="-0.600437"/>
+        <vertex pan="58.3134" tilt="-0.413919"/>
+        <vertex pan="58.1268" tilt="-0.600427"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-8_vid_na_Elbrus_o_0.jpg" prev5url="images/Tkhach-8_vid_na_Elbrus_o_preview_5.jpg" prev4url="images/Tkhach-8_vid_na_Elbrus_o_preview_4.jpg" prev3url="images/Tkhach-8_vid_na_Elbrus_o_preview_3.jpg" prev2url="images/Tkhach-8_vid_na_Elbrus_o_preview_2.jpg" prev1url="images/Tkhach-8_vid_na_Elbrus_o_preview_1.jpg" prev0url="images/Tkhach-8_vid_na_Elbrus_o_preview_0.jpg" tile5url="images/Tkhach-8_vid_na_Elbrus_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-8_vid_na_Elbrus_o_4.jpg" tile3url="images/Tkhach-8_vid_na_Elbrus_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-8_vid_na_Elbrus_o_2.jpg" tile1url="images/Tkhach-8_vid_na_Elbrus_o_1.jpg"/>
@@ -2328,6 +2338,15 @@
       <hotspot title="г. Малый Тхач, вторая вершина" target="241.5/-9.5/65" pan="115.271" skinid="hotspot" url="{node71}" id="Point08" tilt="23.069"/>
       <hotspot title="г. Асбестная" target="296.5/-11/65" pan="164.201" skinid="hotspot" url="{node58}" id="Point09" tilt="10.3228"/>
       <hotspot title="Малый Тхач с высоты 600 м" target="40.5/-16/65" pan="68.2614" skinid="hs_copter" url="{node69}" id="Point10" tilt="36.9212"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-151.655" tilt="-0.618345"/>
+        <vertex pan="-147.954" tilt="-0.7995330000000001"/>
+        <vertex pan="-149.309" tilt="0.628715"/>
+        <vertex pan="-151.106" tilt="1.25269"/>
+        <vertex pan="-152.647" tilt="0.886439"/>
+        <vertex pan="-152.83" tilt="0.0425272"/>
+        <vertex pan="-152.316" tilt="-0.214464"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-12_prival_mezh_Thkachami_o_0.jpg" prev5url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_5.jpg" prev4url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_4.jpg" prev3url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_3.jpg" prev2url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_2.jpg" prev1url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_1.jpg" prev0url="images/Tkhach-12_prival_mezh_Thkachami_o_preview_0.jpg" tile5url="images/Tkhach-12_prival_mezh_Thkachami_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-12_prival_mezh_Thkachami_o_4.jpg" tile3url="images/Tkhach-12_prival_mezh_Thkachami_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-12_prival_mezh_Thkachami_o_2.jpg" tile1url="images/Tkhach-12_prival_mezh_Thkachami_o_1.jpg"/>
@@ -2359,6 +2378,13 @@
       <hotspot title="Тхачский перевал с высоты 400 м" target="16/-15/65" pan="150.097" skinid="hs_copter" url="{node68}" id="Point13" tilt="62.8452"/>
       <hotspot title="Стена Большого Тхача с воздуха" target="91/0/65" pan="27.0861" skinid="hs_copter" url="{node74}" id="Point14" tilt="38.5853"/>
       <hotspot title="г. Малый Тхач, главная вершина" target="278.5/-6/65" pan="-168.625" skinid="" url="{node73}" id="Point15" tilt="10.266"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-98.6468" tilt="-1.64662"/>
+        <vertex pan="-105.689" tilt="-1.63897"/>
+        <vertex pan="-105.1" tilt="0.174648"/>
+        <vertex pan="-102.114" tilt="0.996471"/>
+        <vertex pan="-99.52979999999999" tilt="0.234069"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-14_per-Tkhachskiy-zakat_o_0.jpg" prev5url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_5.jpg" prev4url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_4.jpg" prev3url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_3.jpg" prev2url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_2.jpg" prev1url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_1.jpg" prev0url="images/Tkhach-14_per-Tkhachskiy-zakat_o_preview_0.jpg" tile5url="images/Tkhach-14_per-Tkhachskiy-zakat_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-14_per-Tkhachskiy-zakat_o_4.jpg" tile3url="images/Tkhach-14_per-Tkhachskiy-zakat_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-14_per-Tkhachskiy-zakat_o_2.jpg" tile1url="images/Tkhach-14_per-Tkhachskiy-zakat_o_1.jpg"/>
@@ -2393,6 +2419,13 @@
       <hotspot title="Большой Тхач, пик с Крестом" target="63.5/-9.5/65" pan="51.7125" skinid="hotspot" url="{node62}" id="Point19" tilt="-2.53322"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="240/-10/65" pan="-167.304" skinid="hotspot" url="{node71}" id="Point20" tilt="-2.5372"/>
       <hotspot title="г. Восточный Ачешбок" target="15.5/-3.5/65" pan="-154.12" skinid="hotspot" url="{node51}" id="Point02" tilt="0.934793"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-120.476" tilt="-0.9720760000000001"/>
+        <vertex pan="-114.104" tilt="-1.8646"/>
+        <vertex pan="-114.055" tilt="-0.129674"/>
+        <vertex pan="-116.842" tilt="1.55357"/>
+        <vertex pan="-120.053" tilt="0.922303"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-16_Tkhach-vershina_o_0.jpg" prev5url="images/Tkhach-16_Tkhach-vershina_o_preview_5.jpg" prev4url="images/Tkhach-16_Tkhach-vershina_o_preview_4.jpg" prev3url="images/Tkhach-16_Tkhach-vershina_o_preview_3.jpg" prev2url="images/Tkhach-16_Tkhach-vershina_o_preview_2.jpg" prev1url="images/Tkhach-16_Tkhach-vershina_o_preview_1.jpg" prev0url="images/Tkhach-16_Tkhach-vershina_o_preview_0.jpg" tile5url="images/Tkhach-16_Tkhach-vershina_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-16_Tkhach-vershina_o_4.jpg" tile3url="images/Tkhach-16_Tkhach-vershina_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-16_Tkhach-vershina_o_2.jpg" tile1url="images/Tkhach-16_Tkhach-vershina_o_1.jpg"/>
@@ -2519,6 +2552,13 @@
       <hotspot title="Большой Тхач, пик 2" target="43.5/-5.5/65" pan="-168.461" skinid="hotspot" url="{node63}" id="Point04" tilt="1.08833"/>
       <hotspot title="Большой Тхач, пик 3 - с Крестом" target="63/-4/65" pan="-177.318" skinid="hotspot" url="{node62}" id="Point15" tilt="-0.614797"/>
       <hotspot title="Большой Тхач, пик 1" target="99/-12/65" pan="-159.064" skinid="hotspot" url="{node64}" id="Point16" tilt="2.61688"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="7.07604" tilt="-0.821299"/>
+        <vertex pan="13.3005" tilt="-1.67779"/>
+        <vertex pan="13.2934" tilt="0.138694"/>
+        <vertex pan="10.3644" tilt="1.45055"/>
+        <vertex pan="7.43235" tilt="0.643878"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_0.jpg" prev5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_5.jpg" prev4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_4.jpg" prev3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_3.jpg" prev2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_2.jpg" prev1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_1.jpg" prev0url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_preview_0.jpg" tile5url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_4.jpg" tile3url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_2.jpg" tile1url="images/Tkhach-Pixel-3_Pobochny-peak-3++_o_1.jpg"/>
@@ -2577,6 +2617,14 @@
       <hotspot title="пер. Чёртовы ворота" target="" pan="-144.012" skinid="hotspot" url="{node55}" id="Point20" tilt="-1.25445"/>
       <hotspot title="г. Оштен" target="" pan="104.228" skinid="hotspot" url="{node_lagonaki_11}" id="Point21" tilt="0.9757900000000001"/>
       <hotspot title="отрог Малого Тхача" target="" pan="-121.395" skinid="hotspot" url="{node59}" id="Point22" tilt="-16.4915"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-106.483" tilt="-1.31244"/>
+        <vertex pan="-103.223" tilt="-1.57935"/>
+        <vertex pan="-103.179" tilt="-0.151347"/>
+        <vertex pan="-106.125" tilt="1.41028"/>
+        <vertex pan="-109.556" tilt="0.561396"/>
+        <vertex pan="-109.78" tilt="-0.863597"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_0.jpg" prev5url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_5.jpg" prev4url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_4.jpg" prev3url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_3.jpg" prev2url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_2.jpg" prev1url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_1.jpg" prev0url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_preview_0.jpg" tile5url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_4.jpg" tile3url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_2.jpg" tile1url="images/Tkhach-Air-5_Tkhach_per_vys_versh_o_1.jpg"/>
@@ -2616,6 +2664,14 @@
       <hotspot title="отрог Малого Тхача" target="" pan="-51.1437" skinid="hotspot" url="{node59}" id="Point27" tilt="-37.7574"/>
       <hotspot title="Долина р. Сахрай с высоты 500 м" target="" pan="65.8032" skinid="hotspot" url="{node79}" id="Point29" tilt="-7.82229"/>
       <hotspot title="Станица Даховская" target="" pan="70.8072" skinid="hotspot" url="{node81}" id="Point07" tilt="-4.49694"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-81.9733" tilt="-1.65989"/>
+        <vertex pan="-78.0639" tilt="-1.83993"/>
+        <vertex pan="-78.07120000000001" tilt="0.110811"/>
+        <vertex pan="-81.9759" tilt="1.73815"/>
+        <vertex pan="-86.44450000000001" tilt="0.389839"/>
+        <vertex pan="-86.4957" tilt="-1.42426"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-6_M-Tkhach+600_o_0.jpg" prev5url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_5.jpg" prev4url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_4.jpg" prev3url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_3.jpg" prev2url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_2.jpg" prev1url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_1.jpg" prev0url="images/Tkhach-Air-6_M-Tkhach+600_o_preview_0.jpg" tile5url="images/Tkhach-Air-6_M-Tkhach+600_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-6_M-Tkhach+600_o_4.jpg" tile3url="images/Tkhach-Air-6_M-Tkhach+600_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-6_M-Tkhach+600_o_2.jpg" tile1url="images/Tkhach-Air-6_M-Tkhach+600_o_1.jpg"/>
@@ -2655,6 +2711,14 @@
       <hotspot title="Стена Большого Тхача с воздуха" target="" pan="-160.237" skinid="hs_copter" url="{node74}" id="Point25" tilt="-78.4851"/>
       <hotspot title="Тайвань с высоты 500 м" target="" pan="51.9336" skinid="hotspot" url="{node78}" id="Point20" tilt="-11.4408"/>
       <hotspot title="Станица Даховская" target="" pan="59.6412" skinid="hotspot" url="{node81}" id="Point04" tilt="-4.3847"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-94.68000000000001" tilt="-1.77395"/>
+        <vertex pan="-91.1335" tilt="-1.93222"/>
+        <vertex pan="-91.4699" tilt="-0.302717"/>
+        <vertex pan="-94.5206" tilt="1.32309"/>
+        <vertex pan="-97.8426" tilt="0.185323"/>
+        <vertex pan="-98.1759" tilt="-1.49977"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-7_B-Tkhach+500_o_0.jpg" prev5url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_5.jpg" prev4url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_4.jpg" prev3url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_3.jpg" prev2url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_2.jpg" prev1url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_1.jpg" prev0url="images/Tkhach-Air-7_B-Tkhach+500_o_preview_0.jpg" tile5url="images/Tkhach-Air-7_B-Tkhach+500_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-7_B-Tkhach+500_o_4.jpg" tile3url="images/Tkhach-Air-7_B-Tkhach+500_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-7_B-Tkhach+500_o_2.jpg" tile1url="images/Tkhach-Air-7_B-Tkhach+500_o_1.jpg"/>
@@ -2691,6 +2755,15 @@
       <hotspot title="У Малого Тхача в воздухе" target="305.5/-19.5/65" pan="-179.997" skinid="hs_copter" url="{node72}" id="Point20" tilt="-14.7734"/>
       <hotspot title="г. Оштен" target="217.5/-3.5/65" pan="108.344" skinid="hotspot" url="{node_lagonaki_11}" id="Point21" tilt="2.67886"/>
       <hotspot title="Большой Тхач с высоты 500 м" target="103/-90/65" pan="29.8841" skinid="hs_copter" url="{node70}" id="Point22" tilt="25.0247"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-99.71720000000001" tilt="1.89568"/>
+        <vertex pan="-101.409" tilt="1.39858"/>
+        <vertex pan="-102.566" tilt="0.0479163"/>
+        <vertex pan="-101.6" tilt="-0.415772"/>
+        <vertex pan="-99.4816" tilt="-0.414709"/>
+        <vertex pan="-97.56740000000001" tilt="-0.490086"/>
+        <vertex pan="-97.87690000000001" tilt="0.892499"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-8_M-Tkhach-1_o_0.jpg" prev5url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_5.jpg" prev4url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_4.jpg" prev3url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_3.jpg" prev2url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_2.jpg" prev1url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_1.jpg" prev0url="images/Tkhach-Air-8_M-Tkhach-1_o_preview_0.jpg" tile5url="images/Tkhach-Air-8_M-Tkhach-1_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-8_M-Tkhach-1_o_4.jpg" tile3url="images/Tkhach-Air-8_M-Tkhach-1_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-8_M-Tkhach-1_o_2.jpg" tile1url="images/Tkhach-Air-8_M-Tkhach-1_o_1.jpg"/>
@@ -2708,25 +2781,34 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="г. Оштен" target="" pan="17.3565" skinid="hotspot" url="{node_lagonaki_11}" id="Point01" tilt="1.52238"/>
-      <hotspot title="г. Большой Тхач, вершина" target="" pan="-62.1269" skinid="hotspot" url="{node61}" id="Point02" tilt="3.79385"/>
-      <hotspot title="Большой Тхач, пик 3" target="" pan="-64.3249" skinid="hotspot" url="{node65}" id="Point03" tilt="3.20099"/>
-      <hotspot title="Большой Тхач, пик 1" target="" pan="-56.8308" skinid="hotspot" url="{node64}" id="Point04" tilt="3.45664"/>
-      <hotspot title="Тхачский перевал" target="" pan="-59.7129" skinid="hotspot" url="{node60}" id="Point05" tilt="-6.18366"/>
-      <hotspot title="Большой Тхач, пик с Крестом" target="" pan="-52.4681" skinid="hotspot" url="{node62}" id="Point06" tilt="2.24354"/>
-      <hotspot title="Большой Тхач, пик 2" target="" pan="-53.6699" skinid="hotspot" url="{node63}" id="Point07" tilt="2.89707"/>
-      <hotspot title="Тхачский перевал с высоты 400 м" target="" pan="-54.864" skinid="hotspot" url="{node68}" id="Point08" tilt="11.8145"/>
-      <hotspot title="Выступ Тхача у Колокольни" target="" pan="-43.9043" skinid="hotspot" url="{node77}" id="Point10" tilt="-0.2494"/>
-      <hotspot title="600 м над Малым Тхачом" target="" pan="-27.3792" skinid="hotspot" url="{node69}" id="Point11" tilt="37.1014"/>
-      <hotspot title="г. Малый Тхач, главная вершина" target="" pan="330.866" skinid="hotspot" url="{node73}" id="Point12" tilt="0"/>
-      <hotspot title="Большой Тхач с высоты 500 м" target="" pan="-62.1637" skinid="hotspot" url="{node70}" id="Point13" tilt="25.0368"/>
-      <hotspot title="Стена Большого Тхача с воздуха" target="" pan="297.3" skinid="hotspot" url="{node74}" id="Point14" tilt="0"/>
+      <hotspot title="г. Большой Тхач, вершина" target="198/-15/65" pan="-61.9737" skinid="hotspot" url="{node61}" id="Point02" tilt="3.88809"/>
+      <hotspot title="Большой Тхач, пик 3" target="266/-6.5/65" pan="-64.3249" skinid="hotspot" url="{node65}" id="Point03" tilt="3.20099"/>
+      <hotspot title="Большой Тхач, пик 1" target="256/-7/65" pan="-56.0033" skinid="hotspot" url="{node64}" id="Point04" tilt="3.63565"/>
+      <hotspot title="Тхачский перевал" target="18/20/65" pan="-59.7129" skinid="hotspot" url="{node60}" id="Point05" tilt="-6.18366"/>
+      <hotspot title="Большой Тхач, пик 2" target="214.5/-11/65" pan="-53.4568" skinid="hotspot" url="{node63}" id="Point07" tilt="3.00566"/>
+      <hotspot title="Тхачский перевал с высоты 400 м" target="15/-13/65" pan="-54.864" skinid="hs_copter" url="{node68}" id="Point08" tilt="11.8145"/>
+      <hotspot title="Выступ Тхача у Колокольни" target="200.5/-9/65" pan="-43.3297" skinid="hotspot" url="{node77}" id="Point10" tilt="-0.756343"/>
+      <hotspot title="600 м над Малым Тхачом" target="40/-26.5/65" pan="-27.3792" skinid="hs_copter" url="{node69}" id="Point11" tilt="37.1014"/>
+      <hotspot title="г. Малый Тхач, главная вершина" target="290/-15.5/65" pan="330.866" skinid="hotspot" url="{node73}" id="Point12" tilt="0"/>
+      <hotspot title="Большой Тхач с высоты 500 м" target="15/-90/65" pan="-62.1637" skinid="hs_copter" url="{node70}" id="Point13" tilt="25.0368"/>
       <hotspot title="г. Малый Тхач, вторая вершина" target="" pan="-86.45740000000001" skinid="hotspot" url="{node71}" id="Point15" tilt="-4.03795"/>
-      <hotspot title="г. Асбестная" target="" pan="147.368" skinid="hotspot" url="{node58}" id="Point16" tilt="1.24685"/>
-      <hotspot title="г. Западный Ачешбок" target="" pan="128.575" skinid="hotspot" url="{node52}" id="Point17" tilt="3.38201"/>
-      <hotspot title="г. Восточный Ачешбок" target="" pan="137.652" skinid="hotspot" url="{node51}" id="Point18" tilt="2.7625"/>
-      <hotspot title="пер. Чёртовы ворота" target="" pan="133.716" skinid="hotspot" url="{node55}" id="Point19" tilt="0"/>
-      <hotspot title="Хребет Агиге" target="" pan="156.734" skinid="hotspot" url="{node50}" id="Point20" tilt="0.351888"/>
-      <hotspot title="Пупырь у Сундуков" target="" pan="165.118" skinid="hotspot" url="{node48}" id="Point21" tilt="0.281704"/>
+      <hotspot title="г. Асбестная" target="125.5/-8.5/65" pan="147.368" skinid="hotspot" url="{node58}" id="Point16" tilt="1.24685"/>
+      <hotspot title="г. Западный Ачешбок" target="87/-11/65" pan="128.575" skinid="hotspot" url="{node52}" id="Point17" tilt="3.38201"/>
+      <hotspot title="г. Восточный Ачешбок" target="14.5/-8.5/65" pan="137.652" skinid="hotspot" url="{node51}" id="Point18" tilt="2.7625"/>
+      <hotspot title="пер. Чёртовы ворота" target="0/0/65" pan="133.716" skinid="hotspot" url="{node55}" id="Point19" tilt="0"/>
+      <hotspot title="Хребет Агиге" target="101/-1.5/65" pan="156.734" skinid="hotspot" url="{node50}" id="Point20" tilt="0.351888"/>
+      <hotspot title="Пупырь у Сундуков" target="352.5/-7.5/65" pan="165.118" skinid="hotspot" url="{node48}" id="Point21" tilt="0.281704"/>
+      <hotspot title="Пропасть на Восточном Ачешбоке" target="356.5/-34.5/65" pan="142.948" skinid="" url="{node53}" id="Point06" tilt="1.45147"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="169.375" tilt="-0.999999"/>
+        <vertex pan="171.796" tilt="-1.27275"/>
+        <vertex pan="172.394" tilt="-0.773466"/>
+        <vertex pan="171.573" tilt="0.324251"/>
+        <vertex pan="169.225" tilt="1.04994"/>
+        <vertex pan="166.625" tilt="0.0246284"/>
+        <vertex pan="166.301" tilt="-0.824622"/>
+        <vertex pan="167.775" tilt="-1.07497"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_0.jpg" prev5url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_5.jpg" prev4url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_4.jpg" prev3url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_3.jpg" prev2url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_2.jpg" prev1url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_1.jpg" prev0url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_preview_0.jpg" tile5url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_4.jpg" tile3url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_2.jpg" tile1url="images/Tkhach-Air-9_u-M-Tkhacha-vozduh_o_1.jpg"/>
@@ -2761,6 +2843,17 @@
       <hotspot title="г. Малый Тхач, вторая вершина" target="238.5/-8/65" pan="-68.8253" skinid="hotspot" url="{node71}" id="Point21" tilt="1.96262"/>
       <hotspot title="Пупырь у Сундуков" target="359.5/-2/65" pan="-62.4302" skinid="hotspot" url="{node48}" id="Point22" tilt="0.597748"/>
       <hotspot title="г. Колокольня" target="20/-58/65" pan="89.694" skinid="hotspot" url="{node75}" id="Point12" tilt="-3.47503"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-57.5667" tilt="-0.622097"/>
+        <vertex pan="-54.595" tilt="-0.7363"/>
+        <vertex pan="-54.5112" tilt="0.214253"/>
+        <vertex pan="-56.2987" tilt="1.33748"/>
+        <vertex pan="-58" tilt="1.79815"/>
+        <vertex pan="-60.1333" tilt="1.45213"/>
+        <vertex pan="-60.5676" tilt="0.185627"/>
+        <vertex pan="-59.8478" tilt="-0.419832"/>
+        <vertex pan="-58.8376" tilt="-0.535452"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-10_M-Tkhach-2_o_0.jpg" prev5url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_5.jpg" prev4url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_4.jpg" prev3url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_3.jpg" prev2url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_2.jpg" prev1url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_1.jpg" prev0url="images/Tkhach-Air-10_M-Tkhach-2_o_preview_0.jpg" tile5url="images/Tkhach-Air-10_M-Tkhach-2_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-10_M-Tkhach-2_o_4.jpg" tile3url="images/Tkhach-Air-10_M-Tkhach-2_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-10_M-Tkhach-2_o_2.jpg" tile1url="images/Tkhach-Air-10_M-Tkhach-2_o_1.jpg"/>
@@ -2793,6 +2886,15 @@
       <hotspot title="Большой Тхач, пик 3" target="337/-13/65" pan="42.7389" skinid="hotspot" url="{node65}" id="Point17" tilt="24.9623"/>
       <hotspot title="Большой Тхач, пик 1" target="255/-16.5/65" pan="98.3133" skinid="hotspot" url="{node64}" id="Point18" tilt="14.7709"/>
       <hotspot title="г. Оштен" target="" pan="145.857" skinid="hotspot" url="{node_lagonaki_11}" id="Point19" tilt="1.7795"/>
+      <polyhotspot title="г. Эльбрус" target="" url="" id="Poly01">
+        <vertex pan="-65.8601" tilt="-1.15572"/>
+        <vertex pan="-62.4809" tilt="-1.42377"/>
+        <vertex pan="-64.2303" tilt="0.6954"/>
+        <vertex pan="-65.9194" tilt="1.23929"/>
+        <vertex pan="-68.20910000000001" tilt="0.805188"/>
+        <vertex pan="-69.4121" tilt="-0.773706"/>
+        <vertex pan="-69.4121" tilt="-0.773706"/>
+      </polyhotspot>
     </hotspots>
     <media/>
     <input tile0url="images/Tkhach-Air-11_Stena-Tkhacha_o_0.jpg" prev5url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_5.jpg" prev4url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_4.jpg" prev3url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_3.jpg" prev2url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_2.jpg" prev1url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_1.jpg" prev0url="images/Tkhach-Air-11_Stena-Tkhacha_o_preview_0.jpg" tile5url="images/Tkhach-Air-11_Stena-Tkhacha_o_5.jpg" tilesize="2500" tile4url="images/Tkhach-Air-11_Stena-Tkhacha_o_4.jpg" tile3url="images/Tkhach-Air-11_Stena-Tkhacha_o_3.jpg" tilescale="1.004" tile2url="images/Tkhach-Air-11_Stena-Tkhacha_o_2.jpg" tile1url="images/Tkhach-Air-11_Stena-Tkhacha_o_1.jpg"/>
