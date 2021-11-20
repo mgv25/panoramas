@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="198" fov="70" tilt="0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Фанагорийская пещера, вход" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave" longitude="38.97764070736451" latitude="44.46832649992997"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="В пещеру, Зал 1" target="294.5/2.5/65" pan="-169.313" skinid="hs_go" url="{node2}" id="Point01" tilt="-5.31491"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_1_vhod_o_0.jpg" prev5url="images/Fanagor_cave_1_vhod_o_preview_5.jpg" prev4url="images/Fanagor_cave_1_vhod_o_preview_4.jpg" prev3url="images/Fanagor_cave_1_vhod_o_preview_3.jpg" prev2url="images/Fanagor_cave_1_vhod_o_preview_2.jpg" prev1url="images/Fanagor_cave_1_vhod_o_preview_1.jpg" prev0url="images/Fanagor_cave_1_vhod_o_preview_0.jpg" tile5url="images/Fanagor_cave_1_vhod_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_1_vhod_o_4.jpg" tile3url="images/Fanagor_cave_1_vhod_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_1_vhod_o_2.jpg" tile1url="images/Fanagor_cave_1_vhod_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал 1" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-1" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Выход из пещеры" target="197.5/-7.5/65" pan="94.95820000000001" skinid="hs_go" url="{node1}" id="Point01" tilt="-22.9188"/>
+      <hotspot title="Дальше, в Зал 2" target="202.5/-2/65" pan="-65.75360000000001" skinid="hs_go" url="{node3}" id="Point02" tilt="-17.292"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_2_o_0.jpg" prev5url="images/Fanagor_cave_2_o_preview_5.jpg" prev4url="images/Fanagor_cave_2_o_preview_4.jpg" prev3url="images/Fanagor_cave_2_o_preview_3.jpg" prev2url="images/Fanagor_cave_2_o_preview_2.jpg" prev1url="images/Fanagor_cave_2_o_preview_1.jpg" prev0url="images/Fanagor_cave_2_o_preview_0.jpg" tile5url="images/Fanagor_cave_2_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_2_o_4.jpg" tile3url="images/Fanagor_cave_2_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_2_o_2.jpg" tile1url="images/Fanagor_cave_2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал 2" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-2" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Дальше, в Зал 3" target="187/2.5/65" pan="-162.232" skinid="hs_go" url="{node4}" id="Point01" tilt="-14.7882"/>
+      <hotspot title="Назад, в Зал 1" target="92/-15/65" pan="56.4329" skinid="hs_go" url="{node2}" id="Point02" tilt="-34.5444"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_3_o_0.jpg" prev5url="images/Fanagor_cave_3_o_preview_5.jpg" prev4url="images/Fanagor_cave_3_o_preview_4.jpg" prev3url="images/Fanagor_cave_3_o_preview_3.jpg" prev2url="images/Fanagor_cave_3_o_preview_2.jpg" prev1url="images/Fanagor_cave_3_o_preview_1.jpg" prev0url="images/Fanagor_cave_3_o_preview_0.jpg" tile5url="images/Fanagor_cave_3_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_3_o_4.jpg" tile3url="images/Fanagor_cave_3_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_3_o_2.jpg" tile1url="images/Fanagor_cave_3_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Зал 3" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-3" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Дальше, к расхождению верхнего и нижнего проходов" target="173/11.5/65" pan="177.41" skinid="hs_go" url="{node5}" id="Point01" tilt="-4.54144"/>
+      <hotspot title="Назад, в Зал 2" target="64/-19/65" pan="32.5694" skinid="hs_go" url="{node3}" id="Point02" tilt="-29.6995"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_4_o_0.jpg" prev5url="images/Fanagor_cave_4_o_preview_5.jpg" prev4url="images/Fanagor_cave_4_o_preview_4.jpg" prev3url="images/Fanagor_cave_4_o_preview_3.jpg" prev2url="images/Fanagor_cave_4_o_preview_2.jpg" prev1url="images/Fanagor_cave_4_o_preview_1.jpg" prev0url="images/Fanagor_cave_4_o_preview_0.jpg" tile5url="images/Fanagor_cave_4_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_4_o_4.jpg" tile3url="images/Fanagor_cave_4_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_4_o_2.jpg" tile1url="images/Fanagor_cave_4_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Расхождение верхнего и нижнего проходов" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-rashod" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Дальше, к соединению верхнего и нижнего проходов" target="270/-10/65" pan="-176.824" skinid="hs_go" url="{node6}" id="Point01" tilt="-10.3956"/>
+      <hotspot title="Дальше, к соединению верхнего и нижнего проходов" target="266.5/-12.5/65" pan="158.169" skinid="hs_go" url="{node6}" id="Point02" tilt="16.8312"/>
+      <hotspot title="Назад, в Зал 3" target="28.5/-18/65" pan="23.4495" skinid="hs_go" url="{node4}" id="Point03" tilt="-15.1625"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_5+++_o_0.jpg" prev5url="images/Fanagor_cave_5+++_o_preview_5.jpg" prev4url="images/Fanagor_cave_5+++_o_preview_4.jpg" prev3url="images/Fanagor_cave_5+++_o_preview_3.jpg" prev2url="images/Fanagor_cave_5+++_o_preview_2.jpg" prev1url="images/Fanagor_cave_5+++_o_preview_1.jpg" prev0url="images/Fanagor_cave_5+++_o_preview_0.jpg" tile5url="images/Fanagor_cave_5+++_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_5+++_o_4.jpg" tile3url="images/Fanagor_cave_5+++_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_5+++_o_2.jpg" tile1url="images/Fanagor_cave_5+++_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Соединение верхнего и нижнего прходов" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-rashod" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Назад, к расхождению вернего и нижнего проходов" target="17/-10/65" pan="95.48950000000001" skinid="hs_go" url="{node5}" id="Point01" tilt="-25.4842"/>
+      <hotspot title="Назад, к расхождению вернего и нижнего проходов" target="" pan="127.579" skinid="hs_go" url="{node5}" id="Point02" tilt="15.9195"/>
+      <hotspot title="Вперёд, к дальней развилке" target="5.5/-11/65" pan="-90.8463" skinid="hs_go" url="{node7}" id="Point03" tilt="-20.1393"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_6_3-6_o_0.jpg" prev5url="images/Fanagor_cave_6_3-6_o_preview_5.jpg" prev4url="images/Fanagor_cave_6_3-6_o_preview_4.jpg" prev3url="images/Fanagor_cave_6_3-6_o_preview_3.jpg" prev2url="images/Fanagor_cave_6_3-6_o_preview_2.jpg" prev1url="images/Fanagor_cave_6_3-6_o_preview_1.jpg" prev0url="images/Fanagor_cave_6_3-6_o_preview_0.jpg" tile5url="images/Fanagor_cave_6_3-6_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_6_3-6_o_4.jpg" tile3url="images/Fanagor_cave_6_3-6_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_6_3-6_o_2.jpg" tile1url="images/Fanagor_cave_6_3-6_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Развилка на дальние проходы" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-danlnyaya-razvilka" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Назад, к соединению верхнего и нижнего проходов" target="119.5/-2/65" pan="148.662" skinid="hs_go" url="{node6}" id="Point01" tilt="-26.5232"/>
+      <hotspot title="Вперёд, в самую дальнюю точку - 1035 м от входа" target="190/-26/65" pan="21.8283" skinid="hs_go" url="{node10}" id="Point02" tilt="-6.53096"/>
+      <hotspot title="Вперед, в низкий тупик" target="116.5/-10/65" pan="-77.3952" skinid="hs_go" url="{node9}" id="Point03" tilt="-24.0141"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_7+--2_o_0.jpg" prev5url="images/Fanagor_cave_7+--2_o_preview_5.jpg" prev4url="images/Fanagor_cave_7+--2_o_preview_4.jpg" prev3url="images/Fanagor_cave_7+--2_o_preview_3.jpg" prev2url="images/Fanagor_cave_7+--2_o_preview_2.jpg" prev1url="images/Fanagor_cave_7+--2_o_preview_1.jpg" prev0url="images/Fanagor_cave_7+--2_o_preview_0.jpg" tile5url="images/Fanagor_cave_7+--2_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_7+--2_o_4.jpg" tile3url="images/Fanagor_cave_7+--2_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_7+--2_o_2.jpg" tile1url="images/Fanagor_cave_7+--2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Вторая дальняя точка" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-1035m" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Назад, к дальней развилке" target="157/-23.5/65" pan="-82.33580000000001" skinid="hs_go" url="{node7}" id="Point01" tilt="-20.2953"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanagor_cave_9_2+-2_o_0.jpg" prev5url="images/Fanagor_cave_9_2+-2_o_preview_5.jpg" prev4url="images/Fanagor_cave_9_2+-2_o_preview_4.jpg" prev3url="images/Fanagor_cave_9_2+-2_o_preview_3.jpg" prev2url="images/Fanagor_cave_9_2+-2_o_preview_2.jpg" prev1url="images/Fanagor_cave_9_2+-2_o_preview_1.jpg" prev0url="images/Fanagor_cave_9_2+-2_o_preview_0.jpg" tile5url="images/Fanagor_cave_9_2+-2_o_5.jpg" tilesize="3726" tile4url="images/Fanagor_cave_9_2+-2_o_4.jpg" tile3url="images/Fanagor_cave_9_2+-2_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanagor_cave_9_2+-2_o_2.jpg" tile1url="images/Fanagor_cave_9_2+-2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="80" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Самая дальняя точка, 1035 м от входа" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagor-cave-far-2" longitude="" latitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Назад, к дальней развилке" target="159.5/-20/65" pan="70.06359999999999" skinid="hs_go" url="{node7}" id="Point01" tilt="-22.3947"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Fanogor_cave_10_hoda-net_o_0.jpg" prev5url="images/Fanogor_cave_10_hoda-net_o_preview_5.jpg" prev4url="images/Fanogor_cave_10_hoda-net_o_preview_4.jpg" prev3url="images/Fanogor_cave_10_hoda-net_o_preview_3.jpg" prev2url="images/Fanogor_cave_10_hoda-net_o_preview_2.jpg" prev1url="images/Fanogor_cave_10_hoda-net_o_preview_1.jpg" prev0url="images/Fanogor_cave_10_hoda-net_o_preview_0.jpg" tile5url="images/Fanogor_cave_10_hoda-net_o_5.jpg" tilesize="3726" tile4url="images/Fanogor_cave_10_hoda-net_o_4.jpg" tile3url="images/Fanogor_cave_10_hoda-net_o_3.jpg" tilescale="1.002683843263553" tile2url="images/Fanogor_cave_10_hoda-net_o_2.jpg" tile1url="images/Fanogor_cave_10_hoda-net_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="1.000" delay="25.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="1" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>

@@ -1,0 +1,9 @@
+fanagor-cave	node1
+fanagor-cave-1	node2
+fanagor-cave-2	node3
+fanagor-cave-3	node4
+fanagor-cave-rashod	node5
+fanagor-cave-shod	node6
+fanagor-cave-danlnyaya-razvilka	node7
+fanagor-cave-1035m	node10
+fanagor-cave-far-2	node9
