@@ -6,7 +6,7 @@
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
-    <userdata title="Фанагорийская пещера, вход" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagoriyskaya-cave/fanagoriyskaya-cave/fanagor-cave" longitude="38.97764070736451" latitude="44.46832649992997"/>
+    <userdata title="Фанагорийская пещера, вход" datetime="10.03.2018" description="" copyright="" tags="" author="Волков М.Г., г. Краснодар, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/fanagoriyskaya-cave/fanagor-cave" longitude="38.97764070736451" latitude="44.46832649992997"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
