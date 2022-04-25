@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="0">
+      <start pan="101" fov="70" tilt="3.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Верхняя Агора, Сагалассос" datetime="03.04.2022" description="" copyright="" tags="" author="М.Г. Волков, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/sagalassos-2" longitude="30.517817" latitude="37.677247"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К аркам" target="" pan="-47.8111" skinid="hs_go" url="{node2}" id="Point01" tilt="-10.5587"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_0.jpg" prev5url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_5.jpg" prev4url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_4.jpg" prev3url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_3.jpg" prev2url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_2.jpg" prev1url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_1.jpg" prev0url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_preview_0.jpg" tile5url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_5.jpg" tilesize="2176" tile4url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_4.jpg" tile3url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_2.jpg" tile1url="images/PXL_20220403_135057021.PHOTOSPHERE горизонт_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="0">
+      <start pan="109" fov="70" tilt="9.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Верхняя Агора, античный город Сагалассос" datetime="03.04.2022" description="" copyright="" tags="" author="М.Г. Волков, mgvolkov25@gmail.com" source="" comment="" info="" longitude="30.518028" latitude="37.676892"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="К фонтану" target="" pan="25.2158" skinid="hs_go" url="{node1}" id="Point01" tilt="-10.403"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_0.jpg" prev5url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_5.jpg" prev4url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_4.jpg" prev3url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_3.jpg" prev2url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_2.jpg" prev1url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_1.jpg" prev0url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_preview_0.jpg" tile5url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_5.jpg" tilesize="2176" tile4url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_4.jpg" tile3url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_3.jpg" tilescale="1.004595588235294" tile2url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_2.jpg" tile1url="images/PXL_20220403_135428787.PHOTOSPHERE горизонт_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
