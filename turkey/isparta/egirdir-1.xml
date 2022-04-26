@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node9">
+  <panorama id="node1" hideabout="1">
+    <view fovmode="0" pannorth="300">
+      <start pan="200.5" fov="70" tilt="-16.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta-big-mosque" longitude="30.542699" latitude="37.780316"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Рынок с высоты 100 м" target="248/-45.5/65" pan="112.16" skinid="hs_copter" url="{node5}" id="Point01" tilt="8.53956"/>
+      <hotspot title="Рынок с высоты 500 м" target="356.5/-77.5/65" pan="112.378" skinid="hs_copter" url="{node6}" id="Point02" tilt="18.4217"/>
+      <hotspot title="Ыспарта ночью с высоты 500 м" target="" pan="153.67" skinid="hs_copter" url="{node3}" id="Point04" tilt="11.5813"/>
+      <hotspot title="Большая мечеть ночью" target="202/-12.5/65" pan="-65.63679999999999" skinid="hs_copter" url="{node2}" id="Point05" tilt="5.97829"/>
+      <hotspot title="Смотровая площадка в музее" target="" pan="134.394" skinid="" url="{node7}" id="Point03" tilt="1.94232"/>
+      <hotspot title="Эйирдир" target="" pan="-98.2559" skinid="" url="{node8}" id="Point06" tilt="-2.85093"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ыспарта у большой мечети_o_0.jpg" prev5url="images/Ыспарта у большой мечети_o_preview_5.jpg" prev4url="images/Ыспарта у большой мечети_o_preview_4.jpg" prev3url="images/Ыспарта у большой мечети_o_preview_3.jpg" prev2url="images/Ыспарта у большой мечети_o_preview_2.jpg" prev1url="images/Ыспарта у большой мечети_o_preview_1.jpg" prev0url="images/Ыспарта у большой мечети_o_preview_0.jpg" tile5url="images/Ыспарта у большой мечети_o_5.jpg" tilesize="4727" tile4url="images/Ыспарта у большой мечети_o_4.jpg" tile3url="images/Ыспарта у большой мечети_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Ыспарта у большой мечети_o_2.jpg" tile1url="images/Ыспарта у большой мечети_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="-160" fov="70" tilt="-12"/>
+      <min pan="-180" fov="5" tilt="-90"/>
+      <max pan="180" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta-big-mosque-night" longitude="30.542773" latitude="37.780889"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Большая мечеть днём" target="" pan="137.898" skinid="hs_copter" url="{node1}" id="Point01" tilt="10.7376"/>
+      <hotspot title="Рынок с высоты 100 м" target="" pan="122.943" skinid="hs_copter" url="{node5}" id="Point02" tilt="5.90989"/>
+      <hotspot title="Рынок с высоты 500 м" target="" pan="122.733" skinid="hs_copter" url="{node6}" id="Point03" tilt="18.0662"/>
+      <hotspot title="Ыспарта ночью с высоты 500 м" target="" pan="160.439" skinid="hs_copter" url="{node3}" id="Point04" tilt="16.1344"/>
+      <hotspot title="Смотровая площадка в музее" target="" pan="167.5" skinid="" url="{node7}" id="Point05" tilt="3.26505"/>
+      <hotspot title="Эйирдир" target="" pan="-55.7156" skinid="hs_go" url="{node8}" id="Point06" tilt="-2.31508"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ыспарта у большой мечети ночью_o_0.jpg" prev5url="images/Ыспарта у большой мечети ночью_o_preview_5.jpg" prev4url="images/Ыспарта у большой мечети ночью_o_preview_4.jpg" prev3url="images/Ыспарта у большой мечети ночью_o_preview_3.jpg" prev2url="images/Ыспарта у большой мечети ночью_o_preview_2.jpg" prev1url="images/Ыспарта у большой мечети ночью_o_preview_1.jpg" prev0url="images/Ыспарта у большой мечети ночью_o_preview_0.jpg" tile5url="images/Ыспарта у большой мечети ночью_o_5.jpg" tilesize="4727" tile4url="images/Ыспарта у большой мечети ночью_o_4.jpg" tile3url="images/Ыспарта у большой мечети ночью_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Ыспарта у большой мечети ночью_o_2.jpg" tile1url="images/Ыспарта у большой мечети ночью_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <view fovmode="0" pannorth="351.5">
+      <start pan="205" fov="70" tilt="-27"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta-center-night" longitude="30.547816" latitude="37.774451"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Рынок с высоты 100 м" target="" pan="47.6623" skinid="hs_copter" url="{node5}" id="Point01" tilt="-1.37173"/>
+      <hotspot title="Рынок с высоты 500 м" target="" pan="48.0549" skinid="hs_copter" url="{node6}" id="Point02" tilt="22.0224"/>
+      <hotspot title="Большая мечеть" target="" pan="27.1262" skinid="hs_copter" url="{node1}" id="Point03" tilt="3.5268"/>
+      <hotspot title="Большая мечеть ночью" target="" pan="21.7331" skinid="hs_copter" url="{node2}" id="Point04" tilt="3.40459"/>
+      <hotspot title="Смотровая площадка в музее" target="" pan="177.844" skinid="" url="{node7}" id="Point05" tilt="-8.625170000000001"/>
+      <hotspot title="Эйирдир" target="" pan="-38.6684" skinid="hs_go" url="{node8}" id="Point06" tilt="-2.51737"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ыспарта ночью 500м 1_o_0.jpg" prev5url="images/Ыспарта ночью 500м 1_o_preview_5.jpg" prev4url="images/Ыспарта ночью 500м 1_o_preview_4.jpg" prev3url="images/Ыспарта ночью 500м 1_o_preview_3.jpg" prev2url="images/Ыспарта ночью 500м 1_o_preview_2.jpg" prev1url="images/Ыспарта ночью 500м 1_o_preview_1.jpg" prev0url="images/Ыспарта ночью 500м 1_o_preview_0.jpg" tile5url="images/Ыспарта ночью 500м 1_o_5.jpg" tilesize="4727" tile4url="images/Ыспарта ночью 500м 1_o_4.jpg" tile3url="images/Ыспарта ночью 500м 1_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Ыспарта ночью 500м 1_o_2.jpg" tile1url="images/Ыспарта ночью 500м 1_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <view fovmode="0" pannorth="135">
+      <start pan="263.5" fov="70" tilt="-44"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta-market-100m" longitude="30.542141" latitude="37.777096"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Рынок с высоты 500 м" target="" pan="-171.832" skinid="hs_copter" url="{node6}" id="Point01" tilt="33.688"/>
+      <hotspot title="Большая мечеть" target="" pan="135.795" skinid="hs_copter" url="{node1}" id="Point02" tilt="6.20704"/>
+      <hotspot title="Большая мечеть ночью" target="" pan="126.267" skinid="hs_copter" url="{node2}" id="Point03" tilt="6.22554"/>
+      <hotspot title="Ыспарта с высоты 500 м" target="" pan="15.62" skinid="hs_copter" url="{node3}" id="Point05" tilt="11.4217"/>
+      <hotspot title="Смотровая площадка в музее" target="" pan="-26.9416" skinid="" url="{node7}" id="Point04" tilt="1.06102"/>
+      <hotspot title="Эйирдир" target="" pan="96.54859999999999" skinid="hs_go" url="{node8}" id="Point06" tilt="-2.65071"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Ыспарта, Рынок, 100м 2_o_0.jpg" prev5url="images/Ыспарта, Рынок, 100м 2_o_preview_5.jpg" prev4url="images/Ыспарта, Рынок, 100м 2_o_preview_4.jpg" prev3url="images/Ыспарта, Рынок, 100м 2_o_preview_3.jpg" prev2url="images/Ыспарта, Рынок, 100м 2_o_preview_2.jpg" prev1url="images/Ыспарта, Рынок, 100м 2_o_preview_1.jpg" prev0url="images/Ыспарта, Рынок, 100м 2_o_preview_0.jpg" tile5url="images/Ыспарта, Рынок, 100м 2_o_5.jpg" tilesize="4727" tile4url="images/Ыспарта, Рынок, 100м 2_o_4.jpg" tile3url="images/Ыспарта, Рынок, 100м 2_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Ыспарта, Рынок, 100м 2_o_2.jpg" tile1url="images/Ыспарта, Рынок, 100м 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <view fovmode="0" pannorth="179.5">
+      <start pan="358" fov="70" tilt="-76.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta" longitude="30.542141" latitude="37.777096"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Рынок с высоты 100 м" target="" pan="176.634" skinid="hs_copter" url="{node5}" id="Point01" tilt="-89.7021"/>
+      <hotspot title="Большая мечеть" target="" pan="175.527" skinid="hs_copter" url="{node1}" id="Point02" tilt="-51.7169"/>
+      <hotspot title="Большая мечеть ночью" target="" pan="167.819" skinid="hs_copter" url="{node2}" id="Point03" tilt="-45.629"/>
+      <hotspot title="Ыспарта ночью с высоты 500 м" target="" pan="56.4113" skinid="hs_copter" url="{node3}" id="Point04" tilt="8.26267"/>
+      <hotspot title="Музей, смотровая площадка" target="" pan="17.3541" skinid="" url="{node7}" id="Point05" tilt="-8.23789"/>
+      <hotspot title="Эйирдир" target="" pan="142.117" skinid="hs_go" url="{node8}" id="Point06" tilt="-3.32297"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/DJI_Ыспарта_Рынок 2_o_0.jpg" prev5url="images/DJI_Ыспарта_Рынок 2_o_preview_5.jpg" prev4url="images/DJI_Ыспарта_Рынок 2_o_preview_4.jpg" prev3url="images/DJI_Ыспарта_Рынок 2_o_preview_3.jpg" prev2url="images/DJI_Ыспарта_Рынок 2_o_preview_2.jpg" prev1url="images/DJI_Ыспарта_Рынок 2_o_preview_1.jpg" prev0url="images/DJI_Ыспарта_Рынок 2_o_preview_0.jpg" tile5url="images/DJI_Ыспарта_Рынок 2_o_5.jpg" tilesize="4727" tile4url="images/DJI_Ыспарта_Рынок 2_o_4.jpg" tile3url="images/DJI_Ыспарта_Рынок 2_o_3.jpg" tilescale="1.002115506663846" tile2url="images/DJI_Ыспарта_Рынок 2_o_2.jpg" tile1url="images/DJI_Ыспарта_Рынок 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta-museum" longitude="30.550942" latitude="37.754850"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Ыспарта ночью с высоты 500 м" target="" pan="-15.1419" skinid="hs_copter" url="{node3}" id="Point01" tilt="14.1107"/>
+      <hotspot title="Рынок с высоты 500 м" target="" pan="17.7323" skinid="hs_copter" url="{node6}" id="Point02" tilt="11.744"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Isparta-museum_o_0.jpg" prev5url="images/Isparta-museum_o_preview_5.jpg" prev4url="images/Isparta-museum_o_preview_4.jpg" prev3url="images/Isparta-museum_o_preview_3.jpg" prev2url="images/Isparta-museum_o_preview_2.jpg" prev1url="images/Isparta-museum_o_preview_1.jpg" prev0url="images/Isparta-museum_o_preview_0.jpg" tile5url="images/Isparta-museum_o_5.jpg" tilesize="4727" tile4url="images/Isparta-museum_o_4.jpg" tile3url="images/Isparta-museum_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Isparta-museum_o_2.jpg" tile1url="images/Isparta-museum_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="288" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/egirdir-port" longitude="30.857358" latitude="37.875419"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Ыспарта" target="" pan="-33.8712" skinid="hs_go" url="{node6}" id="Point01" tilt="-3.01629"/>
+      <hotspot title="Эйирдир с высоты 500 м" target="" pan="172.725" skinid="hs_copter" url="{node9}" id="Point02" tilt="17.6132"/>
+      <hotspot title="Эйирдир с высоты 500 м - 2" target="" pan="146.409" skinid="hs_copter" url="{node10}" id="Point03" tilt="17.1646"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Egirdir-port_o_0.jpg" prev5url="images/Egirdir-port_o_preview_5.jpg" prev4url="images/Egirdir-port_o_preview_4.jpg" prev3url="images/Egirdir-port_o_preview_3.jpg" prev2url="images/Egirdir-port_o_preview_2.jpg" prev1url="images/Egirdir-port_o_preview_1.jpg" prev0url="images/Egirdir-port_o_preview_0.jpg" tile5url="images/Egirdir-port_o_5.jpg" tilesize="4727" tile4url="images/Egirdir-port_o_4.jpg" tile3url="images/Egirdir-port_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Egirdir-port_o_2.jpg" tile1url="images/Egirdir-port_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="2.5" fov="70" tilt="-14.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/egirdir-1" longitude="30.875748" latitude="37.885748"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Эйирдир с высоты 500 м - 2" target="" pan="57.5252" skinid="hs_copter" url="{node10}" id="Point01" tilt="12.9774"/>
+      <hotspot title="Эйирдир, порт" target="" pan="10.9407" skinid="" url="{node8}" id="Point02" tilt="-6.63402"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Эйирдир с торца 2_o_0.jpg" prev5url="images/Эйирдир с торца 2_o_preview_5.jpg" prev4url="images/Эйирдир с торца 2_o_preview_4.jpg" prev3url="images/Эйирдир с торца 2_o_preview_3.jpg" prev2url="images/Эйирдир с торца 2_o_preview_2.jpg" prev1url="images/Эйирдир с торца 2_o_preview_1.jpg" prev0url="images/Эйирдир с торца 2_o_preview_0.jpg" tile5url="images/Эйирдир с торца 2_o_5.jpg" tilesize="4727" tile4url="images/Эйирдир с торца 2_o_4.jpg" tile3url="images/Эйирдир с торца 2_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Эйирдир с торца 2_o_2.jpg" tile1url="images/Эйирдир с торца 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <view fovmode="0" pannorth="0">
+      <start pan="203.5" fov="70" tilt="-14.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/isparta/egirdir" longitude="30.873390" latitude="37.876945"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Эйирдир с высоты 500 м - 1" target="" pan="144.573" skinid="hs_copter" url="{node9}" id="Point01" tilt="13.4637"/>
+      <hotspot title="Эйирдир, порт" target="" pan="-96.4768" skinid="" url="{node8}" id="Point02" tilt="-8.106809999999999"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Эйирдир сбоку 2_o_0.jpg" prev5url="images/Эйирдир сбоку 2_o_preview_5.jpg" prev4url="images/Эйирдир сбоку 2_o_preview_4.jpg" prev3url="images/Эйирдир сбоку 2_o_preview_3.jpg" prev2url="images/Эйирдир сбоку 2_o_preview_2.jpg" prev1url="images/Эйирдир сбоку 2_o_preview_1.jpg" prev0url="images/Эйирдир сбоку 2_o_preview_0.jpg" tile5url="images/Эйирдир сбоку 2_o_5.jpg" tilesize="4727" tile4url="images/Эйирдир сбоку 2_o_4.jpg" tile3url="images/Эйирдир сбоку 2_o_3.jpg" tilescale="1.002115506663846" tile2url="images/Эйирдир сбоку 2_o_2.jpg" tile1url="images/Эйирдир сбоку 2_o_1.jpg"/>
+    <autorotate speed="0.100" nodedelay="0.00" startloaded="1" returntohorizon="0.500" delay="20.00"/>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>
