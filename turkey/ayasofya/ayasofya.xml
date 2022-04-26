@@ -5,7 +5,7 @@
     <min pan="0" fov="5" tilt="-90"/>
     <max pan="360" fov="120" tilt="90"/>
   </view>
-  <userdata title="Собор Святой Софии, Стамбул (Константинополь)" datetime="09.04.2022" description="" copyright="" tags="" author="М.Г. Волков, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25github.io/panoramas/turkey/ayasofya" longitude="28.980072" latitude="41.008397"/>
+  <userdata title="Собор Святой Софии, Стамбул (Константинополь)" datetime="09.04.2022" description="" copyright="" tags="" author="М.Г. Волков, mgvolkov25@gmail.com" source="" comment="" info="https://mgv25.github.io/panoramas/turkey/ayasofya" longitude="28.980072" latitude="41.008397"/>
   <hotspots width="180" height="20" wordwrap="1">
     <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
     <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
