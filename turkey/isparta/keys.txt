@@ -1,6 +1,9 @@
-isparta-big-mosque	node1
-isparta-big-mosque-night	node2
-isparta-center-night	node3
-isparta-market-100m	node5
+big-mosque	node1
+big-mosque-night	node2
+center-night	node3
+market-100m	node5
 isparta	node6
-isparta-museum	node7
+museum	node7
+egirdir-port	node8
+egirdir-1	node9
+egirdir	node10
