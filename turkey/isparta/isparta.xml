@@ -130,7 +130,7 @@
   </panorama>
   <panorama id="node8" hideabout="1">
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0"/>
+      <start pan="288" fov="70" tilt="-5.5"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
@@ -149,7 +149,7 @@
   </panorama>
   <panorama id="node9" hideabout="1">
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0"/>
+      <start pan="2.5" fov="70" tilt="-14.5"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
@@ -167,7 +167,7 @@
   </panorama>
   <panorama id="node10" hideabout="1">
     <view fovmode="0" pannorth="0">
-      <start pan="0" fov="70" tilt="0"/>
+      <start pan="203.5" fov="70" tilt="-14.5"/>
       <min pan="0" fov="5" tilt="-90"/>
       <max pan="360" fov="120" tilt="90"/>
     </view>
