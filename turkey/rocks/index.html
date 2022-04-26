@@ -66,21 +66,23 @@
 			}
 		</style>	
 	</head>
-	<body>
+	<body link=#00CEFF vlink=#00CEFF>
 		<script type="text/javascript" src="pano2vr_player.js">
+		</script>
+		<script type="text/javascript" src="skin.js">
 		</script>
 		<div id="container" class="container">
 		This content requires HTML5/CSS3, WebGL, or Adobe Flash Player Version 9 or higher.
 		</div>
 		<script type="text/javascript">
-	
-	
+
+
 			// create the panorama player with the container
 			pano=new pano2vrPlayer("container");
-
-
-
-			pano.readConfigUrl("antalya-rocks.xml");
+			// add the skin object
+			skin=new pano2vrSkin(pano, "./");
+			// load the configuration
+			pano.readConfigUrl("rocks.xml");
 			// hide the URL bar on the iPhone
 			hideUrlBar();
 		</script>
