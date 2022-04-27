@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node2">
+<tour start="node1">
   <panorama id="node1">
     <view fovmode="0" pannorth="0">
       <start pan="101" fov="70" tilt="3.5"/>
