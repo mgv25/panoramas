@@ -10,7 +10,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="В полость" target="" pan="-149.277" skinid="" url="{node3}" id="Point01" tilt="-30.4222"/>
+      <hotspot title="Скалолазный маршрут &quot;Нирвана&quot;" target="" pan="-149.277" skinid="" url="{node3}" id="Point01" tilt="-30.4222"/>
       <hotspot title="На верх скалы" target="10.5/-31/65" pan="-86.5441" skinid="" url="{node2}" id="Point02" tilt="-7.19609"/>
       <hotspot title="На скалу" target="" pan="-83.4674" skinid="" url="{node4}" id="Point03" tilt="-14.1632"/>
     </hotspots>
@@ -29,7 +29,7 @@
     <hotspots width="180" height="20" wordwrap="1">
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
-      <hotspot title="В полость" target="0/0/65" pan="23.2476" skinid="" url="{node3}" id="Point01" tilt="-16.8527"/>
+      <hotspot title="Скалолазный маршрут &quot;Нирвана&quot;" target="0/0/65" pan="23.2476" skinid="" url="{node3}" id="Point01" tilt="-16.8527"/>
       <hotspot title="Antalya Rocks, aerial view" target="" pan="-8.53369" skinid="hs_copter" url="{node1}" id="Point02" tilt="15.9832"/>
       <hotspot title="На скалу" target="23/-90/65" pan="-62.2748" skinid="" url="{node4}" id="Point03" tilt="-60.9423"/>
     </hotspots>
@@ -66,7 +66,7 @@
       <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
       <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
       <hotspot title="Общий вид с коптера" target="" pan="-41.3788" skinid="hs_copter" url="{node1}" id="Point01" tilt="20.617"/>
-      <hotspot title="На верх скалы" target="" pan="13.3752" skinid="" url="{node2}" id="Point02" tilt="42.0196"/>
+      <hotspot title="На верх скалы" target="" pan="9.950049999999999" skinid="" url="{node2}" id="Point02" tilt="26.8529"/>
     </hotspots>
     <media/>
     <input tile0url="images/PXL_20220228_114353414.PHOTOSPHERE_o_0.jpg" prev5url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_5.jpg" prev4url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_4.jpg" prev3url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_3.jpg" prev2url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_2.jpg" prev1url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_1.jpg" prev0url="images/PXL_20220228_114353414.PHOTOSPHERE_o_preview_0.jpg" tile5url="images/PXL_20220228_114353414.PHOTOSPHERE_o_5.jpg" tilesize="4729" tile4url="images/PXL_20220228_114353414.PHOTOSPHERE_o_4.jpg" tile3url="images/PXL_20220228_114353414.PHOTOSPHERE_o_3.jpg" tilescale="1.002114611968704" tile2url="images/PXL_20220228_114353414.PHOTOSPHERE_o_2.jpg" tile1url="images/PXL_20220228_114353414.PHOTOSPHERE_o_1.jpg"/>
