@@ -1218,7 +1218,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__47.setAttribute('style',hs);
 			this.__47__img=document.createElement('img');
-			this.__47__img.setAttribute('src',basePath + 'images/_47.png');
+			this.__47__img.setAttribute('src',basePath + 'images/hs_47.png');
 			this.__47__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__47__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__47__img);
@@ -1716,7 +1716,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__65.setAttribute('style',hs);
 			this.__65__img=document.createElement('img');
-			this.__65__img.setAttribute('src',basePath + 'images/_65.png');
+			this.__65__img.setAttribute('src',basePath + 'images/hs_65.png');
 			this.__65__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__65__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__65__img);
@@ -1799,7 +1799,7 @@ function pano2vrSkin(player,base) {
 			hs+='visibility: inherit;';
 			this.__44.setAttribute('style',hs);
 			this.__44__img=document.createElement('img');
-			this.__44__img.setAttribute('src',basePath + 'images/_44.png');
+			this.__44__img.setAttribute('src',basePath + 'images/hs_44.png');
 			this.__44__img.setAttribute('style','position: absolute;top: 0px;left: 0px;-webkit-user-drag:none;');
 			this.__44__img['ondragstart']=function() { return false; };
 			me.player.checkLoaded.push(this.__44__img);
